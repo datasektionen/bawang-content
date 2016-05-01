@@ -1,4 +1,4 @@
-##Studies
+##Studier
 Datateknikprogrammet på KTH är en av Skandinaviens mest välrenommerade tekniska utbildningar och bland de främsta datateknikutbildningarna i världen. Efter examen har du breda karriärmöjligheter inom alla de branscher där datasystem är viktiga för verksamheten. Det kan alltså handla om allt från kultur, finans, handel eller vård till mer traditionella tekniska områden inom industrin. Arbetet handlar ofta om design och utveckling av produkter, men det är också möjligt att ägna sig åt undervisning eller konsultverksamhet.
 
 ##Socialt
