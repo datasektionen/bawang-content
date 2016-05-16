@@ -1,19 +1,16 @@
-Hedersdeltat
-------------
+#Hedersdeltat
 
 Hedersdeltat är Konglig Datasektionens finaste förtjänsttecken och delas
 ut till de personer som synnerligen förtjänstfullt verkat ideellt för
 sektionen. [Motiveringar](#motivering) för varje mottagare finnas att
 läsa längre ner på sidan.
 
-Hedersdelta-nomineringar
-------------------------
+#Hedersdelta-nomineringar
 
 [Här](http://goo.gl/forms/vZ2KdYWWoV) kan nomineringar göras! Självklart
 går det även att maila D-rektoratet.
 
-Innehavare av Hedersdeltat
---------------------------
+#Innehavare av Hedersdeltat
 
 ## Mottagare 2016
 
@@ -622,58 +619,58 @@ Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
 #### Lovisa Runhem <a name="lrunhem"></a>
 
 Den här medlemmen påbörjade sitt engagemang i sektionen redan under sin
-första termin,\
+första termin,
 genom att arrangera Ettans Fest. Sen dess har hon oavbrutet engagerat
-sig i sektionen.\
+sig i sektionen.
 Under sina två första år på sektionen satt hon som Valberedningens
-Ordförande\
+Ordförande
 samtidigt som hon satt i THS valberedning. Erfarenheten centralt använde
 hon för att omarbeta sektionens valberedning till det bättre från
 grunden.
 
 Efter det har hon engagerat sig i mottagningen som Dadda samt suttit i
-kårfullmäktige\
+kårfullmäktige
 för sektionen. Hon har gått in helhjärtat i allt hon gjort, men det
-viktigaste arbetet hon\
+viktigaste arbetet hon
 gjort för sektionen har varit att sitta som ordförande. Under hennes tid
-genomfördes\
+genomfördes
 många välbehövda uppdateringar av styrdokument, styrelsens organisation
-samt rutiner\
+samt rutiner
 för dokumentation, transparens och överlämning, bland många andra saker.
-Sektionens\
+Sektionens
 kontakt med CSC har också förbättrats avsevärt. Detta är bara några av
-de saker som\
+de saker som
 hon drivit, samtidigt som hon hela tiden visat ett genuint intresse för
-allas välmående,\
+allas välmående,
 både engagerade såväl som vanliga medlemmar.
 
 För sitt glödande och helhjärtade engagemang för sektionen tilldelas
-Lovisa Runhem\
+Lovisa Runhem
 hedersdeltat.
 
 #### Andreas Linn <a name="anlinn"></a>
 
 Den här medlemmen har sedan han började på sektionen arbetat ihärdigt
-med såväl synliga\
+med såväl synliga
 som osynliga uppdrag på sektionen. Bland annat har han varit
-Qulturattaché, där\
+Qulturattaché, där
 han satte liv i Qulturnämnden och utvecklade den från att vara en liten
-nämnd med små\
+nämnd med små
 spelkvällar till en stor nämnd med väl marknadsförda nya aktiviteter och
-evenemang som\
+evenemang som
 öppnade sektionslivet för nya medlemmar. Han har varit involverad i
-Informationsorganet\
+Informationsorganet
 där han dragit i och arbetat i flera projekt såsom META-TV,
-Djul-kalendern och\
+Djul-kalendern och
 hemsidan. Den här medlemmen är en person som alltid välkomnar alla som
-vill engagera\
+vill engagera
 sig eller lära sig mer om allt vad det innebär att vara medlem i
-Datasektionen.\
+Datasektionen.
 Han representerar dessutom sektionen positivt utåt mot andra sektioner
 och intresserade.
 
 För sitt oumbärliga arbete för sektionen och sina insatser för att alla
-ska känna sig\
+ska känna sig
 välkomna tilldelas Andreas Linn hedersdeltat.
 
 ## Motiveringar till 2015 års mottagare
@@ -1005,7 +1002,7 @@ suppleant i Kårfullmäktige.
 
 Mot bakgrund till detta och hans förmåga att med ständigt engagemang och
 dedikerad kompetens ta sig an uppgifter utöver sektionens mest
-attraktiva prestigeuppdrag\
+attraktiva prestigeuppdrag
 tilldelas Jonas Sundberg ett hedersdelta.
 
 #### Egil Antonsen <a name="egila"></a>
@@ -1039,7 +1036,7 @@ mottagningen i ytterligare två år. Inför mottagningen 2008 var Frost med
 och utvecklade det idag för mottagningen så viktiga verktyget STÖn. Han
 har därefter fortsatt att vara mycket delaktig i sektionens webbmiljö
 och har hjälpt till med alla sektionens idag aktiva webbprojekt. På
-sistone har han även utvecklat ett system som ska ersätta\
+sistone har han även utvecklat ett system som ska ersätta
 det nuvarande skuldhanteringsystemet.
 
 Åren 2009-2011 har han även varit sektionshistoriker.
@@ -1116,7 +1113,7 @@ utbildningsfrågor. Och har sedan dess också varit en av sektionens
 kårfullmätkigeledamöter. 2008 gav han, som chefredaktör, ut det första
 nya numret av dBuggen på 4 år, detta samma år som var han med i
 mottagningstitel som Direktifdrifv. Hans tid som sektionsaktiv
-kulminerade 2009 då han axlade rollen\
+kulminerade 2009 då han axlade rollen
 som ordförande för den förnämsta av sektioner, en post där han gjort ett
 utomoderntligt arbete.
 
