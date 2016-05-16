@@ -1,5 +1,4 @@
-Bokningar av META / Book META
------------------------------
+# Bokningar av META / Book META
 
 ## Boka META
 
