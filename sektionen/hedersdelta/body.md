@@ -15,7 +15,7 @@ går det även att maila D-rektoratet.
 Innehavare av Hedersdeltat
 --------------------------
 
-### Mottagare 2016
+## Mottagare 2016
 
 <dl>
 <dt>
@@ -29,7 +29,7 @@ Innehavare av Hedersdeltat
 
 </dd>
 </dl>
-### Mottagare 2015
+## Mottagare 2015
 
 <dl>
 <dt>
@@ -51,7 +51,7 @@ Innehavare av Hedersdeltat
 
 </dd>
 </dl>
-### Mottagare 2014
+## Mottagare 2014
 
 <dl>
 <dt>
@@ -73,7 +73,7 @@ Innehavare av Hedersdeltat
 
 </dd>
 </dl>
-### Mottagare 2013
+## Mottagare 2013
 
 <dl>
 <dt>
@@ -103,7 +103,7 @@ Innehavare av Hedersdeltat
 
 </dd>
 </dl>
-### Mottagare 2012
+## Mottagare 2012
 
 <dl>
 <dt>
@@ -117,7 +117,7 @@ Innehavare av Hedersdeltat
 
 </dd>
 </dl>
-### Mottagare 2011
+## Mottagare 2011
 
 <dl>
 <dt>
@@ -143,7 +143,7 @@ Innehavare av Hedersdeltat
 
 </dd>
 </dl>
-### Mottagare 2010
+## Mottagare 2010
 
 <dl>
 <dt>
@@ -169,7 +169,7 @@ Innehavare av Hedersdeltat
 
 </dd>
 </dl>
-### Mottagare 2009
+## Mottagare 2009
 
 <dl>
 <dt>
@@ -195,7 +195,7 @@ Roger Ström, Unvicesimus
 
 </dd>
 </dl>
-### Mottagare 2008
+## Mottagare 2008
 
 <dl>
 <dt>
@@ -213,7 +213,7 @@ Jon Karlfeldt (Larsson), Undevicesimus
 
 </dd>
 </dl>
-### Mottagare 2007
+## Mottagare 2007
 
 <dl>
 <dt>
@@ -239,7 +239,7 @@ Pehr Söderman, Unvicesimus
 
 </dd>
 </dl>
-### Mottagare 2006
+## Mottagare 2006
 
 <dl>
 <dt>
@@ -249,7 +249,7 @@ Henrik Fräsén, Vicesimus
 
 </dd>
 </dl>
-### Mottagare 2005
+## Mottagare 2005
 
 <dl>
 <dt>
@@ -263,7 +263,7 @@ Emil Stenström, Undevicesimus
 
 </dd>
 </dl>
-### Mottagare 2004
+## Mottagare 2004
 
 <dl>
 <dt>
@@ -285,7 +285,7 @@ Mark Peldius, Septus decimus
 
 </dd>
 </dl>
-### Mottagare 2003
+## Mottagare 2003
 
 <dl>
 <dt>
@@ -299,7 +299,7 @@ Tommie Gannert, Dodevicesimus
 
 </dd>
 </dl>
-### Mottagare 2002
+## Mottagare 2002
 
 <dl>
 <dt>
@@ -337,7 +337,7 @@ Niklas Persson, Quintus decimus
 
 </dd>
 </dl>
-### Mottagare 2001
+## Mottagare 2001
 
 <dl>
 <dt>
@@ -347,7 +347,7 @@ Daniel Westbom, Sigvard
 
 </dd>
 </dl>
-### Mottagare 2000
+## Mottagare 2000
 
 <dl>
 <dt>
@@ -357,7 +357,7 @@ Joakim Meldahl, Sigvard
 
 </dd>
 </dl>
-### Mottagare 1999
+## Mottagare 1999
 
 <dl>
 <dt>
@@ -379,7 +379,7 @@ Mikael Stralje, tertius decimus
 
 </dd>
 </dl>
-### Mottagare 1998
+## Mottagare 1998
 
 <dl>
 <dt>
@@ -397,7 +397,7 @@ Fredrik Sandberg, Docecimus
 
 </dd>
 </dl>
-### Mottagare 1997
+## Mottagare 1997
 
 <dl>
 <dt>
@@ -415,7 +415,7 @@ Olof Lindholm, Dodecimus
 
 </dd>
 </dl>
-### Mottagare 1996
+## Mottagare 1996
 
 <dl>
 <dt>
@@ -433,7 +433,7 @@ Patrik Nilssom, Decimus
 
 </dd>
 </dl>
-### Mottagare 1995
+## Mottagare 1995
 
 <dl>
 <dt>
@@ -455,7 +455,7 @@ Björn Sjöstrand, Oqtavus
 
 </dd>
 </dl>
-### Mottagare 1992
+## Mottagare 1992
 
 <dl>
 <dt>
@@ -481,7 +481,7 @@ Jan Garefelt, Oqtavus
 
 </dd>
 </dl>
-### Mottagare 1991
+## Mottagare 1991
 
 <dl>
 <dt>
@@ -503,7 +503,7 @@ Peter Nemeth, Quintus
 
 </dd>
 </dl>
-### Mottagare 1990
+## Mottagare 1990
 
 <dl>
 <dt>
@@ -533,7 +533,7 @@ Kristina Nedlich, Quarta
 
 </dd>
 </dl>
-### Mottagare 1989
+## Mottagare 1989
 
 <dl>
 <dt>
@@ -563,7 +563,7 @@ Erik Wåhlin, Tertius
 
 </dd>
 </dl>
-### Mottagare 1988
+## Mottagare 1988
 
 <dl>
 <dt>
@@ -613,13 +613,13 @@ Wolfram Meyer, Tertius
 
 </dd>
 </dl>
-Motivering till utdelandet av förtjänsttecken {#motivering}
+Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
 ---------------------------------------------
 
 </h2>
-### Motiveringar till 2016 års mottagare
+## Motiveringar till 2016 års mottagare
 
-#### Lovisa Runhem {#lrunhem}
+#### Lovisa Runhem <a name="lrunhem"></a>
 
 Den här medlemmen påbörjade sitt engagemang i sektionen redan under sin
 första termin,\
@@ -651,7 +651,7 @@ För sitt glödande och helhjärtade engagemang för sektionen tilldelas
 Lovisa Runhem\
 hedersdeltat.
 
-#### Andreas Linn {#anlinn}
+#### Andreas Linn <a name="anlinn"></a>
 
 Den här medlemmen har sedan han började på sektionen arbetat ihärdigt
 med såväl synliga\
@@ -676,9 +676,9 @@ För sitt oumbärliga arbete för sektionen och sina insatser för att alla
 ska känna sig\
 välkomna tilldelas Andreas Linn hedersdeltat.
 
-### Motiveringar till 2015 års mottagare
+## Motiveringar till 2015 års mottagare
 
-#### Jesper Bratt {#jbratt}
+#### Jesper Bratt <a name="jbratt"></a>
 
 Jesper Bratt har under sina år på sektionen bidragit till och deltagit i
 stora delar av verksamheten på Datasektionen. Detta har han gjort med
@@ -695,7 +695,7 @@ sektionens fanbärare.
 För sitt kontinuerliga och upplyftande engagemang tilldelas därmed
 Jesper Bratt Hedersdeltat.
 
-#### Niklas Bäckström {#nikbac}
+#### Niklas Bäckström <a name="nikbac"></a>
 
 Niklas Bäckström har under sin tid på Datasektionen tagit initiativ till
 införandet av posten Ljud- och Ljusansvarig. Efter två år på posten har
@@ -714,7 +714,7 @@ ljud och ljus i den dagliga verksamheten som vi har idag.
 För det osynliga arbetet och enastående insatser tilldelas Niklas
 Bäckström Hedersdeltat.
 
-#### Peter Boström {#pbos}
+#### Peter Boström <a name="pbos"></a>
 
 Peter Boström har länge gjort mycket för Datasektionen. Han har tagit på
 sig både synliga och osynliga ansvar. Bland dom synliga uppdragen finns
@@ -737,7 +737,7 @@ medlemmar och ställt upp när någon bett om hjälp.
 För det oumbärliga arbetet för sektionen och det stora engagemanget
 tilldelas Peter Boström Hedersdeltat.
 
-#### Petter Djupfeldt {#petterdj}
+#### Petter Djupfeldt <a name="petterdj"></a>
 
 Petter Djupfeldt har ett långt och ihärdigt engagemang inom
 datasektionen bakom sig. Under året då Petter satt som ordförande för
@@ -758,9 +758,9 @@ som dadda 4 gånger.
 För detta ihärdiga engagemang tilldelas därmed Petter Djupfeldt
 hedersdeltat.
 
-### Motiveringar till 2014 års mottagare
+## Motiveringar till 2014 års mottagare
 
-#### Marie Alexander {#mariale}
+#### Marie Alexander <a name="mariale"></a>
 
 Marie Alexander har sedan hon anlände ständigt befunnit sig i framkanten
 som ett vänligt ansikte som alltid sprider positiv stämning kring sig.
@@ -778,7 +778,7 @@ etablerat IOR:s grafikergrupp Tag Monkeys på sektionen.
 För hennes många insatser för vår sektion och spridande av en positiv
 stämning tilldelas Marie “Hime” Alexander hedersdeltat.
 
-#### Emma Angermund {#eang}
+#### Emma Angermund <a name="eang"></a>
 
 Emma Angermund började på vår fina sektion 2008 och var tidigt aktiv.
 Hon började sin bana genom sektionen i mottagningen 2009 som dadda. Året
@@ -801,7 +801,7 @@ För hennes driv, engagemang och vilja att göra Datasektionen till en
 bättre plats för alla dess medlemmar, väljer D-rektoratet att belöna
 Emma Angermund med sektionens finaste förtjänsttecken: Hedersdeltat.
 
-#### Robert Welin Berger {#robertwb}
+#### Robert Welin Berger <a name="robertwb"></a>
 
 Robert Welin-Berger var redan innan han blev vald till
 sektionslokalsansvarig kanske den mest aktiva medlemmen i metadorerna.
@@ -813,7 +813,7 @@ sitt uppdrag lång bortom vad som förväntas av en Lokalchef. Det är han
 som kommer när andra går, och därför har D-Rektoratet beslutat att
 tilldela Robert Welin-Berger hedersdeltat.
 
-#### Frida Jansson {#fridajan}
+#### Frida Jansson <a name="fridajan"></a>
 
 Frida Jansson är en glad, trevlig och öppen person med stort engagemang.
 Hon har sedan början gjort mycket stora insatser för vår sektion.
@@ -834,9 +834,9 @@ Frida Jansson har sedan start varit en person att räkna med; en person
 som alltid ställer upp när det behövs. För hennes mycket stora
 engagemang för vår sektion tilldelas Frida Jansson hedersdeltat.
 
-### Motiveringar till 2013 års mottagare
+## Motiveringar till 2013 års mottagare
 
-#### Alexander Solsmed {#solsmed}
+#### Alexander Solsmed <a name="solsmed"></a>
 
 Hans brinnande engagemang och höga ambitionsnivå syntes redan under
 mottagningen 2009, då han beslutade sig för att göra en häststridsvagn
@@ -861,7 +861,7 @@ För hans otroliga öppenhet och engagemang, som kom att lägga grunden för
 vår sektions framtida relation med Media samt CSC, tilldelas härmed
 Alexander Solsmed hedersdeltat.
 
-#### Andreas Tarandi {#taran}
+#### Andreas Tarandi <a name="taran"></a>
 
 Redan vid den späda sektionsåldern av knappt ett år tog han på sig sitt
 första förtroendeuppdrag, som Konglig Lokalchef och ledare för den
@@ -878,7 +878,7 @@ och sedan till slut rollen som ordförande för vår stolta sektion.
 För hans insatser för vår sektion så tilldelas härmed Andreas Tarandi
 hedersdeltat.
 
-#### Johan Stjernberg {#stjer}
+#### Johan Stjernberg <a name="stjer"></a>
 
 Med sin positiva inställning och generellt peppa attityd tog han 2008
 sektionen med storm. Hans engagemang i sektionen började liksom många
@@ -895,7 +895,7 @@ mottagningar som han varit med i till några av de bästa någonsin.
 För sina insatser och sitt outröttliga engagemang för sektionen
 tilldelas härmed Johan Stjernberg hedersdeltat.
 
-#### Max Nordlund {#maxno}
+#### Max Nordlund <a name="maxno"></a>
 
 *Max Nordlund* har sedan sin ankomst alltid arbetat för att Konglig
 Datsektionen ska bli en bättre plats för alla. Han har med en skinande
@@ -910,7 +910,7 @@ grundstenar för kommande generationer av dataloger att bygga på.
 Mot bakgrund av hans heroiska ekonomiska arbete och villighet att alltid
 ta på sig en uppgift till tilldelas härmed Max Nordlund hedersdeltat.
 
-#### Michael Hjortholt {#michjo}
+#### Michael Hjortholt <a name="michjo"></a>
 
 Han började sitt korståg genom sektionen genom att direkt engagera sig i
 mottagningen, där han tog sig an vilsna nykomlingar och hjälpte dem att
@@ -927,7 +927,7 @@ han arbetat med och deltagit i flera gånger.
 Som tack för allt han har gjort för sektionen, och många snöfyllda dagar
 för dess medlemmar, tilldelas härmed Michael Hjortholt hedersdeltat.
 
-#### Victor Koronen {#koronen}
+#### Victor Koronen <a name="koronen"></a>
 
 *Victor Koronen* har sedan han anlände till datasektionen engagerat sig
 i många av dess verksamheter. Han har målmedvetet och har med ett
@@ -943,9 +943,9 @@ sektionens mottagningar.
 Mot bakrund av hans osjälviska engagemang och många tysta hjältedåd i
 sektionens namn tilldelas härmed Victor Koronen hedersdeltat.
 
-### Motiveringar till 2012 års mottagare
+## Motiveringar till 2012 års mottagare
 
-#### Charlie Lindviken {#lindvi}
+#### Charlie Lindviken <a name="lindvi"></a>
 
 *Charlie Lindviken* började direkt 2008 med att engagera sig i Konglig
 Datasektionen och dess klubbmästeri, DKM. Efter att ha varit med i DKM i
@@ -966,7 +966,7 @@ för sektionen och borde belönas.
 Därför tilldelas Charlie Lindviken härmed Konglig Datasektionens finaste
 utmärkelse, Hedersdeltat.
 
-#### Andreas Falk {#andfal}
+#### Andreas Falk <a name="andfal"></a>
 
 *Andreas Falk* började 2009 på den stoltaste av sektioner på teknis,
 Konglig Datasektionen. Redan under våren 2010 tog han på sig posten som
@@ -988,9 +988,9 @@ Det råder ingen tvekan att han under sin tid synnerligen har verkat för
 sektionens bästa. Mot bakgrund av överstående tilldelas Andreas Falk
 härmed Hedersdeltat.
 
-### Motiveringar till 2011 års mottagare
+## Motiveringar till 2011 års mottagare
 
-#### Jonas Sundberg {#josundb}
+#### Jonas Sundberg <a name="josundb"></a>
 
 *Jonas Sundberg* har sedan sin ankomst på KTH inte varit rädd för att
 engagera sig i sektionen och dess nyttonämnder. Han har ett långvarigt
@@ -1008,7 +1008,7 @@ dedikerad kompetens ta sig an uppgifter utöver sektionens mest
 attraktiva prestigeuppdrag\
 tilldelas Jonas Sundberg ett hedersdelta.
 
-#### Egil Antonsen {#egila}
+#### Egil Antonsen <a name="egila"></a>
 
 *Egil Antonsen* började sin långa väg av sektionsengagemang som Dadda
 under Mottagningen 2007. Den glada stämningen under nØllningen måste ha
@@ -1031,7 +1031,7 @@ kårfullmäktige också.
 Som tack för sitt starka arbete tilldelas Egil Antonsen härmed
 hedersdeltat.
 
-#### Martin Frost {#blame}
+#### Martin Frost <a name="blame"></a>
 
 Han började sitt sektionsengagemang i mottagningen 2006. Året efter blev
 han prylmånglare på sektionen och fortsatte att vara aktiv i
@@ -1047,7 +1047,7 @@ det nuvarande skuldhanteringsystemet.
 Som tack för sina insatser på sektionen och för att han alltid ställer
 upp när webbprojekt behövs tilldelas härmed Martin Frost hedersdeltat.
 
-#### Pärham Fazelzadeh Hashemi {#parhamfh}
+#### Pärham Fazelzadeh Hashemi <a name="parhamfh"></a>
 
 På KTH kan man plugga dagarna i ända om man så vill, men det finns
 mycket mer att göra här än så. Om någon tvivlar på detta kan man alltid
@@ -1076,7 +1076,7 @@ sagt ovan och mer blir Pärham Fazelzadeh Hashemi, nu ett par tårtor och
 brandlarm klokare än när han först kom till KTH, tilldelad Konglig
 Datasektionens hedersdelta.
 
-#### Tobias Svensson {#tosve}
+#### Tobias Svensson <a name="tosve"></a>
 
 *Tobias Svensson* är väldigt glad och framåt och med honom med finns det
 aldrig några problem, bara utmaningar. Han började sitt engagemang inom
@@ -1092,14 +1092,14 @@ suttit valda som till exempel dÅre och Näringslivsgruppen.
 Av dessa anledningar har D-rektoratet beslutat att tilldela Tobias
 Svensson ett hedersdelta.
 
-### Motiveringar till 2010 års mottagare
+## Motiveringar till 2010 års mottagare
 
-#### Mikael Gerdin {#mgerdin}
+#### Mikael Gerdin <a name="mgerdin"></a>
 
 För hans engagemang och genuina insatser i Mottagningen, D-rektoratet
 och som Programansvarig student tilldelas Mikael Gerdin hedersdeltat.
 
-#### Patrik Stenmark {#spatrik}
+#### Patrik Stenmark <a name="spatrik"></a>
 
 För sitt gedigna engagemang för sektionens bästa och sina många insatser
 för sektionen, bland dessa insatser kan räknas lokalchef, klubbmästare,
@@ -1107,7 +1107,7 @@ Mamma i mottagningen samt sitt Medverkande i Jubileet och skapandet av
 STÖn. Av dessa anledningar tilldelas härmed Patrik Stenmark
 hedersdeltat.
 
-#### Joel Westberg {#joelwes}
+#### Joel Westberg <a name="joelwes"></a>
 
 *Joel Westberg* är medlem av Konglig Datasektionen sedan 2005, och har
 under sina år på sektionen hunnit med allt och lite till. 2007
@@ -1127,7 +1127,7 @@ person hade inte sektionen varit vad den är idag.
 
 Mot denna bakgrund tilldelas Joel Westberg ett hedersdelta.
 
-#### Pontus Walter {#pwalter}
+#### Pontus Walter <a name="pwalter"></a>
 
 Under åren *Pontus Walter* varit medlem i Konglig Datasektionen har han
 varit engagerad i bland annat D-rektoratet, Mottagningen och
@@ -1137,7 +1137,7 @@ exemplariskt och helhjärtat.
 Som tack för hans insatser och hjälp tilldelas Pontus Walter
 hedersdeltat.
 
-#### Per Almquist {#peralmq}
+#### Per Almquist <a name="peralmq"></a>
 
 Fråga inte vad sektionen kan göra för dig utan vad du kan göra för
 sektionen är ord man kan tro att denna person har fått höra någon gång.
@@ -1155,7 +1155,7 @@ och har varit med och dragit i sektionens alumniverksamhet, samt sedan
 
 Med denna motivering tilldelas Per Almquist ett hedersdelta.
 
-### Motiveringar till 2009 års mottagare
+## Motiveringar till 2009 års mottagare
 
 <p>
 <em>Simon Habtemikael</em> har länge varit ett av sektionens mest
@@ -1249,7 +1249,7 @@ förtjänstfull verkat för sektionens väl, och är sålunda väl värd ett
 Hedersdelta.
 
 </p>
-### Motiveringar till 2008 års mottagare
+## Motiveringar till 2008 års mottagare
 
 <p>
 <em>Mikael</em> är en riktig klippa. När man behöver hjälp med något så
@@ -1278,7 +1278,7 @@ mycket mer. Hårt arbete ska belönas och det finns ingen bättre belöning
 än ett hedersdelta.
 
 </p>
-### Motiveringar till 2007 års mottagare
+## Motiveringar till 2007 års mottagare
 
 <p>
 <em>Eskil Andréen</em> har varit en riktig tillgång för sektionen. Han
@@ -1349,7 +1349,7 @@ som en revisor av dignitet. Med dessa meriter inom sektionen är han en
 välförtjänt bärare av Hedersdeltat.
 
 </p>
-### Motiveringar till 2006 års mottagare
+## Motiveringar till 2006 års mottagare
 
 <p>
 <i>Henrik</i> har ända från första början visat ett starkt engagemang
@@ -1367,9 +1367,9 @@ och alltid bidragit med sitt engagemang, sina många idéer och inte minst
 sin humor. Han är i sanning en värdig mottagare av hedersdeltat.
 
 </p>
-### Motiveringar till 2005 års mottagare
+## Motiveringar till 2005 års mottagare
 
-### Motiveringar till 2004 års mottagare
+## Motiveringar till 2004 års mottagare
 
 <p>
 <em>Martin Edquist</em> är en riktig klippa när det gällar att få hårt
@@ -1437,7 +1437,7 @@ långvariga, breda och engagerade gärning förKonglig Datasektionen honom
 till en mycket välmeriterad mottagare av hedersdeltat.
 
 </p>
-### Motiveringar till 2003 års mottagare
+## Motiveringar till 2003 års mottagare
 
 <p>
 <em>Robert Andersson</em> har förtjänstfullt verkat på flera poster inom
@@ -1460,7 +1460,7 @@ har han alltid löst de problem man bett om hjälp med. Slutsatsen är att
 en mer förtjänande mottagare av hedersdeltat får man leta efter.
 
 </p>
-### Motiveringar till 2002 års mottagare
+## Motiveringar till 2002 års mottagare
 
 <p>
 <em>Magnus Axell</em> har sedan han började 96 varit en glad och
@@ -1591,7 +1591,7 @@ struktureradesvilket ledde till att D-dagen ökade från 13 till 40
 företag. En stor bedrift!
 
 </p>
-### Motiveringar till 2001 års mottagare
+## Motiveringar till 2001 års mottagare
 
 <p>
 <em>Daniel Westbom</em> har varit dadda, Kongl lokalchef, Spexdireqtuer,
@@ -1601,13 +1601,13 @@ efterträdare, fixat15-årsjubileum, mamma, med mera. Han har dessutom
 gjort det bra.
 
 </p>
-### Motiveringar till 2000 års mottagare
+## Motiveringar till 2000 års mottagare
 
 <p>
 <em>Joakim Meldahl</em>
 
 </p>
-### Motiveringar till 1999 års mottagare
+## Motiveringar till 1999 års mottagare
 
 <p>
 <em>Christer Gessler</em> har i tre år representerat Datasektionen
@@ -1660,7 +1660,7 @@ sektionen.Kort och gott, Mikael har gjort mycket för sektionen, men ändå
 aldrig dragitsig för att höja glaset till en skål.
 
 </p>
-### Motiveringar till 1998 års mottagare
+## Motiveringar till 1998 års mottagare
 
 <p>
 <em>Niklas Lindholm</em> har under sin tid på Teknis så som mycket
@@ -1690,7 +1690,7 @@ som verkligenslitit för att göra ESCapen till en av campus trevligaste
 sektionslokaler,vilket den idag är.
 
 </p>
-### Motiveringar till 1996 års mottagare
+## Motiveringar till 1996 års mottagare
 
 <p>
 <em>Tomas Nord</em> har envetet och oförtröttligt engagerat sig i de
@@ -1717,7 +1717,7 @@ ha varitvad den är idag. Patrik har dessutom som mångfaldig dadda
 mottagit n0llan medglädje och entusiasm.
 
 </p>
-### Motiveringar till 1995 års mottagare
+## Motiveringar till 1995 års mottagare
 
 <p>
 <em>Helena Englund</em> har engagerat sig i sektionen bla som kassör
@@ -1751,7 +1751,7 @@ bättre sättän tidigare. Dessutom har Björn alltid granskat och
 debatterat sektionensverksamhet på ett kritiskt och positivt sätt.
 
 </p>
-### Motiveringar till 1992 års mottagare
+## Motiveringar till 1992 års mottagare
 
 <p>
 <em>Carl-Johan Graufelds</em> har som multipel-dadda och storebror
@@ -1774,7 +1774,7 @@ genomsitt arbete i DKM sett till att D-teknologen fått sitt ölbehov
 täckt.
 
 </p>
-### Motiveringar till 1991 års mottagare
+## Motiveringar till 1991 års mottagare
 
 <p>
 <em>Magnus Hulthén</em> har format delar av sektionens kulturella aura
@@ -1806,7 +1806,7 @@ mottagningen och inte minstSNO-89 har han varit varit till stor hjälp
 för sina sektionskamrater.
 
 </p>
-### Motiveringar till 1990 års mottagare
+## Motiveringar till 1990 års mottagare
 
 <p>
 <em>Thomas Bill</em> har med sin personlighet bidragit till att ge
@@ -1848,7 +1848,7 @@ bakomjubiléet 1988, och dessutom under stundom förevisat hur en
 mästarinnahäfver en pilsner.
 
 </p>
-### Motiveringar till 1989 års mottagare
+## Motiveringar till 1989 års mottagare
 
 <p>
 <em>Erik Wåhlin</em> är en idéspruta som med sin personlighet harverkat
