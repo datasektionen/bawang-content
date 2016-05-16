@@ -24,6 +24,7 @@ Mottagningen
 
 </dd>
 </dl>
+
 ## Vice sektionsordförande
 
 Vice ordförandens viktigaste roll är att assistera och avbelasta
@@ -61,6 +62,7 @@ Konglig Östrogennämnden
 
 </dd>
 </dl>
+
 ## Kassör
 
 Kassören håller helt enkelt reda på sektionens ekonomiska bit. Det
@@ -91,6 +93,7 @@ Prylmångleriet
 
 </dd>
 </dl>
+
 ## Sekreterare
 
 Sekreteraren är ansvarig för att protokoll skrivs, undertecknas,
@@ -121,6 +124,7 @@ Sektionshistoriker
 
 </dd>
 </dl>
+
 ## Ledamot för utbildningsfrågor
 
 Det löpande arbetet med utbildningsfrågor sköts av Studienämnden. Deras
@@ -152,6 +156,7 @@ Studerandeskyddsombud
 
 </dd>
 </dl>
+
 ## Ledamot för studiesociala frågor
 
 Har frågor som rör medlemmarnas psykiska
