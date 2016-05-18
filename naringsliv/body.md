@@ -51,5 +51,5 @@ garanterat når många aktivt jobbsökande dataloger.
 
 Vill ni ha chansen att få göra dataloger lite gladare och samtidigt göra
 reklam? Sponsra då sektionen med en rolig eller andvändbar pryl eller
-varför inte göra något helt nytt och annorlunda? Endast fanasin sätter
+varför inte göra något helt nytt och annorlunda? Endast fantasin sätter
 gränser.
