@@ -30,24 +30,25 @@ D-rektoratet, på adressen [drek@d.kth.se](mailto:drek@d.kth.se). Du kan
 **Ordöfrande**<br />
 Henrik Johansson<br />
 E-post [ordf@d.kth.se](mailto:ordf@d.kth.se)<br />
-0730354673
+073-035 46 73
 
 ## Sektionsinformation
 
 **Postadress**
 
-Konglig Datasektionen
-Drottning Kristinas väg 15-19
-Fack vid THS
+Konglig Datasektionen<br />
+Drottning Kristinas väg 15-19<br />
+Fack vid THS<br />
 100 44 Stockholm
 
 **Besöksadress**
 
-META
-Osquars Backe 21
+META<br />
+Osquars Backe 21<br />
 114 28 Stockholm
 
 **Organisationsnummer**
+
 802412-7709
 
 ## Datasektionen.se
