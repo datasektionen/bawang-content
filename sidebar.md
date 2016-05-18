@@ -8,7 +8,7 @@ Datateknikprogrammet på KTH är bland de främsta datateknikutbildningarna i v�
 ##Socialt
 Att studera behöver inte bara vara långa kvällar med tunga böcker. Datasektionen anordnar pubar, fester, spelkvällar och andra roliga aktiviteter som ger dig en chans att koppla av mellan studierna och lära känna andra studerande. Aktiviteterna arrangeras av våra medlemmar och som medlem är du självklart välkommen.
 
-<a href="/socialt" class="action">Mer om aktiviteter &raquo;</a>
+<a href="/sektionen" class="action">Mer om sektionen &raquo;</a>
 
 <hr>
 
