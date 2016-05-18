@@ -5,14 +5,14 @@ Kolla om svaren finns i \*[vanliga frågor om
 studierna](http://datasektionen.se/studier/vanliga_fragor*). Annars,
 kontakta Årskursrepresentanterna för din årskurs!
 
-**År 1:** ake-1\[at\]d.kth.se
+**År 1:** <ake-1@d.kth.se>
 
-**År 2:** ake-2\[at\]d.kth.se
+**År 2:** <ake-2@d.kth.se>
 
-**År 3:** ake-3\[at\]d.kth.se
+**År 3:** <ake-3@d.kth.se>
 
 **Masteransvariga för datalogimastern:** Rebecca Redgert och August
-Janse eller maila **Studienämnden** på sn\[at\]d.kth.se!
+Janse eller maila **Studienämnden** på <sn@d.kth.se>!
 
 [GNÄLLBOXEN](https://docs.google.com/forms/d/1LDJBP4Jrjd7iOPx84IwFt0Wy5nfPj4Hi1JyMwGRiF-I/viewform)
 
