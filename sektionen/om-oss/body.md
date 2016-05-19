@@ -1,3 +1,0 @@
-# markdown
-* lol
-* lol2
