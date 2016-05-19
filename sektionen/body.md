@@ -185,14 +185,10 @@ mycket med musik.
 Badhusfest
 ----------
 
-Plums är en fest som varje år anordnas av DKM.\
-Föreställ dig en fest där du är i ett badhus och\
-DKM har slängt in ett par grymma DJs, en äkta\
-delmängd av spritförrådet samt mackor för alla!\
-Som om inte det vore nog kan du självklart\
-kombinera detta med bad och bastu. Allt som\
-allt kan man lätt säga att det är det bästa som\
-händer i en teknologs liv.
+Plums är en fest som varje år anordnas av DKM. Föreställ dig en fest där du är i ett badhus och 
+DKM har slängt in ett par grymma DJs, en äkta delmängd av spritförrådet samt mackor för alla! 
+Som om inte det vore nog kan du självklart kombinera detta med bad och bastu. Allt som 
+allt kan man lätt säga att det är det bästa som händer i en teknologs liv.
 
 Sektionsbilen
 -------------
