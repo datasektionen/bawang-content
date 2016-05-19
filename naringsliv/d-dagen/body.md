@@ -1,5 +1,4 @@
-D-Dagen
--------
+# D-Dagen
 
 Konglig Datasektionen anordnar årligen D-dagen, som är en
 arbetsmarknadsdag där D-studenter och företagen får chans att utveckla
@@ -13,35 +12,30 @@ på frukost, lunch, fika och middag.
 
 Detta är baspaketet för D-Dagen 2016.
 
-<h3>
-Baspaket
+## Baspaket
 
-</h3>
--   5 kvm yta
--   Bord, 1 st
--   Frukost och lunch, 2 personer
--   Sittning, 2 personer
--   Barbongar, 10 st
--   El och internetanslutning
--   Fika
--   2 månaders annonsering på [djobb.se](http://djobb.se)
+*   5 kvm yta
+*   Bord, 1 st
+*   Frukost och lunch, 2 personer
+*   Sittning, 2 personer
+*   Barbongar, 10 st
+*   El och internetanslutning
+*   Fika
+*   2 månaders annonsering på [djobb.se](http://djobb.se)
 
 **Pris:** 25 000 kr
 
-<h3>
-Extra tilllägg
 
-</h3>
--   Bord 1st, 300 kr
--   Företagsrepresentant dag, 1 st 300kr
--   Företagsrepresentant kväll, 1 st 500kr
--   Barbongar, 10 st 300kr
--   Logga på Goodiebag, 1 300 kr
+## Extra tillägg
 
-<h3>
-Anmälan
+*   Bord 1st, 300 kr
+*   Företagsrepresentant dag, 1 st 300kr
+*   Företagsrepresentant kväll, 1 st 500kr
+*   Barbongar, 10 st 300kr
+*   Logga på Goodiebag, 1 300 kr
 
-</h3>
+## Anmälan
+
 Anmälan till Konglig Datasektionens arbetsmarknadsdag, D-dagen, görs i
 två steg. Det första steget består av att anmäla ert företag via
 [denna](https://docs.google.com/forms/d/1iKUK1co01lGLB5cUsvMkSA_5jt341V1r9omYcWrm-ao/viewform)
