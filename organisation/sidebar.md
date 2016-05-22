@@ -52,7 +52,7 @@ Samboavtalet för META under 2016.
 
 Protokoll från Sektionsmöten och D-rektoratsmöten
 
-#### [Grafisk profil](/sektionen/grafisk-profil)
+#### [Grafisk profil](/organisation/grafisk-profil)
 
 Hur får man använda Datasektionens logotyp och var finns de i
 tryckvänliga filformat?
