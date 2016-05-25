@@ -25,7 +25,7 @@ Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivss
 
 För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 
-**Ordförande**<br />
+**Kommunikatör**<br />
 Marcus Heine <br />
 E-post: [info@d.kth.se](mailto:info@d.kth.se)<br />
 076-10 22 651
