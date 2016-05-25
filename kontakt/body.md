@@ -23,7 +23,18 @@ Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivss
 
 ## Allmänt
 
-För frågor av allmän karaktär bör du kontakta Datasektionens styrelse,
+För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
+
+**Ordförande**<br />
+Marcus Heine <br />
+E-post: [info@d.kth.se](mailto:info@d.kth.se)<br />
+076-10 22 651
+
+Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Datasektionens Informationsorgan, IOR, på adressen [ior@d.kth.se](mailto:ior@d.kth.se).
+
+## Styrelsen
+
+För frågor om sektionens organisation bör du kontakta Datasektionens styrelse,
 D-rektoratet, på adressen [drek@d.kth.se](mailto:drek@d.kth.se). Du kan
 även kontakta Datasektionens Ordförande direkt:
 
@@ -50,8 +61,3 @@ Osquars Backe 21<br />
 **Organisationsnummer**
 
 802412-7709
-
-## Datasektionen.se
-
-Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Datasektionens Informationsorgan, IOR.
-För allmänna frågor kan du vända dig till [ior@d.kth.se](mailto:ior@d.kth.se). Vid mer specifika frågor kan du vända dig direkt till IORs ordförande, Marcus Heine, på [info@d.kth.se](mailto:info@d.kth.se).
