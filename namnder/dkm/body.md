@@ -84,7 +84,7 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
   * På vägen hit såg jag en asfet tjej. och det är inte ens det som är det roliga.
 * Robin Chowdhury
   * Jah, mon!
-* Sohpie Davidsson
+* Sophie Davidsson
   * Hur fan ska jag kunna veta vad 0.1/1 är i huvudet?
 * Ida Vainionpää
   * Vad är det här för grej? Hur långt in skall den?
