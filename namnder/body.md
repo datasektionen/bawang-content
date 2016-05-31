@@ -4,7 +4,7 @@
 
 [DKM – Datas Klubbmästeri](/namnder/dkm) Vad vore en sektion utan fester? Datasektionens Klubbmästeri har fixat fester lika länge som sektionen funnits till.
 
-[dBuggen](http://dbu.gg) dBuggen är Datas sektionstidning. Den utkommer när en eventuell redaktion har tid och fantasi, vilket händer inte alltför sällan. Numera kan du, förutom att läsa den mycket uppskattade papperstidningen, även läsa dBuggen online.
+[dbuggen](http://dbu.gg) dbuggen är Datas sektionstidning. Den utkommer när en eventuell redaktion har tid och fantasi, vilket händer inte alltför sällan. Numera kan du, förutom att läsa den mycket uppskattade papperstidningen, även läsa dbuggen online.
 
 [METAdorerna](/namnder/metadorerna) Vår gemensamma sektionslokal heter META och ligger på Osquars Backe 21. META vårdas av sektionslokalsgruppen METAdorerna.
 
