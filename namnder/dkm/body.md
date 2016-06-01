@@ -116,102 +116,131 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 
 ### Cliff -15
 
-* Robin Hellgren
-  * She’s all wet, and it’s freaking me out!
-* Martin Engelin
-  * Alla hatar mig fast jag är skön.
-* Nils Dahlberg
-  * Det är som highway to hell fast highway to straight forward!
-* Sandra Bäckström
-  * Jag skulle säga att min Lucy är rätt så Juicy!
-* Patrik Karlström
-  * DET ÄR SÅ JÄVLA ENKELT!
-* Shayan Effati
-  * Ge dajj!
+* __Robin Hellgren__
+  * Klubbmästare
+  * _She’s all wet, and it’s freaking me out!_
+* __Martin Engelin__
+  * Vice klubbmästare
+  * _Alla hatar mig fast jag är skön._
+* __Nils Dahlberg__
+  * Ekonomimästare
+  * _Det är som highway to hell fast highway to straight forward!_
+* __Sandra Bäckström__
+  * Ekonomimästare
+  * _Jag skulle säga att min Lucy är rätt så Juicy!_
+* __Patrik Karlström__
+  * Barmästare
+  * _DET ÄR SÅ JÄVLA ENKELT!_
+* __Shayan Effati__
+  * Informationsmästare
+  * _Ge dajj!_
 
 ### Cliff -14
 
-* Sebastian Magnusson
-  * Ey, tjålade nån vår balle?
-* Elin Clemmedsson
-  * Den här limen var ju typ 95% lime, helt jävla värdelös.
-* Emil Lyrner
-  * Jaha, det var ju en brownie! Trodde det var en köttbulle.
-* Anna Olsson
-  * Alltså jag bryr mig verkligen inte, nu slutar vi prata om det för jag blir arg.
-* Arvin Razavi
-  * Alltså, ska jag slänga in min i din eller?
-* Sara Feychting
-  * Fy nedrans, jag har slickat på för många saker idag!
-* Axel Samuelsson
-  * Man kan inte äta tunnbrödrulle framför nån man vill ligga med.
+* __Sebastian Magnusson__
+  * Klubbmästare
+  * _Ey, tjålade nån vår balle?_
+* __Elin Clemmedsson__
+  * Vice klubbmästare
+  * _Den här limen var ju typ 95% lime, helt jävla värdelös._
+* __Emil Lyrner__
+  * Ekonomimästare
+  * _Jaha, det var ju en brownie! Trodde det var en köttbulle._
+* __Anna Olsson__
+  * Ekonomimästare
+  * _Alltså jag bryr mig verkligen inte, nu slutar vi prata om det för jag blir arg._
+* __Arvin Razavi__
+  * Barmästare
+  * _Alltså, ska jag slänga in min i din eller?_
+* __Sara Feychting__
+  * Barmästare
+  * _Fy nedrans, jag har slickat på för många saker idag!_
+* __Axel Samuelsson__
+  * Informationsmästare
+  * _Man kan inte äta tunnbrödrulle framför nån man vill ligga med._
 
 ### Cliff -13
 
-* Jesper Bratt
-  * Sparris är som en kuk, toppen är alltid bäst.
-* Nils Dahlbom Norgren
-  * “Alkoholproblem”, “INGA PROBLEM!”
-* Denise Nordlöf
-  * Man njuter inte av någonting så mycket som när man har hela munnen full av det.
-* Victor Jaccopucci
-  * Jag är inte full, jag är bara ärlig.
-* Jacob Sievers
-  * Det är min dag idag!
-* Christian Avemark
-  * Alltså, fransmän sväljer ganska mycket, helt enkelt
+* __Jesper Bratt__
+  * Klubbmästare
+  * _Sparris är som en kuk, toppen är alltid bäst._
+* __Nils Dahlbom Norgren__
+  * Vice klubbmästare
+  * _“Alkoholproblem”, “INGA PROBLEM!”_
+* __Victor Jaccopucci__
+  * Barmästare
+  * _Jag är inte full, jag är bara ärlig._
+* __Christian Avemark__
+  * Barmästare
+  * _Alltså, fransmän sväljer ganska mycket, helt enkelt_
+* __Jacob Sievers__
+  * Informationsmästare
+  * _Det är min dag idag!_
+* __Denise Nordlöf__
+  * Admin
+  * _Man njuter inte av någonting så mycket som när man har hela munnen full av det._
 
 ### Cliff -12
 
-* Simon Ström
-  * Inte med flit, men det blir lite spill ibland. [Ang. sperma]
-* Sarah Bernelind
-  * På vägen hit såg jag en asfet tjej. och det är inte ens det som är det roliga.
-* Robin Chowdhury
-  * Jah, mon!
-* Sophie Davidsson
-  * Hur fan ska jag kunna veta vad 0.1/1 är i huvudet?
-* Ida Vainionpää
-  * Vad är det här för grej? Hur långt in skall den?
-* Mitra Khorsand
-  * Fiskar är konstverk!
-* Peter Miscevic
-  * Jag är kungen av antiklimax!
+* __Simon Ström__
+  * Klubbmästare
+  * _Inte med flit, men det blir lite spill ibland. [Ang. sperma]_
+* __Sarah Bernelind__
+  * Vice klubbmästare
+  * _På vägen hit såg jag en asfet tjej. och det är inte ens det som är det roliga._
+* __Robin Chowdhury__
+  * Ekonomimästare
+  * _Jah, mon!_
+* __Sophie Davidsson__
+  * _Hur fan ska jag kunna veta vad 0.1/1 är i huvudet?_
+* __Ida Vainionpää__
+  * _Vad är det här för grej? Hur långt in skall den?_
+* __Mitra Khorsand__
+  * _Fiskar är konstverk!_
+* __Peter Miscevic__
+  * _Jag är kungen av antiklimax!_
 
 ### Cliff -11
 
-* Charlie Lindviken
+* __Charlie Lindviken__
+  * Klubbmästare
   * Naturligt urval, låt dom dö!! (ang. vegetarianer)
-* Emre Berge Ergenekon
-* Christoffer Rödöö
-* Anton Jonsson
+* __Emre Berge Ergenekon__
+  * Vice klubbmästare
+* __Christoffer Rödöö__
+  * Ekonomimästare
+* __Anton Jonsson__
 
 ### Cliff -10
 
-* Gustav Johansson
-* Diana Gren
-* Elin Johansson
-* Anton Hägerstrand
-* Fredrik Klevmarken
-* Håkan Andersson
-* Johan Eriksson
+* __Gustav Johansson__
+  * Klubbmästare
+* __Diana Gren__
+  * Vice klubbmästare
+* __Elin Johansson__
+* __Anton Hägerstrand__
+* __Fredrik Klevmarken__
+* __Håkan Andersson__
+* __Johan Eriksson__
 
 ### Cliff -09
 
-* Jonas Hellgren
-* Johan Gustafson
-* Adam Kull
-* Christoffer Hirsimaa
-* Egil Antonsen
-* Agnes Skattman Udd
+* __Jonas Hellgren__
+  * Klubbmästare
+* __Johan Gustafson__
+* __Adam Kull__
+* __Christoffer Hirsimaa__
+* __Egil Antonsen__
+* __Agnes Skattman Udd__
 
 ### Cliff -08
 
-* Simon Stenström
-* Patrik Stenmark
-* Kristoffer Renholm
-* Elin Rydberg
-* André Strindby
+* __Simon Stenström__
+  * Klubbmästare
+* __Patrik Stenmark__
+* __Kristoffer Renholm__
+* __Elin Rydberg__
+* __André Strindby__
 
 ### Cliff -07
 
