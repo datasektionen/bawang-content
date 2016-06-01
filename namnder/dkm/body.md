@@ -91,6 +91,29 @@ _Tequila!_
 
 Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför de kallas för Cliff? Fråga närmsta Cliff!
 
+### Cliff -16
+* __Adam Denlert__
+  * Klubbmästare
+  * _Jag kommer inte ihåg, det var någon som sa någonting men jag lyssnade inte så mycket_
+* __Jonathan Berglind__
+  * Vice klubbmästare
+  * _Amenvafaaan, det är banan överallt!_
+* __Hedvig Reuterswärd__
+  * Ekonomimästare
+  * _Alltså de var söta men jag får bara associationer till testiklar och blöjor_
+* __Shapour Jahanshahi__
+  * Ekonomimästare
+  * _Jag kände att det var nånting som tryckte mot mitt anus_
+* __Jennifer Persson__
+  * Barmästare
+  * _Jag råkade ta på nåns rumpa och den var blöt!_
+* __Jonas Isacson__
+  * Barmästare
+  * _Jag känner mig verkligen som en porrstjärna ibland_
+* __Agnes Åman__
+  * Festmästare
+  * _Det enda man ville var att festa mycket och ha sex hela tiden_
+
 ### Cliff -15
 
 * Robin Hellgren
