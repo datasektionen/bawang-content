@@ -70,7 +70,7 @@ Mottagning av nya studenter
 
 Mottagningen ser till att de nyantagna till Datasektionen känner sig
 välkommna och har roligt. Du hittar schema och mer information om
-mottagningen under "Mer info".
+mottagningen på [mottagningens sida](/namnder/mottagningen).
 
 Styrelse
 --------
