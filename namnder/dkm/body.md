@@ -23,7 +23,69 @@ För att få mer info om events och annat kan det vara en fördel att gilla oss 
 
 ## Medlemmar
 
-(LOL PALLAR INTE)
+### Aron Strandberg
+#### Klubbmästare
+**Favoritdrink:** Pripps Blå
+**Specialitet:** Inte äta mat / Vara hipster
+**Citat:**
+_Ballmer’s peak är en lögn, det här blir bara dåligt!_
+**Smeknamn:** Knivsöder
+
+### Carl Nordling
+#### Vice klubbmästare
+**Favoritdrink:** Paul & Carl
+**Specialitet:** Ramla i taxin, i trappen, i hissen, i hallen
+**Citat:**
+_Är den här personen en kille? Hur länge hade ni sex?_
+**Smeknamn:** Paul
+
+### Josefin Nilsson
+#### Ekonomimästare
+**Favoritdrink:** SCHÅTS!!!
+**Specialitet:** Somna / Vara från Skellefteå / Hantera kniv
+**Citat:**
+_Alltså jag har inte ens skoter-körkort!_
+**Smeknamn:** Jossan / BakismonGO 3.0
+
+### Malcolm Tivelius
+#### Ekonomimästare
+**Favoritdrink:** Denlert
+**Specialitet:** Framstupa sidoläge
+**Citat:**
+_Ååh, Kan du spruta lite på mig?_
+**Smeknamn:** Malle
+
+### Helena Alinder
+#### Barmästare
+**Favoritdrink:** Helen
+**Specialitet:** Heleeeeen
+**Citat:**
+_Det är typ det enda vi gör, vi är elaka människor_
+**Smeknamn:** Heleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeen
+
+### Matteus Hast
+#### Barmästare
+**Favoritdrink:** Chokladminttu
+**Specialitet:** Ha hatt på sig / Vara cool
+**Citat:**
+_SLÄPP PENISEN!_
+**Smeknamn:** Hatteus Mast / Let it go
+
+### Emil Lindblom
+#### Infomästare
+**Favoritdrink:** Nutella
+**Specialitet:**
+**Citat:**
+_Hej_
+**Smeknamn:** EEEEMMMIIILLL
+
+### Pontus Broberg
+#### Festmästare
+**Favoritdrink:** Tequila
+**Specialitet:** Tequila?
+**Citat:**
+_Tequila!_
+**Smeknamn:** Kamikazepizza
 
 ## Cliff
 
