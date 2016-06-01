@@ -228,6 +228,7 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Jonas Hellgren__
   * Klubbmästare
 * __Johan Gustafson__
+  * Vice klubbmästare
 * __Adam Kull__
 * __Christoffer Hirsimaa__
 * __Egil Antonsen__
@@ -235,9 +236,10 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 
 ### Cliff -08
 
-* __Simon Stenström__
-  * Klubbmästare
 * __Patrik Stenmark__
+  * Klubbmästare
+* __Simon Stenström__
+  * Vice klubbmästare
 * __Kristoffer Renholm__
 * __Elin Rydberg__
 * __André Strindby__
