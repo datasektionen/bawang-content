@@ -25,12 +25,10 @@ Styrelseledarmot för utbildningsfrågor (D-UF) verkar för en bättre
 utbildningskvalitet på sektionen. Ledarmoten ansvarar för kontakten
 mellan styrelsen och Studienämndens ordförande/ Programansvarig student.
 
-**Styrelseledarmot för studiemiljöfrågor**
+**Studerandeskyddsombud**
 
-Styrelseledarmot för studiemiljöfrågor (D-SMF) verkar för en bättre
-studiemiljö på sektionen och har hittills fungerat som sektionens
-Studerandeskyddsombud (OBS! Ny funk. post D-SSO kommer att ta över detta
-ansvar).
+Studerandeskyddsombudet verkar för en bättre studiemiljö 
+på sektionen.
 
 ## Årskursrepresentanter
 
