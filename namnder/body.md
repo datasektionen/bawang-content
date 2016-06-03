@@ -50,8 +50,6 @@ Spexmästeriet: Var ansvarigt för att skapa nya spex på sektionen. Lades ner p
 
 Fenixorden: Delade ut utmärkelsen “Årets Fenix”. Lades ner på Budget-SM 2013.
 
-SSO – Studerandeskyddsombud: Denna nämnds ansvarsområden är numera en del av styrelseposten ledamot för studiemiljöfrågor.
-
 Cerise Siren: Datas egen skönsjungande kör. (Blev en del av Spexmästeriet 2005)
 
 Dataspelet: Datas eget spex. Finns numera i formen av ett gemensamt spex med Media, METAspexet.
