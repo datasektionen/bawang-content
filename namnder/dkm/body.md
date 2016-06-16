@@ -23,7 +23,7 @@ För att få mer info om events och annat kan det vara en fördel att gilla oss 
 
 ## Medlemmar
 
-### Aron Strandberg
+### Airbear
 #### Klubbmästare
 **Favoritdrink:** Pripps Blå  
 **Specialitet:** Inte äta mat / Vara hipster  
@@ -31,7 +31,7 @@ För att få mer info om events och annat kan det vara en fördel att gilla oss 
 _Ballmer’s peak är en lögn, det här blir bara dåligt!_  
 **Smeknamn:** Knivsöder  
 
-### Carl Nordling
+### Paul
 #### Vice klubbmästare
 **Favoritdrink:** Paul & Carl  
 **Specialitet:** Ramla i taxin, i trappen, i hissen, i hallen  
@@ -39,15 +39,15 @@ _Ballmer’s peak är en lögn, det här blir bara dåligt!_
 _Är den här personen en kille? Hur länge hade ni sex?_  
 **Smeknamn:** Paul  
 
-### Josefin Nilsson
+### Gos-Gos
 #### Ekonomimästare
-**Favoritdrink:** SCHÅTS!!!  
+**Favoritdrink:** SCHÅTS, Pink Schlager   
 **Specialitet:** Somna / Vara från Skellefteå / Hantera kniv  
 **Citat:**
 _Alltså jag har inte ens skoter-körkort!_  
-**Smeknamn:** Jossan / BakismonGO 3.0  
+**Smeknamn:** BakismonGO 3.0  
 
-### Malcolm Tivelius
+### Malle
 #### Ekonomimästare
 **Favoritdrink:** Denlert  
 **Specialitet:** Framstupa sidoläge  
@@ -55,15 +55,15 @@ _Alltså jag har inte ens skoter-körkort!_
 _Ååh, Kan du spruta lite på mig?_  
 **Smeknamn:** Malle  
 
-### Helena Alinder
+### Pelle
 #### Barmästare
-**Favoritdrink:** Helen  
-**Specialitet:** Heleeeeen  
+**Favoritdrink:** Amaretto Sour  
+**Specialitet:**   
 **Citat:**
 _Det är typ det enda vi gör, vi är elaka människor_  
-**Smeknamn:** Heleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeen  
+**Smeknamn:** Trojansk snigel  
 
-### Matteus Hast
+### Fuse
 #### Barmästare
 **Favoritdrink:** Chokladminttu  
 **Specialitet:** Ha hatt på sig / Vara cool  
@@ -71,15 +71,15 @@ _Det är typ det enda vi gör, vi är elaka människor_
 _SLÄPP PENISEN!_  
 **Smeknamn:** Hatteus Mast / Let it go  
 
-### Emil Lindblom
+### Empa
 #### Infomästare
 **Favoritdrink:** Nutella  
 **Specialitet:**  
 **Citat:**
 _Hej_  
-**Smeknamn:** EEEEMMMIIILLL  
+**Smeknamn:** Emiliano Sanchés
 
-### Pontus Broberg
+### Pampers
 #### Festmästare
 **Favoritdrink:** Tequila  
 **Specialitet:** Tequila?  
@@ -101,9 +101,6 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Hedvig Reuterswärd__
   * Ekonomimästare
   * _Alltså de var söta men jag får bara associationer till testiklar och blöjor_
-* __Shapour Jahanshahi__
-  * Ekonomimästare
-  * _Jag kände att det var nånting som tryckte mot mitt anus_
 * __Jennifer Persson__
   * Barmästare
   * _Jag råkade ta på nåns rumpa och den var blöt!_
