@@ -17,9 +17,9 @@ Utöver onsdagspubarna har vi även ett par större event:
 
 ## Facebook!
 
-För att få mer info om events och annat kan det vara en fördel att gilla oss på Facebook!
+För att få mer info om events och annat kan det vara en fördel att kika in på vår Facebook-sida!
 
-(FACEBOOK BLOB)
+[![Facebook logo](https://www.facebookbrand.com/img/assets/asset.f.logo.lg.png)](https://www.facebook.com/datasklubbmasteri)
 
 ## Medlemmar
 
@@ -76,7 +76,7 @@ _SLÄPP PENISEN!_
 **Favoritdrink:** Nutella  
 **Specialitet:**  
 **Citat:**
-_Hej_  
+_Adam har ju inte jobbat sedan 2014_  
 **Smeknamn:** Emiliano Sanchés
 
 ### Pampers
