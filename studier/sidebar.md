@@ -2,7 +2,7 @@
 
 * [Senaste nytt från SN](http://datasektionen.se/?tags=Studier)
 * [Logga in på Mina Sidor](http://www.kth.se/login)
-* [Studenträtt](www.kth.se/student/studenträtt)
+* [Studenträtt](http://www.kth.se/student/studenträtt)
 * [KTH bibliotek](https://www.kth.se/kthb)
 * [Utbildningsplaner](http://www.kth.se/student/kurser/program/CDATE)
 * [CSC servicecenter](https://intra.csc.kth.se/servicecenter)

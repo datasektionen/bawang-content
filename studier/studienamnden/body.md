@@ -49,7 +49,7 @@ samt övriga personer som Studienämnden anser vara berörda.
 
 SN är en öppen nämnd, vilket innebär att alla sektionsmedlemmar som vill
 får engagera sig i nämnden. För mer information, kontakta
-[Studienämndens ordförande (SNO)](/sektionen/funktionarsposter/4)
+[Studienämndens ordförande (SNO)](https://dfunkt.datasektionen.se/positions/sno)
 
 ## Verksamhet
 

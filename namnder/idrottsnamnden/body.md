@@ -68,4 +68,4 @@ Each academic year the THS Championships (formerly KTH championships) is held. I
 
 ## External Links
 
-* ["THS Championships / Sports on Technology Student Association"]((http://ths.kth.se/om-ths/idrott/))
+* [THS Championships / Sports on Technology Student Association](http://ths.kth.se/om-ths/idrott/)

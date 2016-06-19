@@ -11,7 +11,7 @@ Datasektionen har även egna dokument.För att reglera vår egen verksamhet
 har vi våra **[stadgar](http://styrdokument.datasektionen.se/stadgar)** och våra
 funktionärers arbetsuppgifter står i
 **[reglementet](http://styrdokument.datasektionen.se/reglemente)**.
-[Kassören](/sektionen/funktionarsposter/kassor) är ansvarig för
+[Kassören](https://dfunkt.datasektionen.se/positions/kassor) är ansvarig för
 sektionens ekonomirutiner - dessa finner du i det [Ekonomiska styrdokumentet](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument).
 
 Konglig Datasektionen är också stolta innehavare av ett permanent
@@ -72,7 +72,7 @@ att kandidera på ett SM.
 
 [Vad gör styrelsens olika poster](/sektionen/sammansattning)
 
-[Vilka sitter i styrelsen just nu?](/sektionen/funktionarer)
+[Vilka sitter i styrelsen just nu?](https://dfunkt.datasektionen.se/positions/kassor)
 
 #### Revisor
 

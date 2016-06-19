@@ -2,37 +2,52 @@
 
 ## Nämnder på Datasektionen
 
-[DKM – Datas Klubbmästeri](/namnder/dkm) Vad vore en sektion utan fester? Datasektionens Klubbmästeri har fixat fester lika länge som sektionen funnits till.
+###[DKM – Datas Klubbmästeri](/namnder/dkm)
+Vad vore en sektion utan fester? Datasektionens Klubbmästeri har fixat fester lika länge som sektionen funnits till.
 
-[dbuggen](http://dbu.gg) dbuggen är Datas sektionstidning. Den utkommer när en eventuell redaktion har tid och fantasi, vilket händer inte alltför sällan. Numera kan du, förutom att läsa den mycket uppskattade papperstidningen, även läsa dbuggen online.
+###[dbuggen](http://dbu.gg)
+dbuggen är Datas sektionstidning. Den utkommer när en eventuell redaktion har tid och fantasi, vilket händer inte alltför sällan. Numera kan du, förutom att läsa den mycket uppskattade papperstidningen, även läsa dbuggen online.
 
-[METAdorerna](/namnder/metadorerna) Vår gemensamma sektionslokal heter META och ligger på Osquars Backe 21. META vårdas av sektionslokalsgruppen METAdorerna.
+###[METAdorerna](/namnder/metadorerna)
+Vår gemensamma sektionslokal heter META och ligger på Osquars Backe 21. META vårdas av sektionslokalsgruppen METAdorerna.
 
-[IOR – Informationsorganet](/namnder/informationsorganet) för Datasektionen Vi ägnar oss åt att samla in och sprida ut information på Datasektionen.
+###[IOR – Informationsorganet för Datasektionen](/namnder/informationsorganet)
+Vi ägnar oss åt att samla in och sprida ut information på Datasektionen.
 
-[Tag Monkeys](/namnder/tag-monkeys) – Datas ritapor Grafisk design <3
+###[Tag Monkeys – Datas ritapor](/namnder/tag-monkeys)
+Grafisk design <3
 
-[Jämlikhetsnämnden](/namnder/jamlikhetsnamnden)  Nämnden som gör allt för att alla ska känna sig trygga och välkomna på Konglig Datasektionen.
+###[Jämlikhetsnämnden](/namnder/jamlikhetsnamnden)
+Nämnden som gör allt för att alla ska känna sig trygga och välkomna på Konglig Datasektionen.
 
-[KÖN – Konglig Östrogennämnden](/namnder/konglig-ostrogennamnden) Nämnden som hjälper tjejer på data att nätverka med varandra.
+###[KÖN – Konglig Östrogennämnden](/namnder/konglig-ostrogennamnden)
+Nämnden som hjälper tjejer på data att nätverka med varandra.
 
-[Mottagningen](/namnder/mottagningen) Har hand om mottagningen av de nya som börjar på Datasektionen. Här hittar du information om vem som är vem, samt när och var alla fester och annat skoj händer.
+###[Mottagningen](/namnder/mottagningen)
+Har hand om mottagningen av de nya som börjar på Datasektionen. Här hittar du information om vem som är vem, samt när och var alla fester och annat skoj händer.
 
-Näringslivsgruppen Näringslivsgruppen ansvarar för Datasektionens näringslivskontakter vilket innefattar bl.a. arbetsmarknadsdagar, studiebesök på intressanta företag samt olika former av sponsring.
+###[Näringslivsgruppen](/namnder/naringslivsgruppen)
+Näringslivsgruppen ansvarar för Datasektionens näringslivskontakter vilket innefattar bl.a. arbetsmarknadsdagar, studiebesök på intressanta företag samt olika former av sponsring.
 
-[Prylis](/namnder/prylis) Prylis säljer saker såsom sångböcker och märken till köpsugna teknologer.
+###[Prylmångleriet](/namnder/prylmangleriet)
+Prylis säljer saker såsom sångböcker och märken till köpsugna teknologer.
 
-[Qulturnämnden](/namnder/qulturnamnden) Qulturnämnden ombesörjer sektionens kulturella verksamhet i form av exempelvis filmvisningar och godisförsäljning.
+###[Qulturnämnden](/namnder/qulturnamnden)
+Qulturnämnden ombesörjer sektionens kulturella verksamhet i form av exempelvis filmvisningar och godisförsäljning.
 
-[Idrottsnämnden](/namnder/idrottsnamnden)
+###[Idrottsnämnden](/namnder/idrottsnamnden)
+Idrottsnämndens aktiviteter beror helt på vad dess medlemmar vill göra.
+Vi satsar bl a på att delta i alla grenar i THS-Mästerskapen samt att
+hålla kontinuerliga aktiviteter vid sidan av studierna.
 
-Studienämnden Ägnar sig åt att granska undervisningen. Studienämndens huvudsakliga arbete består av att utvärdera kurserna och samtala med kursansvarig, så att förbättringar kan göras.
+###[Studienämnden](/studier/studienamnden)
+Ägnar sig åt att granska undervisningen. Studienämndens huvudsakliga arbete består av att utvärdera kurserna och samtala med kursansvarig, så att förbättringar kan göras.
 
-[DIU](/namnder/) Datas internationella utskott
+###[DEMON – Datasektionens Musiknämnd](/namnder/datasektionens-musiknamnd)
+DEMON är Datas musikentusiaster som spelar musik tillsammans, DJ:ar musik och snackar om musik. Musik? Musik!
 
-[DEMON](/namnder/demon) – DEMON är Datas musikentusiaster som spelar musik tillsammans, DJ:ar musik och snackar om musik. Musik? Musik!
-
-[DESC](/namnder/desc) – Datas E-Sports Community DESC anordnar spelkvällar för E-sportsentusiaster och tar tillvara på medlemmarnas intressen inom området.
+###DESC – Datas E-Sports Community
+DESC anordnar spelkvällar för E-sportsentusiaster och tar tillvara på medlemmarnas intressen inom området.
 
 ## Projekt på Datasektionen
 
