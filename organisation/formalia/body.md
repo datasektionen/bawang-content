@@ -3,7 +3,7 @@ Formalia
 
 En samling av Datasektionens formella dokument.
 
-### [Protokoll](https://purjo.datasektionen.se/sektionen/formalia/protokoll)
+### [Protokoll](/organisation/protokoll)
 
 Protokoll från Sektionsmöten och D-rektoratsmöten
 
@@ -57,6 +57,6 @@ Det aktuella Ekonomiska Styrdokumentet för Sektionen.
 
 Sektionens aktuella budget.
 
-### [Årsrapporter](http://purjo.datasektionen.se/sektionen/formalia/_rsrapporter)
+### [Årsrapporter](/organisation/arsrapporter)
 
 Verksamhetsberättelse och bokföring för de år som har det.

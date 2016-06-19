@@ -42,7 +42,7 @@ två steg. Det första steget består av att anmäla ert företag via
 sida.
 
 Det andra och sista steget består av att skriva på
-[detta](http://purjo.datasektionen.se/naringsliv/d-dagen/d-dagen_kontrakt_2016.pdf)
+[detta](https://static.datasektionen.se/naringsliv/d-dagen_kontrakt_2016.pdf)
 kontrakt (inkl. beställningsformulär) och skicka till *d-dagen@d.kth.se*
 med rubriken <br>**Kontrakt D-Dagen 2016 - Företagsnamn**
 

@@ -6,7 +6,7 @@ Via kvällspressen kommer schlemma rapporter om studentskivor och annat whüdrou
 Sektionen samlas sig till försvar. Piskbeprydda Västar, Vita Snuttefiltar, Allseende Kameror, Mattäckta Förkläden samt Glittrande Guldpengar plockas fram.
 
 ##Det Kongliga Drifveriet
-<img alt="Drifveriet-logga" src="https://purjo.datasektionen.se/sektionen/mottagningen/drifveriet.png" style="float: right; width: 25%" />
+<img alt="Drifveriet-logga" src="https://static.datasektionen.se/mottagningen/drifveriet.svg" style="float: right; width: 35%" />
 
 *Det Kongliga Drifveriet är en gammal anrik institution som sedan urminnes tider kämpat för ljuset och sanningen.*
 
@@ -33,7 +33,7 @@ De Högre Sfärernas jordiske företrädare är Konglig Öfverdrif, allsmäktig 
 “På ytan hård, innerst inne brutal”.
 
 ##Det Kongliga Dadderiet
-<img alt="Dadderiet-logga" src="https://purjo.datasektionen.se/sektionen/mottagningen/dadderiet.png" style="float: right; width: 25%" />
+<img alt="Dadderiet-logga" src="https://static.datasektionen.se/mottagningen/dadderiet.svg" style="float: right; width: 35%" />
 
 *Det Kongliga Dadderiet är nØllans vän i alla väder. Det finns alltid kramgoa daddan att ty sig till när vindarna viner runt knuten.*
 
@@ -55,7 +55,7 @@ Du kommer att tillbringa mycket tid med dina Daddan den första tiden, så utnyt
 “På ytan mjuk, innerst inne kramgo!”
 
 ##Det Kongliga Doqumenteriet
-<img alt="Doqumenteriet-logga" src="https://purjo.datasektionen.se/sektionen/mottagningen/doqumenteriet.png" style="float: right; width: 25%" />
+<img alt="Doqumenteriet-logga" src="https://static.datasektionen.se/mottagningen/doqumenteriet.svg" style="float: right; width: 35%" />
 
 *Det Kongliga Doqumenteriet följer nØllan vart den än tar vägen. Överallt finns en chans att föreviga det där speciella ögonblicket.*
 
@@ -76,7 +76,7 @@ Det har med tiden visat sig att det enda riktigt tillförlitliga sättet att gen
 Sammanfattningsvis kan nØllan alltså betrakta Doqumenteriet som nØllans vänner. Doqumenteriet kommer med ett leende på läpparna svara på nØllans frågor och vara med nØllan överallt. För att visa hur gärna nØllan vill vara Doqumenteriets vän kan nØllan inför den beredde fotografen se till att till exempel spexa eller göra bort sig. Det senare är troligen en av de få saker nØllan skulle kunna klara av alldeles på egen hand.
 
 ##Det Kongliga Mammeriet
-<img alt="Mammeriet-logga" src="https://purjo.datasektionen.se/sektionen/mottagningen/mammeriet.png" style="float: right; width: 25%" />
+<img alt="Mammeriet-logga" src="https://static.datasektionen.se/mottagningen/mammeriet.svg" style="float: right; width: 35%" />
 
 *Mammeriet ser till att nØllan mår bra och har roligt. Denna eminenta samling människor, de så kallade mammeristerna, har huvudansvaret för att planera och genomföra alla stora fester under Mottagningen.*
 
@@ -93,7 +93,7 @@ När Mammeriet inte lagar mat, handlar eller dricker kaffe, hälsar de gärna p�
 Sammanfattningsvis är Mammeriet en vänlig skara som nØllan kan betraka som sina vänner. Mammeristerna kommer göra allt för att svara på nØllans frågor och göra alla glada under varje fest. Livet sägs vara en fest, så man skulle kunna säga att Mammeriet gör allt för att göra alla glada, alltid. För att visa hur mycket nØllan vill vara vän med mammeristerna får nØllan gärna komma och prata med Mammeriet under sittningar, luncher och alla andra tillfällen under Mottagningen. Varför inte tacka för den oftast så goda maten eller prata om vädret? Har du en ordvits på lager finns det inte en enda mammerist som inte är idel öra.
 
 ##Det Kongliga Ekonomeriet
-<img alt="Ekonomeriet-logga" src="https://purjo.datasektionen.se/sektionen/mottagningen/ekonomeriet-logo.png" style="float: right; width: 25%" />
+<img alt="Ekonomeriet-logga" src="https://static.datasektionen.se/mottagningen/ekonomeriet.svg" style="float: right; width: 35%" />
 
 *Ekonomeriet ser till så att cash alltid finns i mottagningen. Utan ekonomeristernas klirrande pengasäckar hade nØllan inte klarat sig länge.*
 

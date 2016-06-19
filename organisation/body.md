@@ -12,8 +12,7 @@ har vi våra **[stadgar](http://styrdokument.datasektionen.se/stadgar)** och vå
 funktionärers arbetsuppgifter står i
 **[reglementet](http://styrdokument.datasektionen.se/reglemente)**.
 [Kassören](/sektionen/funktionarsposter/kassor) är ansvarig för
-sektionens ekonomirutiner - dessa finner du i det [Ekonomiska
-styrdokumentet](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument).
+sektionens ekonomirutiner - dessa finner du i det [Ekonomiska styrdokumentet](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument).
 
 Konglig Datasektionen är också stolta innehavare av ett permanent
 alkoholtillstånd och följer därmed alkohollagen. För att förtydliga för
@@ -34,8 +33,7 @@ medlemmar får delta i och rösta på sektionsmöten.
 
 #### Nämnd
 
-[Här är en bild som beskriver vår
-organisation](https://purjo.datasektionen.se/sektionen/drektoratet/organisationskarta2.png)
+[Här är en bild som beskriver vår organisation](https://static.datasektionen.se/organisation/organisationskarta2.png)
 
 En nämnd är en organisationsenhet med ett specifikt syfte. Vi har en
 nämnd för studiebevakning, en för att sköta sektionslokalen, en för att
@@ -60,7 +58,7 @@ nämnd eller verksamhet på sektionen. Om du vill engagera dig i en nämnd
 så vänd dig till den funktionären! Om du själv vill bli funktionär så
 kontaktar du [Valberedningen](/sektionen/val) för att kandidera på ett
 SM. Information om vad det innebär att vara funktionär finns i denna
-[intropholdr](http://purjo.datasektionen.se/sektionen/organisation/intropholdr-20150910.pdf).
+[intropholdr](http://static.datasektionen.se/organisation/intropholdr-20150910.pdf).
 
 #### Styrelsen
 

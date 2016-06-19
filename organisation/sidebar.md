@@ -40,15 +40,15 @@ Aktuella informationsspridningsguidlines
 
 Den aktuella Jämlikhetspolicyn för Sektionen.
 
-#### [Samboavtalet 2015](https://purjo.datasektionen.se/sektionen/organisation/samboendeavtal.pdf)
+#### [Samboavtalet 2015](https://static.datasektionen.se/organisation/samboendeavtal.pdf)
 
 Det aktuella samboavtalet för META.
 
-#### [Samboavtalet 2016](https://purjo.datasektionen.se/sektionen/organisation/samboendeavtal_2016.pdf)
+#### [Samboavtalet 2016](https://static.datasektionen.se/organisation/samboendeavtal_2016.pdf)
 
 Samboavtalet för META under 2016.
 
-#### [Protokoll](https://purjo.datasektionen.se/sektionen/formalia/protokoll)
+#### [Protokoll](/organisation/protokoll)
 
 Protokoll från Sektionsmöten och D-rektoratsmöten
 
@@ -67,14 +67,11 @@ Lista över de som utnämnts till hedersmedlem på Datasektionen.
 
 ### Länkar
 
--   [D-rektoratet på
-    Facebook](http://www.facebook.com/pages/D-rektoratet/111910658842321)
--   [Vad gör styrelsens olika
-    poster](/sektionen/sammansattning)
+-   [D-rektoratet på Facebook](http://www.facebook.com/pages/D-rektoratet/111910658842321)
+-   [Vad gör styrelsens olika poster](/sektionen/sammansattning)
 -   [Protokoll](/sektionen/formalia/protokoll)
 -   [Stadgar](http://styrdokument.datasektionen.se/stadgar)
 -   [Reglemente](http://styrdokument.datasektionen.se/reglemente)
--   [Medlemsundersökningen
-    2014](https://purjo.datasektionen.se/sektionen/organisation/medlemsundersokningen-2014.pdf)
--   [Verifikatmall](https://purjo.datasektionen.se/files/verifikatmall_inkp.pdf)
--   [d-Phunkintropholdr](https://purjo.datasektionen.se/sektionen/organisation/d-phunktionarsintropholdr2016-01-17.pdf)
+-   [Medlemsundersökningen 2014](https://static.datasektionen.se/organisation/medlemsundersokningen-2014.pdf)
+-   [Verifikatmall](https://static.datasektionen.se/organisation/verifikatmall_inkp.pdf)
+-   [d-Phunkintropholdr](https://static.datasektionen.se/organisation/d-phunktionarsintropholdr2016-01-17.pdf)
