@@ -55,7 +55,7 @@ _Alltså jag har inte ens skoter-körkort!_
 _Ååh, Kan du spruta lite på mig?_  
 **Smeknamn:** Malle  
 
-### Pelle
+### Davoda
 #### Barmästare
 **Favoritdrink:** Amaretto Sour  
 **Specialitet:**   
@@ -76,7 +76,7 @@ _SLÄPP PENISEN!_
 **Favoritdrink:** Nutella  
 **Specialitet:**  
 **Citat:**
-_Adam har ju inte jobbat sedan 2014_  
+_Var det verkligen en legit spådam?!_  
 **Smeknamn:** Emiliano Sanchés
 
 ### Pampers
