@@ -4,7 +4,7 @@ Datasektionens musiknämnd
 
 ## För alla musikintresserade på Datasektionen KTH
 
-Ärkedemon 15/16: Per Hellström, arkedemon@d.kth.se
+Ärkedemon 16/17: Mikael Forsmark, arkedemon@d.kth.se
 
 ## Replokal
 
