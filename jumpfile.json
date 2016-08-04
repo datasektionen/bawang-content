@@ -1,5 +1,6 @@
 {
 	"/dkm":"/namnder/dkm",
 	"/lb":"/sektionen/lokalbokning",
-	"/lokalbokning":"/sektionen/lokalbokning"
+	"/lokalbokning":"/sektionen/lokalbokning",
+	"/mottagningen": "/namnder/mottagningen"
 }
