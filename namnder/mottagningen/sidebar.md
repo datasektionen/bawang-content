@@ -1,6 +1,6 @@
 ## Schema
 
-Mottangingen har såklart ett schema som går att hitta [här](https://calendar.google.com/calendar/embed?src=934akisp6r7f12q10bp9453kgs%40group.calendar.google.com)!
+Mottagningen har såklart ett schema som går att hitta [här](https://calendar.google.com/calendar/embed?src=934akisp6r7f12q10bp9453kgs%40group.calendar.google.com)!
 
 ## Kontakta oss
 
