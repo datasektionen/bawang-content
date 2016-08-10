@@ -1,4 +1,4 @@
-# Student guide
+# Studentguide
 
 
 [Studenternas guide till utbildningsfrågor](http://static.datasektionen.se/studier/studentguide.pdf) innehåller allt från studenters råd för hur man ska studera, till användbara förkortningar värda att kunna slå upp. 
@@ -23,5 +23,5 @@
 - **Förkortningar**
 - **Kontaktsida**
 
-## Student guide - PDF
-[Studenternas guide till utbildningsfrågor](http://static.datasektionen.se/studier/studentguide.pdf)
+## Studentguide - PDF
+[Studenternasguide till utbildningsfrågor](http://static.datasektionen.se/studier/studentguide.pdf)
