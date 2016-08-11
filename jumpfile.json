@@ -2,5 +2,6 @@
 	"/dkm":"/namnder/dkm",
 	"/lb":"/sektionen/lokalbokning",
 	"/lokalbokning":"/sektionen/lokalbokning",
-	"/mottagningen": "/namnder/mottagningen"
+	"/mottagningen": "/namnder/mottagningen",
+	"/dbuggen": "http://dbu.gg"
 }
