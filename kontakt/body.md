@@ -9,9 +9,9 @@ anledning är du alltid välkommen att kontakta oss:
 E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
 **Näringslivsansvarig**<br />
-Elin Karagöz<br />
+Andreas Heiskanen<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
-073-701 74 64
+070-59 22 399
 
 **Arbetsmarknadsdagsansvarig**<br />
 Albin Söderholm<br />
@@ -26,9 +26,9 @@ Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivss
 För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 
 **Kommunikatör**<br />
-Marcus Heine <br />
+Johan Käck<br />
 E-post: [info@d.kth.se](mailto:info@d.kth.se)<br />
-076-10 22 651
+076-230 78 67
 
 Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Datasektionens Informationsorgan, IOR, på adressen [ior@d.kth.se](mailto:ior@d.kth.se).
 
