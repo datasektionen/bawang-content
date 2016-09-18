@@ -23,7 +23,7 @@ För att få mer info om events och annat kan det vara en fördel att kika in p�
 
 ## Medlemmar
 
-### Airbear
+### Aron Strandberg
 #### Klubbmästare
 **Favoritdrink:** Pripps Blå  
 **Specialitet:** Inte äta mat / Vara hipster  
@@ -31,7 +31,7 @@ För att få mer info om events och annat kan det vara en fördel att kika in p�
 _Ballmer’s peak är en lögn, det här blir bara dåligt!_  
 **Smeknamn:** Knivsöder  
 
-### Paul
+### Carl Nordling
 #### Vice klubbmästare
 **Favoritdrink:** Paul & Carl  
 **Specialitet:** Ramla i taxin, i trappen, i hissen, i hallen  
@@ -39,15 +39,15 @@ _Ballmer’s peak är en lögn, det här blir bara dåligt!_
 _Är den här personen en kille? Hur länge hade ni sex?_  
 **Smeknamn:** Paul  
 
-### Gos-Gos
+### Josefin Nilsson
 #### Ekonomimästare
 **Favoritdrink:** SCHÅTS, Pink Schlager   
 **Specialitet:** Somna / Vara från Skellefteå / Hantera kniv  
 **Citat:**
 _Alltså jag har inte ens skoter-körkort!_  
-**Smeknamn:** BakismonGO 3.0  
+**Smeknamn:** Jossan / BakismonGO 3.0  
 
-### Malle
+### Malcolm Tivelius
 #### Ekonomimästare
 **Favoritdrink:** Denlert  
 **Specialitet:** Framstupa sidoläge  
@@ -55,7 +55,7 @@ _Alltså jag har inte ens skoter-körkort!_
 _Ååh, Kan du spruta lite på mig?_  
 **Smeknamn:** Malle  
 
-### Davoda
+### Helena Alinder
 #### Barmästare
 **Favoritdrink:** Amaretto Sour  
 **Specialitet:**   
@@ -63,15 +63,15 @@ _Ååh, Kan du spruta lite på mig?_
 _Det är typ det enda vi gör, vi är elaka människor_  
 **Smeknamn:** Trojansk snigel  
 
-### Fuse
+### Matteus Hast
 #### Barmästare
 **Favoritdrink:** Chokladminttu  
 **Specialitet:** Ha hatt på sig / Vara cool  
 **Citat:**
 _SLÄPP PENISEN!_  
-**Smeknamn:** Hatteus Mast / Let it go  
+**Smeknamn:** Hatteus Mast / Let it go / Fuse
 
-### Empa
+### Emil Lindblom
 #### Infomästare
 **Favoritdrink:** Nutella  
 **Specialitet:**  
@@ -79,10 +79,10 @@ _SLÄPP PENISEN!_
 _Var det verkligen en legit spådam?!_  
 **Smeknamn:** Emiliano Sanchés
 
-### Pampers
+### Pontus Broberg
 #### Festmästare
 **Favoritdrink:** Tequila  
-**Specialitet:** Tequila?  
+**Specialitet:** Twerka  
 **Citat:**
 _Tequila!_  
 **Smeknamn:** Kamikazepizza  
@@ -98,6 +98,9 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Jonathan Berglind__
   * Vice klubbmästare
   * _Amenvafaaan, det är banan överallt!_
+* __Shapour Jahanshahi__
+  * Ekonomimästare
+  * _Jag kände att det var nånting som tryckte mot mitt anus_
 * __Hedvig Reuterswärd__
   * Ekonomimästare
   * _Alltså de var söta men jag får bara associationer till testiklar och blöjor_
