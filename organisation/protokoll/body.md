@@ -6,6 +6,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 ## Sektionsmöten, SM
 
 ###2016
+17/5 [Val-SM](https://static.datasektionen.se/protokoll/valsm-16)
 
 29/3 [Revisions-SM](https://static.datasektionen.se/protokoll/revisions_sm_protokollcomplete.pdf)
 
@@ -294,6 +295,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2016
 
+16/6 [Sommar-DM](https://static.datasektionen.se/protokoll)
 8/5 [Godis-Söndags-DM-innan-Val-SM](https://static.datasektionen.se/protokoll/godisdmprotokoll1.1.pdf)
 
 21/4 [Projekt-DM](https://static.datasektionen.se/protokoll/projekt_dm_protokoll2.0.pdf)
