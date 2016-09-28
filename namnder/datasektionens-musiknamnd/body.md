@@ -8,7 +8,7 @@ Datasektionens musiknämnd
 
 ## Replokal
 
-För tillfället har vi en replokal på Odenplan, höstens reptider kommer att spikas snart :) Om det är upptaget så uppdateras det i kalendern, som är länkad här till höger. Går bra att hyra via [arkedemon@d.kth.se](mailto:arkedemon@d.kth.se)!
+Varje söndag kl 16:00-22:00 har vi en replokalstid på Odenplan! Är man intresserad av att repa så är det bara att slänga iväg ett mail till [arkedemon@d.kth.se](mailto:arkedemon@d.kth.se) för att få ytterligare information. :)
 
 ## Prylar
 
