@@ -16,14 +16,9 @@ uppgifter som inte direkt faller på någon annan funktionär. Ansvarar
 även för att det upprättas en verksamhetsberättelse varje år som talar
 om vad som hänt under året.
 
-<dl>
-<dh>Kontaktnämnd</dh>
+__Kontaktnämnd__
 
-<dd>
-Mottagningen
-
-</dd>
-</dl>
+* Mottagningen
 
 ## Vice sektionsordförande
 
@@ -38,30 +33,17 @@ inte tillhör någon specifik D-rek'post eller hinns med av relevant
 styrelseledamot. Det kontinuerliga ansvaret utgörs mest av fika samt
 ansvar för sektionens nycklar och accesser.
 
-<dl>
-<dh>Kontaktnämnder</dh>
+__Kontaktnämnder__
 
-<dd>
-Fanbärare
+* Fanbärare
 
-</dd>
-<dd>
-Mulle Schmeck
+* Mulle Schmeck
 
-</dd>
-<dd>
-Valberedningen
+* Valberedningen
 
-</dd>
-<dd>
-dÅre
+* dÅre
 
-</dd>
-<dd>
-Konglig Östrogennämnden
-
-</dd>
-</dl>
+* Konglig Östrogennämnden
 
 ## Kassör
 
@@ -69,30 +51,17 @@ Kassören håller helt enkelt reda på sektionens ekonomiska bit. Det
 gäller deklarationer, fakturor och naturligtvis bokföringen. Kassören
 och sektionsordföranden är de som har firmateckningsrätt för sektionen.
 
-<dl>
-<dh>Kontaktnämnder</dh>
+__Kontaktnämnder__
 
-<dd>
-Datas Klubbmästeri
+* Datas Klubbmästeri
 
-</dd>
-<dd>
-METAspexet
+* METAspexet
 
-</dd>
-<dd>
-Vårbalen
+* Vårbalen
 
-</dd>
-<dd>
-Bröllopet
+* Bröllopet
 
-</dd>
-<dd>
-Prylmångleriet
-
-</dd>
-</dl>
+* Prylmångleriet
 
 ## Sekreterare
 
@@ -100,30 +69,19 @@ Sekreteraren är ansvarig för att protokoll skrivs, undertecknas,
 justeras och arkiveras. Sekreteraren ansvarar också för att brev delas
 ut till rätt personer. Även allmän formalia är sekreterarens uppgift.
 
-<dl>
-<dh>Kontaktnämnder</dh>
 
-<dd>
-Datas Art Director
+__Kontaktnämnder__
 
-</dd>
-<dd>
-Kårfullmäktige
+* Datas Art Director
 
-</dd>
-<dd>
-DESC
+* Kårfullmäktige
 
-</dd>
-<dd>
-Redaqtionen
+* DESC
 
-</dd>
-<dd>
-Sektionshistoriker
+* Redaqtionen
 
-</dd>
-</dl>
+* Sektionshistoriker
+
 
 ## Ledamot för utbildningsfrågor
 
@@ -132,30 +90,19 @@ kontaktperson i styrelsen ser till att arbetet inte stannar av. Ibland
 kan ledamoten till och med få representera på något utskottsmöte som KTH
 håller.
 
-<dl>
-<dh>Kontaktnämnder</dh>
 
-<dd>
-Programansvarig student
+__Kontaktnämnder__
 
-</dd>
-<dd>
-Studienämndens ordförande
+* Programansvarig student
 
-</dd>
-<dd>
-Ärkedemon
+* Studienämndens ordförande
 
-</dd>
-<dd>
-Internationella utskottet
+* Ärkedemon
 
-</dd>
-<dd>
-Studerandeskyddsombud
+* Internationella utskottet
 
-</dd>
-</dl>
+* Studerandeskyddsombud
+
 
 ## Ledamot för studiesociala frågor
 
@@ -177,30 +124,19 @@ på sektionen
 Det är viktigt att framhärda att miljö innefattar såväl den fysiska som
 den psykosociala miljön.
 
-<dl>
-<dh>Kontaktnämnder</dh>
 
-<dd>
-Idrottsnämnden
+__Kontaktnämnder__
 
-</dd>
-<dd>
-Ljud- och ljusansvarig
+* Idrottsnämnden
 
-</dd>
-<dd>
-METAdorerna
+* Ljud- och ljusansvarig
 
-</dd>
-<dd>
-Qulturnämnden
+* METAdorerna
 
-</dd>
-<dd>
-Jämlikhetsnämnden
+* Qulturnämnden
 
-</dd>
-</dl>
+* Jämlikhetsnämnden
+
 
 ## Ledamot för näringsliv och kommunikation
 
@@ -215,27 +151,15 @@ som avser dessa områden. Dessa ansvarsområden inkluderar att:
 * bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på
 sektionen
 
-<dl>
-<dh>Kontaktnämnder</dh>
 
-<dd>
-StuDs
+__Kontaktnämnder__
 
-</dd>
-<dd>
-Crash & Bränn
+* StuDs
 
-</dd>
-<dd>
-Kommunikatör
+* Crash & Bränn
 
-</dd>
-<dd>
-Näringslivsgruppen
+* Kommunikatör
 
-</dd>
-<dd>
-D-dagen
+* Näringslivsgruppen
 
-</dd>
-
+* D-dagen
