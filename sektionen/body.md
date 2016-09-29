@@ -1,5 +1,4 @@
-Sektionen
-=========
+# Konglig Datasektionen
 
 Datasektionen är en ideell
 [studentsektion](http://sv.wikipedia.org/wiki/Studentsektion) under

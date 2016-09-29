@@ -1,6 +1,4 @@
-# Nämnder
-
-## Nämnder på Datasektionen
+# Nämnder på Datasektionen
 
 ###[DKM – Datas Klubbmästeri](/namnder/dkm)
 Vad vore en sektion utan fester? Datasektionens Klubbmästeri har fixat fester lika länge som sektionen funnits till.

@@ -1,5 +1,4 @@
-Organisation
-------------
+# Organisation
 
 Konglig Datasektionen är en ideell förening som verkar för våra
 medlemmars nytta. Vi har stadgar och en styrelse – samt en massa andra
@@ -25,13 +24,13 @@ Andra policyer vi förbinder oss till är vår
 [Informationsspridningsguidelines](http://styrdokument.datasektionen.se/informationsspridningsguidelines).
 Alla dessa hittar du även i listan till höger.
 
-#### Medlem
+### Medlem
 
 Medlemmar är alla som betalar sektionsavgiften. Styrelsen är medlemmar,
 funktionärerna är medlemmar och även Du är förhoppningsvis medlem! Alla
 medlemmar får delta i och rösta på sektionsmöten.
 
-#### Nämnd
+### Nämnd
 
 [Här är en bild som beskriver vår organisation](https://static.datasektionen.se/organisation/organisationskarta2.png)
 
@@ -51,7 +50,7 @@ stadgar/reglemente.
 Det går också att genomföra projekt inom sektionen. Ett projekt är som
 en tillfällig nämnd men startas på samma sätt, med en motion.
 
-#### Funktionär
+### Funktionär
 
 Funktionärer väljs också på SM. Varje funktionär är ansvarig för en
 nämnd eller verksamhet på sektionen. Om du vill engagera dig i en nämnd
@@ -60,7 +59,7 @@ kontaktar du [Valberedningen](/sektionen/val) för att kandidera på ett
 SM. Information om vad det innebär att vara funktionär finns i denna
 [intropholdr](http://static.datasektionen.se/organisation/intropholdr-20150910.pdf).
 
-#### Styrelsen
+### Styrelsen
 
 Styrelsen är de personer som medlemmarna utsett att utföra besluten som
 fattas på SM. Styrelsen är därmed ansvarig inför alla medlemmar att
@@ -74,7 +73,7 @@ att kandidera på ett SM.
 
 [Vilka sitter i styrelsen just nu?](https://dfunkt.datasektionen.se/positions/kassor)
 
-#### Revisor
+### Revisor
 
 En revisor är en person vars uppgift är att utföra revision genom att
 verifiera bokföring, beslutsmässighet och verksamhet i en organisation,
@@ -89,7 +88,7 @@ Om du vill föreslå en ändring i något av dokumenten lämnar du in en
 motion till SM. För att ändra stadgarna krävs två på varandra följande
 SM-beslut.
 
-#### Sektionsmöte (SM)
+### Sektionsmöte (SM)
 
 Sektionsmöte, oftare SM, är sektionens högsta beslutande organ. Kan
 liknas vid Datasektionens årsmöte, fast det finns flera varje år. Alla
@@ -98,7 +97,7 @@ sektionsmedlemmar har yttranderätt och rösträtt på Sektionsmötena. Det
 fyra fasta SM under året; Budget-SM, och Glögg-SM, Revisions-SM och
 Val-SM på våren. Utöver dessa kan Extra-SM anordnas.
 
-#### D-rektoratsmöten (DM)
+### D-rektoratsmöten (DM)
 
 Datasektionens styrelsemöte. Alla sektionsmedlemmar har närvarorätt och
 alla nämndordförande har utöver det yttranderätt. Alla funktionärer får
