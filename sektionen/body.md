@@ -92,11 +92,11 @@ vilka sektioner som ska finnas.
 Sektionstidning
 ---------------
 
-dBuggen är Datasektionens stolta sektionstidning där sär skrivningar är
-lika sär som de är skrivna, som ledamöterna i Svenska Akademien drömmer
-våta drömmar om på nätterna och inte minst de som har tagit på sig att
+[dbuggen](http://dbu.gg) är Datasektionens stolta sektionstidning där sär
+skrivningar är lika sär som de är skrivna, som ledamöterna i Svenska Akademien
+drömmer våta drömmar om på nätterna och inte minst de som har tagit på sig att
 föra det skrivna ordet som en nymodighetens virvelvind genom sektionen.
-nØlledBuggen är dBuggens årliga publikation för nyantagna studenter.
+nØlledbuggen är dbuggens årliga publikation för nyantagna studenter. 
 
 Jämlikhetsarbete
 ----------------
