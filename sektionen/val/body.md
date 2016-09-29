@@ -12,6 +12,6 @@ Nomineringen stänger 10/10.
 
 (nominerad, **tackat ja**, <s>tackat nej</s> )
 
-<iframe src="https://docs.google.com/spreadsheets/d/1KcUPKlanSyxHmFbaqriSD4eUsuBI8JrTXwjUEUakQQ8/pubhtml?gid=1697488666&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="200px" src="https://docs.google.com/spreadsheets/d/1KcUPKlanSyxHmFbaqriSD4eUsuBI8JrTXwjUEUakQQ8/pubhtml?gid=1697488666&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 Om du har några frågor, maila [valberedning@d.kth.se](mailto:valberedning@d.kth.se).
