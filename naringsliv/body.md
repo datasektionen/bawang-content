@@ -41,9 +41,9 @@ affischer i andra lokaler där dataloger rör sig, exempelvis utanför datorsala
 
 ## dJobb
 
-dJobb är Datasektionens nylanserade jobbportal. Den är perfekt om ni
-söker kreativa, drivna och nyfikna dataloger till exjobb, sommarjobb
-eller fast anställning. Lägg upp en annons på jobbportalen där den
+[dJobb](http://djobb.se) är Datasektionens nylanserade jobbportal. Den är
+perfekt om ni söker kreativa, drivna och nyfikna dataloger till exjobb,
+sommarjobb eller fast anställning. Lägg upp en annons på jobbportalen där den
 garanterat når många aktivt jobbsökande dataloger.
 
 
@@ -53,3 +53,4 @@ Vill ni ha chansen att få göra dataloger lite gladare och samtidigt göra
 reklam? Sponsra då sektionen med en rolig eller andvändbar pryl eller
 varför inte göra något helt nytt och annorlunda? Endast fantasin sätter
 gränser.
+

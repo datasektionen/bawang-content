@@ -13,9 +13,9 @@ Festverksamhet, DKM
 -------------------
 
 Fester är något en teknolog sällan klarar sig utan i mer än ett par
-dagar. För att tillfredsställa behoven finns Datas Klubbmästeri. DKM,
-som det så enkelt kallas i lekmannatermer, består av ett gäng som
-definitivt har examen att anordna helt bonkers fester. Nu tycker du
+dagar. För att tillfredsställa behoven finns Datas Klubbmästeri.
+[DKM](/namnder/dkm), som det så enkelt kallas i lekmannatermer, består av ett
+gäng som definitivt har examen att anordna helt bonkers fester. Nu tycker du
 säkert att det här låter extremt bra - det är det.
 
 Underhållning och aktiviteter
@@ -192,4 +192,4 @@ allt kan man lätt säga att det är det bästa som händer i en teknologs liv.
 Sektionsbilen
 -------------
 
-Sektionen har en bil man kan låna!
+Sektionen har en bil man kan [låna](/sektionen/sektionsbilen)!

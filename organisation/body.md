@@ -71,7 +71,7 @@ att kandidera på ett SM.
 
 [Vad gör styrelsens olika poster](/sektionen/sammansattning)
 
-[Vilka sitter i styrelsen just nu?](https://dfunkt.datasektionen.se/positions/kassor)
+[Vilka sitter i styrelsen just nu?](https://dfunkt.datasektionen.se/positions)
 
 ### Revisor
 
