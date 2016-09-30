@@ -1,6 +1,6 @@
 # Aktuella val
 
-Till budget-SM är det fyllnadsval fr två poster, öfvermatrona och ledarmot för utbildningsfrågor.
+Till budget-SM är det fyllnadsval fr två poster, öfvermatrona och ledamot för utbildningsfrågor.
 
 För att nominera någon, följ länken nedan.
 
