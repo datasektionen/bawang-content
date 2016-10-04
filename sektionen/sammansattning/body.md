@@ -53,7 +53,7 @@ och sektionsordföranden är de som har firmateckningsrätt för sektionen.
 
 __Kontaktnämnder__
 
-* Datas Klubbmästeri
+* DKM
 
 * METAspexet
 
