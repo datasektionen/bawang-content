@@ -12,28 +12,28 @@ META är ju även en festlokal så i samarbete med DKM ser vi till att ölkylarn
 
 Det är vi som håller i måndagsstäden i Meta under året. Vi bjuder in nyantagna att hjälpa till och städa för att lära sig vart allt ligger i lokalen och hur sopphanteringen fungerar. Alla som hjälper till att städa 2 gånger får vara med på en väl påkostad fest i slutet av året. Städningen sker måndagar med start klockan 17:17 i nØllegrupperna och tar typ en timme efter skolan. Passar det inte att städa på den avsatta tiden kan man komma förbi en annan måndag eller dom avsedda extra städen mot slutet av terminen.
 
-### Städ
+#### Städ
 
-* 28/9 Aladdin + Bamse
-* 5/10 Cruella de Vil + Dolan
-* 12/10 En Pokémon + Fyrkant, Svampbob
-* 2/11 Grodan Boll + Hocapontas
-* 9/11 ICA-Stig + Johnny Bravo
-* 16/11 Kim Possible + Lilla My
-* 23/11 Mojo Jojo + Extra
-
-Vill du få information och/eller påminnelser, fyll då i följande <stängt>
+* 3/10: Alv & Big foot
+* 10/10: Cthulu & Drake
+* 7/11: Enhörning & Fågel Fenix
+* 14/11: Gubben i månen & Häst
+* 21/11: Ingvar Olsberg & Jultomten
+* 28/11: Kraken & Loch Ness odjuret
+* 5/12: Mannen, myten, legenden + Extra
+* 19/12: Extra
 
 Frågor? Maila stadskrik@d.kth.se
 
-### Städskrin 2015/2016:
+#### Städskrin 2015/2016:
 
-Alexander Viklund
-Lisa Lund
+Caroline Borg (Datasektionen)
+
+Emma Olsson (Sektionen för Medieteknik)
 
 ## Interna Poster
 
-### MAESTRO
+#### MAESTRO
 
 ”Master At Expressing Stuff To Recievers Online”
 
@@ -43,7 +43,7 @@ Har ansvar för att information om META / METAdorerna kommer ut på internet. An
 
 Responsible for the spread of information regarding META / The METAdors online. Responsible for the facebook page of META, The METAdors etc.
 
-### MARIO
+#### MARIO
 
 ”Master At Reparing Inventory Objects”
 
@@ -53,7 +53,7 @@ Har ansvar för att trasiga saker lagas och håller koll på att saker är hela,
 
 Responsible for repairing broken items and making sure things aren’t broken. This includes the microwave ovens.
 
-### MISS
+#### MISS
 
 ”Master In Sweet Stuff”
 
@@ -63,7 +63,7 @@ Ansvarar för läskkylen i META, om en sådan finns där.
 
 Responsible for the soda refridgerator in META if such a machine should be there.
 
-### MISTER
+#### MISTER
 
 ”Master of Inventory, Screws, Tools, Equipment & Resources”
 
@@ -73,7 +73,7 @@ Har ansvar för inköp av saker till lokalen.
 
 Responsible for purchasing things for the chapter-house.
 
-### MOBA
+#### MOBA
 
 “Master Of Board Admin”
 
@@ -83,7 +83,7 @@ Har ansvar för att anslagstavlan i META hålls snygg och att reglerna angående
 
 Responsible for the notice-board in META. Keeps it tidy, clean and enforces the rules concerning posting notes on the board. Is also responsible for other informative notes about the chapter-house. This could be notes concerning META being closed on certain days or instructions for how different machines in META should be used.
 
-### MOPP
+#### MOPP
 
 ”Master Of Parties & Punsch”
 
@@ -93,7 +93,7 @@ Har ansvar för METAdorernas teambuildings (både mindre och stora) som sker ung
 
 Responsible for The METAdors’ teambuilding events (both small and big) which take place about once a month.
 
-### MUCKA
+#### MUCKA
 
 ”Master of Utilization, Catwalk & Krap Annihilation”
 
