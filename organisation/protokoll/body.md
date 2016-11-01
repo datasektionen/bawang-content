@@ -6,6 +6,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 ## Sektionsmöten, SM
 
 ###2016
+17/10 [Budget-SM](https://static.datasektionen.se/protokoll/buget16)
+
 17/5 [Val-SM](https://static.datasektionen.se/protokoll/valsm-16)
 
 29/3 [Revisions-SM](https://static.datasektionen.se/protokoll/revisions_sm_protokollcomplete.pdf)
