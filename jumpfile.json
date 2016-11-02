@@ -4,5 +4,6 @@
 	"/lokalbokning":"/sektionen/lokalbokning",
 	"/mottagningen": "/namnder/mottagningen",
 	"/dbuggen": "http://dbu.gg",
-	"/val": "/sektionen/val"
+	"/val": "/sektionen/val",
+	"/budget": "/organisation/budget"
 }
