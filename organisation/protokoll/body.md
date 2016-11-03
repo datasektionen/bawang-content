@@ -297,6 +297,10 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2016
 
+5/10 [DM-innan-Budget-SM](https://static.datasektionen.se/protokoll/dminnanbudget16)
+
+28/9 [Mjukstart-DM](https://static.datasektionen.se/protokoll/mjukstartdm161)
+
 16/6 [Sommar-DM](https://static.datasektionen.se/protokoll)
 
 8/5 [Godis-Söndags-DM-innan-Val-SM](https://static.datasektionen.se/protokoll/godisdmprotokoll1.1.pdf)
