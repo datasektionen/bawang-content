@@ -19,34 +19,38 @@ Utöver onsdagspubarna har vi även ett par större event:
 
 För att få mer info om events och annat kan det vara en fördel att kika in på vår Facebook-sida!
 
-[![Facebook logo](https://www.facebookbrand.com/img/assets/asset.f.logo.lg.png)](https://www.facebook.com/datasklubbmasteri)
+[![Facebook logo](http://dkm.io/images/FB-logo.png)](https://www.facebook.com/datasklubbmasteri)
 
 ## Medlemmar
 
+<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/aron.png">
 ### Aron Strandberg
 #### Klubbmästare
 **Favoritdrink:** Pripps Blå  
-**Specialitet:** Inte äta mat / Vara hipster  
+**Specialitet:** Äta långsamt / Vara hipster  
 **Citat:**
 _Ballmer’s peak är en lögn, det här blir bara dåligt!_  
-**Smeknamn:** Knivsöder  
+**Smeknamn:** Knivsöder / Airbear  
 
+<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/carl.png">
 ### Carl Nordling
 #### Vice klubbmästare
-**Favoritdrink:** Paul & Carl  
+**Favoritdrink:**  Strawberry Fusion Delight  
 **Specialitet:** Ramla i taxin, i trappen, i hissen, i hallen  
 **Citat:**
 _Är den här personen en kille? Hur länge hade ni sex?_  
 **Smeknamn:** Paul  
 
+<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/jossan.png">
 ### Josefin Nilsson
 #### Ekonomimästare
 **Favoritdrink:** SCHÅTS, Pink Schlager   
 **Specialitet:** Somna / Vara från Skellefteå / Hantera kniv  
 **Citat:**
-_Alltså jag har inte ens skoter-körkort!_  
+_Det borde finnas typ foodoora för matvaror_  
 **Smeknamn:** Jossan / BakismonGO 3.0  
 
+<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/malle.png">
 ### Malcolm Tivelius
 #### Ekonomimästare
 **Favoritdrink:** Denlert  
@@ -55,14 +59,16 @@ _Alltså jag har inte ens skoter-körkort!_
 _Ååh, Kan du spruta lite på mig?_  
 **Smeknamn:** Malle  
 
+<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/helena.png">
 ### Helena Alinder
 #### Barmästare
 **Favoritdrink:** Amaretto Sour  
-**Specialitet:**   
+**Specialitet:** Vara kulturell  
 **Citat:**
 _Det är typ det enda vi gör, vi är elaka människor_  
 **Smeknamn:** Trojansk snigel  
 
+<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/matteus.png">
 ### Matteus Hast
 #### Barmästare
 **Favoritdrink:** Chokladminttu  
@@ -71,21 +77,86 @@ _Det är typ det enda vi gör, vi är elaka människor_
 _SLÄPP PENISEN!_  
 **Smeknamn:** Hatteus Mast / Let it go / Fuse
 
+<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/emil.png">
 ### Emil Lindblom
 #### Infomästare
 **Favoritdrink:** Nutella  
-**Specialitet:**  
+**Specialitet:** Vara i Thailand / Sno bubbel  
 **Citat:**
 _Var det verkligen en legit spådam?!_  
-**Smeknamn:** Emiliano Sanchés
+**Smeknamn:** Emiliano Sanchés, Empa  
 
+<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/pontus.png">
 ### Pontus Broberg
 #### Festmästare
-**Favoritdrink:** Tequila  
-**Specialitet:** Twerka  
+**Favoritdrink:** Brez  
+**Specialitet:** Twerka / Vara spontan / Förklara saker för sig själv  
 **Citat:**
-_Tequila!_  
-**Smeknamn:** Kamikazepizza  
+_Vad ska man ta då? Det är ju som ett smörgåsbord med sprit!_  
+**Smeknamn:** Kamikazepizza / PorreP / Pampers  
+
+<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/felix2.png">
+### Felix Andersson
+#### Kött
+**Favoritdrink:** Grötmjölk  
+**Specialitet:** Rubiks kub   
+**Citat:**
+__  
+**Smeknamn:** Rubiks Gud  
+
+<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/christina2.png">
+### Christina Sunnegårdh
+#### Kött
+**Favoritdrink:**   
+**Specialitet:** Sjunga som en mus  
+**Citat:**
+_Det är lite som Tarzan-dating_  
+**Smeknamn:**  H-H-H-Ha den äran  
+
+<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/samuel.png">
+### Samuel Hertzberg
+#### Kött
+**Favoritdrink:** Brasan, a song of ice and fire  
+**Specialitet:** Vissla  
+**Citat:**
+_Jag bjuder på en öl om du lägger dig i sängen_  
+**Smeknamn:** Shert  
+
+<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/martin.png">
+### Martin Hyberg
+#### Kött
+**Favoritdrink:** Gin N' Juice  
+**Specialitet:** Presentera menyer  
+**Citat:**
+_Det blir en tomatmacka_  
+**Smeknamn:** Gin N' Juice  
+
+<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/klara.png">
+### Klara Eserstam
+#### Kött
+**Favoritdrink:**  
+**Specialitet:** Vara från Skellefteå  
+**Citat:**
+_Jag raggade på honom på ett väldigt vulgärt sätt_  
+**Smeknamn:** Klara, färdiga gå!  
+
+<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/isac2.png">
+### Isac Haglund
+#### Kött
+**Favoritdrink:** Cola / Staropramen / Tequila / Punsch  
+**Specialitet:**   
+**Citat:**
+__  
+**Smeknamn:** Jesus  
+
+<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/joar2.png">
+### Joar Rutqvist
+#### Kött
+**Favoritdrink:**  
+**Specialitet:** Jonglera med shaker / Hacka grönsaker  
+**Citat:**
+_Ye_  
+**Smeknamn:** Läskkylsansvarig  
 
 ## Cliff
 
@@ -97,13 +168,13 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
   * _Jag kommer inte ihåg, det var någon som sa någonting men jag lyssnade inte så mycket_
 * __Jonathan Berglind__
   * Vice klubbmästare
-  * _Amenvafaaan, det är banan överallt!_
+  * _Hellre snigla en person än en möbel!_
 * __Shapour Jahanshahi__
   * Ekonomimästare
   * _Jag kände att det var nånting som tryckte mot mitt anus_
 * __Hedvig Reuterswärd__
   * Ekonomimästare
-  * _Alltså de var söta men jag får bara associationer till testiklar och blöjor_
+  * _Jag vill bara ha big dick_
 * __Jennifer Persson__
   * Barmästare
   * _Jag råkade ta på nåns rumpa och den var blöt!_
