@@ -286,7 +286,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###1990
 
-12/12 [SM](https:/static.datasektionen.se/protokoll/sm901212.html)
+12/12 [SM](https://static.datasektionen.se/protokoll/sm901212.html)
 
 6/11 [SM](https://static.datasektionen.se/protokoll/sm901106.html)
 
