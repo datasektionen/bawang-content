@@ -57,6 +57,8 @@ DESC anordnar spelkvällar för E-sportsentusiaster och tar tillvara på medlemm
 
 Vårbalen
 
+[Bröllopet](https://www.facebook.com/brollopet2017)
+
 ## Tidigare nämnder och föreningar på Datasektionen
 
 Spexmästeriet: Var ansvarigt för att skapa nya spex på sektionen. Lades ner på Budget-SM 2013.
