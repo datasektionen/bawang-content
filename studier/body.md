@@ -1,21 +1,29 @@
-Har du problem eller frågor om studierna?
------------------------------------------
+#Studier
+Har du problem eller frågor relaterade till studierna? Kolla om svaren finns i [vanliga frågor om studierna](/studier/faq).
+Annars maila någon av de nedan. Är du osäker vem du kan fråga? Maila [sno@d.kth.se](mailto:sno@d.kth.se)
 
-Kolla om svaren finns i [vanliga frågor om studierna](/studier/faq). Annars,
-kontakta Årskursrepresentanterna för din årskurs!
+## Kontakt
+Här finner du kontaktuppgifter för att ta vidare problem/frågor du kan tänkas ha rörande studier.
 
-**År 1:** <ake-1@d.kth.se>
+### Studienämndens ordförande
+Kontakta mig om du har frågor/funderingar rörande dina studier. T.ex. att något inte funkar inom en kurs. Vill du kontakta någon mer specifikt inom studienämnden, säg en årskursrepresentant [kolla här](/namnder/studienamnden#kontakt)
 
-**År 2:** <ake-2@d.kth.se>
+[sno@d.kth.se](mailto:sno@d.kth.se)
 
-**År 3:** <ake-3@d.kth.se>
+### Studerandeskyddsombud
+Kontakta mig om du har frågor/funderingar rörande studiemiljön, ur både fysiskt och psykosocialt perspektiv.
 
-**Masteransvariga för datalogimastern:** Rebecca Redgert och August
-Janse eller maila **Studienämnden** på <sn@d.kth.se>!
+[sso@d.kth.se](mailto:sso@d.kth.se)
 
-Har du tankar eller funderingar om studierna som du vill dela med dig av anonymt? [Fyll i detta formulär!](https://docs.google.com/forms/d/1LDJBP4Jrjd7iOPx84IwFt0Wy5nfPj4Hi1JyMwGRiF-I/viewform)
+### Jämlikhetsnämndens ordförande
+Kontakta mig om du har frågor/funderingar rörande jämlikhetsfrågor. 
 
+[jmo@d.kth.se](mailto:jmo@d.kth.se)
+
+## Övrigt
 På dessa sidor försöker vi samla så mycket information som möjligt som
 rör dina studier på D-programmet (Civilingenjörsprogrammet Datateknik på KTH).
+
+
 
 
