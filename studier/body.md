@@ -18,6 +18,4 @@ Har du tankar eller funderingar om studierna som du vill dela med dig av anonymt
 På dessa sidor försöker vi samla så mycket information som möjligt som
 rör dina studier på D-programmet (Civilingenjörsprogrammet Datateknik på KTH).
 
-<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;showTabs=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=bu47lbhc0qliogf5a0osl68750%40group.calendar.google.com&amp;color=%23875509&amp;ctz=Europe%2FStockholm" width="100%" height="500" frameborder="0" scrolling="no">
-</iframe>
 
