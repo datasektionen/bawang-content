@@ -57,6 +57,8 @@ DESC anordnar spelkvällar för E-sportsentusiaster och tar tillvara på medlemm
 
 Vårbalen
 
+Sångboksgruppen
+
 [Bröllopet](https://www.facebook.com/brollopet2017)
 
 ## Tidigare nämnder och föreningar på Datasektionen
