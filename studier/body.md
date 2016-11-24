@@ -18,7 +18,7 @@ Kontakta mig om du har frågor/funderingar rörande studiemiljön, ur både fysi
 ### Jämlikhetsnämndens ordförande
 Kontakta mig om du har frågor/funderingar rörande jämlikhetsfrågor. 
 
-[jmo@d.kth.se](mailto:jmo@d.kth.se)
+[jamlikordf@d.kth.se](mailto:jamlikordf@d.kth.se)
 
 ## Övrigt
 På dessa sidor försöker vi samla så mycket information som möjligt som
