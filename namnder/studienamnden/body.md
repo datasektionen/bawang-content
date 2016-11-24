@@ -20,8 +20,11 @@ Studiemiljö
 Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig! Beroende på vilket år du går ska du höra av dig till din årskursrepresentant eller master student!
 
 År 1 - Victor och Axel: ake-1@d.kth.se
+
 År 2 - Cristian och Tobias: ake-2@d.kth.se
+
 År 3 - Artem och Abdallah: ake-3@d.kth.se
+
 Master - Per, Rebecka och August: master@d.kth.se
 
 
