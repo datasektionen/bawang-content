@@ -86,4 +86,4 @@ Bevaka och söka förbättra den fysiska och psykosociala studiemiljön.
 Studienämndsmöten
 Studienämndsmöten (SN-möten) hålls minst en gång per period. Mötena är öppna för samtliga intresserade sektionsmedlemmar. Man kan alltid ta upp studierelaterade frågor eller studienämndens verksamhet. Annars diskuterar vi aktuella problem i kurser och funktionärer som SSO (Studerandeskyddsombud), berättar vad de gjort från föregående möte.
 
-[Tidigare mötesprotokoll](hittas https://drive.google.com/drive/folders/0B5oC_KdJBCU7amRQb3RFb3VQbzg)
+Tidigare mötesprotokoll hittas [här](https://drive.google.com/drive/folders/0B5oC_KdJBCU7amRQb3RFb3VQbzg)
