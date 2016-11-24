@@ -5,6 +5,6 @@
 	"/mottagningen": "/namnder/mottagningen",
 	"/val": "/sektionen/val",
 	"/budget": "/organisation/budget",
-	"/bilen": "sektionen/sektionsbilen",
+	"/bilen": "/sektionen/sektionsbilen",
 	"/dbuggen": "http://dbu.gg"
 }
