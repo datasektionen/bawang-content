@@ -7,7 +7,7 @@ Du är givetvis alltid välkommen på studienämndsmötena (se [nyhetssidan](/ny
 
 Studienämnden hjälper till med att föra vidare studenternas åsikter till lärare eller berörda parter på CSC för att förbättra utbildningen. Har du något du vill säga till om kan du antingen kontakta oss i Studienämnden eller komma på ett Studienämndsmöte. Vi svarar även på studenters frågor om studierna alternativt hjälper till att ta reda på vem man kan kontakta för att få svar.
  
-Vi är här för dig - Kontakta oss eller kom på ett Studienämndsmöte.
+"Vi är här för dig" - Kontakta oss eller kom på ett Studienämndsmöte.
 
 ## Kontakt
 
@@ -67,7 +67,7 @@ Studienämndens ordförande (SNO) leder arbetet i Studienämnden samt inom studi
 SNO är intresserad av studenternas åsikter om både utbildningen och Studienämnden, för att kunna utföra det arbete som reglementet sägen. Dessutom kanske just du kan hjälpa oss att ta reda på om vi arbetar med rätt saker i studierelaterade frågor.
 
 ### Programansvarig student
-Programansvarig student (PAS) arbetar tillsammans med Studienämndens ordförande för att förbättra utbildningens kvalitet. PAS ansvarar huvudsakligen för kontakten till lärare samt utbildningsansvariga på CSC-skolan, och arbetat i allmänhet med det mer långsiktiga arbetet i Studienämnden.
+Programansvarig student (PAS) arbetar tillsammans med Studienämndens ordförande för att förbättra utbildningens kvalitet. PAS ansvarar huvudsakligen för kontakten till lärare samt utbildningsansvariga på CSC-skolan, och arbetar i allmänhet med det mer långsiktiga fokuset i Studienämnden.
 
 ### Styrelseledamot för utbildningsfrågor
 Styrelseledamot för utbildningsfrågor (D-UF) verkar för en bättre utbildningskvalitet på sektionen. Tanken är att D-UF ska ha en total bild över utbildningen. Vidare ansvarar ledamoten, D-UF, för kontakten mellan styrelsen och Studienämndens ordförande/ Programansvarig student.
