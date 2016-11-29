@@ -67,11 +67,11 @@ Lista över de som utnämnts till hedersmedlem på Datasektionen.
 
 ### Länkar
 
--   [D-rektoratet på Facebook](http://www.facebook.com/pages/D-rektoratet/111910658842321)
+-   [D-rektoratet på Facebook](https://facebook.com/pages/D-rektoratet/111910658842321)
 -   [Vad gör styrelsens olika poster](/sektionen/sammansattning)
 -   [Protokoll](/sektionen/formalia/protokoll)
 -   [Stadgar](http://styrdokument.datasektionen.se/stadgar)
 -   [Reglemente](http://styrdokument.datasektionen.se/reglemente)
 -   [Medlemsundersökningen 2014](https://static.datasektionen.se/organisation/medlemsundersokningen-2014.pdf)
--   [Verifikatmall](https://static.datasektionen.se/organisation/verifikatmall_inkp.pdf)
+-   [Verifikatmall](http://static.datasektionen.se/kvittomall-ht16)
 -   [d-Phunkintropholdr](http://static.datasektionen.se/intropholdr-2016-11-30)
