@@ -74,4 +74,4 @@ Lista över de som utnämnts till hedersmedlem på Datasektionen.
 -   [Reglemente](http://styrdokument.datasektionen.se/reglemente)
 -   [Medlemsundersökningen 2014](https://static.datasektionen.se/organisation/medlemsundersokningen-2014.pdf)
 -   [Verifikatmall](https://static.datasektionen.se/organisation/verifikatmall_inkp.pdf)
--   [d-Phunkintropholdr](https://static.datasektionen.se/organisation/d-phunktionarsintropholdr2016-01-17.pdf)
+-   [d-Phunkintropholdr](http://static.datasektionen.se/intropholdr-2016-11-30)
