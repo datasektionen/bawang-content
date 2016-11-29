@@ -11,6 +11,8 @@ Studienämnden hjälper till med att föra vidare studenternas åsikter till lä
 
 ## Kontakt
 
+Kontakta oss om du har frågor om eller kommentarer kring studierna eller studiemiljön.
+
 ### Studier
 
 Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Beroende på vilket år du går ska du höra av dig till din årskursrepresentant eller masterstudent!
@@ -40,21 +42,18 @@ Vi svarar även på studenters frågor om studierna alternativt hjälper till at
 
 Om oss i vår korthet
 
-* Årskursrepresentant - Kontakta om du har synpuknter på kurserna du läser
+* Årskursrepresentanter - Kontakta om du har synpunkter på kurserna du läser
 * Studerandeskyddsombud - Kontakta om det är för kallt eller oergonomiska stolar
 * Studienämndens ordförande - Ser till att studienämnden lever
 * Programansvarig student - Arbetar långsiktigt för programmets och kursers utveckling
-* Styrelse ledamot för utbildningsfrågor - Har helthets uppfattningen om utbildningen
+* Styrelseledamot för utbildningsfrågor - Har helthetsuppfattningen om utbildningen
 * Övriga intresserade studenter
-
-### Studerandeskyddsombud
-Studerandeskyddsombudet verkar för en bättre studiemiljö under dina studier här på KTH. Studiemiljön är då såväl den fysiska som den psykosociala. Tveka inte på att höra av dig!
 
 ### Årskursrepresentanter
 Årskursrepresentanter är studenter som representerar sin årskurs gentemot både studenterna och lärarna. De fungerar som en röst för de som inte själva vill ta kontakt med lärarna. Har du synpunkter gällande kurser, lärare eller liknande så finns din årskursrepresentant där för att hjälpa dig.
 
-### Övriga intresserade studenter
-Studienämnden är en öppen nämnd, vilket innebär att alla sektionsmedlemmar som vill får engagera sig i nämnden. För mer information, kontakta Studienämndens ordförande.
+### Studerandeskyddsombud
+Studerandeskyddsombudet verkar för en bättre studiemiljö under dina studier här på KTH. Studiemiljön är då såväl den fysiska som den psykosociala. Tveka inte på att höra av dig!
 
 ### Studienämndens ordförande
 Studienämndens ordförande (SNO) leder arbetet i Studienämnden samt inom studiebevakning i allmänhet. SNO är en förtroendevald funktionärspost i Datasektionen och reglementet säger att SNO ska
@@ -70,9 +69,12 @@ SNO är intresserad av studenternas åsikter om både utbildningen och Studienä
 Programansvarig student (PAS) arbetar tillsammans med Studienämndens ordförande för att förbättra utbildningens kvalitet. PAS ansvarar huvudsakligen för kontakten till lärare samt utbildningsansvariga på CSC-skolan, och arbetar i allmänhet med det mer långsiktiga fokuset i Studienämnden.
 
 ### Styrelseledamot för utbildningsfrågor
-Styrelseledamot för utbildningsfrågor (D-UF) verkar för en bättre utbildningskvalitet på sektionen. Tanken är att D-UF ska ha en total bild över utbildningen. Vidare ansvarar ledamoten, D-UF, för kontakten mellan styrelsen och Studienämndens ordförande/ Programansvarig student.
+Styrelseledamot för utbildningsfrågor (D-UF) verkar för en bättre utbildningskvalitet på sektionen. Tanken är att D-UF ska ha en total bild över utbildningen. Vidare ansvarar ledamoten, D-UF, för kontakten mellan styrelsen och Studienämndens ordförande/Programansvarig student.
 
-### Verksamhet
+### Övriga intresserade studenter
+Studienämnden är en öppen nämnd, vilket innebär att alla sektionsmedlemmar som vill får engagera sig i nämnden. För mer information, kontakta Studienämndens ordförande.
+
+## Verksamhet
 Enligt sektionens reglemente är den huvudsakliga verksamheten att
 
 * Inhämta teknologernas åsikter om studiesituationen och med dessa som utgångspunkt arbeta för att förbättra kvaliteten på utbildningen
