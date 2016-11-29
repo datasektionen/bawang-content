@@ -8,8 +8,9 @@ upp på nästkommande Sektionsmöte för beslut.
 
 ## Medlemmar
 
--   Kjelle, Väktare, 2015
--   Heidi, Väktare, 2015
+-   Helen Lindkvist, Studievägledare Medieteknik, 2015
+-   Alicja Lissenko, Studievägledare Datateknik, 2015
+-   Kjelle och Heidi, Väktare, 2015
 -   Lena Edvardsson, 2013
 -   Stefan Nilsson, 2013
 -   Henrik Eriksson, 2012
@@ -21,13 +22,14 @@ upp på nästkommande Sektionsmöte för beslut.
 -   Katrin Rosenqvist, Fysik, 1983
 -   Johan Groth, Fysik, 1983
 
-### Kjelle
+### Helen Lindkvist och Alicja Lissenko
 
-*Beskrivning saknas.*
+Våra studievägledare gör helt otroligt mycket för att hjälpa sektionsaktiva studenter med att
+få studierna att gå ihop. De förtjänar ett tack.
 
-### Heidi
+### Kjelle och Heidi
 
-*Beskrivning saknas.*
+Vissa är bättre än andra.
 
 ### Lena Edvardsson
 
