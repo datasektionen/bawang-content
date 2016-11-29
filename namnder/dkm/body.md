@@ -38,7 +38,7 @@ _Ballmer’s peak är en lögn, det här blir bara dåligt!_
 **Favoritdrink:**  Strawberry Fusion Delight  
 **Specialitet:** Ramla i taxin, i trappen, i hissen, i hallen  
 **Citat:**
-_Är den här personen en kille? Hur länge hade ni sex?_  
+_Så länge jag får sätta min snopp i något är jag vaken!_  
 **Smeknamn:** Paul  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/jossan.png">
@@ -83,7 +83,7 @@ _SLÄPP PENISEN!_
 **Favoritdrink:** Nutella  
 **Specialitet:** Vara i Thailand / Sno bubbel  
 **Citat:**
-_Var det verkligen en legit spådam?!_  
+_Hon var väldigt tydlig med att hennes skrev var varmt_  
 **Smeknamn:** Emiliano Sanchés, Empa  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/pontus.png">
@@ -107,7 +107,7 @@ __
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/christina2.png">
 ### Christina Sunnegårdh
 #### Kött
-**Favoritdrink:**   
+**Favoritdrink:** Chili caprinoska   
 **Specialitet:** Sjunga som en mus  
 **Citat:**
 _Det är lite som Tarzan-dating_  
@@ -144,15 +144,15 @@ _Jag raggade på honom på ett väldigt vulgärt sätt_
 ### Isac Haglund
 #### Kött
 **Favoritdrink:** Cola / Staropramen / Tequila / Punsch  
-**Specialitet:**   
+**Specialitet:**    
 **Citat:**
 __  
-**Smeknamn:** Jesus  
+**Smeknamn:** Jesus, Marquisac  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/joar2.png">
 ### Joar Rutqvist
 #### Kött
-**Favoritdrink:**  
+**Favoritdrink:** Worcester sour  
 **Specialitet:** Jonglera med shaker / Hacka grönsaker  
 **Citat:**
 _Ye_  
