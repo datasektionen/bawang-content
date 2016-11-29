@@ -8,6 +8,8 @@ upp på nästkommande Sektionsmöte för beslut.
 
 ## Medlemmar
 
+-   Kjelle, Väktare, 2015
+-   Heidi, Väktare, 2015
 -   Lena Edvardsson, 2013
 -   Stefan Nilsson, 2013
 -   Henrik Eriksson, 2012
@@ -18,6 +20,14 @@ upp på nästkommande Sektionsmöte för beslut.
 -   Stefan Östlund, Elektro, 1983
 -   Katrin Rosenqvist, Fysik, 1983
 -   Johan Groth, Fysik, 1983
+
+### Kjelle
+
+*Beskrivning saknas.*
+
+### Heidi
+
+*Beskrivning saknas.*
 
 ### Lena Edvardsson
 
