@@ -10,10 +10,6 @@ Jättemånga kramar och kärlek <3
 
 Prylis
 
-## Aktuell/mindre aktuell information
-
-* [Profilkläder för sektionen](http://www.datasektionen.se/sektionen/namnder/prylis/trojor)
-
 ## Prylis @ Facebook
 
 Prylmånglaren finns givetvis på [facebook](http://www.facebook.com/prylisdata). Ett sjukt bra sätt att få reda på vad som händer, som inte kräver mer än att du fortsätter besöka facebook sådär slentrianmässigt som du redan gör.

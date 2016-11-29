@@ -8,11 +8,11 @@ Datasektionens stadgar, alltid i senast reviderade upplagan.
 
 Reglementet reglerar sektionsverksamheten utöver stadgarna.
 
-#### [Verksamhetsplan](/sektionen/formalia/verksamhetsplan)
+#### [Verksamhetsplan](/organisation/verksamhetsplan)
 
 Den aktuella verksamhetsplanen.
 
-#### [Sektionens budget](/sektionen/formalia/budget)
+#### [Sektionens budget](/organisation/budget)
 
 Den aktuella budgeten.
 

@@ -1,6 +1,6 @@
 # Tag Monkeys
 
-Tag Monkeys är den grafiska partitionen av [IOR – Informationsorganet](https://datasektionen.se/namnder/ior) på datasektionen.
+Tag Monkeys är den grafiska partitionen av [IOR – Informationsorganet](https://datasektionen.se/namnder/informationsorganet) på datasektionen.
 
 ## Vad gör vi?
 

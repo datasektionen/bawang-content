@@ -38,7 +38,7 @@ Idrottsnämndens aktiviteter beror helt på vad dess medlemmar vill göra.
 Vi satsar bl a på att delta i alla grenar i THS-Mästerskapen samt att
 hålla kontinuerliga aktiviteter vid sidan av studierna.
 
-###[Studienämnden](/studier/studienamnden)
+###[Studienämnden](/namnder/studienamnden)
 Ägnar sig åt att granska undervisningen. Studienämndens huvudsakliga arbete består av att utvärdera kurserna och samtala med kursansvarig, så att förbättringar kan göras.
 
 ###[DEMON – Datasektionens Musiknämnd](/namnder/datasektionens-musiknamnd)
