@@ -8,6 +8,7 @@ Medlemskap i Klubbmästare Emeritus-orden tilldelas de klubbmästare på Datasek
 
 Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
 
+    Adam Denlert, Untricesimus 2015/2016
     Robin Hellgren, Tricesimus 2014/2015
     Sebastian Magnusson, Undetricesimus 2013/2014
     Jesper Bratt, Vicesimus Septus 2012/2013
@@ -47,7 +48,9 @@ Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig s
 
 Valspråk: Ensam är stark. Tillsammans är vi bara många.
 
-    Ida Vainionpää, Duodetricesimus 2014
+    Hanna Nyblom, Tricesima 2016
+    Shayan Effati, Tricesimus 2015
+    Ida Vainionpää, Duodetricesima 2014
     Jens Arvidsson, Vicesimus Septus 2013
     Jacob Håkansson, Vicesimus Septus 2012
     Michael Hjortholt, Vicesimus Quintus 2011
@@ -85,7 +88,9 @@ Medlemskap i Storasyskon Emeritus-orden tilldelas de Storasyskon som förtjänst
 
 Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
 
-    Anna Olsson, Undetricesimus 2014
+    Agnes Åman, Untricesima 2016
+    Björn Englesson, Tricesimus 2015
+    Anna Olsson, Undetricesima 2014
     Fredrik Bystam, Duodetricesimus 2013
     Johan Stjernberg, Vicesiums Sextus 2012
     Emma Angermund, Vicesimus Sexta 2011
@@ -119,6 +124,8 @@ Ordenstecknet för Ordförande Emeritus består av en störtad femuddig stjärna
 
 Valspråk: Det är faktiskt vi som bestämmer.
 
+    Lovisa Runhem, Tricesima 2015
+    Jacob Sievers, Undetricesimus 2014
     Petter Djupfeldt, Vicesimus Septus 2013
     Andreas Tarandi, Vicesimus Sextus 2012
     Andreas Falk, Vicesimus Septus 2011
