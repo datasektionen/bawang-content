@@ -17,19 +17,23 @@ Kontakta oss om du har frågor om eller kommentarer kring studierna eller studie
 
 Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Beroende på vilket år du går ska du höra av dig till din årskursrepresentant eller masterstudent!
 
-År 1 - Victor och Axel: ake-1@d.kth.se
+År 1 - Victor och Axel: [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
 
-År 2 - Cristian och Tobias: ake-2@d.kth.se
+År 2 - Cristian och Tobias: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
 
-År 3 - Artem och Abdallah: ake-3@d.kth.se
+År 3 - Artem och Abdallah: [ake-3@d.kth.se](mailto:ake-3@d.kth.se)
 
-Master - Per, Rebecka och August: master@d.kth.se
+Master - Per, Rebecka och August: [master@d.kth.se](mailto:master@d.kth.se)
 
 
 ### Studiemijö
 
 Kalla salar? Oergonomiska stolar? Är det för hög ljudnivå? Kontakta SSO om du har en åsikt!
 SSO: sso@d.kth.se
+
+### Övriga frågor
+
+Kontakta Studienämndens ordförande om du har någon annan fråga: [sno@d.kth.se](mailto:sno@d.kth.se)
 
 ## Om studienämnden
 
