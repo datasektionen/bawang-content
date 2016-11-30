@@ -7,9 +7,9 @@ men efter denna även Tekniska Högskolan Studentkårs (THS) stadgar,
 reglemente och policydokument.
 
 Datasektionen har även egna dokument.För att reglera vår egen verksamhet
-har vi våra **[stadgar](http://styrdokument.datasektionen.se/stadgar)** och våra
+har vi våra **[stadgar](https://styrdokument.datasektionen.se/stadgar)** och våra
 funktionärers arbetsuppgifter står i
-**[reglementet](http://styrdokument.datasektionen.se/reglemente)**.
+**[reglementet](https://styrdokument.datasektionen.se/reglemente)**.
 [Kassören](https://dfunkt.datasektionen.se/positions/kassor) är ansvarig för
 sektionens ekonomirutiner - dessa finner du i det [Ekonomiska styrdokumentet](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument).
 
@@ -19,9 +19,9 @@ alla medlemmar hur vi ser på alkohol i sektionslokalen och i vår
 verksamhet har vi även en
 [Alkoholpolicy](https://styrdokument.datasektionen.se/alkoholpolicy).
 Andra policyer vi förbinder oss till är vår
-[Rekryteringspolicy](http://styrdokument.datasektionen.se/rekryteringspolicy),
-[d-Funkpolicy](http://styrdokument.datasektionen.se/dfunkpolicy) samt våra
-[Informationsspridningsguidelines](http://styrdokument.datasektionen.se/informationsspridningsguidelines).
+[Rekryteringspolicy](https://styrdokument.datasektionen.se/rekryteringspolicy),
+[d-Funkpolicy](https://styrdokument.datasektionen.se/dfunkpolicy) samt våra
+[Informationsspridningsguidelines](https://styrdokument.datasektionen.se/informationsspridningsguidelines).
 Alla dessa hittar du även i listan till höger.
 
 ### Medlem
@@ -57,7 +57,7 @@ nämnd eller verksamhet på sektionen. Om du vill engagera dig i en nämnd
 så vänd dig till den funktionären! Om du själv vill bli funktionär så
 kontaktar du [Valberedningen](/sektionen/val) för att kandidera på ett
 SM. Information om vad det innebär att vara funktionär finns i denna
-[intropholdr](http://static.datasektionen.se/organisation/intropholdr-20150910.pdf).
+[intropholdr](https://static.datasektionen.se/organisation/intropholdr-20150910.pdf).
 
 ### Styrelsen
 

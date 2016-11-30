@@ -12,19 +12,19 @@ Protokoll från Sektionsmöten och D-rektoratsmöten
 Hur får man använda Datasektionens logotyp och var finns de i
 tryckvänliga filformat?
 
-### [Stadgar](http://styrdokument.datasektionen.se/stadgar)
+### [Stadgar](https://styrdokument.datasektionen.se/stadgar)
 
 Datasektionens stadgar, alltid i senast reviderade upplagan.
 
-### [Reglemente](http://styrdokument.datasektionen.se/reglemente)
+### [Reglemente](https://styrdokument.datasektionen.se/reglemente)
 
 Reglementet reglerar sektionsverksamheten utöver stadgarna.
 
-### [Jämlikhetspolicy](http://styrdokument.datasektionen.se/jamlikhetspolicy)
+### [Jämlikhetspolicy](https://styrdokument.datasektionen.se/jamlikhetspolicy)
 
 Den aktuella Jämlikhetspolicyn för Sektionen.
 
-### [Rekryteringspolicy](http://styrdokument.datasektionen.se/rekryteringspolicy)
+### [Rekryteringspolicy](https://styrdokument.datasektionen.se/rekryteringspolicy)
 
 Rekryteringspolicyn definierar och reglerar val, inval och rekrytering
 på sektionen.
@@ -41,15 +41,15 @@ Lista över de som utnämnts till hedersmedlem på Datasektionen.
 
 Den aktuella verksamhetsplanen.
 
-### [Alkoholpolicy](http://styrdokument.datasektionen.se/alkoholpolicy)
+### [Alkoholpolicy](https://styrdokument.datasektionen.se/alkoholpolicy)
 
 Den aktuella Alkoholpolicyn för Sektionen.
 
-### [DFunk-policy](http://styrdokument.datasektionen.se/dfunkpolicy)
+### [DFunk-policy](https://styrdokument.datasektionen.se/dfunkpolicy)
 
 Den aktuella dfunk-policyn för Sektionen.
 
-### [Ekonomiskt Styrdokument](http://styrdokument.datasektionen.se/ekonomiskt_styrdokument)
+### [Ekonomiskt Styrdokument](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument)
 
 Det aktuella Ekonomiska Styrdokumentet för Sektionen.
 

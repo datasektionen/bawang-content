@@ -9,7 +9,7 @@ För att boka META kontakta Konglig Lokalchefer via mail,
 till både Konglig Lokalchef (Data) och Sektionslokalsansvarige (Media),
 men det kommer antagligen vara Lokalchef som svarar er.
 Regler som gäller vid bokning finns i [sektionens
-reglemente](http://styrdokument.datasektionen.se/reglemente#7_sektionslokalen)
+reglemente](https://styrdokument.datasektionen.se/reglemente#7_sektionslokalen)
 samt i
 [samboendeavtalet](https://static.datasektionen.se/organisation/samboendeavtal_2016.pdf).
 Var god och uppge om ni kommer servera alkohol när ni bokar META (behövs

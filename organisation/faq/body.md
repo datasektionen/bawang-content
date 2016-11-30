@@ -60,7 +60,7 @@ ifall du hyr META.
 ### Ordningsregler
 
 
-<http://intra.kth.se/regelverk/lokalforsorjning/ordningsregler/fester-i-kth-s-lokaler-1.27339>
+<https://intra.kth.se/polopoly_fs/1.662086!/fester_kth_lokaler.pdf>
 
 THS-lokaler
 -----------

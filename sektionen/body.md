@@ -1,7 +1,7 @@
 # Konglig Datasektionen
 
 Datasektionen är en ideell
-[studentsektion](http://sv.wikipedia.org/wiki/Studentsektion) under
+[studentsektion](https://sv.wikipedia.org/wiki/Studentsektion) under
 [Tekniska Högskolans Studentkår](http://ths.kth.se) som finns till för
 att alla som läser Datateknik på KTH ska få en så bra studietid som
 möjligt. Dels genom att bevaka kurserna som vi läser, dels genom att
@@ -124,7 +124,7 @@ Spex
 
 METAspexet är ett samarbete mellan Datasektionen och Sektionen för
 Medieteknik. Ändamålet är att bringa glädje till sektionernas medlemmar
-genom att ägna sig åt [spex](http://sv.wikipedia.org/wiki/Spex), gyckel,
+genom att ägna sig åt [spex](https://sv.wikipedia.org/wiki/Spex), gyckel,
 musik, dans och andra sceniska underhållningsformer samt ytterligare
 stärka sektionernas samverkan. De verkar för en årlig uppsättning av
 METAspexet.

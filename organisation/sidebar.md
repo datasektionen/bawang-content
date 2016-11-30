@@ -1,10 +1,10 @@
 ### Styrdokument
 
-#### [Stadgar](http://styrdokument.datasektionen.se/stadgar)
+#### [Stadgar](https://styrdokument.datasektionen.se/stadgar)
 
 Datasektionens stadgar, alltid i senast reviderade upplagan.
 
-#### [Reglemente](http://styrdokument.datasektionen.se/reglemente)
+#### [Reglemente](https://styrdokument.datasektionen.se/reglemente)
 
 Reglementet reglerar sektionsverksamheten utöver stadgarna.
 
@@ -16,27 +16,27 @@ Den aktuella verksamhetsplanen.
 
 Den aktuella budgeten.
 
-#### [dFunk-policy](http://styrdokument.datasektionen.se/dfunkpolicy)
+#### [dFunk-policy](https://styrdokument.datasektionen.se/dfunkpolicy)
 
 Den aktuella dFunk-policyn.
 
-#### [Rekryteringspolicy](http://styrdokument.datasektionen.se/rekryteringspolicy)
+#### [Rekryteringspolicy](https://styrdokument.datasektionen.se/rekryteringspolicy)
 
 Vad inval och rekrytering är och hur dessa ska gå till.
 
-#### [Alkoholpolicy](http://styrdokument.datasektionen.se/alkoholpolicy)
+#### [Alkoholpolicy](https://styrdokument.datasektionen.se/alkoholpolicy)
 
 Den aktuella Alkoholpolicyn för Sektionen.
 
-#### [Ekonomiskt Styrdokument](http://styrdokument.datasektionen.se/ekonomiskt_styrdokument)
+#### [Ekonomiskt Styrdokument](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument)
 
 Det aktuella Ekonomiska Styrdokumentet för Sektionen.
 
-#### [Informationsspridningsguidlines](http://styrdokument.datasektionen.se/informationsspridningsguidelines)
+#### [Informationsspridningsguidlines](https://styrdokument.datasektionen.se/informationsspridningsguidelines)
 
 Aktuella informationsspridningsguidlines
 
-#### [Jämlikhetspolicy](http://styrdokument.datasektionen.se/jamlikhetspolicy)
+#### [Jämlikhetspolicy](https://styrdokument.datasektionen.se/jamlikhetspolicy)
 
 Den aktuella Jämlikhetspolicyn för Sektionen.
 
