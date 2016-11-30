@@ -48,13 +48,13 @@ _Så länge jag får sätta min snopp i något är jag vaken!_
 **Specialitet:** Somna / Vara från Skellefteå / Hantera kniv  
 **Citat:**
 _Det borde finnas typ foodoora för matvaror_  
-**Smeknamn:** Jossan / BakismonGO 3.0  
+**Smeknamn:** Jossan / Plossan / Jos-Gos  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/malle.png">
 ### Malcolm Tivelius
 #### Ekonomimästare
 **Favoritdrink:** Denlert  
-**Specialitet:** Framstupa sidoläge  
+**Specialitet:** Framstupa sidoläge, Syntax  
 **Citat:**
 _Ååh, Kan du spruta lite på mig?_  
 **Smeknamn:** Malle  
@@ -66,7 +66,7 @@ _Ååh, Kan du spruta lite på mig?_
 **Specialitet:** Vara kulturell  
 **Citat:**
 _Det är typ det enda vi gör, vi är elaka människor_  
-**Smeknamn:** Trojansk snigel  
+**Smeknamn:** Heleeeeeen  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/matteus.png">
 ### Matteus Hast
@@ -144,7 +144,7 @@ _Jag raggade på honom på ett väldigt vulgärt sätt_
 ### Isac Haglund
 #### Kött
 **Favoritdrink:** Cola / Staropramen / Tequila / Punsch  
-**Specialitet:**    
+**Specialitet:** Åka till Marquise    
 **Citat:**
 __  
 **Smeknamn:** Jesus, Marquisac  
