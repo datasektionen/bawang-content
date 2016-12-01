@@ -1,5 +1,15 @@
 # Data har en sektionsbil!
 
-För att boka bilen, maila [d-mulle@d.kth.se](mailto:d-mulle@d.kth.se).
+För att boka bilen, besök [bokning.datasektionen.se](https://bokning.datasektionen.se/bookings/5). Nedan finns en veckovis kalender över framtida och historiska bokningar.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=8h9o47v06a4m649v941arup3s4%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=Europe%2FStockholm" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<div id="calendar"></div>
+<script type="text/javascript">
+	window.pandoraConfig = [
+		{
+			entityId: 5,
+			containerId: 'calendar'
+		}
+	];
+</script>
+<script type="text/javascript" src="https://bokning.datasektionen.se/js/cors/component.js"></script>
+<link href="https://bokning.datasektionen.se/css/component.css" type="text/css" rel="stylesheet">
