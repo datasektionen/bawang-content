@@ -26,10 +26,10 @@ Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du a
 Master - Per, Rebecka och August: [master@d.kth.se](mailto:master@d.kth.se)
 
 
-### Studiemijö
+### Studiemiljö
 
 Kalla salar? Oergonomiska stolar? Är det för hög ljudnivå? Kontakta SSO om du har en åsikt!
-SSO: sso@d.kth.se
+SSO: [sso@d.kth.se](mailto:sso@d.kth.se)
 
 ### Övriga frågor
 
