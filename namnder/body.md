@@ -65,6 +65,7 @@ Sångboksgruppen
 För att starta ett projetk så måste det ligga i sektionens intresse då det är sektionens pengar som kommer att användas.
 Därför för att starta ett nytt projekt måste en motion med följande saker lämnas in till nästkommande SM.
 För att starta ett Nytt projekt så krävs följande enligt stadgarna:
+
 - **Projektnamn**
 - **Syfte**
 - **Budget**
