@@ -57,7 +57,7 @@ nämnd eller verksamhet på sektionen. Om du vill engagera dig i en nämnd
 så vänd dig till den funktionären! Om du själv vill bli funktionär så
 kontaktar du [Valberedningen](/sektionen/val) för att kandidera på ett
 SM. Information om vad det innebär att vara funktionär finns i denna
-[intropholdr](https://static.datasektionen.se/intropholdr-2016-11-30).
+[intropholdr](https://static.datasektionen.se/intropholdr/2016-12-06).
 
 ### Styrelsen
 
