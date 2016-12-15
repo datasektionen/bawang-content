@@ -73,4 +73,4 @@ Lista över de som utnämnts till hedersmedlem på Datasektionen.
 -   [Stadgar](https://styrdokument.datasektionen.se/stadgar)
 -   [Reglemente](https://styrdokument.datasektionen.se/reglemente)
 -   [Verifikatmall](https://static.datasektionen.se/kvittomall-ht16)
--   [d-Phunkintropholdr](http://static.datasektionen.se/intropholdr2016-12-15.pdf)
+-   [d-Phunkintropholdr](http://static.datasektionen.se/infphldr2016-12-15.pdf)
