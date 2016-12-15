@@ -298,6 +298,10 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2016
 
+22/11 [DM-innan-Glögg-SM](https://static.datasektionen.se/protokoll/gloggdm16)
+
+6/11 [Brunch-DM](https://static.datasektionen.se/protokoll/brunch162)
+
 5/10 [DM-innan-Budget-SM](https://static.datasektionen.se/protokoll/dminnanbudget16)
 
 28/9 [Mjukstart-DM](https://static.datasektionen.se/protokoll/mjukstartdm161)
