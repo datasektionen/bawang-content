@@ -51,7 +51,7 @@ DESC anordnar spelkvällar för E-sportsentusiaster och tar tillvara på medlemm
 
 [dÅre](http://dåre.se)
 
-[StuDs](https://studieresan.se)
+[Studs](https://studieresan.se)
 
 [METAspexet](http://metaspexet.se)
 

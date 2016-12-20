@@ -154,7 +154,7 @@ sektionen
 
 __Kontaktnämnder__
 
-* StuDs
+* Studs
 
 * Crash & Bränn
 
