@@ -172,7 +172,7 @@ Datasektionen åker varje vinter till Åre (dÅre) för några dagars härlig
 skidåkning och nattliv. Anmälan öppnar efter mottagningen och
 arrangemanget är till självkostnadspris med Skistars studentrabatter.
 
-Musikversamhet, DEMON
+Musikverksamhet, DEMON
 ---------------------
 
 Nämnden DEMON finns för att täcka alla dina musikrelaterade behov.
