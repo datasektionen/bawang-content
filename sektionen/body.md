@@ -146,8 +146,8 @@ organizes the reception of international students.
 Studieresa
 ----------
 
-Studieresan, StuDs, anordnas som en projektkurs för dataloger som läser
-sista året på sin utbildning. Projektets mål är att ta sig till ett
+Studieresan, Studs, anordnas som en projektkurs för dataloger i
+slutet av sin utbildning. Projektets mål är att ta sig till ett
 främmande land, lära känna en annan kultur samt förbättra deltagarnas
 kontakter med näringslivet. Eftersom projektet arrangeras som kurs får
 du poäng och dessutom en fantastisk upplevelse.
