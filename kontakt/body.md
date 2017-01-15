@@ -14,9 +14,9 @@ E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
 070-59 22 399
 
 **Arbetsmarknadsdagsansvarig**<br />
-Albin Söderholm<br />
+Linn Jensen<br />
 E-post: [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)<br />
-079-347 71 69
+076-250 92 00
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
 
