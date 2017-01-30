@@ -54,12 +54,19 @@ This is interpreted as that you may not book a fourth time before the
 first three bookings are used. Note that this only applies to bookings
 at the same time (for example, Wednesday 10-12).
 
-<iframe
-src="https://www.google.com/calendar/embed?src=6a5rem0bbkrh5rber7a2sdpp48%40group.calendar.google.com&ctz=Europe/Stockholm"
-style="border: 1px #AAA solid" width="100%" height="520" frameborder="0"
-scrolling="no"></iframe>
-
-<iframe
-src="https://www.google.com/calendar/embed?src=k3dk0up940aaib3v44mc2eje90%40group.calendar.google.com&ctz=Europe/Stockholm"
-style="border: 1px #AAA solid" width="100%" height="520" frameborder="0"
-scrolling="no"></iframe>
+<div id="calendar"></div>
+<div id="calendar2"></div>
+<script type="text/javascript">
+    window.pandoraConfig = [
+        {
+            entityId: 7,
+            containerId: 'calendar'
+        },
+        {
+            entityId: 8,
+            containerId: 'calendar2'
+        }
+    ];
+</script>
+<script type="text/javascript" src="https://bokning.datasektionen.se/js/cors/component.js"></script>
+<link href="https://bokning.datasektionen.se/css/component.css" type="text/css" rel="stylesheet">
