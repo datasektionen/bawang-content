@@ -3,6 +3,8 @@
 	"/lb":"/sektionen/lokalbokning",
 	"/lokalbokning":"/sektionen/lokalbokning",
 	"/mottagningen": "/namnder/mottagningen",
+	"/mottagningen/janifattar": "https://ston.datasektionen.se/applications/new",
+        "/sektionen/mottagningen/janifattar": "https://ston.datasektionen.se/applications/new",
 	"/val": "/sektionen/val",
 	"/budget": "/organisation/budget",
 	"/bilen": "/sektionen/sektionsbilen",
