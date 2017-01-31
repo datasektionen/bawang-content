@@ -32,7 +32,7 @@ medlemmar får delta i och rösta på sektionsmöten.
 
 ### Nämnd
 
-[Här är en bild som beskriver vår organisation](https://static.datasektionen.se/organisation/organisationskarta2.png)
+[Här är en bild som beskriver vår organisation](https://static.datasektionen.se/organisation/karta-2017-01-31.jpg)
 
 En nämnd är en organisationsenhet med ett specifikt syfte. Vi har en
 nämnd för studiebevakning, en för att sköta sektionslokalen, en för att
