@@ -1,33 +1,29 @@
-## Schema
-
-Mottagningen har såklart ett schema som går att hitta [här](https://calendar.google.com/calendar/embed?src=934akisp6r7f12q10bp9453kgs%40group.calendar.google.com)!
-
 ## Kontakta oss
 
 Vi som är ansvariga för mottagningen kallas elegant för Titel. Vill du kontakta oss skicka ett mail till [titel@d.kth.se](mailto:titel@d.kth.se). Vill du kontakta en specifik person finns kontaktuppgifter nedan.
 
 ### Det Kongliga Dadderiet
-* **Storasyster**, <br />
-  Agnes Åman<br />
-  [storasyster@d.kth.se](mailto:storasyster@d.kth.se)<br />
-  070-580 71 59
-* **Lillasyster**, <br />
-  Sasha Hellstenius<br />
-  [lillasyster@d.kth.se](mailto:lillasyster@d.kth.se)<br />
-  072-300 90 42
+* **Storebror**, <br />
+  Jonas Dahl<br />
+  [storebror@d.kth.se](mailto:storebror@d.kth.se)<br />
+  070-796 48 83
+* **Halvbror**, <br />
+  Cristian Osorio Bretti<br />
+  [halvbror@d.kth.se](mailto:halvbror@d.kth.se)<br />
+  070-782 65 60
 * **Lillebror**, <br />
-  Mikael Forsmark<br />
+  Albin Remnestål<br />
   [lillebror@d.kth.se](mailto:lillebror@d.kth.se)<br />
-  070-424 61 62
+  070-911 31 88
 
 ### Det Kongliga Doqumenteriet
 * **Samdoquise**, <br />
-  Andreas Mårtensson<br />
+  Patric Lantz<br />
   [samdoquise@d.kth.se](mailto:samdoquise@d.kth.se)<br />
-  070-951 38 68
+  070-222 35 25
 
 ### Det Kongliga Mammeriet
 * **Mamma**, <br />
-  Jonas Dahl<br />
+  Linn Bergelid<br />
   [mamma@d.kth.se](mailto:mamma@d.kth.se)<br />
-  070-796 48 83
+  073-846 99 66
