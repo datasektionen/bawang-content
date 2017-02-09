@@ -146,8 +146,8 @@ organizes the reception of international students.
 Studieresa
 ----------
 
-Studieresan, StuDs, anordnas som en projektkurs för dataloger som läser
-sista året på sin utbildning. Projektets mål är att ta sig till ett
+Studieresan, Studs, anordnas som en projektkurs för dataloger i
+slutet av sin utbildning. Projektets mål är att ta sig till ett
 främmande land, lära känna en annan kultur samt förbättra deltagarnas
 kontakter med näringslivet. Eftersom projektet arrangeras som kurs får
 du poäng och dessutom en fantastisk upplevelse.
@@ -172,7 +172,7 @@ Datasektionen åker varje vinter till Åre (dÅre) för några dagars härlig
 skidåkning och nattliv. Anmälan öppnar efter mottagningen och
 arrangemanget är till självkostnadspris med Skistars studentrabatter.
 
-Musikversamhet, DEMON
+Musikverksamhet, DEMON
 ---------------------
 
 Nämnden DEMON finns för att täcka alla dina musikrelaterade behov.

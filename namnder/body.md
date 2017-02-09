@@ -51,7 +51,7 @@ DESC anordnar spelkvällar för E-sportsentusiaster och tar tillvara på medlemm
 
 [dÅre](http://dåre.se)
 
-[StuDs](https://studieresan.se)
+[Studs](https://studieresan.se)
 
 [METAspexet](http://metaspexet.se)
 
@@ -60,6 +60,23 @@ Vårbalen
 Sångboksgruppen
 
 [Bröllopet](https://www.facebook.com/brollopet2017)
+
+## Hur startar man projekt
+För att starta ett projetk så måste det ligga i sektionens intresse då det är sektionens pengar som kommer att användas.
+Därför för att starta ett nytt projekt måste en motion med följande saker lämnas in till nästkommande SM.
+För att starta ett Nytt projekt så krävs följande enligt stadgarna:
+
+- **Projektnamn**
+- **Syfte**
+- **Budget**
+- **Verksamhetsplan**
+- **Ungefärlig tidsplan**
+
+Vill man sen få rollen som projektledare för just sitt projekt krävs sen att man även har med en att-sats i motionen som säger att projektledaren ska väljas direkt av SM genom fri nominering. Om inte det finns med så väljs då denna genom samma procedur som för val av övriga funktionärer. 
+
+## Återupplivande av projekt. 
+Projekt som D-rektoratet anser vara återkommande kan då istället genom beslut på DM med en kort motivering innehållande referens till minst ett väldigt likartat tidigare projekt samt en uppskattning av de uppgifter, bortsett från budget, som krävs för att starta ett nytt projekt. Val av projektledare sker genom samma procedur som för val av övriga funktionärer vid nästkommande SM. Projektledare åläggs att inkomma med motion innehållandes budget samt verksamhetsplan för projektet till första möjliga SM efter valet, såvida SM inte redan beslutat om dessa för denna projektomgång.
+
 
 ## Tidigare nämnder och föreningar på Datasektionen
 

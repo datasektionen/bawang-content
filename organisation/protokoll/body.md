@@ -6,6 +6,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 ## Sektionsmöten, SM
 
 ###2016
+1/12 [Glögg-SM](https://drive.google.com/file/d/0B3DxXQ6W5_nDMEU0V3BkNzkyUTA/view)
+
 17/10 [Budget-SM](https://static.datasektionen.se/protokoll/buget16)
 
 17/5 [Val-SM](https://static.datasektionen.se/protokoll/valsm-16)
@@ -297,6 +299,10 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 ## D-rektoratsmöten, DM
 
 ###2016
+
+22/11 [DM-innan-Glögg-SM](https://static.datasektionen.se/protokoll/gloggdm16)
+
+6/11 [Brunch-DM](https://static.datasektionen.se/protokoll/brunch162)
 
 5/10 [DM-innan-Budget-SM](https://static.datasektionen.se/protokoll/dminnanbudget16)
 

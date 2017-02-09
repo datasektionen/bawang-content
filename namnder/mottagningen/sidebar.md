@@ -2,8 +2,6 @@
 
 Vi som är ansvariga för mottagningen kallas för Titel. Vill du kontakta oss kan du skicka ett mail till [titel@d.kth.se](mailto:titel@d.kth.se). Vill du kontakta en specifik person finns kontaktuppgifter nedan.
 
-### Det Kongliga Dadderiet
-
 **Storebror**, <br />
 Jonas Dahl<br />
 [storebror@d.kth.se](mailto:storebror@d.kth.se)<br />

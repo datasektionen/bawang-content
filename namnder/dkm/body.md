@@ -110,8 +110,8 @@ __
 **Favoritdrink:** Chili caprinoska   
 **Specialitet:** Sjunga som en mus  
 **Citat:**
-_Det är lite som Tarzan-dating_  
-**Smeknamn:**  H-H-H-Ha den äran  
+_En sak är säker, du är jävligt ful_  
+**Smeknamn:**  Ctina, Cten  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/samuel.png">
 ### Samuel Hertzberg
