@@ -2,7 +2,6 @@
 
 Vi som är ansvariga för Mottagningen kallas för Titel. Vill du kontakta oss kan du skicka ett mail till [titel@d.kth.se](mailto:titel@d.kth.se). Vill du kontakta en specifik person finns kontaktuppgifter nedan.
 
-
 ### Det Kongliga Dadderiet 
 **Storebror**, <br />
 Emil Lindblom<br />
@@ -46,4 +45,3 @@ Olivia Herber<br />
 Klara Eserstam<br />
 [mamma@d.kth.se](mailto:mamma@d.kth.se)<br />
 073-048 45 50 
-
