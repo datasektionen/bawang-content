@@ -10,7 +10,7 @@ I mottagningen så har alla olika ansvarområden och detta gäller även för do
 
 I doqumenteriet arbetar man hårt, men har också väldigt trevligt, mysigt och roligt. Nu söker vi några snälla, glada, stresståliga och kreativa dataloger som känner sig manade att under hösten vara med i Det Kongliga Doqumenteriet.
 
-## Sök Ekonomeriet om du känner att:
+## Sök Doqumenteriet om du känner att:
 
 * Tycker om att lära känna nya människor
 * Är en kreativ och positiv person
