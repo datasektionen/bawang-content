@@ -258,7 +258,6 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
   * _Inte med flit, men det blir lite spill ibland. [Ang. sperma]_
 * __Sarah Bernelind__
   * Vice klubbmästare
-  * _På vägen hit såg jag en asfet tjej. och det är inte ens det som är det roliga._
 * __Robin Chowdhury__
   * Ekonomimästare
   * _Jah, mon!_
