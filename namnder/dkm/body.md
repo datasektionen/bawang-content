@@ -29,7 +29,7 @@ För att få mer info om events och annat kan det vara en fördel att kika in p�
 **Favoritdrink:** Pripps Blå  
 **Specialitet:** Äta långsamt / Vara hipster  
 **Citat:**
-_Ballmer’s peak är en lögn, det här blir bara dåligt!_  
+_Detta borde du veta. Om det är någonting jag är bra på så är det att sätta på saker_  
 **Smeknamn:** Knivsöder / Airbear  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/carl.png">
@@ -75,13 +75,13 @@ _Det är typ det enda vi gör, vi är elaka människor_
 **Specialitet:** Ha hatt på sig / Vara cool  
 **Citat:**
 _SLÄPP PENISEN!_  
-**Smeknamn:** Hatteus Mast / Let it go / Fuse
+**Smeknamn:** Hatteus Mast / Let it go / Fusen / Poppe
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/emil.png">
 ### Emil Lindblom
 #### Infomästare
 **Favoritdrink:** Nutella  
-**Specialitet:** Vara i Thailand / Sno bubbel  
+**Specialitet:** Vara i Thailand / Sno bubbel / Armbågas  
 **Citat:**
 _Hon var väldigt tydlig med att hennes skrev var varmt_  
 **Smeknamn:** Emiliano Sanchés, Empa  
@@ -92,16 +92,16 @@ _Hon var väldigt tydlig med att hennes skrev var varmt_
 **Favoritdrink:** Brez  
 **Specialitet:** Twerka / Vara spontan / Förklara saker för sig själv  
 **Citat:**
-_Vad ska man ta då? Det är ju som ett smörgåsbord med sprit!_  
+_Är det 16-åringar på Marquise har man tur_  
 **Smeknamn:** Kamikazepizza / PorreP / Pampers  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/felix2.png">
 ### Felix Andersson
 #### Kött
 **Favoritdrink:** Grötmjölk  
-**Specialitet:** Rubiks kub   
+**Specialitet:** Fjortisdricka   
 **Citat:**
-__  
+_Jag har köat till baren i 20 minuter nu. Äh jag åker hem_  
 **Smeknamn:** Rubiks Gud  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/christina2.png">
@@ -134,7 +134,7 @@ _Det blir en tomatmacka_
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/klara.png">
 ### Klara Eserstam
 #### Kött
-**Favoritdrink:**  
+**Favoritdrink:** Alkohol  
 **Specialitet:** Vara från Skellefteå  
 **Citat:**
 _Jag raggade på honom på ett väldigt vulgärt sätt_  
@@ -146,7 +146,7 @@ _Jag raggade på honom på ett väldigt vulgärt sätt_
 **Favoritdrink:** Cola / Staropramen / Tequila / Punsch  
 **Specialitet:** Åka till Marquise    
 **Citat:**
-__  
+_LUGN FÖR FAN!_  
 **Smeknamn:** Jesus, Marquisac  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/joar2.png">
@@ -156,7 +156,7 @@ __
 **Specialitet:** Jonglera med shaker / Hacka grönsaker  
 **Citat:**
 _Ye_  
-**Smeknamn:** Läskkylsansvarig  
+**Smeknamn:** Läskkylsansvarig / Juarez  
 
 ## Cliff
 
@@ -183,7 +183,7 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
   * _Jag känner mig verkligen som en porrstjärna ibland_
 * __Agnes Åman__
   * Festmästare
-  * _Det enda man ville var att festa mycket och ha sex hela tiden_
+  * _Rövhålet är inte najs_
 
 ### Cliff -15
 
