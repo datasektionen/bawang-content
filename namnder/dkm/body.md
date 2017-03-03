@@ -111,7 +111,7 @@ _Jag har köat till baren i 20 minuter nu. Äh jag åker hem_
 **Specialitet:** Sjunga som en mus  
 **Citat:**
 _En sak är säker, du är jävligt ful_  
-**Smeknamn:**  Ctina, Cten  
+**Smeknamn:** Ctina, Cten  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/samuel.png">
 ### Samuel Hertzberg
@@ -129,7 +129,7 @@ _Jag bjuder på en öl om du lägger dig i sängen_
 **Specialitet:** Presentera menyer  
 **Citat:**
 _Det blir en tomatmacka_  
-**Smeknamn:** Gin N' Juice  
+**Smeknamn:** Martyparty / M-dawg  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/klara.png">
 ### Klara Eserstam
