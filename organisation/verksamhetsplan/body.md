@@ -1,6 +1,7 @@
 Verksamhetsplan
 ===============
 
+-   [Verksamhetsplan 2017](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2017.pdf)
 -   [Verksamhetsplan 2016](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan-2016.pdf)
 -   [Verksamhetsplan 2015](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2015.pdf)
 -   [Verksamhetsplan 2014](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2014v6.0.pdf)

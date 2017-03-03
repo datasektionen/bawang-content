@@ -14,9 +14,9 @@ E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
 070-59 22 399
 
 **Arbetsmarknadsdagsansvarig**<br />
-Albin Söderholm<br />
+Linn Jensen<br />
 E-post: [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)<br />
-079-347 71 69
+076-250 92 00
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
 
@@ -39,9 +39,9 @@ D-rektoratet, på adressen [drek@d.kth.se](mailto:drek@d.kth.se). Du kan
 även kontakta Datasektionens Ordförande direkt:
 
 **Ordförande**<br />
-Henrik Johansson<br />
+Alexander Viklund<br />
 E-post: [ordf@d.kth.se](mailto:ordf@d.kth.se)<br />
-073-035 46 73
+076-015 61 42
 
 ## Sektionsinformation
 

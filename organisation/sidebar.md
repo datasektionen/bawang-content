@@ -40,13 +40,9 @@ Aktuella informationsspridningsguidlines
 
 Den aktuella Jämlikhetspolicyn för Sektionen.
 
-#### [Samboavtalet 2015](https://static.datasektionen.se/organisation/samboendeavtal.pdf)
+#### [Samboavtalet 2017](http://static.datasektionen.se/organisation/samboendeavtal2017.pdf)
 
 Det aktuella samboavtalet för META.
-
-#### [Samboavtalet 2016](https://static.datasektionen.se/organisation/samboendeavtal_2016.pdf)
-
-Samboavtalet för META under 2016.
 
 #### [Protokoll](/organisation/protokoll)
 
@@ -73,4 +69,4 @@ Lista över de som utnämnts till hedersmedlem på Datasektionen.
 -   [Stadgar](https://styrdokument.datasektionen.se/stadgar)
 -   [Reglemente](https://styrdokument.datasektionen.se/reglemente)
 -   [Verifikatmall](https://static.datasektionen.se/kvittomall-ht16)
--   [d-Phunkintropholdr](https://static.datasektionen.se/intropholdr-2016-11-30)
+-   [d-Phunkintropholdr](http://static.datasektionen.se/infphldr2016-12-15.pdf)
