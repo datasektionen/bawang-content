@@ -23,6 +23,16 @@ För att få mer info om events och annat kan det vara en fördel att kika in p�
 
 ## Medlemmar
 
+<style>
+img {
+  width: 165px;
+  height: 165px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-sizing: content-box;
+}
+</style>
+
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/aron.png">
 ### Aron Strandberg
 #### Klubbmästare
