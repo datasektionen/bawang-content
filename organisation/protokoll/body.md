@@ -66,7 +66,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 21/11 [Glögg-SM](https://static.datasektionen.se/protokoll/protokoll_glogg-sm-2011-11-21_v1.pdf)
 
-27/09 [Budget-SM](https://static.datasektionen.se/protokoll/protokoll_sm-2011-09-27.pdf) (Saknar bilagor)
+27/09 [Budget-SM](https://static.datasektionen.se/protokoll/protokoll_sm-2011-09-27-med-bilagor.pdf)
 
 05/05 [Val-SM](https://static.datasektionen.se/protokoll/protokoll_val-sm-2011-05-05_v2.pdf)
 
