@@ -304,6 +304,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2016
 
+18/12 [4:e-advents-mys-DM](https://drive.google.com/file/d/0B_TphSD6GcSRdDhPUHpPcl9vbmM/view?usp=sharing)
+
 22/11 [DM-innan-Glögg-SM](https://static.datasektionen.se/protokoll/gloggdm16)
 
 6/11 [Brunch-DM](https://static.datasektionen.se/protokoll/brunch162)
