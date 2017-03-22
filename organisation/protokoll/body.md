@@ -298,6 +298,10 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ## D-rektoratsmöten, DM
 
+###2017
+
+31/1 [Ett-Nytt-Hopp-DM](http://static.datasektionen.se/protokoll/ett_nytt_hopp_dm)
+
 ###2016
 
 22/11 [DM-innan-Glögg-SM](https://static.datasektionen.se/protokoll/gloggdm16)
