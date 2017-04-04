@@ -300,6 +300,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2017
 
+15/3 [DM-innan-Revisions-SM](http://static.datasektionen.se/protokoll/dm_innan_rev_sm17)
+
 31/1 [Ett-Nytt-Hopp-DM](http://static.datasektionen.se/protokoll/ett_nytt_hopp_dm)
 
 ###2016
