@@ -6,7 +6,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 ## Sektionsmöten, SM
 
 ###2017
-3/28 [Revisions-SM](http://static.datasektionen.se/protokoll/revisions_sm17)
+28/3 [Revisions-SM](http://static.datasektionen.se/protokoll/revisions_sm17)
 
 ###2016
 1/12 [Glögg-SM](https://drive.google.com/file/d/0B3DxXQ6W5_nDMEU0V3BkNzkyUTA/view)
