@@ -8,8 +8,8 @@ Datas ritapor designar event affischer, väskor, loggor, T-shirts, infolappar, d
 
 ## Teckningskvällar
 
-Varannan tisdag håller TM teckningskvällar eller workshops. På teckningskvällarna brukar vi skissa, chilla och fika! Vi håller även i teckningskvällar med olika teman som origami, akvarell, tusch eller photoshop workshops, märkesworkshops med mera! Likea vår [Facebook](https://www.facebook.com/pages/Tag-Monkeys/120626214692945?fref=ts) sida för att hålla utkik efter kommande events!
+Varannan måndag håller TM teckningskvällar eller workshops. På teckningskvällarna brukar vi skissa, chilla och fika! Vi håller även i teckningskvällar med olika teman som origami, akvarell, tusch eller Photoshop-workshops, märkesworkshops med mera! 👍:a vår [Facebook-sida](https://www.facebook.com/pages/Tag-Monkeys/120626214692945?fref=ts) för att hålla utkik efter kommande events!
 
 ## Gå med Tag Monkeys
 
-Vill du hjälpa TM att sätta färg på data? Engagera dig själv i nämnden genom att skriva upp dig på vår [maillista](https://docs.google.com/forms/d/1vp3nKEoKwihZFrSpMCEqRqQOdS9YEH62WYEP5IoFgfI/viewform) så skickar vi ut mail så fort TM får in nya uppdrag. Vill du bara chilla och skissa på en tisdagskväll? Joina oss på våra events! Ingen föranmälning krävs, det är bara att dyka upp!
+Vill du hjälpa TM att sätta färg på Data? Engagera dig själv i nämnden genom att gå med i Slack-kanalen #tag-monkeys på [IOR:s Slack](ior.slack.com). Vill du bara chilla och skissa på en teckningskväll? Joina oss på våra events! Ingen föranmälning krävs, det är bara att dyka upp!
