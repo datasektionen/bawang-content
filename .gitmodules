@@ -1,4 +1,4 @@
 [submodule "en"]
 	path = en
-	url = git@github.com:/datasektionen/bawang-content-en.git
+	url = https://github.com/datasektionen/bawang-content-en.git
 	branch = master
