@@ -1,6 +1,11 @@
 Årsrapporter
 ============
 
+## 2016
+-   [Verksamhetsberättelse 2016](https://static.datasektionen.se/arsrapporter/verksamhetsberattelse_2016.pdf)
+-   [Verksamhetsavstämning 2016](https://static.datasektionen.se/arsrapporter/verksamhetsavstamning_2016.pdf)
+-   [Ekonomisk berättelse, bokslut, balansrapport och resultatrapport 2016](https://static.datasektionen.se/arsrapporter/bokslut_2016.pdf)
+
 ## 2015
 -   [Verksamhetsberättelse 2015](https://static.datasektionen.se/arsrapporter/verksamhetsbera_ttelse_2015_1_.pdf)
 -   [Verksamhetsavstämning 2015](https://static.datasektionen.se/arsrapporter/verksamhetsavsta_mning_2015.pdf)
