@@ -17,7 +17,7 @@ Utöver onsdagspubarna har vi även ett par större event:
 
 ## Facebook!
 
-För att få mer info om events och annat kan det vara en fördel att kika in på vår Facebook-sida!
+För att få mer info om events och annat kan det vara en fördel att kika in och följa vår Facebook-sida!
 
 [![Facebook logo](http://dkm.io/images/FB-logo.png)](https://www.facebook.com/datasklubbmasteri)
 
@@ -100,7 +100,7 @@ _Kylen blir mycket kallare när alla fyllon är i poolen och inte öppnar den he
 ### Martin Hyberg
 #### Kött
 **Favoritdrink:** Gin N' Juice  
-**Specialitet:** Presentera menyer  
+**Specialitet:** Ta ned saker från översta hyllan  
 **Citat:**
 _Om vi alla tillsammans dödar Matteus, åker vi då alla fast för mord?_  
 **Smeknamn:** Martyparty / M-dawg  
