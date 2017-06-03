@@ -98,7 +98,7 @@ _Kylen blir mycket kallare när alla fyllon är i poolen och inte öppnar den he
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/martin.png">
 ### Martin Hyberg
-#### Kött
+#### Festmästare
 **Favoritdrink:** Gin N' Juice  
 **Specialitet:** Ta ned saker från översta hyllan  
 **Citat:**
