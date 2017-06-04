@@ -58,7 +58,7 @@ _Ser ut som han har en liten omogen banan i stjärten_
 **Specialitet:** Sjunga som en mus  
 **Citat:**
 _En sak är säker, du är jävligt ful_  
-**Smeknamn:** Ctina, Cten  
+**Smeknamn:** Ctina / Cten / Kikki  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/isac.png">
 ### Isac Haglund
@@ -67,7 +67,7 @@ _En sak är säker, du är jävligt ful_
 **Specialitet:** Åka till Marquise    
 **Citat:**
 _Nej mamma, jag är inte drogad._  
-**Smeknamn:** Jesus, Marquisac   
+**Smeknamn:** Jesus / Marquisac   
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/joar2.png">
 ### Joar Rutqvist
@@ -85,7 +85,7 @@ _We gave them the D!_
 **Specialitet:** Vara från Skellefteå  
 **Citat:**
 _Bröt jag nacken igår?_  
-**Smeknamn:** Klara, färdiga gå!  
+**Smeknamn:** Klara, färdiga gå! / Piikki  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/felix2.png">
 ### Felix Andersson
