@@ -40,48 +40,6 @@ Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjär
     Jesper Lundh, Sequndus 1986
     Kjell Lundesten, Primus 1985
 
-## Konglig Öfverdrif Emeritus
-
-Medlemskap i Konglig Öfverdrif Emeritus-orden tilldelas de Konglig Öfverdrifvare som förtjänstfullt arbetat under en hel mandatperiod.
-
-Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig stjärna i svart med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
-
-Valspråk: Ensam är stark. Tillsammans är vi bara många.
-
-    Hanna Nyblom, Tricesima 2016
-    Shayan Effati, Tricesimus 2015
-    Ida Vainionpää, Duodetricesima 2014
-    Jens Arvidsson, Vicesimus Septus 2013
-    Jacob Håkansson, Vicesimus Septus 2012
-    Michael Hjortholt, Vicesimus Quintus 2011
-    Pärham Fazelzadeh Hashemi, Vicesimus Quartus 2010
-    Johannes Edelstam, Tertius Vicesimus 2009
-    Roger Ström, Unvicesimus 2008
-    Jon Karlfeldt (Larsson), Undevicesimus 2007
-    Henrik Fräsén, Vicesimus 2006
-    Martin Nygren, Undevicesimus 2005
-    Sofia Demnert, Dodevicesimus 2004
-    Robert Danowsky, Undevicesimus 2003
-    Sara Englund, Quinta Decima 2002
-    Joakim Meldahl, Sigvard 2001
-    Henrik Hägerström, Sextus Decimus 2000
-    Magnus Hübner, Tertius Decimus 1999
-    Jonas Högberg, Tertius Decimus 1998
-    Pontus Axelsson, Dodecimus 1997
-    Tomas Elison, Undecimus 1996
-    Tomas Nilsson, Decimus 1995
-    Jörgen Blomberg, Septimus 1994
-    Björn Sjöstrand, Oqtavus 1993
-    Lasse Pechan, Sextus 1992
-    Björn Fransson, Sextus 1991
-    Magnus Hulthén, Quartus 1990
-    Erik Wåhlin, Tertius 1989
-    Bertil Lundell, Quartus 1988
-    Peter Franzén, Sequndus 1987
-    Patrik Anderson, Primus 1986
-    Juri Loosme, Sequndus 1985
-    Patrik Anderson, Primus 1984
-
 ## Storasyskon Emeritus
 
 Medlemskap i Storasyskon Emeritus-orden tilldelas de Storasyskon som förtjänstfullt arbetat under en hel mandatperiod.
