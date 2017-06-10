@@ -4,7 +4,7 @@ Datasektionens musiknämnd
 
 ## För alla musikintresserade på Datasektionen KTH
 
-Ärkedemon 16/17: Mikael Forsmark, [arkedemon@d.kth.se](mailto:arkedemon@d.kth.se)
+Ärkedemon 17/18: Carl Nordling, [arkedemon@d.kth.se](mailto:arkedemon@d.kth.se)
 
 ## Replokal
 
