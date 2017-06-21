@@ -30,10 +30,10 @@ img {
   border-radius: 50%;
   object-fit: cover;
   box-sizing: content-box;
+  padding-top: 10px;
 }
 </style>
 
-<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/pontus.png">
 ### Kamikazepizza
 #### Klubbmästare
 **Favoritdrink:** Brez  
@@ -42,7 +42,6 @@ img {
 _Fan jag måste skita men jag kan ju inte ta med datorn dit_  
 **Smeknamn:** Pampers
 
-<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/samuel.png">
 ### Shert
 #### Vice Klubbmästare
 **Favoritdrink:** Brasan, a song of ice and fire  
@@ -51,7 +50,6 @@ _Fan jag måste skita men jag kan ju inte ta med datorn dit_
 _Ser ut som han har en liten omogen banan i stjärten_  
 **Smeknamn:** Shert  
 
-<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/christina.png">
 ### Kikki
 #### Ekonomimästare
 **Favoritdrink:** Chili caprinoska   
@@ -60,7 +58,6 @@ _Ser ut som han har en liten omogen banan i stjärten_
 _En sak är säker, du är jävligt ful_  
 **Smeknamn:** Ctina / Cten  
 
-<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/isac.png">
 ### Jesus Christ Superstar
 #### Ekonomimästare
 **Favoritdrink:** Cola / Staropramen / Tequila / Punsch  
@@ -69,7 +66,6 @@ _En sak är säker, du är jävligt ful_
 _Nej mamma, jag är inte drogad._  
 **Smeknamn:** Jesus / Marquisac   
 
-<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/joar2.png">
 ### Chuarez
 #### Barmästare
 **Favoritdrink:** Worcester sour  
@@ -78,7 +74,6 @@ _Nej mamma, jag är inte drogad._
 _We gave them the D!_  
 **Smeknamn:** Läskkylsansvarig
 
-<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/klara.png">
 ### Piikki
 #### Barmästare
 **Favoritdrink:** Alkohol  
@@ -87,7 +82,6 @@ _We gave them the D!_
 _Bröt jag nacken igår?_  
 **Smeknamn:** Klara, färdiga gå! / Piikki  
 
-<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/felix2.png">
 ### Flux
 #### Infomästare
 **Favoritdrink:** Grötmjölk  
@@ -96,7 +90,6 @@ _Bröt jag nacken igår?_
 _Kylen blir mycket kallare när alla fyllon är i poolen och inte öppnar den hela tiden_  
 **Smeknamn:** Rubiks Gud  
 
-<img align="right" style="padding-top: 10px;" src="http://dkm.io/images/martin.png">
 ### M'artagnan
 #### Festmästare
 **Favoritdrink:** Gin N' Juice  
