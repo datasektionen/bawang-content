@@ -34,16 +34,16 @@ img {
 </style>
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/pontus.png">
-### Pontus Broberg
+### Kamikazepizza
 #### Klubbmästare
 **Favoritdrink:** Brez  
 **Specialitet:** Twerka / Vara spontan / Förklara saker för sig själv  
 **Citat:**
 _Fan jag måste skita men jag kan ju inte ta med datorn dit_  
-**Smeknamn:** Kamikazepizza / PorreP / Pampers  
+**Smeknamn:** Pampers
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/samuel.png">
-### Samuel Hertzberg
+### Shert
 #### Vice Klubbmästare
 **Favoritdrink:** Brasan, a song of ice and fire  
 **Specialitet:** Vissla  
@@ -52,16 +52,16 @@ _Ser ut som han har en liten omogen banan i stjärten_
 **Smeknamn:** Shert  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/christina.png">
-### Christina Sunnegårdh
+### Kikki
 #### Ekonomimästare
 **Favoritdrink:** Chili caprinoska   
 **Specialitet:** Sjunga som en mus  
 **Citat:**
 _En sak är säker, du är jävligt ful_  
-**Smeknamn:** Ctina / Cten / Kikki  
+**Smeknamn:** Ctina / Cten  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/isac.png">
-### Isac Haglund
+### Jesus Christ Superstar
 #### Ekonomimästare
 **Favoritdrink:** Cola / Staropramen / Tequila / Punsch  
 **Specialitet:** Åka till Marquise    
@@ -70,16 +70,16 @@ _Nej mamma, jag är inte drogad._
 **Smeknamn:** Jesus / Marquisac   
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/joar2.png">
-### Joar Rutqvist
+### Chuarez
 #### Barmästare
 **Favoritdrink:** Worcester sour  
 **Specialitet:** Jonglera med shaker / Hacka grönsaker  
 **Citat:**
 _We gave them the D!_  
-**Smeknamn:** Läskkylsansvarig / Juarez
+**Smeknamn:** Läskkylsansvarig
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/klara.png">
-### Klara Eserstam
+### Piikki
 #### Barmästare
 **Favoritdrink:** Alkohol  
 **Specialitet:** Vara från Skellefteå  
@@ -88,7 +88,7 @@ _Bröt jag nacken igår?_
 **Smeknamn:** Klara, färdiga gå! / Piikki  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/felix2.png">
-### Felix Andersson
+### Flux
 #### Infomästare
 **Favoritdrink:** Grötmjölk  
 **Specialitet:** Fjortisdricka   
@@ -97,12 +97,12 @@ _Kylen blir mycket kallare när alla fyllon är i poolen och inte öppnar den he
 **Smeknamn:** Rubiks Gud  
 
 <img align="right" style="padding-top: 10px;" src="http://dkm.io/images/martin.png">
-### Martin Hyberg
+### M'artagnan
 #### Festmästare
 **Favoritdrink:** Gin N' Juice  
 **Specialitet:** Ta ned saker från översta hyllan  
 **Citat:**
-_Om vi alla tillsammans dödar Matteus, åker vi då alla fast för mord?_  
+_Bra sagt guys, nu ska jag svälja mitt eget hår_  
 **Smeknamn:** Martyparty / M-dawg  
 
 ## Cliff
@@ -117,18 +117,12 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Carl Nordling__
   * Vice klubbmästare
   * _En skalbagge skulle aldrig banga på en bärs_
-* __Josefin Nilsson__
-  * Ekonomimästare
-  * _Det borde finnas typ foodoora för matvaror_
 * __Malcolm Tivelius__
   * Ekonomimästare
   * _Det är rimligt att vara rimlig, och det var här jag blev anfallen av ankor_
 * __Matteus Hast__
   * Barmästare
   * _När man druckit typ 12 öl och sen tar en cider så är det typ sweet nectar of god_
-* __Helena Alinder__
-  * Barmästare
-  * _Har du grindat en trubbig påle?_
 * __Emil Lindblom__
   * Infomästare
   * _Hon var väldigt tydlig med att hennes skrev var varmt_
@@ -141,9 +135,6 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Jonathan Berglind__
   * Vice klubbmästare
   * _Hellre snigla en person än en möbel!_
-* __Shapour Jahanshahi__
-  * Ekonomimästare
-  * _Jag kände att det var nånting som tryckte mot mitt anus_
 * __Hedvig Reuterswärd__
   * Ekonomimästare
   * _Jag vill bara ha big dick_
