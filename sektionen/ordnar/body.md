@@ -8,6 +8,7 @@ Medlemskap i Klubbmästare Emeritus-orden tilldelas de klubbmästare på Datasek
 
 Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
 
+    Aron Strandberg, Untricesimus 2016/2017
     Adam Denlert, Untricesimus 2015/2016
     Robin Hellgren, Tricesimus 2014/2015
     Sebastian Magnusson, Undetricesimus 2013/2014
