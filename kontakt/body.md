@@ -9,9 +9,9 @@ anledning är du alltid välkommen att kontakta oss:
 E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
 **Näringslivsansvarig**<br />
-Andreas Heiskanen<br />
+Axel Meurling<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
-070-59 22 399
+073-53 37 855
 
 **Arbetsmarknadsdagsansvarig**<br />
 Linn Jensen<br />
