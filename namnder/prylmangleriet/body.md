@@ -2,7 +2,7 @@
 
 Tjo bästis!
 
-Välkommen till Prylmånglarens sida på Datasektionen. Om du inte redan vet vem jag är (du är fortfarande min bästis) heter jag Lisa Lund och är Prylis under 2015. Jag tar hand om sektionens märken, ovvar och andra otroligt balla grejer. Målet är att nästan exakt hela tiden anordna försäljningar, framför allt i __META__, men jag finns även på vissa evenemang och säljer relevanta prylar (så kallad Prylis-to-go). Försäljningar meddelas via hemsidan, facebook, och i desperata fall, via megafon i sektionslokalen. Om ni inte hittar mig och har ett sjukt akut behov av mina tjänster, skicka ett [mail](mailto:prylis@d.kth.se) eller ring eller smsa eller nåt på __076-213 33 96__.
+Välkommen till Prylmånglarens sida på Datasektionen. Om du inte redan vet vem jag är (du är fortfarande min bästis) heter jag Mårten Grönlund och är Prylis under 2017. Jag tar hand om sektionens märken, ovvar och andra otroligt balla grejer. Målet är att nästan exakt hela tiden anordna försäljningar, framför allt i __META__, men jag finns även på vissa evenemang och säljer relevanta prylar (så kallad Prylis-to-go). Försäljningar meddelas via hemsidan, facebook, och i desperata fall, via megafon i sektionslokalen. Om ni inte hittar mig och har ett sjukt akut behov av mina tjänster, skicka ett [mail](mailto:prylis@d.kth.se) eller ring eller smsa eller nåt på __073-872 71 68__.
 
 Vill du se fler märken eller andra prylar hos Prylis och har en bra/dålig/helt okej idé? Peta på mig, fysiskt eller virtuellt, så kirrar vi det.
 
@@ -24,7 +24,7 @@ Prylis har mycket grejer, väldigt mycket grejer, men här kan du se vad som fan
 
 [Inventory](https://docs.google.com/spreadsheet/pub?key=0AnjfL675gTJ1dDhWZ0ZadGtmWXJzRUFmbUJwa01XdGc&output=html&widget=true)
 
-
+<!---
 ## TJO ETTAN!
 ## Vad är det här för fasoner, märken?
 ## Ja, ni ska ju göra erat årskursmärke!!!
@@ -63,6 +63,7 @@ Den __15 november__ kommer Tag Monkeys att ha en märkesworkshop där man kan l�
 Ni får välja ert årskursmärke på en Onsdagspub den 7 december. Först kommer ni att välja ett märke, sen får ni lägga fram förslag på en text och välja en sådan. På så sätt så kommer ni att få det bästa årskursmärket evah!
 
 ## Just do it!
+-->
 
 Puss och kram
 
