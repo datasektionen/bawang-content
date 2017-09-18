@@ -8,7 +8,7 @@ Som en ideell förening har sektionen en struktur som vi arbetar utifrån. Vi ha
 ## Styrdokument
 Eftersom Konglig Datasektionen är en del av Tekniska Högskolans Studentkår (THS) och nyttjar KTHs lokaler begränsas vi inte bara av våra egna styrdokument, utan även deras regler. Studentkårens regler kan du hitta [här](http://ths.kth.se/about-ths/ths-central/policy-documents-and-meeting-protocols).
 
-Sektionen har flera styrande dokument. De allra flesta hittar du på våran [styrdokumentssida](styrdokument.datasektionen.se). Utöver de fasta styrdokumenten har vi även planeringsdokument som beskriver hur vår verksamhet ska se ut det närmsta året. Dessa är [verksamhetsplanen](/organisation/verksamhetsplan) och [budgeten](/organisation/budget). Vi har även dokument som styr hur META delas mellan sektionerna som du hittar [här](http://static.datasektionen.se/organisation/samboendeavtal2017.pdf).
+Sektionen har flera styrande dokument. De allra flesta hittar du på våran [styrdokumentssida](//styrdokument.datasektionen.se). Utöver de fasta styrdokumenten har vi även planeringsdokument som beskriver hur vår verksamhet ska se ut det närmsta året. Dessa är [verksamhetsplanen](/organisation/verksamhetsplan) och [budgeten](/organisation/budget). Vi har även dokument som styr hur META delas mellan sektionerna som du hittar [här](http://static.datasektionen.se/organisation/samboendeavtal2017.pdf).
 
 
 ## Medlem
@@ -34,8 +34,7 @@ förväntas inte komma om det inte är någon speciellt intressant punkt på
 dagordningen.
 
 ## Verksamhet
-![organisationskarta](https://static.datasektionen.se/organisation/karta-2017-01-31.jpg)
-
+<img src="https://static.datasektionen.se/organisation/karta-2017-01-31.jpg" style="width:100%;"/>
 
 Sektionen har en bred verksamhet som våra medlemmar kan ta del av. De som genomför verksamheten är våra förtroendevalda funktionärer och våra nämndmedlemmar. Varje funktionär är ansvarig för en liten del av vår verksamhet. För de större verksamhetsområdena har vi nämnder.
 
@@ -70,4 +69,4 @@ kontaktar du [Valberedningen](/sektionen/val) för att kandidera till ett
 förtroendeuppdrag.Information om vad det innebär att vara funktionär finns i denna
 [intropholdr](https://static.datasektionen.se/infphldr2016-12-15.pdf).
 
-[Här hittar du en lista på alla våra funktionärer, deras e-postadresser och postbeskrivningar.](dfunkt.datasektionen.se)
+[Här hittar du en lista på alla våra funktionärer, deras e-postadresser och postbeskrivningar.](//dfunkt.datasektionen.se)
