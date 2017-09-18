@@ -1,5 +1,3 @@
-# Organisation
-
 Konglig Datasektionen är en ideell förening som verkar för våra
 medlemmar. Sektionens främsta ändamål är att främja våra medlemmars studier genom studiebevakning och genom att skapa en god gemenskap och sammanhållning. Sektionen ger även våra medlemmar goda kontakter mot framtida arbetsgivare och möjlighet till kompetensutveckling genom att arbeta med sektionsprojekt och ledarskap.
 
@@ -34,7 +32,7 @@ förväntas inte komma om det inte är någon speciellt intressant punkt på
 dagordningen.
 
 ## Verksamhet
-<img src="https://static.datasektionen.se/organisation/karta-2017-01-31.jpg" style="width:100%;"/>
+<img src="https://static.datasektionen.se/organisation/karta-2017-01-31.jpg" style="width:100%;"  />
 
 Sektionen har en bred verksamhet som våra medlemmar kan ta del av. De som genomför verksamheten är våra förtroendevalda funktionärer och våra nämndmedlemmar. Varje funktionär är ansvarig för en liten del av vår verksamhet. För de större verksamhetsområdena har vi nämnder.
 
