@@ -4,4 +4,4 @@ Om du har några sportiga frågor så kan du höra av dig till Sektionsidrottsle
 
 #### Sektionsidrottsledare  
 Erik Björk  
-idrott@d.kth.se
+[idrott@d.kth.se](mailto:idrott@d.kth.se)
