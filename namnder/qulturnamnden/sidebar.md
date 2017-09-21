@@ -1,5 +1,9 @@
-Qulturattaché: Wilhelm Åkermark
+## Kontakt
 
-Mail: [qulturattache@d.kth.se](mailto:qulturattache@d.kth.se)
+Älskar brädspel och filmer? Klart du gör, kontakta oss nu!
 
-Telefon/Phone: 073-5325441
+#### Qulturattaché
+
+Edvin Ardö
+
+[qulturattache@d.kth.se](mailto:qulturattache@d.kth.se)
