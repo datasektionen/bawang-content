@@ -2,11 +2,13 @@
 
 METAdorerna: metadorerna@d.kth.se
 
-Konglig Lokalchef (D):
-Erik Dackebro, lokalchef@d.kth.se
+#### Konglig Lokalchef (D)
+Hanna Hansson  
+lokalchef@d.kth.se
 
-Sektionslokalsansvarig (Media):
-Caroline 'Carpy' Yu, sektionslokal@media.kth.se
+#### Sektionslokalsansvarig (Media)
+Josefin Ström  
+sektionslokal@media.kth.se
 
 * [Lokalbokning / Chapter-house booking](https://datasektionen.se/sektionen/lokalbokning)
 
