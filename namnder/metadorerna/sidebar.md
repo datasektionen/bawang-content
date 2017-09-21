@@ -1,14 +1,14 @@
 ## Kontakt
 
-METAdorerna: metadorerna@d.kth.se
-
+#### METAdorerna
+[metadorerna@d.kth.se](mailto:metadorerna@d.kth.se)
 #### Konglig Lokalchef (D)
 Hanna Hansson  
-lokalchef@d.kth.se
+[lokalchef@d.kth.se](mailto:lokalchef@d.kth.se)
 
 #### Sektionslokalsansvarig (Media)
 Josefin Ström  
-sektionslokal@media.kth.se
+[sektionslokal@media.kth.se](mailto:sektionslokal@media.kth.se)
 
 * [Lokalbokning / Chapter-house booking](https://datasektionen.se/sektionen/lokalbokning)
 
