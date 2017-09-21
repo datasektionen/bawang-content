@@ -2,7 +2,7 @@
 
 #### Ärkedemon  
 Carl Nordling  
-arkedemon@d.kth.se
+[arkedemon@d.kth.se](mailto:arkedemon@d.kth.se)
 
 
 
