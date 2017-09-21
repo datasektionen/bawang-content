@@ -2,7 +2,7 @@
 
 Behöver du hjälp eller har frågor kring grafisk design, tveka inte att kontakta DAD! :)
 
-_Datas Art Director, DAD_
+#### Datas Art Director, DAD
 
 Hannes Arvidsson
 
