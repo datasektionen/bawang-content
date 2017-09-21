@@ -1,6 +1,6 @@
 ## Kontakt
 
-Älskar brädspel och filmer? Klart du gör, kontakta oss nu!
+Älskar du brädspel och filmer? Klart du gör, kontakta oss nu!
 
 #### Qulturattaché
 
