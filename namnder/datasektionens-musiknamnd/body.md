@@ -4,8 +4,6 @@ Datasektionens musiknämnd
 
 ## För alla musikintresserade på Datasektionen KTH
 
-Ärkedemon 17/18: Carl Nordling, [arkedemon@d.kth.se](mailto:arkedemon@d.kth.se)
-
 ## Replokal
 
 Varje söndag kl 16:00-22:00 har vi en replokalstid på Odenplan! Är man intresserad av att repa så är det bara att slänga iväg ett mail till [arkedemon@d.kth.se](mailto:arkedemon@d.kth.se) för att få ytterligare information. :)
