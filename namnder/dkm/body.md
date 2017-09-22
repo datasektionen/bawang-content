@@ -34,66 +34,90 @@ img {
 }
 </style>
 
-### Kamikazepizza
+<img align="right" src="http://dkm.io/images/pontus.jpg">
+### Pontus Broberg
 #### Klubbmästare
 **Favoritdrink:** Brez  
-**Specialitet:** Twerka / Vara spontan / Förklara saker för sig själv  
+**Gillar:** Bork, djävulsmusik
+**Ogillar:** Komplementet till AIK
+**Specialitet:** Kan twerka Beethovens femte på danska.
 **Citat:**
-_Fan jag måste skita men jag kan ju inte ta med datorn dit_  
-**Smeknamn:** Pampers
+_Nu ska jag sätta mig ner och ta ett djupt andetag, sedan ett djupt biraandetag_  
+**Smeknamn:** Pampers, Pontib, PorreP, Ponpon, Porkiedorkie, Porrus Principus, Porkalicious  
 
-### Shert
+<img align="right" src="http://dkm.io/images/samuel.jpg">
+### Samuel Hertzberg
 #### Vice Klubbmästare
 **Favoritdrink:** Brasan, a song of ice and fire  
-**Specialitet:** Vissla  
+**Gillar:** Att skriva lappar
+**Ogillar:** Att ha långt hår
+**Specialitet:** Kan vissla i fyra dimensionser.  
 **Citat:**
-_Ser ut som han har en liten omogen banan i stjärten_  
-**Smeknamn:** Shert  
+_Vad är snabbaste vägen till gud? Vafan, det här är ju grafteori!_  
+**Smeknamn:** Shert
 
-### Kikki
+<img align="right" src="http://dkm.io/images/christina.jpg">
+### Christina Sunnegårdh
 #### Ekonomimästare
 **Favoritdrink:** Chili caprinoska   
-**Specialitet:** Sjunga som en mus  
+**Gillar:** När updootsen rullar in på Imgur
+**Ogillar:** Att köra sektionsbilen
+**Specialitet:** Kan posta till Instagram utan internetanslutning.  
 **Citat:**
 _En sak är säker, du är jävligt ful_  
 **Smeknamn:** Ctina / Cten  
 
-### Jesus Christ Superstar
+<img align="right" src="http://dkm.io/images/isac.jpg">
+### Isac Haglund
 #### Ekonomimästare
 **Favoritdrink:** Cola / Staropramen / Tequila / Punsch  
-**Specialitet:** Åka till Marquise    
+**Gillar:** Marquise, Solidaritet
+**Ogillar:** Att komma i tid
+**Specialitet:** Kan hitta sig själv på 7.82 sekunder.    
 **Citat:**
 _Nej mamma, jag är inte drogad._  
 **Smeknamn:** Jesus / Marquisac   
 
-### Chuarez
+<img align="right" src="http://dkm.io/images/joar.jpg">
+### Joar Rutqvist
 #### Barmästare
 **Favoritdrink:** Worcester sour  
-**Specialitet:** Jonglera med shaker / Hacka grönsaker  
+**Gillar:** Att sno toalettpapper
+**Ogillar:** ~~Jäger~~ Allt som inte dricks ur lowball
+**Specialitet:** Vet hur man gör självlärande drinkar.  
 **Citat:**
 _We gave them the D!_  
-**Smeknamn:** Läskkylsansvarig
+**Smeknamn:** Läskkylsansvarig, Juarez
 
-### Piikki
+<img align="right" src="http://dkm.io/images/klara.jpg">
+### Klara Eserstam
 #### Barmästare
 **Favoritdrink:** Alkohol  
-**Specialitet:** Vara från Skellefteå  
+**Gillar:** När skotern är nyoljad
+**Ogillar:** Oss 08'or
+**Specialitet:** Kan få hela världen att sitta fast i hennes finger.  
 **Citat:**
-_Bröt jag nacken igår?_  
+_Pls give me my spexxy shoes_  
 **Smeknamn:** Klara, färdiga gå! / Piikki  
 
-### Flux
+<img align="right" src="http://dkm.io/images/felix.jpg">
+### Felix Andersson
 #### Infomästare
-**Favoritdrink:** Grötmjölk  
-**Specialitet:** Fjortisdricka   
+**Favoritdrink:** Fruuty Fukker  
+**Gillar:** Koffein
+**Ogillar:** När man har för många bågar på glasögonen
+**Specialitet:** 
 **Citat:**
 _Kylen blir mycket kallare när alla fyllon är i poolen och inte öppnar den hela tiden_  
-**Smeknamn:** Rubiks Gud  
+**Smeknamn:** Rubiks Gud, Flux 
 
-### M'artagnan
+<img align="right" src="http://dkm.io/images/martin.jpg">
+### Martin Hyberg
 #### Festmästare
 **Favoritdrink:** Gin N' Juice  
-**Specialitet:** Ta ned saker från översta hyllan  
+**Gillar:** Att tänka sig bort till sitt dubbelliv som säl
+**Ogillar:** Saker på understa hyllan
+**Specialitet:** Växer i takt med O(a^n).  
 **Citat:**
 _Bra sagt guys, nu ska jag svälja mitt eget hår_  
 **Smeknamn:** Martyparty / M-dawg  
@@ -113,6 +137,12 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Malcolm Tivelius__
   * Ekonomimästare
   * _Det är rimligt att vara rimlig, och det var här jag blev anfallen av ankor_
+* __Josefin Nilsson__
+  * Ekonomimästare
+  * _Okej, så: jag är inte så jättehaj på rondeller... Hur ska jag köra?_
+* __Helena Alinder__
+  * Barmästare
+  * _Det är helt okej att inte minnas något av en kväll, så länge man har en skön känsla!_
 * __Matteus Hast__
   * Barmästare
   * _När man druckit typ 12 öl och sen tar en cider så är det typ sweet nectar of god_
@@ -128,6 +158,9 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Jonathan Berglind__
   * Vice klubbmästare
   * _Hellre snigla en person än en möbel!_
+* __Shapour Jahanshahi__
+  * Ekonomimästare
+  * _Jag kände att det var nånting som tryckte mot mitt anus_
 * __Hedvig Reuterswärd__
   * Ekonomimästare
   * _Jag vill bara ha big dick_
