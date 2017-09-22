@@ -38,9 +38,9 @@ img {
 ### Pontus Broberg
 #### Klubbmästare
 **Favoritdrink:** Brez  
-**Gillar:** Bork, djävulsmusik
-**Ogillar:** Komplementet till AIK
-**Specialitet:** Kan twerka Beethovens femte på danska.
+**Gillar:** Bork, djävulsmusik  
+**Ogillar:** Komplementet till AIK  
+**Specialitet:** Kan twerka Beethovens femte på danska.  
 **Citat:**
 _Nu ska jag sätta mig ner och ta ett djupt andetag, sedan ett djupt biraandetag_  
 **Smeknamn:** Pampers, Pontib, PorreP, Ponpon, Porkiedorkie, Porrus Principus, Porkalicious  
@@ -49,8 +49,8 @@ _Nu ska jag sätta mig ner och ta ett djupt andetag, sedan ett djupt biraandetag
 ### Samuel Hertzberg
 #### Vice Klubbmästare
 **Favoritdrink:** Brasan, a song of ice and fire  
-**Gillar:** Att skriva lappar
-**Ogillar:** Att ha långt hår
+**Gillar:** Att skriva lappar  
+**Ogillar:** Att ha långt hår  
 **Specialitet:** Kan vissla i fyra dimensionser.  
 **Citat:**
 _Vad är snabbaste vägen till gud? Vafan, det här är ju grafteori!_  
@@ -60,8 +60,8 @@ _Vad är snabbaste vägen till gud? Vafan, det här är ju grafteori!_
 ### Christina Sunnegårdh
 #### Ekonomimästare
 **Favoritdrink:** Chili caprinoska   
-**Gillar:** När updootsen rullar in på Imgur
-**Ogillar:** Att köra sektionsbilen
+**Gillar:** När updootsen rullar in på Imgur  
+**Ogillar:** Att köra sektionsbilen  
 **Specialitet:** Kan posta till Instagram utan internetanslutning.  
 **Citat:**
 _En sak är säker, du är jävligt ful_  
@@ -71,8 +71,8 @@ _En sak är säker, du är jävligt ful_
 ### Isac Haglund
 #### Ekonomimästare
 **Favoritdrink:** Cola / Staropramen / Tequila / Punsch  
-**Gillar:** Marquise, Solidaritet
-**Ogillar:** Att komma i tid
+**Gillar:** Marquise, Solidaritet  
+**Ogillar:** Att komma i tid  
 **Specialitet:** Kan hitta sig själv på 7.82 sekunder.    
 **Citat:**
 _Nej mamma, jag är inte drogad._  
@@ -82,8 +82,8 @@ _Nej mamma, jag är inte drogad._
 ### Joar Rutqvist
 #### Barmästare
 **Favoritdrink:** Worcester sour  
-**Gillar:** Att sno toalettpapper
-**Ogillar:** ~~Jäger~~ Allt som inte dricks ur lowball
+**Gillar:** Att sno toalettpapper  
+**Ogillar:** ~~Jäger~~ Allt som inte dricks ur lowball  
 **Specialitet:** Vet hur man gör självlärande drinkar.  
 **Citat:**
 _We gave them the D!_  
@@ -93,8 +93,8 @@ _We gave them the D!_
 ### Klara Eserstam
 #### Barmästare
 **Favoritdrink:** Alkohol  
-**Gillar:** När skotern är nyoljad
-**Ogillar:** Oss 08'or
+**Gillar:** När skotern är nyoljad  
+**Ogillar:** Oss 08'or  
 **Specialitet:** Kan få hela världen att sitta fast i hennes finger.  
 **Citat:**
 _Pls give me my spexxy shoes_  
@@ -104,8 +104,8 @@ _Pls give me my spexxy shoes_
 ### Felix Andersson
 #### Infomästare
 **Favoritdrink:** Fruuty Fukker  
-**Gillar:** Koffein
-**Ogillar:** När man har för många bågar på glasögonen
+**Gillar:** Koffein  
+**Ogillar:** När man har för många bågar på glasögonen  
 **Specialitet:** 
 **Citat:**
 _Kylen blir mycket kallare när alla fyllon är i poolen och inte öppnar den hela tiden_  
@@ -115,8 +115,8 @@ _Kylen blir mycket kallare när alla fyllon är i poolen och inte öppnar den he
 ### Martin Hyberg
 #### Festmästare
 **Favoritdrink:** Gin N' Juice  
-**Gillar:** Att tänka sig bort till sitt dubbelliv som säl
-**Ogillar:** Saker på understa hyllan
+**Gillar:** Att tänka sig bort till sitt dubbelliv som säl  
+**Ogillar:** Saker på understa hyllan  
 **Specialitet:** Växer i takt med O(a^n).  
 **Citat:**
 _Bra sagt guys, nu ska jag svälja mitt eget hår_  
