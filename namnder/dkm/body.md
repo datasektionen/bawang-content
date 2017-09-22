@@ -83,7 +83,7 @@ _Nej mamma, jag är inte drogad._
 #### Barmästare
 **Favoritdrink:** Worcester sour  
 **Gillar:** Att sno toalettpapper  
-**Ogillar:** ~~Jäger~~ Allt som inte dricks ur lowball  
+**Ogillar:** Allt som inte dricks ur lowball  
 **Specialitet:** Vet hur man gör självlärande drinkar.  
 **Citat:**
 _We gave them the D!_  
