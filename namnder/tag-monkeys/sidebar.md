@@ -2,10 +2,9 @@
 
 Behöver du hjälp eller har frågor kring grafisk design, tveka inte att kontakta DAD! :)
 
-_Datas Art Director, DAD_
+#### Datas Art Director, DAD
 
-Willy Liu
+Hannes Arvidsson
 
 [dad@d.kth.se](mailto:dad@d.kth.se)
 
-[Messenger](https://m.me/willyjliu)
