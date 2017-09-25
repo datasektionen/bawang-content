@@ -65,7 +65,7 @@ _Vad är snabbaste vägen till gud? Vafan, det här är ju grafteori!_
 **Specialitet:** Kan posta till Instagram utan internetanslutning.  
 **Citat:**
 _En sak är säker, du är jävligt ful_  
-**Smeknamn:** Ctina / Cten  
+**Smeknamn:** Ctina / Cten / Kikki
 
 <img align="right" src="http://dkm.io/images/isac.jpg">
 ### Isac Haglund
