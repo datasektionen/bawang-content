@@ -16,9 +16,11 @@ uppgifter som inte direkt faller på någon annan funktionär. Ansvarar
 även för att det upprättas en verksamhetsberättelse varje år som talar
 om vad som hänt under året.
 
-__Kontaktnämnd__
+__Kontaktfunktionärer__
 
-* Mottagningen
+* Mottagningsansvarig
+
+* Revisorer
 
 ## Vice sektionsordförande
 
@@ -33,35 +35,19 @@ inte tillhör någon specifik D-rek'post eller hinns med av relevant
 styrelseledamot. Det kontinuerliga ansvaret utgörs mest av fika samt
 ansvar för sektionens nycklar och accesser.
 
-__Kontaktnämnder__
+__Kontaktfunktionärer__
 
 * Fanbärare
 
-* Mulle Schmeck
+* Projektledare för Jubileet
 
-* Valberedningen
-
-* dÅre
-
-* Konglig Östrogennämnden
+* Projektledare för Sångboksgruppen
 
 ## Kassör
 
 Kassören håller helt enkelt reda på sektionens ekonomiska bit. Det
 gäller deklarationer, fakturor och naturligtvis bokföringen. Kassören
 och sektionsordföranden är de som har firmateckningsrätt för sektionen.
-
-__Kontaktnämnder__
-
-* DKM
-
-* METAspexet
-
-* Vårbalen
-
-* Bröllopet
-
-* Prylmångleriet
 
 ## Sekreterare
 
@@ -70,17 +56,11 @@ justeras och arkiveras. Sekreteraren ansvarar också för att brev delas
 ut till rätt personer. Även allmän formalia är sekreterarens uppgift.
 
 
-__Kontaktnämnder__
+__Kontaktfunktionärer__
 
-* Datas Art Director
+* Valberedningens ordförande
 
-* Kårfullmäktige
-
-* DESC
-
-* Redaqtionen
-
-* Sektionshistoriker
+* Kårfullmäktigeledamöter
 
 
 ## Ledamot för utbildningsfrågor
@@ -91,15 +71,15 @@ kan ledamoten till och med få representera på något utskottsmöte som KTH
 håller.
 
 
-__Kontaktnämnder__
+__Kontaktfunktionärer__
 
 * Programansvarig student
 
 * Studienämndens ordförande
 
-* Ärkedemon
+* Jämlikhetsordförande
 
-* Internationella utskottet
+* Internationell studentkoordinator
 
 * Studerandeskyddsombud
 
@@ -114,8 +94,6 @@ studentliv. Dessa ansvarsområden inkluderar att:
 * strategiskt arbeta med utvecklingen av sektionens studiesociala
 verksamhet
 * verka för en god studiemiljö
-* upprätthålla och förvalta kontakten med andra sektioner och
-organisationer
 * verka för en god sammanhållning mellan sektionens engagerade medlemmar
 * från styrelsen arbeta med frågor som berör jämlikhet, mångfald och
 likabehandling
@@ -125,17 +103,35 @@ Det är viktigt att framhärda att miljö innefattar såväl den fysiska som
 den psykosociala miljön.
 
 
-__Kontaktnämnder__
+__Kontaktfunktionärer__
 
-* Idrottsnämnden
+* Klubbmästare
+
+* Sektionsidrottsledare
 
 * Ljud- och ljusansvarig
 
-* METAdorerna
+* Lokalchef
 
-* Qulturnämnden
+* Qulturattaché
 
-* Jämlikhetsnämnden
+* Prylis
+
+* Mulle/Mullerina Schmeck
+
+* DESCtop
+
+* Ärkedemon
+
+* Öfvermatrona
+
+* Spexdireqteur
+
+* dÅre
+
+* Bakis
+
+* D-Fest
 
 
 ## Ledamot för näringsliv och kommunikation
@@ -152,14 +148,18 @@ som avser dessa områden. Dessa ansvarsområden inkluderar att:
 sektionen
 
 
-__Kontaktnämnder__
+__Kontaktfunktionärer__
 
-* Studs
+* StuDsprojektledare
 
-* Crash & Bränn
+* Systemansvarig
 
 * Kommunikatör
 
-* Näringslivsgruppen
+* Näringslivsansvarig
 
-* D-dagen
+* D-dagenansvarig
+
+* Sektionshistoriker
+
+* Chefredaqtör
