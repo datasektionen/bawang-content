@@ -44,8 +44,8 @@ hålla kontinuerliga aktiviteter vid sidan av studierna.
 ###[DEMON – Datasektionens Musiknämnd](/namnder/datasektionens-musiknamnd)
 DEMON är Datas musikentusiaster som spelar musik tillsammans, DJ:ar musik och snackar om musik. Musik? Musik!
 
-###DESC – Datas E-Sports Community
-DESC anordnar spelkvällar för E-sportsentusiaster och tar tillvara på medlemmarnas intressen inom området.
+###[DESC – Datas E-Sports Community](/namnder/desc)
+DESC anordnar spelkvällar för e-sportsentusiaster och tar tillvara på medlemmarnas intressen inom området.
 
 ## Projekt på Datasektionen
 
