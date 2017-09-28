@@ -35,7 +35,7 @@ Gå med i vår Facebookgrupp!
 
 <a href="https://discord.gg/xJaATpd">
     <img 
-         src="static.datasektionen.se/namnder/desc/facebook-logo.png" 
+         src="http://static.datasektionen.se/namnder/desc/facebook-logo.png" 
          alt="DESCs Facebookgrupp!"
          width="100"
     >
