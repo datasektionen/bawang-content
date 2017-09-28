@@ -19,9 +19,7 @@ Utöver onsdagspubarna har vi även ett par större event:
 
 För att få mer info om events och annat kan det vara en fördel att kika in och följa vår Facebook-sida!
 
-<a href="https://discord.gg/xJaATpd">
-    <img src="http://static.datasektionen.se/namnder/desc/discord-logo.png" alt="DESCs Discordserver!">
-</a>
+[![Facebook logo](http://dkm.io/images/FB-logo.png)](https://www.facebook.com/datasklubbmasteri)
 
 ## Medlemmar
 
