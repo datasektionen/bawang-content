@@ -33,7 +33,7 @@ Gå med i vår Discordserver!
 
 Gå med i vår Facebookgrupp!
 
-<a href="https://discord.gg/xJaATpd">
+<a href="https://www.facebook.com/groups/447431545372957/">
     <img 
          src="http://static.datasektionen.se/namnder/desc/facebook-logo.png" 
          alt="DESCs Facebookgrupp!"
