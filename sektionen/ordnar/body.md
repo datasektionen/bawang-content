@@ -1,6 +1,6 @@
-På Datasektionen finns fyra ordnar, benämnda “Klubbmästare Emeritus”, “Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus” och “Ordförande Emeritus”.
+På Datasektionen finns fem ordnar, benämnda “Klubbmästare Emeritus”, “Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus”, “Kassör Emeritus” och “Ordförande Emeritus”.
 
-Som bevis på medlemskap i någon av Datasektionens fyra ordnar bärs respektive ordens ordenstecken.
+Som bevis på medlemskap i någon av Datasektionens fem ordnar bärs respektive ordens ordenstecken.
 
 ## Klubbmästare Emeritus
 
@@ -116,6 +116,18 @@ Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna
     Jan Garefelt, Octavus 1992
     Björn Rhoads (Gahm), Septimus 1991
     Carl-Johan Graufelds, Sextus 1990
+
+## Kassör Emeritus
+
+Medlemskap i Kassör Emeritus-orden tilldelas de Kassörer på Datasektionen som förtjänstfullt arbetat under en hel mandatperiod.
+
+Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
+
+    Ludvig Hagberg, Undetricesimus 2015
+    Filip Shulze, Tricesimus 2014
+    Frida Jansson, Vicesimus Septa 2013
+    Victor Koronen, Vicesimus Septus 2012
+    Max Nordlund, Duodetricesimus 2011
 
 ## Ordförande Emeritus
 
