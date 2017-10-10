@@ -8,8 +8,7 @@ och nämner på Konglig Datasektionen.
 ## Sektionsordförande
 
 Sektionens ordförande leder D-rektoratets arbete. Ordföranden ansvarar
-även, tillsammans med ledamoten för sociala frågor och relationer, för
-kontakten med THS och andra sektioner.
+även för kontakten med THS och andra sektioner.
 
 Ordföranden ser till att saker blir gjorda på sektionen och får ta tag i
 uppgifter som inte direkt faller på någon annan funktionär. Ansvarar
