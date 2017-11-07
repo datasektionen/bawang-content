@@ -12,4 +12,4 @@ Varannan måndag håller TM teckningskvällar eller workshops. På teckningskvä
 
 ## Gå med Tag Monkeys
 
-Vill du hjälpa TM att sätta färg på Data? Engagera dig själv i nämnden genom att gå med i Slack-kanalen #tag-monkeys på [IOR:s Slack](ior.slack.com). Vill du bara chilla och skissa på en teckningskväll? Joina oss på våra events! Ingen föranmälning krävs, det är bara att dyka upp!
+Vill du hjälpa TM att sätta färg på Data? Engagera dig själv i nämnden genom att gå med i Slack-kanalen #tag-monkeys på [IOR:s Slack](https://ior.slack.com). Vill du bara chilla och skissa på en teckningskväll? Joina oss på våra events! Ingen föranmälning krävs, det är bara att dyka upp!

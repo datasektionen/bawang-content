@@ -43,7 +43,7 @@ img {
 **Specialitet:** Kan twerka Beethovens femte på danska.  
 **Citat:**
 _Nu ska jag sätta mig ner och ta ett djupt andetag, sedan ett djupt biraandetag_  
-**Smeknamn:** Pampers, Pontib, PorreP, Ponpon, Porkiedorkie, Porrus Principus, Porkalicious  
+**Smeknamn:** Pampers, Pontib, PorreP, Porkie, Porkalicious  
 
 <img align="right" src="http://dkm.io/images/samuel.jpg">
 ### Samuel Hertzberg
@@ -54,7 +54,7 @@ _Nu ska jag sätta mig ner och ta ett djupt andetag, sedan ett djupt biraandetag
 **Specialitet:** Kan vissla i fyra dimensionser.  
 **Citat:**
 _Vad är snabbaste vägen till gud? Vafan, det här är ju grafteori!_  
-**Smeknamn:** Shert
+**Smeknamn:** Shert  
 
 <img align="right" src="http://dkm.io/images/christina.jpg">
 ### Christina Sunnegårdh
@@ -65,7 +65,7 @@ _Vad är snabbaste vägen till gud? Vafan, det här är ju grafteori!_
 **Specialitet:** Kan posta till Instagram utan internetanslutning.  
 **Citat:**
 _En sak är säker, du är jävligt ful_  
-**Smeknamn:** Ctina / Cten / Kikki
+**Smeknamn:** Ctina / Cten / Kikki  
 
 <img align="right" src="http://dkm.io/images/isac.jpg">
 ### Isac Haglund
@@ -87,7 +87,7 @@ _Nej mamma, jag är inte drogad._
 **Specialitet:** Vet hur man gör självlärande drinkar.  
 **Citat:**
 _We gave them the D!_  
-**Smeknamn:** Läskkylsansvarig, Juarez
+**Smeknamn:** Läskkylsansvarig, Juarez  
 
 <img align="right" src="http://dkm.io/images/klara.jpg">
 ### Klara Eserstam
@@ -109,7 +109,7 @@ _Pls give me my spexxy shoes_
 **Specialitet:** 
 **Citat:**
 _Kylen blir mycket kallare när alla fyllon är i poolen och inte öppnar den hela tiden_  
-**Smeknamn:** Rubiks Gud, Flux 
+**Smeknamn:** Rubiks Gud, Flux  
 
 <img align="right" src="http://dkm.io/images/martin.jpg">
 ### Martin Hyberg
