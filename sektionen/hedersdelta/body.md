@@ -12,6 +12,24 @@ går det även att maila D-rektoratet.
 
 #Innehavare av Hedersdeltat
 
+## Mottagare 2017
+
+<dl>
+<dt>
+</dt>
+<dd>
+Jesper Bränn, Tricesimus
+
+</dd>
+<dd>
+Mattias Danielsson, Tricesimus
+
+</dd>
+<dd>
+Shayan Effati, Tricesimus
+
+</dd>
+</dl>  
 ## Mottagare 2016
 
 <dl>
