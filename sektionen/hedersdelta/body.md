@@ -18,15 +18,15 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-Jesper Bränn, Tricesimus
+[Jesper Bränn](#jbrann), Tricesimus
 
 </dd>
 <dd>
-Mattias Danielsson, Tricesimus
+[Mattias Danielsson](#matdanie), Tricesimus
 
 </dd>
 <dd>
-Shayan Effati, Tricesimus
+[Shayan Effati](#shayane), Tricesimus
 
 </dd>
 </dl>  
@@ -628,10 +628,42 @@ Wolfram Meyer, Tertius
 
 </dd>
 </dl>
-Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
+## Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
 ---------------------------------------------
 
-</h2>
+
+## Motiveringar till 2017 års mottagare
+
+#### Jesper Bränn <a name="jbrann"></a>
+
+Jesper Bränn har med sitt engagemang för sektionen skapat en miljö där andra kan engagera sig, vilket främst har märkts genom hur han har utvecklat sektionens systemgrupp. Jespers arbete har blåst nytt liv i gruppen och föryngrat dess medlemmar genom att göra den till en mycket öppnare och mer välkomnande grupp där alla kan jobba med projekt och få chansen att utforska systemutveckling.
+
+Under sina 1.5 år som ledare för systemgruppen påbörjade Jesper arbetet med sektionens nya hemsida och har själv sett till att stora delar av arbetet med den har genomförts.
+Under sin tid som kommunikatör var han med och omstrukturerade nämnden genom att dela upp posten i två nya poster.
+
+Jesper har även varit aktiv inom andra delar av sektionen, bland annat i mottagningen som dadda och Samdoquise samt skrivit flertalet artiklar till dBuggen.
+
+För sitt gedigna och oumbärliga engagemang för sektionen tilldelas Jesper Bränn Hedersdeltat.
+
+#### Mattias Danielsson <a name="matdanie"></a>
+
+Mattias Danielsson har under sin tid på Datasektionen bidragit till sammanhållning, skratt och att hålla det studentikosa vid liv. Han har har gjort mycket för sektionen och har haft flertalet funktionärsposter som han utfört väl.
+
+Ett av Mattias första engagemang på sektionen var posten som Vice Sektionsordförande. Därefter har medlemmen varit vice fanbärare och revisor, vilket är en post som personen varit med och förnyat och satt en förebild som.
+Mattias har även lyckats skapa såväl upptåg som nya traditioner på sektionen såsom d-Wreck-festen, smörgåstårta på SM och bringat skratt med kopiösa mängder hissmusik. När han är med i bilden vet man att uppgiften kommer utföras med entusiasm och skratt.
+
+Nu senast har medlemmen som projektledare för det unika projektet Bröllopet åstadkommit en unik vigsel och en bröllopsresa till Belgien.
+
+För sitt mångfacetterade engagemang för sektionen och sina ihärdiga insatser för att sprida skratt och god stämning på sektionen tilldelas Mattias Danielsson Hedersdeltat.
+
+#### Shayan Effati <a name="shayane"></a>
+
+Shayan Effati har haft ett långt och gediget engagemang på sektionen. Under sin tid som Ärkedemon har han utformat den då väldigt nya posten till att vara en del av sektionens löpande verksamhet idag. Shayan har även fortsatt med sitt engagemang genom att väcka nytt liv i Redaqtionen genom att introducera nya medieformer och kontinuerligt ge ut exemplar av dBuggen. Han har även suttit med i DKM samt innehaft rollen som Konglig Överdrifv i mottagningen.
+
+Under sin tid på sektionen har medlemmen ständigt engagerat sig och arbetat hårt med glädje, men samtidigt haft stenkoll på sina arbetsuppgifter. Han har ständigt gjort mer än vad som kan förväntas för sin roll. Det finns få som gjort så mycket för Datasektionen som Shayan.
+
+För sitt utvecklande och drivande arbete för sektionen tilldelas Shayan Effati Hedersdeltat
+
 ## Motiveringar till 2016 års mottagare
 
 #### Lovisa Runhem <a name="lrunhem"></a>
