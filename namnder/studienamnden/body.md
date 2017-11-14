@@ -21,7 +21,7 @@ Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du a
 
 År 2 - Albin och Axel: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
 
-År 3 - Christian och Toby: [ake-3@d.kth.se](mailto:ake-3@d.kth.se)
+År 3 - Cristian och Toby: [ake-3@d.kth.se](mailto:ake-3@d.kth.se)
 
 Master - Abdallah och August: [master@d.kth.se](mailto:master@d.kth.se)
 
