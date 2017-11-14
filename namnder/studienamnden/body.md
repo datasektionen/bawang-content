@@ -6,7 +6,7 @@ Tveka aldrig att kontakta Studienämnden om du har en åsikt eller fråga!
 Du är givetvis alltid välkommen på studienämndsmötena (se [nyhetssidan](/nyheter) för datum).
 
 Studienämnden hjälper till med att föra vidare studenternas åsikter till lärare eller berörda parter på CSC för att förbättra utbildningen. Har du något du vill säga till om kan du antingen kontakta oss i Studienämnden eller komma på ett Studienämndsmöte. Vi svarar även på studenters frågor om studierna alternativt hjälper till att ta reda på vem man kan kontakta för att få svar.
- 
+
 "Vi är här för dig" - Kontakta oss eller kom på ett Studienämndsmöte.
 
 ## Kontakt
@@ -17,13 +17,13 @@ Kontakta oss om du har frågor om eller kommentarer kring studierna eller studie
 
 Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Beroende på vilket år du går ska du höra av dig till din årskursrepresentant eller masterstudent!
 
-År 1 - Victor och Axel: [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
+År 1 - Sara och Daniel: [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
 
-År 2 - Cristian och Tobias: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
+År 2 - Albin och Axel: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
 
-År 3 - Artem och Abdallah: [ake-3@d.kth.se](mailto:ake-3@d.kth.se)
+År 3 - Christian och Toby: [ake-3@d.kth.se](mailto:ake-3@d.kth.se)
 
-Master - Per, Rebecka och August: [master@d.kth.se](mailto:master@d.kth.se)
+Master - Abdallah och August: [master@d.kth.se](mailto:master@d.kth.se)
 
 
 ### Studiemiljö
@@ -66,7 +66,7 @@ Studienämndens ordförande (SNO) leder arbetet i Studienämnden samt inom studi
 * samla in synpunkter och förslag på förbättringar från sektionsmedlemmarna och föra dessa vidare till ansvariga parter
 * verka för att nå ut med varför Studienämnden finns och hur man som student kan påverka sin utbildning via oss
 * ansvara för att arbetet bevaras och dokumenteras så att framtida medlemmar kan följa upp det
- 
+
 SNO är intresserad av studenternas åsikter om både utbildningen och Studienämnden, för att kunna utföra det arbete som reglementet sägen. Dessutom kanske just du kan hjälpa oss att ta reda på om vi arbetar med rätt saker i studierelaterade frågor.
 
 ### Programansvarig student
