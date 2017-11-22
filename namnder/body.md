@@ -10,6 +10,8 @@ I menyn till vänster kan du läsa om alla Datasektionens nämnder.
 
 [METAspexet](http://metaspexet.se)
 
+[dJubileet](http://djubileet.se)
+
 Vårbalen
 
 Sångboksgruppen
