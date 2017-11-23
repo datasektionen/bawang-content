@@ -1,9 +1,9 @@
 <h3>
-Datasektionen är en ideell studentsektion under Tekniska Högskolans Studentkår
-som finns till för att alla studenter som läser datateknik på KTH ska få
-en så bra och givande studietid som möjligt.
+The Data Chapter is an non-profit student organization under Student Union at the
+Royal Institute of Technology which exists to give all students reading computer
+science and engineering the best time possible during their studies.
 </h3>
 
-På Konglig Datasektionen finns det många sätt att roa sig.
-Förutom studier i intressanta ämnen och episka fester anordnas det även qulturella
-tillställningar, hackerkvällar, sektionsmöten och mycket mer.
+At the Data Chapter there are lots of ways to have fun. Apart from studies in
+interesting topics and parties of epic proportions, there are also qultural
+events, hacker nights and chapter meetings and a lot more.
