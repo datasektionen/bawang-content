@@ -10,9 +10,9 @@ Verksamhetsplan
 Verksamhetsplan för projekt
 ---------------------------
 
--   [Bröllopet](https://static.datasektionen.se/verksamhetsplaner/brollopverksamhetsplan.pdf)
--   [dÅre 2016](https://static.datasektionen.se/verksamhetsplaner/vp_dare_2016.pdf)
--   [METAspexet 2015/2016](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_1516.pdf)
--   [Studs 2016](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2016.pdf)
+-   [dÅre 2018](https://static.datasektionen.se/verksamhetsplaner/vp_dare_2018.pdf)
+-   [METAspexet 2017/2018](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_1718.pdf)
+-   [Studs 2018](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2018.pdf)
+-   [dJubileet](http://static.datasektionen.se/verksamhetsplaner/vp_djubileet_2018.pdf)
 -   [Sångboksgruppen](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplansangbok.pdf)
 
