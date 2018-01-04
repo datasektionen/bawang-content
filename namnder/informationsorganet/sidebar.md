@@ -7,7 +7,7 @@ Henrik Johansson
 info@d.kth.se
 
 #### Chefredaqtör
-Emil Lindblom  
+Patric Lantz  
 chefred@d.kth.se
 
 #### Datas Art Director

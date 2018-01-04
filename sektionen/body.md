@@ -17,9 +17,9 @@ vi lite olika specialerbjudanden.
 
 ## Underhållning och aktiviteter
 
-På Konglig Datasektionen finns det många sätt att roa sig. Förutom studier i intressanta ämnen och episka fester anordnas det även qulturella tillställningar och många aktiviteter. 
-[Qulturnämnden](/namnder/qulturnamnden) ombesörjer sektionens kulturella verksamhet i form av exempelvis filmvisningar, spelkvällar och godisförsäljning. 
-[Idrottsnämnden](/namnder/idrottsnamnden) gör vad dess medlemmar vill, bl.a. delta i THS-mästerskapen samt att hålla veckovisa aktiviteter. 
+På Konglig Datasektionen finns det många sätt att roa sig. Förutom studier i intressanta ämnen och episka fester anordnas det även qulturella tillställningar och många aktiviteter.
+[Qulturnämnden](/namnder/qulturnamnden) ombesörjer sektionens kulturella verksamhet i form av exempelvis filmvisningar, spelkvällar och godisförsäljning.
+[Idrottsnämnden](/namnder/idrottsnamnden) gör vad dess medlemmar vill, bl.a. delta i THS-mästerskapen samt att hålla veckovisa aktiviteter.
 DESC - Datas E-Sports Community - anordnar spelkvällar för E-sportsentusiaster
 
 ## Jämlikhet
@@ -36,7 +36,7 @@ Datasektionens och Sektionen för Medietekniks gemensamma sektionslokal heter ME
 
 ## Informationsspridning
 
-[Informationsorganet](/namnder/informationsorganet) har som främsta syfte att sprida information – till, från och mellan Datasektionens medlemmar. Crash & Bränn är de som underhåller och utvecklar denna hemsida och [Tag Monkeys - Datas kodapor](/namnder/tag-monkeys) håller koll på sektionens grafik och design. [dbuggen](http://dbu.gg) är Datasektionens stolta sektionstidning som kommer ut regelbundet. De ger också ut nØlledbuggen till de nyantagna studenterna.
+[Informationsorganet](/namnder/informationsorganet) har som främsta syfte att sprida information – till, från och mellan Datasektionens medlemmar. Crash & Bränn är de som underhåller och utvecklar denna hemsida och [Tag Monkeys - Datas kodapor](/namnder/tag-monkeys) håller koll på sektionens grafik och design. [dbuggen](http://dbu.gg) är Datasektionens stolta sektionstidning som kommer ut regelbundet. De ger också ut nØlledbuggen till de nyantagna studenterna samt producerar en [podcast](http://dbu.gg/podcast) regelbundet.
 
 ## Märken och overaller
 
@@ -60,7 +60,7 @@ Datasektionens kårfullmäktigeledamöter representerar sektionen i Kårfullmäk
 
 ## Internationell verksamhet / International activities
 
-Datas Internationella studentkoordinator anordnar mottagningen av de internationella studenterna och hjälper dem att komma i kontakt med sektionen. 
+Datas Internationella studentkoordinator anordnar mottagningen av de internationella studenterna och hjälper dem att komma i kontakt med sektionen.
 
 The International Student Coordinator organizes the reception of international students and helps them to learn about Datasektionen.
 
