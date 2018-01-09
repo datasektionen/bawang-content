@@ -409,7 +409,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 08/11 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm-2011-11-08_v1.pdf)
 
-09/20 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm-2011-09-20_v2.pdf)
+20/09 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm-2011-09-20_v2.pdf)
 
 24/05 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm-2011-05-24_v2.pdf)
 
@@ -477,7 +477,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 06/09 [Protokoll](https://static.datasektionen.se/protokoll/dmprot040906.pdf)
 
-08/18 [Protokoll](https://static.datasektionen.se/protokoll/dmprot040818.pdf)
+18/08 [Protokoll](https://static.datasektionen.se/protokoll/dmprot040818.pdf)
 
 20/04 [Protokoll](https://static.datasektionen.se/protokoll/dmprot20040420.pdf)
 
