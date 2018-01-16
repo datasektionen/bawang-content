@@ -13,11 +13,11 @@ men det kommer antagligen vara Lokalchef som svarar er.
 Regler som gäller vid bokning finns i [sektionens
 reglemente](https://styrdokument.datasektionen.se/reglemente#7_sektionslokalen)
 samt i
-[samboendeavtalet](https://static.datasektionen.se/organisation/samboendeavtal_2016.pdf).
+[samboendeavtalet](https://static.datasektionen.se/organisation/samboendeavtal2018.pdf).
 Var god och uppge om ni kommer servera alkohol när ni bokar META (behövs
 ej om man enbart ska boka mötesrummet).
 
-I detta års samboavtal (2016) står följande: <br>
+I detta års samboavtal (2018) står följande: <br>
 _"Fler än tre (3) återkommande bokningar för en tid i veckan får inte
 förekomma, detta för
 att undvika överbokning av mötesrummet. Undantag gäller för respektive
@@ -25,7 +25,7 @@ sektionsstyrelse, som får ha en återkommande tid i veckan. Undantag kan
 också beviljas
 av lokalansvariga eller utfärdas när mötesrummet bokas i samband med
 bokning av hela
-lokalen"_
+lokalen."_
 
 Detta är tolkat som att man inte får boka ett fjärde tillfälle förrän
 ens tre första bokningar är förbrukade. Observera att detta enbart
@@ -46,7 +46,7 @@ Please specify which you want to book. When booking META, please specify
 whether or not you are going to serve alcohol (not necessary if you only
 book the meetingroom).
 
-In this year's cohabitation agreements (2016) states (note: translated):
+In this year's cohabitation agreements (2018) states (note: translated):
 <br>
 *More than three (3) repeated bookings for a time in the week may not
 occur, this to avoid overbooking of the meeting room. Exceptions apply

@@ -40,7 +40,7 @@ Aktuella informationsspridningsguidlines
 
 Den aktuella Jämlikhetspolicyn för Sektionen.
 
-#### [Samboavtalet 2017](http://static.datasektionen.se/organisation/samboendeavtal2017.pdf)
+#### [Samboavtalet 2018](http://static.datasektionen.se/organisation/samboendeavtal2018.pdf)
 
 Det aktuella samboavtalet för META.
 
