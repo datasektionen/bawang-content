@@ -7,3 +7,5 @@ en så bra och givande studietid som möjligt.
 På Konglig Datasektionen finns det många sätt att roa sig.
 Förutom studier i intressanta ämnen och episka fester anordnas det även qulturella
 tillställningar, hackerkvällar, sektionsmöten och mycket mer.
+
+:)
