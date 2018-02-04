@@ -36,7 +36,7 @@ Nicole Jagelid <br />
 [direktifdrif@d.kth.se](mailto:direktifdrif@d.kth.se)<br />
 073-506 67 33
 
-**Konglig Direktifdrif**, <br />
+**Konglig Indrif**, <br />
 Mikael Forsmark<br />
 [indrif@d.kth.se](mailto:indrif@d.kth.se)<br />
 070-424 61 62 
