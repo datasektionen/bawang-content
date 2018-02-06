@@ -4,6 +4,8 @@ Protokoll
 Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs upp på denna sida. Vid frågor angående protokoll, kontakta Datasektionens sekreterare.
 
 ## Sektionsmöten, SM
+###2018
+22/1 [Extra-SM](http://static.datasektionen.se/protokoll/protokoll_extra_sm_2018)
 
 ###2017
 28/3 [Revisions-SM](http://static.datasektionen.se/protokoll/revisions_sm17)
