@@ -303,6 +303,9 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ## D-rektoratsmöten, DM
 
+###2018
+17/1 [Ett Godtyckligt-DM](http://static.datasektionen.se/protokoll/ett_godtyckligt_dm_18)
+
 ###2017
 
 17/4 [Projekten-slår-tillbaka-DM](http://static.datasektionen.se/protokoll/projekten_slar_tillbaka_dm)
