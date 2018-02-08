@@ -1,1 +1,1 @@
-Crash n' Bränn, där saker kraschar och/eller brinner!
+Crash & Bränn, där saker kraschar och/eller brinner!
