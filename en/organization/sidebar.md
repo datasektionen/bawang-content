@@ -1,72 +1,71 @@
 ### Styrdokument
 
-#### [Stadgar](https://styrdokument.datasektionen.se/stadgar)
+#### [By-laws](https://styrdokument.datasektionen.se/stadgar)
 
-Datasektionens stadgar, alltid i senast reviderade upplagan.
+The Data Chapter By-laws, always in the latest audited version.
 
-#### [Reglemente](https://styrdokument.datasektionen.se/reglemente)
+#### [Rules](https://styrdokument.datasektionen.se/reglemente)
 
-Reglementet reglerar sektionsverksamheten utöver stadgarna.
+The Rules regulate everything that the By-laws don't.[help]
 
-#### [Verksamhetsplan](/organisation/verksamhetsplan)
+#### [Operational Plan](/organisation/verksamhetsplan)
 
-Den aktuella verksamhetsplanen.
+Den current operational plan.
 
-#### [Sektionens budget](/organisation/budget)
+#### [The Chapter Budget](/organisation/budget)
 
-Den aktuella budgeten.
+The current budget.
 
-#### [dFunk-policy](https://styrdokument.datasektionen.se/dfunkpolicy)
+#### [dFunk Policy](https://styrdokument.datasektionen.se/dfunkpolicy)
 
-Den aktuella dFunk-policyn.
+The current dFunk-policy.
 
-#### [Rekryteringspolicy](https://styrdokument.datasektionen.se/rekryteringspolicy)
+#### [Recruitment Policy](https://styrdokument.datasektionen.se/rekryteringspolicy)
 
-Vad inval och rekrytering är och hur dessa ska gå till.
+What elections and recruitment are and how they should work.
 
-#### [Alkoholpolicy](https://styrdokument.datasektionen.se/alkoholpolicy)
+#### [Alcohol Policy](https://styrdokument.datasektionen.se/alkoholpolicy)
 
-Den aktuella Alkoholpolicyn för Sektionen.
+The chapter's current alcohol policy.
 
-#### [Ekonomiskt Styrdokument](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument)
+#### [Economic Policy](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument)
 
-Det aktuella Ekonomiska Styrdokumentet för Sektionen.
+The current Economic policy.
 
-#### [Informationsspridningsguidlines](https://styrdokument.datasektionen.se/informationsspridningsguidelines)
+#### [Information Distribution Guidelines](https://styrdokument.datasektionen.se/informationsspridningsguidelines)
 
-Aktuella informationsspridningsguidlines
+The Current information distribution guidelines.
 
-#### [Jämlikhetspolicy](https://styrdokument.datasektionen.se/jamlikhetspolicy)
+#### [Social Equality Policy](https://styrdokument.datasektionen.se/jamlikhetspolicy)
 
-Den aktuella Jämlikhetspolicyn för Sektionen.
+The Current social equality policy.
 
-#### [Samboavtalet 2018](http://static.datasektionen.se/organisation/samboendeavtal2018.pdf)
+#### [Samboavtalet 2017](http://static.datasektionen.se/organisation/samboendeavtal2017.pdf)
 
-Det aktuella samboavtalet för META.
+The current cohabitation agreement for META.
 
-#### [Protokoll](/organisation/protokoll)
+#### [Protocols](/organisation/protokoll)
 
-Protokoll från Sektionsmöten och D-rektoratsmöten
+Protocols from chapter meeting and D-rektorat meeting.
 
-#### [Grafisk profil](/organisation/grafisk-profil)
+#### [Graphic Charter](/organisation/grafisk-profil)
 
-Hur får man använda Datasektionens logotyp och var finns de i
-tryckvänliga filformat?
+How am I allowed to use the Data Chapter's logo and where can I find it in print-friendly file format?
 
 #### [Hedersdelta](/sektionen/hedersdelta)
 
-Lista över de som mottagit Datasektionens hedersdelta.
+List of the people who have been awarded the Data Chapter's hedersdelta.
 
 #### [Hedersmedlem](/sektionen/hedersmedlem)
 
-Lista över de som utnämnts till hedersmedlem på Datasektionen.
+List of the people who have been appointed hedersmedlem on the Data chapter.
 
-### Länkar
+### Links
 
--   [D-rektoratet på Facebook](https://facebook.com/drektoratet/)
--   [Vad gör styrelsens olika poster](/sektionen/sammansattning)
--   [Protokoll](/organisation/protokoll)
--   [Stadgar](https://styrdokument.datasektionen.se/stadgar)
--   [Reglemente](https://styrdokument.datasektionen.se/reglemente)
+-   [D-rektoratet on Facebook](https://facebook.com/drektoratet/)
+-   [What does the Board of Directors do](/sektionen/sammansattning)
+-   [Protocols](/organisation/protokoll)
+-   [By-laws](https://styrdokument.datasektionen.se/stadgar)
+-   [Rules](https://styrdokument.datasektionen.se/reglemente)
 -   [Verifikatmall](https://static.datasektionen.se/kvittomall-ht16)
 -   [d-Phunkintropholdr](http://static.datasektionen.se/infphldr2016-12-15.pdf)

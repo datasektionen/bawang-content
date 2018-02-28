@@ -1,61 +1,41 @@
 # Organisation
 
-Konglig Datasektionen är en ideell förening som verkar för våra
-medlemmars nytta. Vi har stadgar och en styrelse – samt en massa andra
-dokument. I första hand följer vi dock som ideell förening Sveriges lag,
-men efter denna även Tekniska Högskolan Studentkårs (THS) stadgar,
-reglemente och policydokument.
+The Data Chapter is a nonprofit organisation that works for our
+members interest. We have by-laws and a board of directors – and a lot of documents. At first hand we follow the Swedish laws as a non-profit organisation. We also follow to the KTH Student Union bylaws,
+rules and white paper.
 
-Datasektionen har även egna dokument.För att reglera vår egen verksamhet
-har vi våra **[stadgar](https://styrdokument.datasektionen.se/stadgar)** och våra
-funktionärers arbetsuppgifter står i
-**[reglementet](https://styrdokument.datasektionen.se/reglemente)**.
-[Kassören](https://dfunkt.datasektionen.se/positions/kassor) är ansvarig för
-sektionens ekonomirutiner - dessa finner du i det [Ekonomiska styrdokumentet](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument).
+The Data Chapter also have their own white paper. To regulate our own activities we got our **[by-laws](https://styrdokument.datasektionen.se/stadgar)** and our volunteers
+**[rules](https://styrdokument.datasektionen.se/reglemente)**.
+[Treasurer](https://dfunkt.datasektionen.se/positions/kassor) are responsible for the chapter's economic routines - you will find them in the [Economic Policy](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument).
 
-Konglig Datasektionen är också stolta innehavare av ett permanent
-alkoholtillstånd och följer därmed alkohollagen. För att förtydliga för
-alla medlemmar hur vi ser på alkohol i sektionslokalen och i vår
-verksamhet har vi även en
-[Alkoholpolicy](https://styrdokument.datasektionen.se/alkoholpolicy).
-Andra policyer vi förbinder oss till är vår
-[Rekryteringspolicy](https://styrdokument.datasektionen.se/rekryteringspolicy),
-[d-Funkpolicy](https://styrdokument.datasektionen.se/dfunkpolicy) samt våra
-[Informationsspridningsguidelines](https://styrdokument.datasektionen.se/informationsspridningsguidelines).
-Alla dessa hittar du även i listan till höger.
+The Data Chapter are also proud proprietors of a permanent
+license to serve alcohol and thus we follow the Swedish Alcohol Law(Alkohollag:2010:1622). To be clear to all our members about our view on alcohol in our sektionslokal and our activities
+[Alcohol Policy](https://styrdokument.datasektionen.se/alkoholpolicy).
+Other policies we commit to are
+[Recruitment Policy](https://styrdokument.datasektionen.se/rekryteringspolicy),
+[d-Funk Policy](https://styrdokument.datasektionen.se/dfunkpolicy) and our
+[Information Distribution Guidelines](https://styrdokument.datasektionen.se/informationsspridningsguidelines).
+You can also find them listed on the right side of this page.
 
-### Medlem
+### Members
 
-Medlemmar är alla som betalar sektionsavgiften. Styrelsen är medlemmar,
-funktionärerna är medlemmar och även Du är förhoppningsvis medlem! Alla
-medlemmar får delta i och rösta på sektionsmöten.
+Members are everyone who pays the chapter fee. The board of directors are members,
+the volunteers are members and we hope that you are a member! Every
+member are allowed to attend and vote at the chapter meetings(SM).
 
-### Nämnd
+### Clubs
 
 [Här är en bild som beskriver vår organisation](https://static.datasektionen.se/organisation/karta-2017-01-31.jpg)
 
-En nämnd är en organisationsenhet med ett specifikt syfte. Vi har en
-nämnd för studiebevakning, en för att sköta sektionslokalen, en för att
-ordna fester och så vidare. Varje nämnd har en ordförande som väljs på
-SM. Det varierar hur man blir medlem i en nämnd. Vissa nämnder har en
-begränsning på hur många medlemmar de kan ta emot och vissa genomför
-intervjuer. Kontakta ordförande för den nämnd du är intresserad av för
-att få veta mer!\
-Om du vill starta en egen nämnd så skriver du detta i en motion och
-lämnar in till Styrelsen. Efter det kommer alla medlemmar få rösta om
-ditt förslag på nämnd ska gå igenom. Du bör ange en budget för nämnden,
-en beskrivning av verksamheten och eventuellt en formulering till
-stadgar/reglemente.
+A club is an organisational entity created for a specific purpose. One of our clubs monitors our study environment, another takes care of the sektionslokal, another arrange parties and so forth. Every club has a chairman that is elected at the SM. How you become member of a club varies from which club it is. Some clubs has a limit to how many members they bring in and some have
+interviews. If you want to know more a bout a certain club, you are welcome to contact the club's chairman!\
+If you want to create your own club you write a motion and send it to the board of directors. Then all members votes if your proposal should pass. You should make a budget, a description of your activities and possibly formulate by-laws/rules.
 
-Det går också att genomföra projekt inom sektionen. Ett projekt är som
-en tillfällig nämnd men startas på samma sätt, med en motion.
+It's also possible to make a project in the chapter. A project is similar to a temporary club, it is created the same way, with a motion.
 
-### Funktionär
+### Volunteers
 
-Funktionärer väljs också på SM. Varje funktionär är ansvarig för en
-nämnd eller verksamhet på sektionen. Om du vill engagera dig i en nämnd
-så vänd dig till den funktionären! Om du själv vill bli funktionär så
-kontaktar du [Valberedningen](/sektionen/val) för att kandidera på ett
+Volunteers are also elected at the SM. Every volunteer is responsible for one club or activity in the chapter. If you want to get engaged in a club or activity you are welcome to turn to its volunteer! If you want to be a volunteer yourself contact [Valberedningen](/sektionen/val) för att kandidera på ett
 SM. Information om vad det innebär att vara funktionär finns i denna
 [intropholdr](https://static.datasektionen.se/infphldr2016-12-15.pdf).
 
@@ -73,35 +53,23 @@ att kandidera på ett SM.
 
 [Vilka sitter i styrelsen just nu?](https://dfunkt.datasektionen.se/positions)
 
-### Revisor
+### Statutory Auditor
 
-En revisor är en person vars uppgift är att utföra revision genom att
-verifiera bokföring, beslutsmässighet och verksamhet i en organisation,
-till exempel en förening, en myndighet eller ett företag. Datasektionens
-revisorer granskar varje år bokföring och mötesprotokoll för att avgöra
-om styrelsen gjort sitt jobb. Om du själv vill bli revisor så kontaktar
-du [Valberedningen](/sektionen/val) för att kandidera på ett SM.
+The Statutory Auditor is the one that performs audit through verifying the bookkeeping, quorum and activity in an organisation,
+e.g. an organisation, an institution or a business. The Data Chapter's Auditor examines  bookkeeping and meeting protocols every year to decide if the board of directors have done their job.  Contact [Valberedningen](/sektionen/val) if you want to become if you want to run for Statutory Auditor on next SM.
 
-### När bestäms vad?
+### When is everything decided?
 
-Om du vill föreslå en ändring i något av dokumenten lämnar du in en
-motion till SM. För att ändra stadgarna krävs två på varandra följande
-SM-beslut.
+If you want to suggest an alteration in the documents you leave a
+motion to SM. To change the by-laws it is required two consecutive
+SM-decisions.
 
-### Sektionsmöte (SM)
+### Chapter Meeting(Sektionsmöte, SM)
 
-Sektionsmöte, oftare SM, är sektionens högsta beslutande organ. Kan
-liknas vid Datasektionens årsmöte, fast det finns flera varje år. Alla
-sektionsmedlemmar har yttranderätt och rösträtt på Sektionsmötena. Det
-är på SM som alla viktiga beslut som rör sektionen fattas. Det finns
-fyra fasta SM under året; Budget-SM, och Glögg-SM, Revisions-SM och
-Val-SM på våren. Utöver dessa kan Extra-SM anordnas.
+Chapter meeting, or SM, is the chapter's highest decision-making body. Could be compared with the Data Chapter's annual meeting, but there are multiple every year. Every member of the Data Chapter have a right to speak their mind and vote at the SM. All of the most important decisions affecting the chapter are made on the SM. There are four
+stated SM in the year; Budget-SM(Budget Meeting), and Glögg-SM(Christmas Meeting), Revisions-SM(Audit meeting) and
+Val-SM(Election Meeting) på våren. More chapter meetings could be arranged.
 
-### D-rektoratsmöten (DM)
+### D-rektorat Meeting (D-rektoratsmöten, DM)
 
-Datasektionens styrelsemöte. Alla sektionsmedlemmar har närvarorätt och
-alla nämndordförande har utöver det yttranderätt. Alla funktionärer får
-en kallelse till DM men det är bara D-rektoratets ledamöter som
-förväntas närvara. Alla funktionärer och medlemmar är välkomna men
-förväntas inte komma om det inte är någon speciellt intressant punkt på
-dagordningen.
+The Board of Directors Meeting. All of the chapter members have the right to attend and only the chairmen have the right to speak their mind. Every volunteer gets an invitation to DM but it's only the D-rektorat's members of the court that are expected to attend. The volunteers and members are welcomebut are not expected to attend if it isn't a specially interesting topic on the agenda.
