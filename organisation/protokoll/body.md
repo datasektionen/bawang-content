@@ -4,8 +4,14 @@ Protokoll
 Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs upp på denna sida. Vid frågor angående protokoll, kontakta Datasektionens sekreterare.
 
 ## Sektionsmöten, SM
+###2018
+22/1 [Extra-SM](http://static.datasektionen.se/protokoll/protokoll_extra_sm_2018)
 
 ###2017
+27/11 [Glögg-SM](http://static.datasektionen.se/protokoll/glogg_sm17)
+
+22/5 [Val-SM](http://static.datasektionen.se/protokoll/val_sm17)
+
 28/3 [Revisions-SM](http://static.datasektionen.se/protokoll/revisions_sm17)
 
 ###2016
@@ -301,7 +307,18 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ## D-rektoratsmöten, DM
 
+###2018
+17/1 [Ett Godtyckligt-DM](http://static.datasektionen.se/protokoll/ett_godtyckligt_dm_18)
+
 ###2017
+
+14/11 [DM-innan-Glögg-SM](http://static.datasektionen.se/protokoll/dm_innan_glogg_sm17)
+
+4/10 [Mörkret$ hämnd-DM](http://static.datasektionen.se/protokoll/morkrets_hamnd_dm)
+
+5/9 [Kurserna-anfaller-DM](http://static.datasektionen.se/protokoll/kurserna-anfaller-dm)
+
+10/5 [Valens-återkomst-DM](https://drive.google.com/file/d/14s1shugKEt6isvjqU1nW5VLeweU8e3zH/view?usp=sharing)
 
 17/4 [Projekten-slår-tillbaka-DM](http://static.datasektionen.se/protokoll/projekten_slar_tillbaka_dm)
 

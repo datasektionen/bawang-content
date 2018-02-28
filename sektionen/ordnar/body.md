@@ -137,6 +137,7 @@ Ordenstecknet för Ordförande Emeritus består av en störtad femuddig stjärna
 
 Valspråk: Det är faktiskt vi som bestämmer.
 
+    Henrik Johansson, Untricesimus 2016
     Lovisa Runhem, Tricesima 2015
     Jacob Sievers, Undetricesimus 2014
     Petter Djupfeldt, Vicesimus Septus 2013
