@@ -21,7 +21,6 @@ Detta är baspaketet för D-Dagen 2017.
 *   Barbongar, 10 st
 *   El och internetanslutning
 *   Fika
-*   2 månaders annonsering på [djobb.se](http://djobb.se)
 
 **Pris:** 25 000 kr
 
@@ -40,7 +39,6 @@ Detta är baspaketet för D-Dagen 2017.
 *   Barbongar, 10 st
 *   El och internetanslutning
 *   Fika
-*   2 månaders annonsering på [djobb.se](http://djobb.se)
 
 För mer information och pris kontakta D-Dagenansvarig Linn Jensen på [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)
 

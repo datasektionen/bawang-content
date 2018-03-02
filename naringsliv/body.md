@@ -7,7 +7,7 @@ företag, för att få en inblick i det framtida arbetslivet.
 
 Om ni t.ex. vill rekrytera eller göra reklam finns det många sätt att gå
 tillväga, exempelvis via en traditionell lunchföreläsning, reklam eller
-annonsering på Datasektionens jobbportal. Här nedan listar vi våra vanligaste
+annonsering. Här nedan listar vi våra vanligaste
 kontaktvägar/event, men vi kommer gärna på nya idéer tillsammans med er.
 
 Hör gärna av er till oss inom näringslivsgruppen, via mail eller
@@ -21,7 +21,6 @@ efter skoldagens slut. Det är en bra möjlighet för att mingla med
 studenterna i en mer avslappnad miljö och presentera ert företag, om så
 önskas finns även möjlighet att hålla en föreläsning innan. Vi står för
 personal och hjälper er med annonseringen.
-
 
 ## Lunchföreläsning
 
@@ -37,15 +36,6 @@ presentera företaget, projekt eller Trainee-program.
 Vi trycker och sätter upp affischer i Datasektionens sektionslokal,
 META, som även delas med studenter på Medieteknik. Vi sätter även upp
 affischer i andra lokaler där dataloger rör sig, exempelvis utanför datorsalar och liknande.
-
-
-## dJobb
-
-[dJobb](http://djobb.se) är Datasektionens nylanserade jobbportal. Den är
-perfekt om ni söker kreativa, drivna och nyfikna dataloger till exjobb,
-sommarjobb eller fast anställning. Lägg upp en annons på jobbportalen där den
-garanterat når många aktivt jobbsökande dataloger.
-
 
 ## Reklam
 
