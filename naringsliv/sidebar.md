@@ -1,7 +1,5 @@
 ## Hur kan vi hjälpa er?
 
-Ta gärna en titt på vår [produktkatalog](https://static.datasektionen.se/naringsliv/produktkatalog.pdf)
-
 Vill du veta mer om hur ni kan delta i mottagningen? [Kontakta ledningsgruppen](mailto:titel@d.kth.se)
 
 ## Näringslivsgruppen
