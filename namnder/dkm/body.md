@@ -135,10 +135,10 @@ _HATAR BARN FLYGPLAN?!_
 <img align="right" src="http://dkm.io/images/wille.jpg">
 ### William Agnér
 #### Vildmarksknatte
-**Favoritdrink:**  "Cuba Libre"
+**Favoritdrink:**  "Cuba Libre"  
 **Gillar:** Kyla, att prata, bäskhäfv  
 **Ogillar:** Reglerna till bäskhäfv, regler i allmänhet  
-**Specialitet:** Vara heeeeeeelt
+**Specialitet:** Vara heeeeeeelt  
 **Citat:**
 _"Power Ball"? Nää, "Super Bowl" heter det!_  
 
@@ -147,7 +147,7 @@ _"Power Ball"? Nää, "Super Bowl" heter det!_
 #### Instaknatte
 **Favoritdrink:** En liten bara  
 **Gillar:** Allmänna idrottsklubbar, allmän idrott  
-**Ogillar:** När folk spränger hennes toa-gerilla
+**Ogillar:** När folk spränger hennes toa-gerilla  
 **Specialitet:** Gasolina.  
 **Citat:**
 _Eh han den där... Anis._  
@@ -165,17 +165,17 @@ _Jag är inte full! Jag är medveten!_
 <img align="right" src="http://dkm.io/images/eva.jpg">
 ### Eva Despinoy
 #### Le Knatté
-**Favoritdrink:** Jokk, det vildaste tranbäret
-**Gillar:** Gurka, snitsiga procentberäkningar 
+**Favoritdrink:** Jokk, det vildaste tranbäret  
+**Gillar:** Gurka, snitsiga procentberäkningar  
 **Ogillar:** Döda djur i sin mat, "Så"  
-**Specialitet:** Misstolkningar? Aha, missförstånd.
+**Specialitet:** Misstolkningar? Aha, missförstånd.  
 **Citat:**
 _Hallå heter det ”snake eyes” eller ”snake guy”?_  
 
 <img align="right" src="http://dkm.io/images/melvin.jpg">
 ### Melvin Lundqvist
-#### "Hej, jag heter Melvin och jag är"-knatte
-**Favoritdrink:** Isacs bubbel
+#### "Hej, jag heter Melvin och jag är"-knatte  
+**Favoritdrink:** Isacs bubbel  
 **Gillar:** Spiréner, amarettoflaskor, amarettospiréner  
 **Ogillar:** Tyngdlagspåverkad tvåfotsurinering  
 **Specialitet:** Explosivt rörmokeri.  
@@ -187,7 +187,7 @@ _Burre burre_
 #### Knatte med köttfärssås
 **Favoritdrink:** Är köttfärssås en drink?  
 **Gillar:** Att bidra till kurrekassan,  
-**Ogillar:** Malplacerad oregano 
+**Ogillar:** Malplacerad oregano  
 **Specialitet:** Att missa bussen, att "missa bussen"  
 **Citat:**
 _Bullshit att du har oregano i köttfärssås, det ska du ha på pizza och i grekisk sallad din **idiot!**_  
