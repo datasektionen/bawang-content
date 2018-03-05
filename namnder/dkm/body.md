@@ -38,11 +38,11 @@ img {
 ### Pontus Broberg
 #### Klubbmästare
 **Favoritdrink:** Ljummen Brez  
-**Gillar:** Bork, djävulsmusik, James Blake tydligen  
+**Gillar:** Bork, djävulsmusik, James Blake (tydligen)  
 **Ogillar:** Komplementet till AIK  
 **Specialitet:** Att lyssna på spypåsar.  
 **Citat:**
-_Nu ska jag sätta mig ner och ta ett djupt andetag, sedan ett djupt biraandetag_  
+_Kastade precis en spypåse, fyfan vad den lät!_  
 **Smeknamn:** Pampers, Pontib, PorreP, Porkie, Porkalicious  
 
 <img align="right" src="http://dkm.io/images/samuel.jpg">
@@ -62,9 +62,9 @@ _Smak är hur dum i huvudet man är men hur full är man är är hur DKM man är
 **Favoritdrink:** Chili caprinoska   
 **Gillar:** När updootsen rullar in  
 **Ogillar:** När någon snor hennes hallon  
-**Specialitet:** Har en schysst backdoor till Imgur.  
+**Specialitet:** Arga mail, vara Imgurkändis.  
 **Citat:**
-_En sak är säker, du är jävligt ful_  
+_Är inte Marinella en sjukdom?_  
 **Smeknamn:** Ctina / Cten / Kikki  
 
 <img align="right" src="http://dkm.io/images/isac.jpg">
@@ -73,26 +73,26 @@ _En sak är säker, du är jävligt ful_
 **Favoritdrink:** Cola / Staropramen / Tequila / Punsch  
 **Gillar:** Marquise, Solidaritet  
 **Ogillar:** Att befinna sig i landet  
-**Specialitet:** Kan hitta sig själv på 7.82 sekunder.    
+**Specialitet:** Kan hitta sig själv på 7.82 sekunder.  
 **Citat:**
-_Nej mamma, jag är inte drogad._  
+_Jag har symmetriska fingrar!_  
 **Smeknamn:** Jesus / Marquisac   
 
 <img align="right" src="http://dkm.io/images/joar.jpg">
 ### Joar Rutqvist
 #### Barmästare
 **Favoritdrink:** Glass Shards Sour  
-**Gillar:** Att sno toalettpapper  
-**Ogillar:** Allt som inte dricks ur lowball  
+**Gillar:**  Shitposts 😂😂😂👌👌👌  
+**Ogillar:** Nerdz, tråkiga cocktails  
 **Specialitet:** Vet hur man gör självlärande drinkar.  
 **Citat:**
-_We gave them the D!_  
+_Du ska sy! Inte klistra och glittra!_  
 **Smeknamn:** Läskkylsansvarig, Juarez, Joar Joar Joar Joar  
 
 <img align="right" src="http://dkm.io/images/klara.jpg">
 ### Klara Eserstam
 #### Barmästare
-**Favoritdrink:** Tomtens glögg, DREKs bubbel 
+**Favoritdrink:** Tomtens glögg, DREKs bubbel  
 **Gillar:** När skotern är nyoljad  
 **Ogillar:** När romsåsen inte är i såsglaset  
 **Specialitet:** Kan få hela världen att sitta fast i hennes finger.  
@@ -119,7 +119,7 @@ _Varför är Christinas vatten bakochfram?_
 **Ogillar:** Struggle  
 **Specialitet:** Skriver KTHs förmodligen sjukaste festanmälningar.  
 **Citat:**
-_Att behöva byta hand för att hälla på mer diskmedel är så gränslöst jobbigt_  
+_Att behöva byta hand för att hälla på mer diskmedel är så gränslöst jobbigt._  
 **Smeknamn:** Martyparty / M-dawg  
 
 <img align="right" src="http://dkm.io/images/agnes.jpg">
