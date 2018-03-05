@@ -4,7 +4,7 @@ DKM är Datas Klubbmästeri. Det är vi som ser till att ni dataloger har möjli
 
 ## Vad gör vi?
 
-Varje onsdag har ni möjlighet att avnjuta en kall öl tillsammans med god och prisvärd mat i META. Puben öppnar 17:17 och håller på tills gäster eller personal fått nog. När terminen väl börjar kan ni passa på att ta ett avbrott från labbandet och svänga förbi META en onsdag. Första onsdagspuben i månaden har vi dessutom temapub med nya och roliga teman varje gång, missa inte!
+Varje onsdag har ni möjlighet att avnjuta en kall öl/cider/drink/alkoholfritt alternativ tillsammans med god och prisvärd mat i META. Puben öppnar 17:17 och håller på tills gäster eller personal fått nog. Passa på att ta ett avbrott från labbandet och svänga förbi META en onsdag. Första onsdagspuben i månaden har vi dessutom temapub med nya och roliga teman varje gång, missa inte!
 
 Efter tentaperioderna behöver man slappna av och ta en paus en kort stund innan man tar itu med pluggandet igen. Vad passar väl då bättre än en tentapub? DKM anordnar två tentapubar per år, Medias Klubbmästeri tar hand om de andra två. Vi har campus bästa läge och campus bästa spritbar, och du – vi tar kort!
 
@@ -17,7 +17,7 @@ Utöver onsdagspubarna har vi även ett par större event:
 
 ## Facebook!
 
-För att få mer info om events och annat kan det vara en fördel att kika in och följa vår Facebook-sida!
+För att få mer info om events och annat kan det vara en fördel att kika in och följa vår Facebooksida!
 
 [![Facebook logo](http://dkm.io/images/FB-logo.png)](https://www.facebook.com/datasklubbmasteri)
 
@@ -37,10 +37,10 @@ img {
 <img align="right" src="http://dkm.io/images/pontus.jpg">
 ### Pontus Broberg
 #### Klubbmästare
-**Favoritdrink:** Brez  
-**Gillar:** Bork, djävulsmusik  
+**Favoritdrink:** Ljummen Brez  
+**Gillar:** Bork, djävulsmusik, James Blake tydligen  
 **Ogillar:** Komplementet till AIK  
-**Specialitet:** Kan twerka Beethovens femte på danska.  
+**Specialitet:** Att lyssna på spypåsar.  
 **Citat:**
 _Nu ska jag sätta mig ner och ta ett djupt andetag, sedan ett djupt biraandetag_  
 **Smeknamn:** Pampers, Pontib, PorreP, Porkie, Porkalicious  
@@ -53,16 +53,16 @@ _Nu ska jag sätta mig ner och ta ett djupt andetag, sedan ett djupt biraandetag
 **Ogillar:** Att ha långt hår  
 **Specialitet:** Kan vissla i fyra dimensionser.  
 **Citat:**
-_Vad är snabbaste vägen till gud? Vafan, det här är ju grafteori!_  
+_Smak är hur dum i huvudet man är men hur full är man är är hur DKM man är._  
 **Smeknamn:** Shert  
 
 <img align="right" src="http://dkm.io/images/christina.jpg">
 ### Christina Sunnegårdh
 #### Ekonomimästare
 **Favoritdrink:** Chili caprinoska   
-**Gillar:** När updootsen rullar in på Imgur  
-**Ogillar:** Att köra sektionsbilen  
-**Specialitet:** Kan posta till Instagram utan internetanslutning.  
+**Gillar:** När updootsen rullar in  
+**Ogillar:** När någon snor hennes hallon  
+**Specialitet:** Har en schysst backdoor till Imgur.  
 **Citat:**
 _En sak är säker, du är jävligt ful_  
 **Smeknamn:** Ctina / Cten / Kikki  
@@ -72,7 +72,7 @@ _En sak är säker, du är jävligt ful_
 #### Ekonomimästare
 **Favoritdrink:** Cola / Staropramen / Tequila / Punsch  
 **Gillar:** Marquise, Solidaritet  
-**Ogillar:** Att komma i tid  
+**Ogillar:** Att befinna sig i landet  
 **Specialitet:** Kan hitta sig själv på 7.82 sekunder.    
 **Citat:**
 _Nej mamma, jag är inte drogad._  
@@ -81,46 +81,117 @@ _Nej mamma, jag är inte drogad._
 <img align="right" src="http://dkm.io/images/joar.jpg">
 ### Joar Rutqvist
 #### Barmästare
-**Favoritdrink:** Worcester sour  
+**Favoritdrink:** Glass Shards Sour  
 **Gillar:** Att sno toalettpapper  
 **Ogillar:** Allt som inte dricks ur lowball  
 **Specialitet:** Vet hur man gör självlärande drinkar.  
 **Citat:**
 _We gave them the D!_  
-**Smeknamn:** Läskkylsansvarig, Juarez  
+**Smeknamn:** Läskkylsansvarig, Juarez, Joar Joar Joar Joar  
 
 <img align="right" src="http://dkm.io/images/klara.jpg">
 ### Klara Eserstam
 #### Barmästare
-**Favoritdrink:** Alkohol  
+**Favoritdrink:** Tomtens glögg, DREKs bubbel 
 **Gillar:** När skotern är nyoljad  
-**Ogillar:** Oss 08'or  
+**Ogillar:** När romsåsen inte är i såsglaset  
 **Specialitet:** Kan få hela världen att sitta fast i hennes finger.  
 **Citat:**
-_Pls give me my spexxy shoes_  
+_Jag vet inte ens **VAD** jag ska acceptera just nu!_  
 **Smeknamn:** Klara, färdiga gå! / Piikki  
 
 <img align="right" src="http://dkm.io/images/felix.jpg">
 ### Felix Andersson
 #### Infomästare
-**Favoritdrink:** Fruuty Fukker  
-**Gillar:** Koffein  
-**Ogillar:** När man har för många bågar på glasögonen  
-**Specialitet:** 
+**Favoritdrink:** Monster  
+**Gillar:** Att undersöka hur mycket man faktiskt måste vara i skolan  
+**Ogillar:** Struktur  
+**Specialitet:** Har glasögon med halveringstid på ett år.  
 **Citat:**
-_Kylen blir mycket kallare när alla fyllon är i poolen och inte öppnar den hela tiden_  
+_Varför är Christinas vatten bakochfram?_  
 **Smeknamn:** Rubiks Gud, Flux  
 
 <img align="right" src="http://dkm.io/images/martin.jpg">
 ### Martin Hyberg
 #### Festmästare
 **Favoritdrink:** Gin N' Juice  
-**Gillar:** Att tänka sig bort till sitt dubbelliv som säl  
-**Ogillar:** Saker på understa hyllan  
-**Specialitet:** Växer i takt med O(a^n).  
+**Gillar:** Att tänka sig bort till sitt förra liv som säl  
+**Ogillar:** Struggle  
+**Specialitet:** Skriver KTHs förmodligen sjukaste festanmälningar.  
 **Citat:**
-_Bra sagt guys, nu ska jag svälja mitt eget hår_  
+_Att behöva byta hand för att hälla på mer diskmedel är så gränslöst jobbigt_  
 **Smeknamn:** Martyparty / M-dawg  
+
+<img align="right" src="http://dkm.io/images/anges.jpg">
+### Agnes Forsberg
+#### Gammelknatte
+**Favoritdrink:**  Sista shotsen i flarran  
+**Gillar:** Kylspel  
+**Ogillar:** Drickspel  
+**Specialitet:** Respektera sallad, vara från Skåne  
+**Citat:**
+_HATAR BARN FLYGPLAN?!_   
+
+<img align="right" src="http://dkm.io/images/wille.jpg">
+### William Agnér
+#### Vildmarksknatte
+**Favoritdrink:**  "Cuba Libre"
+**Gillar:** Kyla, att prata, bäskhäfv  
+**Ogillar:** Reglerna till bäskhäfv, regler i allmänhet  
+**Specialitet:** Vara heeeeeeelt
+**Citat:**
+_"Power Ball"? Nää, "Super Bowl" heter det!_  
+
+<img align="right" src="http://dkm.io/images/christine.jpg">
+### Christine Rosquist
+#### Instaknatte
+**Favoritdrink:** En liten bara  
+**Gillar:** Allmänna idrottsklubbar, allmän idrott  
+**Ogillar:** När folk spränger hennes toa-gerilla
+**Specialitet:** Gasolina.  
+**Citat:**
+_Eh han den där... Anis._  
+
+<img align="right" src="http://dkm.io/images/philip.jpg">
+### Philip Song
+#### Designated Knatte
+**Favoritdrink:** Philips Screwdriver [1500W]  
+**Gillar:** Tobbe Trollkarl  
+**Ogillar:** Att bli spirénstrypt  
+**Specialitet:** Klippa till spiréner.  
+**Citat:**
+_Jag är inte full! Jag är medveten!_  
+
+<img align="right" src="http://dkm.io/images/eva.jpg">
+### Eva Despinoy
+#### Le Knatté
+**Favoritdrink:** Jokk, det vildaste tranbäret
+**Gillar:** Gurka, snitsiga procentberäkningar 
+**Ogillar:** Döda djur i sin mat, "Så"  
+**Specialitet:** Misstolkningar? Aha, missförstånd.
+**Citat:**
+_Hallå heter det ”snake eyes” eller ”snake guy”?_  
+
+<img align="right" src="http://dkm.io/images/melvin.jpg">
+### Melvin Lundqvist
+#### "Hej, jag heter Melvin och jag är"-knatte
+**Favoritdrink:** Isacs bubbel
+**Gillar:** Spiréner, amarettoflaskor, amarettospiréner  
+**Ogillar:** Tyngdlagspåverkad tvåfotsurinering  
+**Specialitet:** Explosivt rörmokeri.  
+**Citat:**
+_Burre burre_  
+
+<img align="right" src="http://dkm.io/images/henke.jpg">
+### Henrik Jolérus
+#### Knatte med köttfärssås
+**Favoritdrink:** Är köttfärssås en drink?  
+**Gillar:** Att bidra till kurrekassan,  
+**Ogillar:** Malplacerad oregano 
+**Specialitet:** Att missa bussen, att "missa bussen"  
+**Citat:**
+_Bullshit att du har oregano i köttfärssås, det ska du ha på pizza och i grekisk sallad din **idiot!**_  
+
 
 ## Cliff
 
