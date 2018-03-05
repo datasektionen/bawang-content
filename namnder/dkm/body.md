@@ -122,7 +122,7 @@ _Varför är Christinas vatten bakochfram?_
 _Att behöva byta hand för att hälla på mer diskmedel är så gränslöst jobbigt_  
 **Smeknamn:** Martyparty / M-dawg  
 
-<img align="right" src="http://dkm.io/images/anges.jpg">
+<img align="right" src="http://dkm.io/images/agnes.jpg">
 ### Agnes Forsberg
 #### Gammelknatte
 **Favoritdrink:**  Sista shotsen i flarran  
