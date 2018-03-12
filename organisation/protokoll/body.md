@@ -308,6 +308,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 ## D-rektoratsmöten, DM
 
 ###2018
+13/2 [Ett Olyckligt-DM](http://static.datasektionen.se/protokoll/ett_olyckligt_dm_2018)
+
 17/1 [Ett Godtyckligt-DM](http://static.datasektionen.se/protokoll/ett_godtyckligt_dm_18)
 
 ###2017
