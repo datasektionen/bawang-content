@@ -51,19 +51,18 @@ För mer information och pris kontakta D-Dagenansvarig Nils Streijffert på [d-d
 *   Logga på Goodiebag, 1 300 kr
 
 ## Anmälan
-
 Anmälan till Konglig Datasektionens arbetsmarknadsdag, D-dagen, görs i
 två steg. Det första steget består av att anmäla ert företag via
-[denna](https://docs.google.com/forms/d/e/1FAIpQLScQngxlgluhM7efm4b-Q8v69VvOdnWhRsFAMhNJ9NMs1eLCNA/viewform)
+[denna](https://docs.google.com/forms/d/e/1FAIpQLSfU2UMy9nVYERSMu3gWNwwGVeJY0sjYB_cu0wgXhnwBBGNVGQ/closedform)
 sida.
 
 Det andra och sista steget består av att skriva på
-[detta](http://static.datasektionen.se/d-dagen/kontrakt2017)
+[detta](https://drive.google.com/file/d/1qeCEv1mxZ8BTtYAwTT_8ds0swtAjbQlI/view)
 kontrakt (inkl. beställningsformulär) och skicka till [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)
-med rubriken <br>**Kontrakt D-Dagen 2017 - Företagsnamn**
+med rubriken <br>**Kontrakt D-Dagen 2018 - Företagsnamn**
 
 Observera att om vi inte får detta kontrakt inom tre veckor efter det
 att ni har anmält er på internet så kommer vi att plocka bort er
 anmälan!
 
-Vi syns i höst!
+Vi ses i höst!
