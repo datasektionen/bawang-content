@@ -10,7 +10,7 @@ puben finns det möjlighet att bjuda studenter på valfri dryck i baren
 med hjälp av barbongar. Under dagen blir företagsrepresentanterna bjudna
 på frukost, lunch, fika och middag.
 
-Detta är baspaketet för D-Dagen 2017.
+Detta är baspaketet för D-Dagen 2018.
 
 ## Baspaket
 
@@ -25,7 +25,7 @@ Detta är baspaketet för D-Dagen 2017.
 **Pris:** 25 000 kr
 
 
-## Cerisa Paketet
+## Huvudsponsor
 
 *   Heluppslag i katalogen
 *   Logga på katalogens framsida
@@ -40,11 +40,11 @@ Detta är baspaketet för D-Dagen 2017.
 *   El och internetanslutning
 *   Fika
 
-För mer information och pris kontakta D-Dagenansvarig Linn Jensen på [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)
+För mer information och pris kontakta D-Dagenansvarig Nils Streijffert på [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)
 
 ## Extra tillägg
 
-*   Bord 1st, 300 kr
+*   Bord 1st, 500 kr
 *   Företagsrepresentant dag, 1 st 300kr
 *   Företagsrepresentant kväll, 1 st 500kr
 *   Barbongar, 10 st 500kr
