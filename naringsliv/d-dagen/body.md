@@ -2,7 +2,7 @@
 
 Konglig Datasektionen anordnar årligen D-dagen, som är en
 arbetsmarknadsdag där D-studenter och företagen får chans att utveckla
-en närmare kontakt med varandra. I år äger denna heldagsmässa rum den 5e
+en närmare kontakt med varandra. I år äger denna heldagsmässa rum den 11
 oktober på campus Valhallavägen. Senare på kvällen har vi en
 traditionsenlig sittning som även följs av en pub, där ni har
 möjligheten att träffa studenterna i en mer avslappnad miljö. Under
