@@ -656,9 +656,9 @@ För sin konstant glada och upplyftande attityd, hjälpsamhet, och fantastiska a
 
 #### Alexander Viklund <a name="viklu"></a>
 
-Alexander Viklund har under åren engagerat sig i så gott som hela sektionen. Han började sitt enastående arbete redan i ettan då han blev vald till Prylis och införde då den härliga traditionen med prylisvästen. Under det andra året tog Alex på sig ansvaret som kassör för sektionen och utförde även där ett beundransvärt arbete och har sedan dess fortsatt utveckla sektionens ekonomiska arbete. Det genom att vara ekonomiansvarig för bland annat METAspexet, utveckla grunden för CashFlow 2.0 och göra om sektionens ekonomiska styrdokument. 
+Alexander Viklund har under åren engagerat sig i så gott som hela sektionen. Han började sitt enastående arbete redan i ettan då han blev vald till Prylis och införde då den härliga traditionen med prylisvästen. Under det andra året tog Alexander på sig ansvaret som kassör för sektionen och utförde även där ett beundransvärt arbete och har sedan dess fortsatt utveckla sektionens ekonomiska arbete. Det genom att vara ekonomiansvarig för bland annat METAspexet, utveckla grunden för CashFlow 2.0 och göra om sektionens ekonomiska styrdokument. 
 
-Direkt efter arbetet som kassör valdes Alex till ordförande. Under sina mandatperioder i D-rektoratet har han tagit på sig arbetet för de flesta av sektionens policys, utvecklat ett system för verksamhetsplanen och gjorde det övervägande arbetet för vår krisplan. Utöver allt detta har han även varit kårfullmäktigeledamot, projektledare för d-Åre, fanbärare och förhoppningsvis ännu mer under den kommande tiden.
+Direkt efter arbetet som kassör valdes Alexander till ordförande. Under sina mandatperioder i D-rektoratet har han tagit på sig arbetet för de flesta av sektionens policys, utvecklat ett system för verksamhetsplanen och gjorde det övervägande arbetet för vår krisplan. Utöver allt detta har han även varit kårfullmäktigeledamot, projektledare för d-Åre, fanbärare och förhoppningsvis ännu mer under den kommande tiden.
 
 För sitt vidsträckta pålitliga engagemang och sitt arbete med att förbättra sektionen tilldelas därmed Alexander Viklund hedersdeltat.
 
