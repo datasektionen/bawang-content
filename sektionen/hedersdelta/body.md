@@ -12,6 +12,21 @@ går det även att maila D-rektoratet.
 
 #Innehavare av Hedersdeltat
 
+## Mottagare 2018
+
+<dl>
+<dt>
+</dt>
+<dd>
+[Jonas Dahl](#jonadahl), Untricesimus
+
+</dd>
+<dd>
+[Alexander Viklund](#viklu), Duotricesimus
+
+</dd>
+</dl>  
+
 ## Mottagare 2017
 
 <dl>
@@ -631,6 +646,21 @@ Wolfram Meyer, Tertius
 ## Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
 ---------------------------------------------
 
+## Motiveringar till 2018 års mottagare
+
+#### Jonas Dahl <a name="jonadahl"></a>
+
+Jonas Dahl har varit en otroligt värdefull, uppskattad och hängiven medlem under sina år i Datasektionen. Han har spridit glädje och erbjudit sin hjälp, oavsett vad situationen gäller. Jonas har varit väldigt aktiv inom flera delar av sektionen, däribland i mottagningen under flera år, och har haft ett fantastiskt år som storasyskon. Men det är inte bara som förtroendevald som han har lagt ner sin kraft och ork för sektionen. Han har bland annat dekorerat sektionslokalen och anordnat sittningar i SpexM, men framför allt har han lagt ner sin själ i sektionens system. Jonas har utvecklat några av Datasektionens mest använda system och fortsätter att underhålla dem. Sektionsarbetet har verkligen underlättats av hans enastående insatser.
+
+För sin konstant glada och upplyftande attityd, hjälpsamhet, och fantastiska arbete tilldelas därmed Jonas Dahl hedersdeltat.
+
+#### Alexander Viklund <a name="viklu"></a>
+
+Alexander Viklund har under åren engagerat sig i så gott som hela sektionen. Han började sitt enastående arbete redan i ettan då han blev vald till Prylis och införde då den härliga traditionen med prylisvästen. Under det andra året tog Alexander på sig ansvaret som kassör för sektionen och utförde även där ett beundransvärt arbete och har sedan dess fortsatt utveckla sektionens ekonomiska arbete. Det genom att vara ekonomiansvarig för bland annat METAspexet, utveckla grunden för CashFlow 2.0 och göra om sektionens ekonomiska styrdokument. 
+
+Direkt efter arbetet som kassör valdes Alexander till ordförande. Under sina mandatperioder i D-rektoratet har han tagit på sig arbetet för de flesta av sektionens policys, utvecklat ett system för verksamhetsplanen och gjorde det övervägande arbetet för vår krisplan. Utöver allt detta har han även varit kårfullmäktigeledamot, projektledare för d-Åre, fanbärare och förhoppningsvis ännu mer under den kommande tiden.
+
+För sitt vidsträckta pålitliga engagemang och sitt arbete med att förbättra sektionen tilldelas därmed Alexander Viklund hedersdeltat.
 
 ## Motiveringar till 2017 års mottagare
 
