@@ -14,18 +14,9 @@ går det även att maila D-rektoratet.
 
 ## Mottagare 2018
 
-<dl>
-<dt>
-</dt>
-<dd>
 [Jonas Dahl](#jonadahl), Untricesimus
 
-</dd>
-<dd>
 [Alexander Viklund](#viklu), Duotricesimus
-
-</dd>
-</dl>  
 
 ## Mottagare 2017
 
