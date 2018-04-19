@@ -6,7 +6,7 @@ As proof of membership in one of the chapters five orders is noted by the carryi
 
 Membership in the order of Pubmasters Emeritus is given to the Pubmasters on the Computer science chapter that with merit worked during a whole term.
 
-The order badge for Pubmaster Emeritus consists of a downward pointing five-pointed star in silver with a cerise field strewn with a black delta surrounded by laurel.
+The order badge for Pubmaster Emeritus consists of a mullet inverted five-pointed star in silver with a cerise field strewn with a black delta surrounded by laurel.
 
     Adam Denlert, Untricesimus 2015/2016
     Robin Hellgren, Tricesimus 2014/2015
@@ -44,7 +44,7 @@ The order badge for Pubmaster Emeritus consists of a downward pointing five-poin
 
 Membership in the order of Röyal Öfverdrif Emeritus is given to the Röyal Öfverdrifs on the Computer science chapter that with merit worked during a whole term.
 
-The order badge for Röyal Öfverdrif Emeritus consists of a downward pointing five-pointed star in black with a cerise field strewn with a black delta surrounded by laurel.
+The order badge for Röyal Öfverdrif Emeritus consists of a mullet inverted five-pointed star in black with a cerise field strewn with a black delta surrounded by laurel.
 
 Motto: Lonely is strong. Together we are just many.
 
@@ -86,7 +86,7 @@ Motto: Lonely is strong. Together we are just many.
 
 Membership in the order of Big siblings Emeritus is given to the Big siblings on the Computer science chapter that with merit worked during a whole term.
 
-The order badge for Big sibling Emeritus consists of a downward pointing five-pointed star in cerise with a silver field strewn with a black delta surrounded by laurel.
+The order badge for Big sibling Emeritus consists of a mullet inverted five-pointed star in cerise with a silver field strewn with a black delta surrounded by laurel.
 
     Agnes Åman, Untricesima 2016
     Björn Englesson, Tricesimus 2015
@@ -120,7 +120,7 @@ The order badge for Big sibling Emeritus consists of a downward pointing five-po
 
 Membership in the order of President Emeritus is given to the Presidents on the Computer science chapter that with merit worked during a whole term.
 
-The order badge for President Emeritus consists of a downward pointing five-pointed star in gold with a black field strewn with a cerise delta surrounded by a golden laurel.
+The order badge for President Emeritus consists of a mullet inverted five-pointed star in gold with a black field strewn with a cerise delta surrounded by a golden laurel.
 
 Motto: It's actually we that decide things around here.
 

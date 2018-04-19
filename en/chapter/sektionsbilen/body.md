@@ -1,6 +1,6 @@
-# Data har en sektionsbil!
+# Computer science has a car!
 
-För att boka bilen, besök [bokning.datasektionen.se](https://bokning.datasektionen.se/bookings/5). Nedan finns en veckovis kalender över framtida och historiska bokningar.
+Too book the car, visit [bokning.datasektionen.se](https://bokning.datasektionen.se/bookings/5). Below there is a weekly calendar over future and historical bookings.
 
 <div id="calendar"></div>
 <script type="text/javascript">
