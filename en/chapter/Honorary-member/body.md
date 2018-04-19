@@ -1,26 +1,23 @@
-Datasektionens hedersmedlemmar
+The computer science chapters honorary members
 ------------------------------
 
-En hedersmedlem är en sådan person som *synnerligen främjat sektionens
-intressen och strävanden*. För att nominera hedersmedlem skickas motion
-in till D-Rektoratet med en motivering, så att denna sedan ska kunna tas
-upp på nästkommande Sektionsmöte för beslut.
+An honorary member is a person that has especially supported the chapters interests and aspirations. To nominate a honorary member a motion is sent to the d-Directorate with a motivation, so that it can be brought up on the next chapter meeting for descision.
 
-## Medlemmar
+## Members
 
--   Helen Lindkvist, Studievägledare Medieteknik, 2015
--   Alicja Lissenko, Studievägledare Datateknik, 2015
--   Kjelle och Heidi, Väktare, 2015
+-   Helen Lindkvist, Student counselor Media technology, 2015
+-   Alicja Lissenko, Student counselor Computer science, 2015
+-   Kjelle och Heidi, Wardens, 2015
 -   Lena Edvardsson, 2013
 -   Stefan Nilsson, 2013
 -   Henrik Eriksson, 2012
--   Britt Isaksson, Studievägledare Datateknik, 2008
--   Stefan Arnborg, Programansvarig Datateknik, 2005
--   Inger Larsson, Kanslichef, 1997
--   Yngve Sundblad, f.d. Prodekanus, 1988
--   Stefan Östlund, Elektro, 1983
--   Katrin Rosenqvist, Fysik, 1983
--   Johan Groth, Fysik, 1983
+-   Britt Isaksson, Student counselor Computer science, 2008
+-   Stefan Arnborg, Program responsible Computer science, 2005
+-   Inger Larsson, Head of offices, 1997
+-   Yngve Sundblad, former Prodekanus, 1988
+-   Stefan Östlund, Electrical engineering, 1983
+-   Katrin Rosenqvist, Engineering physics, 1983
+-   Johan Groth, Engineering physics, 1983
 
 ### Helen Lindkvist och Alicja Lissenko
 

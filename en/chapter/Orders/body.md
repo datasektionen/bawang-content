@@ -1,12 +1,12 @@
-På Datasektionen finns fyra ordnar, benämnda “Klubbmästare Emeritus”, “Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus” och “Ordförande Emeritus”.
+On the Computer science chapter there are five orders, named “Pubmaster Emeritus”, “Röyal Öfverdrif Emeritus”, “Big sibling Emeritus”, "Treasurer emeritus" and “President Emeritus”.
 
-Som bevis på medlemskap i någon av Datasektionens fyra ordnar bärs respektive ordens ordenstecken.
+As proof of membership in one of the chapters five orders is noted by the carrying of the specific order badge.
 
-## Klubbmästare Emeritus
+## Pubmaster Emeritus
 
-Medlemskap i Klubbmästare Emeritus-orden tilldelas de klubbmästare på Datasektionen som förtjänstfullt arbetat under en hel mandatperiod.
+Membership in the order of Pubmasters Emeritus is given to the Pubmasters on the Computer science chapter that with merit worked during a whole term.
 
-Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
+The order badge for Pubmaster Emeritus consists of a downward pointing five-pointed star in silver with a cerise field strewn with a black delta surrounded by laurel.
 
     Adam Denlert, Untricesimus 2015/2016
     Robin Hellgren, Tricesimus 2014/2015
@@ -40,13 +40,13 @@ Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjär
     Jesper Lundh, Sequndus 1986
     Kjell Lundesten, Primus 1985
 
-## Konglig Öfverdrif Emeritus
+## Röyal Öfverdrif Emeritus
 
-Medlemskap i Konglig Öfverdrif Emeritus-orden tilldelas de Konglig Öfverdrifvare som förtjänstfullt arbetat under en hel mandatperiod.
+Membership in the order of Röyal Öfverdrif Emeritus is given to the Röyal Öfverdrifs on the Computer science chapter that with merit worked during a whole term.
 
-Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig stjärna i svart med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
+The order badge for Röyal Öfverdrif Emeritus consists of a downward pointing five-pointed star in black with a cerise field strewn with a black delta surrounded by laurel.
 
-Valspråk: Ensam är stark. Tillsammans är vi bara många.
+Motto: Lonely is strong. Together we are just many.
 
     Hanna Nyblom, Tricesima 2016
     Shayan Effati, Tricesimus 2015
@@ -82,11 +82,11 @@ Valspråk: Ensam är stark. Tillsammans är vi bara många.
     Juri Loosme, Sequndus 1985
     Patrik Anderson, Primus 1984
 
-## Storasyskon Emeritus
+## Big sibling Emeritus
 
-Medlemskap i Storasyskon Emeritus-orden tilldelas de Storasyskon som förtjänstfullt arbetat under en hel mandatperiod.
+Membership in the order of Big siblings Emeritus is given to the Big siblings on the Computer science chapter that with merit worked during a whole term.
 
-Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
+The order badge for Big sibling Emeritus consists of a downward pointing five-pointed star in cerise with a silver field strewn with a black delta surrounded by laurel.
 
     Agnes Åman, Untricesima 2016
     Björn Englesson, Tricesimus 2015
@@ -116,14 +116,15 @@ Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna
     Björn Rhoads (Gahm), Septimus 1991
     Carl-Johan Graufelds, Sextus 1990
 
-## Ordförande Emeritus
+## President Emeritus
 
-Medlemskap i Ordförande Emeritus-orden tilldelas de Ordförande på Datasektionen som förtjänstfullt arbetat under en hel mandatperiod.
+Membership in the order of President Emeritus is given to the Presidents on the Computer science chapter that with merit worked during a whole term.
 
-Ordenstecknet för Ordförande Emeritus består av en störtad femuddig stjärna i guld med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
+The order badge for President Emeritus consists of a downward pointing five-pointed star in gold with a black field strewn with a cerise delta surrounded by a golden laurel.
 
-Valspråk: Det är faktiskt vi som bestämmer.
+Motto: It's actually we that decide things around here.
 
+    Henrik Johansson, Untricesimus 2016
     Lovisa Runhem, Tricesima 2015
     Jacob Sievers, Undetricesimus 2014
     Petter Djupfeldt, Vicesimus Septus 2013

@@ -35,7 +35,7 @@ Emma Olsson (Sektionen för Medieteknik)
 
 #### MAESTRO
 
-”Master At Expressing Stuff To Recievers Online”
+”Master At Expressing Stuff To Receivers Online”
 
 Har ansvar för att information om META / METAdorerna kommer ut på internet. Ansvarar över METAs facebook-sida, METAdorernas facebook-sida med mera.
 

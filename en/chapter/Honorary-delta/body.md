@@ -1,18 +1,14 @@
-#Hedersdeltat
+#The honorary delta
 
-Hedersdeltat är Konglig Datasektionens finaste förtjänsttecken och delas
-ut till de personer som synnerligen förtjänstfullt verkat ideellt för
-sektionen. [Motiveringar](#motivering) för varje mottagare finnas att
-läsa längre ner på sidan.
+The honorary delta is the computer science chapters most finest service reward and is given out to the people who has with extraordinary merit and in a non-profit manner worked for the chapter. [Motivations](#motivation) for each receiever can be read further down below in Swedish.
 
-#Hedersdelta-nomineringar
+#Honorary delta nominees
 
-[Här](https://goo.gl/forms/vZ2KdYWWoV) kan nomineringar göras! Självklart
-går det även att maila D-rektoratet.
+[Here](https://goo.gl/forms/vZ2KdYWWoV) can nominations be made! You can of course also email them to the d-Rectorate.
 
-#Innehavare av Hedersdeltat
+#Current holders of the honorary delta.
 
-## Mottagare 2016
+## Receivers 2016
 
 <dl>
 <dt>
@@ -26,7 +22,7 @@ går det även att maila D-rektoratet.
 
 </dd>
 </dl>
-## Mottagare 2015
+## Receivers 2015
 
 <dl>
 <dt>
@@ -48,7 +44,7 @@ går det även att maila D-rektoratet.
 
 </dd>
 </dl>
-## Mottagare 2014
+## Receivers 2014
 
 <dl>
 <dt>
@@ -70,7 +66,7 @@ går det även att maila D-rektoratet.
 
 </dd>
 </dl>
-## Mottagare 2013
+## Receivers 2013
 
 <dl>
 <dt>
@@ -100,7 +96,7 @@ går det även att maila D-rektoratet.
 
 </dd>
 </dl>
-## Mottagare 2012
+## Receivers 2012
 
 <dl>
 <dt>
@@ -114,7 +110,7 @@ går det även att maila D-rektoratet.
 
 </dd>
 </dl>
-## Mottagare 2011
+## Receivers 2011
 
 <dl>
 <dt>
@@ -140,7 +136,7 @@ går det även att maila D-rektoratet.
 
 </dd>
 </dl>
-## Mottagare 2010
+## Receivers 2010
 
 <dl>
 <dt>
@@ -166,7 +162,7 @@ går det även att maila D-rektoratet.
 
 </dd>
 </dl>
-## Mottagare 2009
+## Receivers 2009
 
 <dl>
 <dt>
@@ -192,7 +188,7 @@ Roger Ström, Unvicesimus
 
 </dd>
 </dl>
-## Mottagare 2008
+## Receivers 2008
 
 <dl>
 <dt>
@@ -210,7 +206,7 @@ Jon Karlfeldt (Larsson), Undevicesimus
 
 </dd>
 </dl>
-## Mottagare 2007
+## Receivers 2007
 
 <dl>
 <dt>
@@ -236,7 +232,7 @@ Pehr Söderman, Unvicesimus
 
 </dd>
 </dl>
-## Mottagare 2006
+## Receivers 2006
 
 <dl>
 <dt>
@@ -246,7 +242,7 @@ Henrik Fräsén, Vicesimus
 
 </dd>
 </dl>
-## Mottagare 2005
+## Receivers 2005
 
 <dl>
 <dt>
@@ -260,7 +256,7 @@ Emil Stenström, Undevicesimus
 
 </dd>
 </dl>
-## Mottagare 2004
+## Receivers 2004
 
 <dl>
 <dt>
@@ -282,7 +278,7 @@ Mark Peldius, Septus decimus
 
 </dd>
 </dl>
-## Mottagare 2003
+## Receivers 2003
 
 <dl>
 <dt>
@@ -296,7 +292,7 @@ Tommie Gannert, Dodevicesimus
 
 </dd>
 </dl>
-## Mottagare 2002
+## Receivers 2002
 
 <dl>
 <dt>
@@ -334,7 +330,7 @@ Niklas Persson, Quintus decimus
 
 </dd>
 </dl>
-## Mottagare 2001
+## Receivers 2001
 
 <dl>
 <dt>
@@ -344,7 +340,7 @@ Daniel Westbom, Sigvard
 
 </dd>
 </dl>
-## Mottagare 2000
+## Receivers 2000
 
 <dl>
 <dt>
@@ -354,7 +350,7 @@ Joakim Meldahl, Sigvard
 
 </dd>
 </dl>
-## Mottagare 1999
+## Receivers 1999
 
 <dl>
 <dt>
@@ -376,7 +372,7 @@ Mikael Stralje, tertius decimus
 
 </dd>
 </dl>
-## Mottagare 1998
+## Receivers 1998
 
 <dl>
 <dt>
@@ -394,7 +390,7 @@ Fredrik Sandberg, Docecimus
 
 </dd>
 </dl>
-## Mottagare 1997
+## Receivers 1997
 
 <dl>
 <dt>
@@ -412,7 +408,7 @@ Olof Lindholm, Dodecimus
 
 </dd>
 </dl>
-## Mottagare 1996
+## Receivers 1996
 
 <dl>
 <dt>
@@ -430,7 +426,7 @@ Patrik Nilssom, Decimus
 
 </dd>
 </dl>
-## Mottagare 1995
+## Receivers 1995
 
 <dl>
 <dt>
@@ -452,7 +448,7 @@ Björn Sjöstrand, Oqtavus
 
 </dd>
 </dl>
-## Mottagare 1992
+## Receivers 1992
 
 <dl>
 <dt>
@@ -478,7 +474,7 @@ Jan Garefelt, Oqtavus
 
 </dd>
 </dl>
-## Mottagare 1991
+## Receivers 1991
 
 <dl>
 <dt>
@@ -500,7 +496,7 @@ Peter Nemeth, Quintus
 
 </dd>
 </dl>
-## Mottagare 1990
+## Receivers 1990
 
 <dl>
 <dt>
@@ -530,7 +526,7 @@ Kristina Nedlich, Quarta
 
 </dd>
 </dl>
-## Mottagare 1989
+## Receivers 1989
 
 <dl>
 <dt>
@@ -560,7 +556,7 @@ Erik Wåhlin, Tertius
 
 </dd>
 </dl>
-## Mottagare 1988
+## Receivers 1988
 
 <dl>
 <dt>
@@ -614,7 +610,7 @@ Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
 ---------------------------------------------
 
 </h2>
-## Motiveringar till 2016 års mottagare
+## Motivations for 2016 years receivers
 
 #### Lovisa Runhem <a name="lrunhem"></a>
 
@@ -673,7 +669,7 @@ För sitt oumbärliga arbete för sektionen och sina insatser för att alla
 ska känna sig
 välkomna tilldelas Andreas Linn hedersdeltat.
 
-## Motiveringar till 2015 års mottagare
+## Motivations for 2015 years receivers
 
 #### Jesper Bratt <a name="jbratt"></a>
 
@@ -755,7 +751,7 @@ som dadda 4 gånger.
 För detta ihärdiga engagemang tilldelas därmed Petter Djupfeldt
 hedersdeltat.
 
-## Motiveringar till 2014 års mottagare
+## Motivations for 2014 years receivers
 
 #### Marie Alexander <a name="mariale"></a>
 
@@ -831,7 +827,7 @@ Frida Jansson har sedan start varit en person att räkna med; en person
 som alltid ställer upp när det behövs. För hennes mycket stora
 engagemang för vår sektion tilldelas Frida Jansson hedersdeltat.
 
-## Motiveringar till 2013 års mottagare
+## Motivations for 2013 years receivers
 
 #### Alexander Solsmed <a name="solsmed"></a>
 
@@ -940,7 +936,7 @@ sektionens mottagningar.
 Mot bakrund av hans osjälviska engagemang och många tysta hjältedåd i
 sektionens namn tilldelas härmed Victor Koronen hedersdeltat.
 
-## Motiveringar till 2012 års mottagare
+## Motivations for 2012 years receivers
 
 #### Charlie Lindviken <a name="lindvi"></a>
 
@@ -985,7 +981,7 @@ Det råder ingen tvekan att han under sin tid synnerligen har verkat för
 sektionens bästa. Mot bakgrund av överstående tilldelas Andreas Falk
 härmed Hedersdeltat.
 
-## Motiveringar till 2011 års mottagare
+## Motivations for 2011 years receivers
 
 #### Jonas Sundberg <a name="josundb"></a>
 
@@ -1089,7 +1085,7 @@ suttit valda som till exempel dÅre och Näringslivsgruppen.
 Av dessa anledningar har D-rektoratet beslutat att tilldela Tobias
 Svensson ett hedersdelta.
 
-## Motiveringar till 2010 års mottagare
+## Motivations for 2010 years receivers
 
 #### Mikael Gerdin <a name="mgerdin"></a>
 
@@ -1152,7 +1148,7 @@ och har varit med och dragit i sektionens alumniverksamhet, samt sedan
 
 Med denna motivering tilldelas Per Almquist ett hedersdelta.
 
-## Motiveringar till 2009 års mottagare
+## Motivations for 2009 years receivers
 
 <p>
 <em>Simon Habtemikael</em> har länge varit ett av sektionens mest
@@ -1246,7 +1242,7 @@ förtjänstfull verkat för sektionens väl, och är sålunda väl värd ett
 Hedersdelta.
 
 </p>
-## Motiveringar till 2008 års mottagare
+## Motivations for 2008 years receivers
 
 <p>
 <em>Mikael</em> är en riktig klippa. När man behöver hjälp med något så
@@ -1275,7 +1271,7 @@ mycket mer. Hårt arbete ska belönas och det finns ingen bättre belöning
 än ett hedersdelta.
 
 </p>
-## Motiveringar till 2007 års mottagare
+## Motivations for 2007 years receivers
 
 <p>
 <em>Eskil Andréen</em> har varit en riktig tillgång för sektionen. Han
@@ -1346,7 +1342,7 @@ som en revisor av dignitet. Med dessa meriter inom sektionen är han en
 välförtjänt bärare av Hedersdeltat.
 
 </p>
-## Motiveringar till 2006 års mottagare
+## Motivations for 2006 years receivers
 
 <p>
 <i>Henrik</i> har ända från första början visat ett starkt engagemang
@@ -1364,9 +1360,9 @@ och alltid bidragit med sitt engagemang, sina många idéer och inte minst
 sin humor. Han är i sanning en värdig mottagare av hedersdeltat.
 
 </p>
-## Motiveringar till 2005 års mottagare
+## Motivations for 2005 years receivers
 
-## Motiveringar till 2004 års mottagare
+## Motivations for 2004 years receivers
 
 <p>
 <em>Martin Edquist</em> är en riktig klippa när det gällar att få hårt
@@ -1434,7 +1430,7 @@ långvariga, breda och engagerade gärning förKonglig Datasektionen honom
 till en mycket välmeriterad mottagare av hedersdeltat.
 
 </p>
-## Motiveringar till 2003 års mottagare
+## Motivations for 2003 years receivers
 
 <p>
 <em>Robert Andersson</em> har förtjänstfullt verkat på flera poster inom
@@ -1457,7 +1453,7 @@ har han alltid löst de problem man bett om hjälp med. Slutsatsen är att
 en mer förtjänande mottagare av hedersdeltat får man leta efter.
 
 </p>
-## Motiveringar till 2002 års mottagare
+## Motivations for 2002 years receivers
 
 <p>
 <em>Magnus Axell</em> har sedan han började 96 varit en glad och
@@ -1588,7 +1584,7 @@ struktureradesvilket ledde till att D-dagen ökade från 13 till 40
 företag. En stor bedrift!
 
 </p>
-## Motiveringar till 2001 års mottagare
+## Motivations for 2001 years receivers
 
 <p>
 <em>Daniel Westbom</em> har varit dadda, Kongl lokalchef, Spexdireqtuer,
@@ -1598,13 +1594,13 @@ efterträdare, fixat15-årsjubileum, mamma, med mera. Han har dessutom
 gjort det bra.
 
 </p>
-## Motiveringar till 2000 års mottagare
+## Motivations for 2000 years receivers
 
 <p>
 <em>Joakim Meldahl</em>
 
 </p>
-## Motiveringar till 1999 års mottagare
+## Motivations for 1999 years receivers
 
 <p>
 <em>Christer Gessler</em> har i tre år representerat Datasektionen
@@ -1657,7 +1653,7 @@ sektionen.Kort och gott, Mikael har gjort mycket för sektionen, men ändå
 aldrig dragitsig för att höja glaset till en skål.
 
 </p>
-## Motiveringar till 1998 års mottagare
+## Motivations for 1998 years receivers
 
 <p>
 <em>Niklas Lindholm</em> har under sin tid på Teknis så som mycket
@@ -1687,7 +1683,7 @@ som verkligenslitit för att göra ESCapen till en av campus trevligaste
 sektionslokaler,vilket den idag är.
 
 </p>
-## Motiveringar till 1996 års mottagare
+## Motivations for 1996 years receivers
 
 <p>
 <em>Tomas Nord</em> har envetet och oförtröttligt engagerat sig i de
@@ -1714,7 +1710,7 @@ ha varitvad den är idag. Patrik har dessutom som mångfaldig dadda
 mottagit n0llan medglädje och entusiasm.
 
 </p>
-## Motiveringar till 1995 års mottagare
+## Motivations for 1995 years receivers
 
 <p>
 <em>Helena Englund</em> har engagerat sig i sektionen bla som kassör
@@ -1748,7 +1744,7 @@ bättre sättän tidigare. Dessutom har Björn alltid granskat och
 debatterat sektionensverksamhet på ett kritiskt och positivt sätt.
 
 </p>
-## Motiveringar till 1992 års mottagare
+## Motivations for 1992 years receivers
 
 <p>
 <em>Carl-Johan Graufelds</em> har som multipel-dadda och storebror
@@ -1771,7 +1767,7 @@ genomsitt arbete i DKM sett till att D-teknologen fått sitt ölbehov
 täckt.
 
 </p>
-## Motiveringar till 1991 års mottagare
+## Motivations for 1991 years receivers
 
 <p>
 <em>Magnus Hulthén</em> har format delar av sektionens kulturella aura
@@ -1803,7 +1799,7 @@ mottagningen och inte minstSNO-89 har han varit varit till stor hjälp
 för sina sektionskamrater.
 
 </p>
-## Motiveringar till 1990 års mottagare
+## Motivations for 1990 years receivers
 
 <p>
 <em>Thomas Bill</em> har med sin personlighet bidragit till att ge
@@ -1845,7 +1841,7 @@ bakomjubiléet 1988, och dessutom under stundom förevisat hur en
 mästarinnahäfver en pilsner.
 
 </p>
-## Motiveringar till 1989 års mottagare
+## Motivations for 1989 years receivers
 
 <p>
 <em>Erik Wåhlin</em> är en idéspruta som med sin personlighet harverkat
