@@ -324,6 +324,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 5/9 [Kurserna-anfaller-DM](http://static.datasektionen.se/protokoll/kurserna-anfaller-dm)
 
+5/6 [Rogue-DM](https://drive.google.com/file/d/1sq3adcrRhgR1ufbYjXaDI_bzoI7xJ0IK/view?usp=sharing)
+
 10/5 [Valens-återkomst-DM](https://drive.google.com/file/d/14s1shugKEt6isvjqU1nW5VLeweU8e3zH/view?usp=sharing)
 
 17/4 [Projekten-slår-tillbaka-DM](http://static.datasektionen.se/protokoll/projekten_slar_tillbaka_dm)
