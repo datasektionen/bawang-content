@@ -12,7 +12,7 @@ Fester är något en teknolog sällan klarar sig utan i mer än ett par dagar. F
 
 ## Näringslivskontakt
 
-[Näringslivsgruppen](/namnder/naringslivsgruppen) står för sektionens kontakt med näringslivet. Gruppen anordnar tillsammans med företag och andra branschorganisationer olika event, som t.ex. den årliga arbetsmarknadsdagen D-Dagen, företagspubar, föreläsningar och andra mer speciella arrangemang. De hjälper även till med att förmedla jobb genom annonser i olika medium och ibland har
+[Näringslivsgruppen](/naringsliv) står för sektionens kontakt med näringslivet. Gruppen anordnar tillsammans med företag och andra branschorganisationer olika event, som t.ex. den årliga arbetsmarknadsdagen D-Dagen, företagspubar, föreläsningar och andra mer speciella arrangemang. De hjälper även till med att förmedla jobb genom annonser i olika medium och ibland har
 vi lite olika specialerbjudanden.
 
 ## Underhållning och aktiviteter
