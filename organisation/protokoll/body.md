@@ -12,6 +12,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 ###2017
 27/11 [Glögg-SM](http://static.datasektionen.se/protokoll/glogg_sm17)
 
+17/10 [Budget-SM](https://drive.google.com/file/d/1EUQrbHdfD0gbnKsOE16FCgt-1VBZxuj2/view?usp=sharing)
+
 22/5 [Val-SM](http://static.datasektionen.se/protokoll/val_sm17)
 
 28/3 [Revisions-SM](http://static.datasektionen.se/protokoll/revisions_sm17)
@@ -317,6 +319,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 17/1 [Ett Godtyckligt-DM](http://static.datasektionen.se/protokoll/ett_godtyckligt_dm_18)
 
 ###2017
+
+12/12 [The-Last-DM](https://drive.google.com/file/d/17e1RFOSBqIwO3Zzif3jJsPZxQU_W3VL7/view?usp=sharing)
 
 14/11 [DM-innan-Glögg-SM](http://static.datasektionen.se/protokoll/dm_innan_glogg_sm17)
 
