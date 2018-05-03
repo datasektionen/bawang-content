@@ -4,6 +4,7 @@
 ## 2017
 -   [Verksamhetsberättelse 2017](https://static.datasektionen.se/arsrapporter/verksamhetsberattelse_2017.pdf)
 -   [Verksamhetsavstämning 2017](https://static.datasektionen.se/arsrapporter/verksamhetsavstamning_2017.pdf)
+-   [Bokslut 2017](https://static.datasektionen.se/arsrapporter/bokslut_2017.pdf)
 
 
 ## 2016
