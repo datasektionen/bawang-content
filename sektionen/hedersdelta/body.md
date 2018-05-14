@@ -662,7 +662,7 @@ Jesper Bränn har med sitt engagemang för sektionen skapat en miljö där andra
 Under sina 1.5 år som ledare för systemgruppen påbörjade Jesper arbetet med sektionens nya hemsida och har själv sett till att stora delar av arbetet med den har genomförts.
 Under sin tid som kommunikatör var han med och omstrukturerade nämnden genom att dela upp posten i två nya poster.
 
-Jesper har även varit aktiv inom andra delar av sektionen, bland annat i mottagningen som dadda och Samdoquise samt skrivit flertalet artiklar till dBuggen.
+Jesper har även varit aktiv inom andra delar av sektionen, bland annat i mottagningen som dadda och Samdoquise samt skrivit flertalet artiklar till dbuggen.
 
 För sitt gedigna och oumbärliga engagemang för sektionen tilldelas Jesper Bränn Hedersdeltat.
 
@@ -679,7 +679,7 @@ För sitt mångfacetterade engagemang för sektionen och sina ihärdiga insatser
 
 #### Shayan Effati <a name="shayane"></a>
 
-Shayan Effati har haft ett långt och gediget engagemang på sektionen. Under sin tid som Ärkedemon har han utformat den då väldigt nya posten till att vara en del av sektionens löpande verksamhet idag. Shayan har även fortsatt med sitt engagemang genom att väcka nytt liv i Redaqtionen genom att introducera nya medieformer och kontinuerligt ge ut exemplar av dBuggen. Han har även suttit med i DKM samt innehaft rollen som Konglig Överdrifv i mottagningen.
+Shayan Effati har haft ett långt och gediget engagemang på sektionen. Under sin tid som Ärkedemon har han utformat den då väldigt nya posten till att vara en del av sektionens löpande verksamhet idag. Shayan har även fortsatt med sitt engagemang genom att väcka nytt liv i Redaqtionen genom att introducera nya medieformer och kontinuerligt ge ut exemplar av dbuggen. Han har även suttit med i DKM samt innehaft rollen som Konglig Överdrifv i mottagningen.
 
 Under sin tid på sektionen har medlemmen ständigt engagerat sig och arbetat hårt med glädje, men samtidigt haft stenkoll på sina arbetsuppgifter. Han har ständigt gjort mer än vad som kan förväntas för sin roll. Det finns få som gjort så mycket för Datasektionen som Shayan.
 
