@@ -8,30 +8,19 @@ Men naturligtvis anstränger vi oss mest för att ha trevligt! Har du några syn
 
 META är ju även en festlokal så i samarbete med DKM ser vi till att ölkylarna och basförstärkaren funkar. Det går även bra för sektionens nämnder att boka META för fester/aktiviteter.
 
-## Städskri - Måndagsstäd
+## Städskrii - Måndagsstäd
 
 Det är vi som håller i måndagsstäden i Meta under året. Vi bjuder in nyantagna att hjälpa till och städa för att lära sig vart allt ligger i lokalen och hur sopphanteringen fungerar. Alla som hjälper till att städa 2 gånger får vara med på en väl påkostad fest i slutet av året. Städningen sker måndagar med start klockan 17:17 i nØllegrupperna och tar typ en timme efter skolan. Passar det inte att städa på den avsatta tiden kan man komma förbi en annan måndag eller dom avsedda extra städen mot slutet av terminen.
 
-#### Städ
-
-* 3/10: Alv & Big foot
-* 10/10: Cthulu & Drake
-* 7/11: Enhörning & Fågel Fenix
-* 14/11: Gubben i månen & Häst
-* 21/11: Ingvar Olsberg & Jultomten
-* 28/11: Kraken & Loch Ness odjuret
-* 5/12: Mannen, myten, legenden + Extra
-* 19/12: Extra
-
-Frågor? Maila stadskrik@d.kth.se
-
-#### Städskrin 2016/2017:
-
-Caroline Borg (Datasektionen)
-
-Emma Olsson (Sektionen för Medieteknik)
-
 ## Interna Poster
+
+#### Städskrii 
+
+Har ansvar för måndagsstäden samt anordna städfesten som tack till de som städat.
+
+---
+
+Responsible for the cleaning-mondays and the thank-you party for those who have cleaned.
 
 #### MAESTRO
 
@@ -72,6 +61,27 @@ Har ansvar för inköp av saker till lokalen.
 ---
 
 Responsible for purchasing things for the chapter-house.
+
+
+#### MissTea
+
+Har ansvar för kaffe och te i META.
+
+---
+
+Responsible for coffee and tea in META.
+
+
+#### MOVIE
+
+”Master of Vegetation in Establishment”
+
+Har ansvar för METAs växter.
+
+---
+
+Responsible for the plants in META.
+
 
 #### MOBA
 
