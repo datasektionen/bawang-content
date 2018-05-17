@@ -16,11 +16,11 @@ Det är vi som håller i måndagsstäden i Meta under året. Vi bjuder in nyanta
 
 #### Städskrii 
 
-Har ansvar för måndagsstäden samt annordna städfesten som tack till de som städat.
+Har ansvar för måndagsstäden samt anordna städfesten som tack till de som städat.
 
 ---
 
-Responsible for the cleaning-mondays and the thank-you party for thoose who have cleaned.
+Responsible for the cleaning-mondays and the thank-you party for those who have cleaned.
 
 #### MAESTRO
 
@@ -69,7 +69,7 @@ Har ansvar för kaffe och te i META.
 
 ---
 
-Responsible for coffe and tea in META.
+Responsible for coffee and tea in META.
 
 
 #### MOVIE
