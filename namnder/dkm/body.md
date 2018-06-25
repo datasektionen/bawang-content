@@ -23,108 +23,35 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ## Medlemmar
 
-<style>
-img {
-  width: 165px;
-  height: 165px;
-  border-radius: 50%;
-  object-fit: cover;
-  box-sizing: content-box;
-  padding-top: 10px;
-}
-</style>
-
-<img align="right" src="http://dkm.io/images/pontus.jpg">
-### Pontus Broberg
+### Flux
 #### Klubbmästare
-**Favoritdrink:** Ljummen Brez  
-**Gillar:** Bork, djävulsmusik, James Blake (tydligen)  
-**Ogillar:** Komplementet till AIK  
-**Specialitet:** Att lyssna på spypåsar.  
-**Citat:**
-_Kastade precis en spypåse, fyfan vad den lät!_  
-**Smeknamn:** Pampers, Pontib, PorreP, Porkie, Porkalicious  
-
-<img align="right" src="http://dkm.io/images/samuel.jpg">
-### Samuel Hertzberg
-#### Vice Klubbmästare
-**Favoritdrink:** Brasan, a song of ice and fire  
-**Gillar:** Att skriva lappar  
-**Ogillar:** Att ha långt hår  
-**Specialitet:** Kan vissla i fyra dimensionser.  
-**Citat:**
-_Smak är hur dum i huvudet man är men hur full är man är är hur DKM man är._  
-**Smeknamn:** Shert  
-
-<img align="right" src="http://dkm.io/images/christina.jpg">
-### Christina Sunnegårdh
-#### Ekonomimästare
-**Favoritdrink:** Chili caprinoska   
-**Gillar:** När updootsen rullar in  
-**Ogillar:** När någon snor hennes hallon  
-**Specialitet:** Arga mail, vara Imgurkändis.  
-**Citat:**
-_Är inte Marinella en sjukdom?_  
-**Smeknamn:** Ctina / Cten / Kikki  
-
-<img align="right" src="http://dkm.io/images/isac.jpg">
-### Isac Haglund
-#### Ekonomimästare
-**Favoritdrink:** Cola / Staropramen / Tequila / Punsch  
-**Gillar:** Marquise, Solidaritet  
-**Ogillar:** Att befinna sig i landet  
-**Specialitet:** Kan hitta sig själv på 7.82 sekunder.  
-**Citat:**
-_Jag har symmetriska fingrar!_  
-**Smeknamn:** Jesus / Marquisac   
-
-<img align="right" src="http://dkm.io/images/joar.jpg">
-### Joar Rutqvist
-#### Barmästare
-**Favoritdrink:** Glass Shards Sour  
-**Gillar:**  Shitposts 😂😂😂👌👌👌  
-**Ogillar:** Nerdz, tråkiga cocktails  
-**Specialitet:** Vet hur man gör självlärande drinkar.  
-**Citat:**
-_Du ska sy! Inte klistra och glittra!_  
-**Smeknamn:** Läskkylsansvarig, Juarez, Joar Joar Joar Joar  
-
-<img align="right" src="http://dkm.io/images/klara.jpg">
-### Klara Eserstam
-#### Barmästare
-**Favoritdrink:** Tomtens glögg, DREKs bubbel  
-**Gillar:** När skotern är nyoljad  
-**Ogillar:** När romsåsen inte är i såsglaset  
-**Specialitet:** Kan få hela världen att sitta fast i hennes finger.  
-**Citat:**
-_Jag vet inte ens **VAD** jag ska acceptera just nu!_  
-**Smeknamn:** Klara, färdiga gå! / Piikki  
-
-<img align="right" src="http://dkm.io/images/felix.jpg">
-### Felix Andersson
-#### Infomästare
 **Favoritdrink:** Monster  
 **Gillar:** Att undersöka hur mycket man faktiskt måste vara i skolan  
 **Ogillar:** Struktur  
 **Specialitet:** Har glasögon med halveringstid på ett år.  
 **Citat:**
 _Varför är Christinas vatten bakochfram?_  
-**Smeknamn:** Rubiks Gud, Flux  
 
-<img align="right" src="http://dkm.io/images/martin.jpg">
-### Martin Hyberg
-#### Festmästare
-**Favoritdrink:** Gin N' Juice  
-**Gillar:** Att tänka sig bort till sitt förra liv som säl  
-**Ogillar:** Struggle  
-**Specialitet:** Skriver KTHs förmodligen sjukaste festanmälningar.  
+### Mr. Somna På Bussen
+#### Vice Klubbmästare
+**Favoritdrink:**  "Cuba Libre"  
+**Gillar:** Kyla, att prata, bäskhäfv  
+**Ogillar:** Reglerna till bäskhäfv, regler i allmänhet  
+**Specialitet:** Vara heeeeeeelt  
 **Citat:**
-_Att behöva byta hand för att hälla på mer diskmedel är så gränslöst jobbigt._  
-**Smeknamn:** Martyparty / M-dawg  
+_"Power Ball"? Nää, "Super Bowl" heter det!_    
 
-<img align="right" src="http://dkm.io/images/agnes.jpg">
-### Agnes Forsberg
-#### Gammelknatte
+### Mr. Missa Bussen
+#### Infomästare
+**Favoritdrink:** Är köttfärssås en drink?  
+**Gillar:** Att bidra till kurrekassan,  
+**Ogillar:** Malplacerad oregano  
+**Specialitet:** Att missa bussen, att "missa bussen"  
+**Citat:**
+_Bullshit att du har oregano i köttfärssås, det ska du ha på pizza och i grekisk sallad din **idiot!**_    
+
+### Foppa
+#### Festmästare
 **Favoritdrink:**  Sista shotsen i flarran  
 **Gillar:** Kylspel  
 **Ogillar:** Drickspel  
@@ -132,19 +59,8 @@ _Att behöva byta hand för att hälla på mer diskmedel är så gränslöst job
 **Citat:**
 _HATAR BARN FLYGPLAN?!_   
 
-<img align="right" src="http://dkm.io/images/wille.jpg">
-### William Agnér
-#### Vildmarksknatte
-**Favoritdrink:**  "Cuba Libre"  
-**Gillar:** Kyla, att prata, bäskhäfv  
-**Ogillar:** Reglerna till bäskhäfv, regler i allmänhet  
-**Specialitet:** Vara heeeeeeelt  
-**Citat:**
-_"Power Ball"? Nää, "Super Bowl" heter det!_  
-
-<img align="right" src="http://dkm.io/images/christine.jpg">
-### Christine Rosquist
-#### Instaknatte
+### Spicyyyy
+#### Ekonomimästare
 **Favoritdrink:** En liten bara  
 **Gillar:** Allmänna idrottsklubbar, allmän idrott  
 **Ogillar:** När folk spränger hennes toa-gerilla  
@@ -152,19 +68,17 @@ _"Power Ball"? Nää, "Super Bowl" heter det!_
 **Citat:**
 _Eh han den där... Anis._  
 
-<img align="right" src="http://dkm.io/images/philip.jpg">
-### Philip Song
-#### Designated Knatte
-**Favoritdrink:** Philips Screwdriver [1500W]  
+### Nya Malcolm
+#### Ekonomimästare
+**Favoritdrink:** En flaska rött vin, eller två  
 **Gillar:** Tobbe Trollkarl  
 **Ogillar:** Att bli spirénstrypt  
 **Specialitet:** Klippa till spiréner.  
 **Citat:**
 _Jag är inte full! Jag är medveten!_  
 
-<img align="right" src="http://dkm.io/images/eva.jpg">
-### Eva Despinoy
-#### Le Knatté
+### Madame Tranbär
+#### Barmästare
 **Favoritdrink:** Jokk, det vildaste tranbäret  
 **Gillar:** Gurka, snitsiga procentberäkningar  
 **Ogillar:** Döda djur i sin mat, "Så"  
@@ -172,9 +86,8 @@ _Jag är inte full! Jag är medveten!_
 **Citat:**
 _Hallå heter det ”snake eyes” eller ”snake guy”?_  
 
-<img align="right" src="http://dkm.io/images/melvin.jpg">
-### Melvin Lundqvist
-#### "Hej, jag heter Melvin och jag är"-knatte  
+### Ahmar Eto'o-Spiréen
+#### Barmästare
 **Favoritdrink:** Isacs bubbel  
 **Gillar:** Spiréner, amarettoflaskor, amarettospiréner  
 **Ogillar:** Tyngdlagspåverkad tvåfotsurinering  
@@ -182,24 +95,37 @@ _Hallå heter det ”snake eyes” eller ”snake guy”?_
 **Citat:**
 _Burre burre_  
 
-<img align="right" src="http://dkm.io/images/henke.jpg">
-### Henrik Jolérus
-#### Knatte med köttfärssås
-**Favoritdrink:** Är köttfärssås en drink?  
-**Gillar:** Att bidra till kurrekassan,  
-**Ogillar:** Malplacerad oregano  
-**Specialitet:** Att missa bussen, att "missa bussen"  
-**Citat:**
-_Bullshit att du har oregano i köttfärssås, det ska du ha på pizza och i grekisk sallad din **idiot!**_  
+
 
 
 ## Cliff
 
 Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför de kallas för Cliff? Fråga närmsta Cliff!
 
+### Cliff -18
+
+* __Pontus Broberg__
+  * Klubbmästare
+  * _Nu ska jag sätta mig ner och ta ett djup andetag, sedan ta ett djupt biraandetag_
+* __Samuel Hertzberg__
+  * Vice klubbmästare
+  * _Smak är hur dum i huvudet man är men hur full är man är är hur DKM man är_
+* __Christina Sunnegårdh__
+  * Ekonomimästare
+  * _Nu har vi sånglektioner! KNIIIP!!_
+* __Isac Haglund__
+  * Ekonomimästare
+  * _Nu mår jag 10 av 0 ... tre_
+* __Klara Eserstam__
+  * Barmästare
+  * _Som att man inte slickat på metas golv förut_
+* __Martin Hyberg__
+  * Festmästare
+  * _Omg nu fick jag leversvikt_
+
 ### Cliff -17
 
-* __Aron Strandberg__
+* __Bengt-Göran Strandberg__
   * Klubbmästare
   * _Jag ville ha en gif, så jag googlade på "fucking nerds". Rookie mistake_
 * __Carl Nordling__
@@ -208,9 +134,6 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Malcolm Tivelius__
   * Ekonomimästare
   * _Det är rimligt att vara rimlig, och det var här jag blev anfallen av ankor_
-* __Josefin Nilsson__
-  * Ekonomimästare
-  * _Okej, så: jag är inte så jättehaj på rondeller... Hur ska jag köra?_
 * __Helena Alinder__
   * Barmästare
   * _Det är helt okej att inte minnas något av en kväll, så länge man har en skön känsla!_
