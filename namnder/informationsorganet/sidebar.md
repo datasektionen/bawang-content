@@ -11,7 +11,7 @@ Patric Lantz
 chefred@d.kth.se
 
 #### Datas Art Director
-Patric Lantz 
+Patric Lantz  
 dad@d.kth.se
 
 #### Systemansvarig
