@@ -11,7 +11,7 @@ E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 **Näringslivsansvarig**<br />
 Emma Schüldt<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
-076-336 20 63 [comment]: <> (TO DO)
+076-336 20 63 
 
 **Arbetsmarknadsdagsansvarig**<br />
 Nils Streijffert<br />
