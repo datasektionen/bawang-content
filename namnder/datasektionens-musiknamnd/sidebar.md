@@ -1,8 +1,8 @@
 ## Kontakt
 
 #### Ärkedemon  
-Sebastian Lorenzo
-Teodor Isaacs
+Sebastian Lorenzo 
+Teodor Isaacs 
 [arkedemon@d.kth.se](mailto:arkedemon@d.kth.se)
 
 
