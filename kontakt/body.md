@@ -6,13 +6,13 @@ Näringslivsgruppen har hand om sektionens kontakter med företag. Oavsett
 anledning är du alltid välkommen att kontakta oss:
 
 **Näringslivsgruppen**<br />
-***För företag***   
+**För företag**
 E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
 **Näringslivsansvarig**<br />
 Emma Schüldt<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
-076-336 20 63 
+076-118 84 26
 
 **Arbetsmarknadsdagsansvarig**<br />
 Nils Streijffert<br />
