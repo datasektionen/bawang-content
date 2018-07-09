@@ -3,7 +3,7 @@
 Om du har frågor gällande Informationsorganet så kan du kontakta någon av dessa funktionärer!
 
 #### Kommunikatör
-Henrik Johansson  
+Simone de Blasio
 info@d.kth.se
 
 #### Chefredaqtör
@@ -11,9 +11,9 @@ Patric Lantz
 chefred@d.kth.se
 
 #### Datas Art Director
-Hannes Arvidsson  
+Patric Lantz 
 dad@d.kth.se
 
 #### Systemansvarig
-Tomas Möre  
+Alexander Viklund 
 d-sys@d.kth.se
