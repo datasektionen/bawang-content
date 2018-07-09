@@ -3,7 +3,7 @@
 #### METAdorerna
 [metadorerna@d.kth.se](mailto:metadorerna@d.kth.se)
 #### Konglig Lokalchef (D)
-Hanna Hansson  
+Kitty Thai     
 [lokalchef@d.kth.se](mailto:lokalchef@d.kth.se)
 
 #### Sektionslokalsansvarig (Media)
