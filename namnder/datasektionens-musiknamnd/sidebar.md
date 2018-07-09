@@ -1,7 +1,8 @@
 ## Kontakt
 
 #### Ärkedemon  
-Carl Nordling  
+Sebastian Lorenzo
+Teodor Isaacs
 [arkedemon@d.kth.se](mailto:arkedemon@d.kth.se)
 
 
