@@ -9,9 +9,9 @@ anledning är du alltid välkommen att kontakta oss:
 E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
 **Näringslivsansvarig**<br />
-Axel Meurling<br />
+Emma Schüldt<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
-076-336 20 63
+076-336 20 63 [comment]: <> (TO DO)
 
 **Arbetsmarknadsdagsansvarig**<br />
 Nils Streijffert<br />
@@ -26,9 +26,9 @@ Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivss
 För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 
 **Kommunikatör**<br />
-Henrik Johansson<br />
+Simone de Blasio<br />
 E-post: [info@d.kth.se](mailto:info@d.kth.se)<br />
-073-035 46 73
+072-932 06 89
 
 Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Datasektionens Informationsorgan, IOR, på adressen [ior@d.kth.se](mailto:ior@d.kth.se).
 
