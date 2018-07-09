@@ -6,6 +6,7 @@ Näringslivsgruppen har hand om sektionens kontakter med företag. Oavsett
 anledning är du alltid välkommen att kontakta oss:
 
 **Näringslivsgruppen**<br />
+***För företag***
 E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
 **Näringslivsansvarig**<br />
