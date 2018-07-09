@@ -1,7 +1,7 @@
 ## Kontakt
 
 #### Systemansvarig
-Tomas Möre  
+Alexander Viklund
 d-sys@d.kth.se
 
 #### IOR-slacken
