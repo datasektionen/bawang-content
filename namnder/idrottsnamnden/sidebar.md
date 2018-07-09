@@ -3,5 +3,5 @@
 Om du har några sportiga frågor så kan du höra av dig till Sektionsidrottsledaren!
 
 #### Sektionsidrottsledare  
-Erik Björk  
+Alexander Westberg-Bladh
 [idrott@d.kth.se](mailto:idrott@d.kth.se)
