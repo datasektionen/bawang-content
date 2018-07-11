@@ -3,121 +3,139 @@ Protokoll
 
 Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs upp på denna sida. Vid frågor angående protokoll, kontakta Datasektionens sekreterare.
 
+# OBS
+Vi håller på att ändra lite hosting här på sidan så protokollen kommer upp så snart vi fixat det! Ifall du är nyfiken på något protokoll så kontakta då drek@d.kth.se
+
 ## Sektionsmöten, SM
 
+###2018
+
+27/3 Revisions-SM
+
+22/1 Extra-SM
+
 ###2017
-28/3 [Revisions-SM](http://static.datasektionen.se/protokoll/revisions_sm17)
+
+27/11 Glögg-SM
+
+17/10 Budget-SM
+
+22/5 Val-SM
+
+28/3 Revisions-SM
+
 
 ###2016
-1/12 [Glögg-SM](https://drive.google.com/file/d/0B3DxXQ6W5_nDMEU0V3BkNzkyUTA/view)
 
-17/10 [Budget-SM](https://static.datasektionen.se/protokoll/buget16)
+1/12 Glögg-SM
 
-17/5 [Val-SM](https://static.datasektionen.se/protokoll/valsm-16)
+17/10 Budget-SM
 
-29/3 [Revisions-SM](https://static.datasektionen.se/protokoll/revisions_sm_protokollcomplete.pdf)
+17/5 Val-SM
 
-2/2 [Extra-SM](https://static.datasektionen.se/protokoll/extra_sm_protokoll16.pdf)
+29/3 Revisions-SM
+
+2/2 Extra-SM
 
 ###2015
 
-7/12 [Glögg-SM](https://static.datasektionen.se/protokoll/gloggsm15_protokoll_20151207.compressed.pdf)
+7/12 Glögg-SM
 
-20/10 [Budget-SM](https://static.datasektionen.se/protokoll/sm_protokoll_20151020.pdf) ([Sammanfattning](https://static.datasektionen.se/protokoll/sm_summary_budget15.pdf))
+20/10 Budget-SM
 
-11/5 [Val-SM](https://static.datasektionen.se/protokoll/sm_protokoll_20150511.pdf) ([Sammanfattning](https://static.datasektionen.se/protokoll/sm_protokoll_20150511_english.pdf))
+11/5 Val-SM
 
-3/3 [Revisions-SM](https://static.datasektionen.se/protokoll/sm-protokoll_20150303.pdf)
+3/3 Revisions-SM
 
-29/1 [Extra-SM](https://static.datasektionen.se/protokoll/protokoll-sm150129.pdf)
+29/1 Extra-SM
 
 ###2014
 
-1/12 [Glögg-SM](https://static.datasektionen.se/protokoll/smgloggprotokoll.pdf)
+1/12 Glögg-SM
 
-9/10 [Budget-SM](https://static.datasektionen.se/protokoll/smbudget141009.pdf)
+9/10 Budget-SM
 
-13/5 [Val-SM](https://static.datasektionen.se/protokoll/smval140513protokoll.pdf)
+13/5 Val-SM
 
-25/3 [Revisions-SM](https://static.datasektionen.se/protokoll/smrevis140325protokoll.pdf)
+25/3 Revisions-SM
 
-27/1 [Extra-SM](https://static.datasektionen.se/protokoll/extrasm.pdf)
+27/1 Extra-SM
 
 ###2013
 
-12/12 [Glögg-SM](https://static.datasektionen.se/protokoll/GloggSM_protokoll.pdf)
+12/12 Glögg-SM
 
-17/10 [Budget-SM](https://static.datasektionen.se/protokoll/protokoll_budget-sm_2013-10-17.pdf)
+17/10 Budget-SM
 
-22/4 [Val-SM](https://static.datasektionen.se/protokoll/protokoll_valsm_2013-04-22.pdf)
+22/4 Val-SM
 
-21/3 [Extra-SM](https://static.datasektionen.se/protokoll/protokoll_extra-sm_2013-03-21.pdf)
+21/3 Extra-SM
 
-11/2 [Revisions-SM](https://static.datasektionen.se/protokoll/prot_sm-2013-02-11.pdf)
+11/2 Revisions-SM
 
 ###2012
 
-4/12 [Glögg-SM](https://static.datasektionen.se/protokoll/prot_gloggsm-2012-12-04-less.pdf)
+4/12 Glögg-SM
 
-5/11 [Budget-SM](https://static.datasektionen.se/protokoll/prot_budget-sm-2012-11-05.pdf)
+5/11 Budget-SM
 
-3/5 [Val-SM](https://static.datasektionen.se/protokoll/protokoll_val-sm_2012-05-03.pdf)
+3/5 Val-SM
 
-22/3 [Revisions-SM](https://static.datasektionen.se/protokoll/protokoll-revisions-sm-2012-03-22.pdf)
+22/3 Revisions-SM
 
 ###2011
 
-21/11 [Glögg-SM](https://static.datasektionen.se/protokoll/protokoll_glogg-sm-2011-11-21_v1.pdf)
+21/11 Glögg-SM
 
-27/09 [Budget-SM](https://static.datasektionen.se/protokoll/protokoll_sm-2011-09-27-med-bilagor.pdf)
+27/09 Budget-SM
 
-05/05 [Val-SM](https://static.datasektionen.se/protokoll/protokoll_val-sm-2011-05-05_v2.pdf)
+05/05 Val-SM
 
-29/3 [Revisions-SM](https://static.datasektionen.se/protokoll/protokoll_revisions-sm_2011-03-29.pdf)
+29/3 Revisions-SM
 
 ###2010
 
-02/12 [Glögg-SM](https://static.datasektionen.se/protokoll/protokoll_glogg-sm_2010-12-02.zip)
+02/12 Glögg-SM
 
-12/10 [Budget-SM](https://static.datasektionen.se/protokoll/budget-sm_2010-10-12.zip)
+12/10 Budget-SM
 
-11/5 [Val-SM](https://static.datasektionen.se/protokoll/protokoll_Val-SM_2010-05-11v4.pdf)
+11/5 Val-SM
 
-22/4 [Extra-SM](https://static.datasektionen.se/protokoll/protokoll_extra-sm-2010-04-22_v3.pdf) (Saknas underskrift från en justeringsperson)
+22/4 Extra-SM
 
-22/3 [Revision-SM](https://static.datasektionen.se/protokoll/protokoll_revisions-SM-2010-03-22_v4.pdf)
+22/3 Revision-SM
 
-15/2 [Extra-SM](https://static.datasektionen.se/protokoll/smprot_2010-02-15.pdf)
+15/2 Extra-SM
 
 ###2009
 
-8/12 [Glögg-SM](https://static.datasektionen.se/protokoll/sm-2009-12-08ver5.pdf)
+8/12 Glögg-SM
 
-3/11 [Budget-SM](https://static.datasektionen.se/protokoll/smprot-2009-11-03-ver2.pdf)
+3/11 Budget-SM
 
-21/9 [Extra-SM](https://static.datasektionen.se/protokoll/smprot-2009-09-21.pdf)
+21/9 Extra-SM
 
-5/5 [Val-SM](https://static.datasektionen.se/protokoll/smprot-2009-05-05-ver4.pdf)
+5/5 Val-SM
 
-24/3 [Revisions-SM](https://static.datasektionen.se/protokoll/smprot-2009-03-24v3.pdf)
+24/3 Revisions-SM
 
 ###2008
 
-9/12 [Glögg-SM](https://static.datasektionen.se/protokoll/smprot081209v3.pdf)
+9/12 Glögg-SM
 
-16/10 [Revisions-SM](https://static.datasektionen.se/protokoll/smprot081016v4.pdf)
+16/10 Revisions-SM
 
-13/3 [Budget-SM](https://static.datasektionen.se/protokoll/smprot080331budgetsm.pdf)
+13/3 Budget-SM
 
 ###2007
 
-11/12 [Glögg-SM](https://static.datasektionen.se/protokoll/smprot071211gloggsm.pdf)
+11/12 Glögg-SM
 
-11/10 [Revisions-SM](https://static.datasektionen.se/protokoll/smprot071011revsm.pdf)
+11/10 Revisions-SM
 
 ###2006
 
-10/10 [Revisions-SM](https://static.datasektionen.se/protokoll/smprot061010_revision.pdf)
+10/10 Revisions-SM
 
 ###2005
 
@@ -129,370 +147,370 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 23/5 Val-SM
 
-21/4 [Bal-SM](https://static.datasektionen.se/protokoll/smprot050421_bal.pdf)
+21/4 Bal-SM
 
-22/2 [Budget-SM](https://static.datasektionen.se/protokoll/smprot050222_budget.pdf)
+22/2 Budget-SM
 
 ###2004
 
-8/12 [Glögg-SM](https://static.datasektionen.se/protokoll/smprot041208_glogg.pdf)
+8/12 Glögg-SM
 
-8/11 [Revisions-SM](https://static.datasektionen.se/protokoll/smprot041108_revision.pdf)
+8/11 Revisions-SM
 
-29/9 [September-SM](https://static.datasektionen.se/protokoll/smprot040929_september.pdf)
+29/9 September-SM
 
-11/5 [Val-SM](https://static.datasektionen.se/protokoll/smprot040511_val-sm.pdf)
+11/5 Val-SM
 
-22/3 [Budget-SM](https://static.datasektionen.se/protokoll/smprot040322_budgetsm.pdf)
+22/3 Budget-SM
 
-23/2 [Extra-SM](https://static.datasektionen.se/protokoll/smprot040223_extra-sm.pdf)
+23/2 Extra-SM
 
 ###2003
 
-8/12 [Glögg-SM](https://static.datasektionen.se/protokoll/smprot031208_glogg.pdf)
+8/12 Glögg-SM
 
-13/5 [Val-SM](https://static.datasektionen.se/protokoll/smprot030513.pdf)
+13/5 Val-SM
 
-25/3 [Budget-SM](https://static.datasektionen.se/protokoll/smprot030325.pdf)
+25/3 Budget-SM
 
-25/2 [Extra-SM](https://static.datasektionen.se/protokoll/smprot030225.pdf)
+25/2 Extra-SM
 
 ###2002
 
-11/12 [Glögg-SM](https://static.datasektionen.se/protokoll/smprot021211.pdf)
+11/12 Glögg-SM
 
-14/11 [Revisions-SM](https://static.datasektionen.se/protokoll/smprot021114.pdf)
+14/11 Revisions-SM
 
-2/10 [Extra-SM](https://static.datasektionen.se/protokoll/smprot021002.pdf)
+2/10 Extra-SM
 
-15/5 [Val-SM](https://static.datasektionen.se/protokoll/smprot020515.pdf)
+15/5 Val-SM
 
-21/3 [Budget-SM](https://static.datasektionen.se/protokoll/smprot020321.pdf)
+21/3 Budget-SM
 
 ###2001
 
-5/12 [Glögg-SM](https://static.datasektionen.se/protokoll/smprot011205.pdf)
+5/12 Glögg-SM
 
-3/11 [SM](https://static.datasektionen.se/protokoll/smprot011003.pdf)
+3/11 SM
 
-15/5 [Val-SM](https://static.datasektionen.se/protokoll/smprot010515.pdf)
+15/5 Val-SM
 
-22/2 [Extra-SM](https://static.datasektionen.se/protokoll/smprot010222.pdf)
+22/2 Extra-SM
 
 ###2000
 
-6/12 [Glögg-SM](https://static.datasektionen.se/protokoll/smprot001206.pdf)
+6/12 Glögg-SM
 
-9/11 [Extra-SM](https://static.datasektionen.se/protokoll/smprot001109.pdf)
+9/11 Extra-SM
 
-15/5 [SM](https://static.datasektionen.se/protokoll/smprot000515.pdf)
+15/5 SM
 
-12/4 [Extra-SM](https://static.datasektionen.se/protokoll/smprot000412.pdf)
+12/4 Extra-SM
 
-24/2 [Budget-SM](https://static.datasektionen.se/protokoll/smprot000224.pdf)
+24/2 Budget-SM
 
 ###1999
 
-2/12 [Glögg-SM](https://static.datasektionen.se/protokoll/smprot991202.pdf)
+2/12 Glögg-SM
 
-28/10 [SM](https://static.datasektionen.se/protokoll/smprot991028.pdf)
+28/10 SM
 
-17/9 [Extra Kaffe-SM](https://static.datasektionen.se/protokoll/smprot990917.pdf)
+17/9 Extra Kaffe-SM
 
 ###1998
 
-2/12 [SM](https://static.datasektionen.se/protokoll/sm981202.pdf)
+2/12 SM
 
-28/10 [SM](https://static.datasektionen.se/protokoll/sm981028.pdf)
+28/10 SM
 
-13/5 [SM](https://static.datasektionen.se/protokoll/sm980513.html)
+13/5 SM
 
-11/3 [SM](https://static.datasektionen.se/protokoll/sm980311.html)
+11/3 SM
 
 ###1997
 
-2/12 [SM](https://static.datasektionen.se/protokoll/sm971202.html)
+2/12 SM
 
-29/10 [SM](https://static.datasektionen.se/protokoll/sm971029.html)
+29/10 SM
 
-9/10 [SM](https://static.datasektionen.se/protokoll/sm971009.html)
+9/10 SM
 
-15/5 [SM](https://static.datasektionen.se/protokoll/sm970515.html)
+15/5 SM
 
-24/4 [SM](https://static.datasektionen.se/protokoll/sm970424.html)
+24/4 SM
 
-20/2 [SM](https://static.datasektionen.se/protokoll/sm970220.html)
+20/2 SM
 
 ###1996
 
-3/12 [SM](https://static.datasektionen.se/protokoll/sm961203.html)
+3/12 SM
 
-10/10 [SM](https://static.datasektionen.se/protokoll/sm961010.html)
+10/10 SM
 
-25/4 [SM](https://static.datasektionen.se/protokoll/sm960425.html) och [bilagor](https://static.datasektionen.se/protokoll/sm960425bil.html)
+25/4 SM
 
-28/3 [SM](https://static.datasektionen.se/protokoll/sm960328.html)
+28/3 SM
 
-27/2 [SM](https://static.datasektionen.se/protokoll/sm960227.html)
+27/2 SM
 
 ###1995
 
-4/12 [SM](https://static.datasektionen.se/protokoll/sm951204.html)
+4/12 SM
 
-4/12 [SM](https://static.datasektionen.se/protokoll/sm951204_alt.html)
+4/12 SM
 
-18/10 [SM](https://static.datasektionen.se/protokoll/sm951018.html) och [bilagor](https://static.datasektionen.se/protokoll/sm951018bil.html)
+18/10 SM
 
-6/4 [SM](https://static.datasektionen.se/protokoll/sm950406.html)
+6/4 SM
 
-16/2 [SM](https://static.datasektionen.se/protokoll/sm950216.html)
+16/2 SM
 
 ###1994
 
-8/12 [SM](https://static.datasektionen.se/protokoll/sm941208.html)
+8/12 SM
 
-18/10 [SM](https://static.datasektionen.se/protokoll/sm941018.html)
+18/10 SM
 
 ###1993
 
-16/9 [SM](https://static.datasektionen.se/protokoll/sm930916.html)
+16/9 SM
 
-27/4 [SM](https://static.datasektionen.se/protokoll/sm930427.html)
+27/4 SM
 
-17/3 [SM](https://static.datasektionen.se/protokoll/sm930317.html)
+17/3 SM
 
-22/2 [SM](https://static.datasektionen.se/protokoll/sm930222.html)
+22/2 SM
 
 ###1992
 
-10/12 [SM](https://static.datasektionen.se/protokoll/sm921210.html)
+10/12 SM
 
-24/11 [SM](https://static.datasektionen.se/protokoll/sm921124.html)
+24/11 SM
 
-5/11 [SM](https://static.datasektionen.se/protokoll/sm921105.html)
+5/11 SM
 
-23/9 [SM](https://static.datasektionen.se/protokoll/sm920923.html)
+23/9 SM
 
-5/5 [SM](https://static.datasektionen.se/protokoll/sm920505.html)
+5/5 SM
 
-26/3 [SM](https://static.datasektionen.se/protokoll/sm920326.html)
+26/3 SM
 
 ###1991
 
-12/12 [SM](https://static.datasektionen.se/protokoll/sm911212.html)
+12/12 SM
 
-14/11 [SM](https://static.datasektionen.se/protokoll/sm911114.html)
+14/11 SM
 
-23/9 [SM](https://static.datasektionen.se/protokoll/sm910923.html)
+23/9 SM
 
-26/4 [SM](https://static.datasektionen.se/protokoll/sm910426.html)
+26/4 SM
 
-21/3 [SM](https://static.datasektionen.se/protokoll/sm910321.html)
+21/3 SM
 
 ###1990
 
-12/12 [SM](https://static.datasektionen.se/protokoll/sm901212.html)
+12/12 SM
 
-6/11 [SM](https://static.datasektionen.se/protokoll/sm901106.html)
+6/11 SM
 
-15/5 [SM](https://static.datasektionen.se/protokoll/sm900515.html)
+15/5 SM
 
-29/3 [SM](https://static.datasektionen.se/protokoll/sm900329.html)
+29/3 SM
 
 ## D-rektoratsmöten, DM
 
 ###2017
 
-17/4 [Projekten-slår-tillbaka-DM](http://static.datasektionen.se/protokoll/projekten_slar_tillbaka_dm)
+17/4 Projekten-slår-tillbaka-DM
 
-15/3 [DM-innan-Revisions-SM](http://static.datasektionen.se/protokoll/dm_innan_rev_sm17)
+15/3 DM-innan-Revisions-SM
 
-31/1 [Ett-Nytt-Hopp-DM](http://static.datasektionen.se/protokoll/ett_nytt_hopp_dm)
+31/1 Ett-Nytt-Hopp-DM
 
 ###2016
 
-18/12 [4:e-advents-mys-DM](https://drive.google.com/file/d/0B_TphSD6GcSRdDhPUHpPcl9vbmM/view?usp=sharing)
+18/12 4:e-advents-mys-DM
 
-22/11 [DM-innan-Glögg-SM](https://static.datasektionen.se/protokoll/gloggdm16)
+22/11 DM-innan-Glögg-SM
 
-6/11 [Brunch-DM](https://static.datasektionen.se/protokoll/brunch162)
+6/11 Brunch-DM
 
-5/10 [DM-innan-Budget-SM](https://static.datasektionen.se/protokoll/dminnanbudget16)
+5/10 DM-innan-Budget-SM
 
-28/9 [Mjukstart-DM](https://static.datasektionen.se/protokoll/mjukstartdm161)
+28/9 Mjukstart-DM
 
-16/6 [Sommar-DM](https://static.datasektionen.se/protokoll)
+16/6 Sommar-DM
 
-8/5 [Godis-Söndags-DM-innan-Val-SM](https://static.datasektionen.se/protokoll/godisdmprotokoll1.1.pdf)
+8/5 Godis-Söndags-DM-innan-Val-SM
 
-21/4 [Projekt-DM](https://static.datasektionen.se/protokoll/projekt_dm_protokoll2.0.pdf)
+21/4 Projekt-DM
 
-15/3 [DM-innan-Revisions-SM](https://static.datasektionen.se/protokoll/protokoll_dm-innan-rev-sm-v1.pdf)
+15/3 DM-innan-Revisions-SM
 
-1/3 [Hedersdelta-DM](https://static.datasektionen.se/protokoll/hedersdelta_dm_protokoll.pdf)
+1/3 Hedersdelta-DM
 
-26/1 [Uppstarts-DM](https://static.datasektionen.se/protokoll/uppstartdm_protokoll2.pdf)
+26/1 Uppstarts-DM
 
 ###2015
 
-15/12 [Samboendeavtals-DM](https://static.datasektionen.se/protokoll/dm_protokoll_20151215.pdf)
+15/12 Samboendeavtals-DM
 
-26/11 [DM-innan-Glögg-SM](https://static.datasektionen.se/protokoll/dmigsm15_protokoll_med_bilagor_20151126.pdf)
+26/11 DM-innan-Glögg-SM
 
-12/11 [Protokoll](https://static.datasektionen.se/protokoll/dm_protokoll_20151112.pdf)
+12/11 Protokoll
 
-8/10 [DM-innan-Budget-SM](https://static.datasektionen.se/protokoll/budget15_dm_protokoll.pdf)
+8/10 DM-innan-Budget-SM
 
-15/9 [Mjukstart-DM](https://static.datasektionen.se/protokoll/dm_protokoll_20150915.pdf) ([Sammanfattning](https://static.datasektionen.se/protokoll/dm_summary_20150915_english.pdf))
+15/9 Mjukstart-DM
 
-1/6 [Sommar-DM](https://static.datasektionen.se/protokoll/dm_protokoll_20150601.pdf)
+1/6 Sommar-DM
 
-27/4 [DM-innan-Val-SM](https://static.datasektionen.se/protokoll/dm_protokoll_20150427.pdf)
+27/4 DM-innan-Val-SM
 
-30/3 [Projekt-DM](https://static.datasektionen.se/protokoll/dm_protokoll_20150330.pdf)
+30/3 Projekt-DM
 
-23/2 [Hedersdelta-DM](https://static.datasektionen.se/protokoll/dm_protokoll_20150223.pdf)
+23/2 Hedersdelta-DM
 
-19/2 [DM-innan-Revisions-SM](https://static.datasektionen.se/protokoll/dm_protokoll_20150219.pdf)
+19/2 DM-innan-Revisions-SM
 
-26/1 [Protokoll](https://static.datasektionen.se/protokoll/dm_protokoll_20150126.pdf)
+26/1 Protokoll
 
 ###2014
 
-11/12 [Protokoll](https://static.datasektionen.se/protokoll/dm141211protokoll.pdf)
+11/12 Protokoll
 
-19/11 [Protokoll](https://static.datasektionen.se/protokoll/dm141119protokoll.pdf)
+19/11 Protokoll
 
-29/9 [Protokoll](https://static.datasektionen.se/protokoll/dm140929protokoll.pdf)
+29/9 Protokoll
 
-11/9 [Protokoll](https://static.datasektionen.se/protokoll/dm140911protokoll_1_.pdf)
+11/9 Protokoll
 
-2/5 [Protokoll](https://static.datasektionen.se/protokoll/dmprotokoll140502.pdf)
+2/5 Protokoll
 
-16/3 [Protokoll](https://static.datasektionen.se/protokoll/dm140316protokoll.pdf)
+16/3 Protokoll
 
-27/2 [Protokoll](https://static.datasektionen.se/protokoll/dm140227protokoll.pdf)
+27/2 Protokoll
 
 ###2013
 
-3/12 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm_2013-12-03.pdf)
+3/12 Protokoll
 
-7/11 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm_2013-11-07.pdf)
+7/11 Protokoll
 
-8/10 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm_2013-10-08.pdf)
+8/10 Protokoll
 
-18/9 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm_2013-09-18.pdf)
+18/9 Protokoll
 
-13/5 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm_2013-05-13.pdf)
+13/5 Protokoll
 
-9/4 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm_2013_04_09.pdf)
+9/4 Protokoll
 
-6/3 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm_2013_03_06.pdf)
+6/3 Protokoll
 
-18/2 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm_2013-02-18.pdf)
+18/2 Protokoll
 
-31/1 [Protokoll](https://static.datasektionen.se/protokoll/prot_dm-2013-01-31.pdf)
+31/1 Protokoll
 
 ###2012
 
-21/11 [Protokoll](https://static.datasektionen.se/protokoll/prot_dm-2012-11-21.pdf)
+21/11 Protokoll
 
-23/10 [Protokoll](https://static.datasektionen.se/protokoll/prot_dm-2012-10-23.pdf)
+23/10 Protokoll
 
-23/4 [Protokoll](https://static.datasektionen.se/protokoll/protokoll-dm-2012-04-23.pdf)
+23/4 Protokoll
 
-13/3 [Protokoll](https://static.datasektionen.se/protokoll/protokoll-dm-2012-03-13.pdf)
+13/3 Protokoll
 
-27/2 [Protokoll](https://static.datasektionen.se/protokoll/protokoll-dm-2012-02-27.pdf)
+27/2 Protokoll
 
 ###2011
 
-08/11 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm-2011-11-08_v1.pdf)
+08/11 Protokoll
 
-09/20 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm-2011-09-20_v2.pdf)
+09/20 Protokoll
 
-24/05 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm-2011-05-24_v2.pdf)
+24/05 Protokoll
 
-28/04 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm-2011-04-28_mbilagor.pdf)
+28/04 Protokoll
 
-20/04 [Protokoll gemensamt DM med Mediasstyrelse](https://static.datasektionen.se/protokoll/protokoll_dm-2011-04-20_mbilagor.pdf)
+20/04 Protokoll gemensamt DM med Mediasstyrelse
 
-12/04 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm-2011-04-12_mbilagor.pdf)
+12/04 Protokoll
 
-22/03 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm-2011-03-22_mbilagor.pdf)
+22/03 Protokoll
 
-08/02 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm-2011-02-08.pdf)
+08/02 Protokoll
 
 ###2010
 
-28/10 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm-2010-10-28.pdf)
+28/10 Protokoll
 
-27/09 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_dm-2010-09-27v3.pdf)
+27/09 Protokoll
 
-27/04 [Protokoll](https://static.datasektionen.se/protokoll/protokoll_DM-2010-04-27v2.pdf)
+27/04 Protokoll
 
-15/04 [Protokoll](https://static.datasektionen.se/protokoll/dm-prot100415v4.pdf)
+15/04 Protokoll
 
-12/03 [Protokoll](https://static.datasektionen.se/protokoll/dm-protokoll100312.pdf)
+12/03 Protokoll
 
 ###2009
 
-1/12 [Protokoll](https://static.datasektionen.se/protokoll/dm-2009-12-01ver1.pdf)
+1/12 Protokoll
 
-27/10 [Protokoll](https://static.datasektionen.se/protokoll/dm-2009-10-27ver2.pdf)
+27/10 Protokoll
 
 ###2007
 
-10/09 [Protokoll](https://static.datasektionen.se/protokoll/dmprot070910.pdf)
+10/09 Protokoll
 
 ###2006
 
-13/12 [Protokoll](https://static.datasektionen.se/protokoll/dmprot061213.pdf)
+13/12 Protokoll
 
-06/12 [Protokoll](https://static.datasektionen.se/protokoll/dmprot061206.pdf)
+06/12 Protokoll
 
-27/11 [Protokoll](https://static.datasektionen.se/protokoll/dmprot061127.pdf)
+27/11 Protokoll
 
-25/09 [Protokoll](https://static.datasektionen.se/protokoll/dmprot060925.pdf)
+25/09 Protokoll
 
 ###2005
 
-17/05 [Protokoll](https://static.datasektionen.se/protokoll/dmprot050517.pdf)
+17/05 Protokoll
 
-13/04 [Protokoll](https://static.datasektionen.se/protokoll/dmprot050413.pdf)
+13/04 Protokoll
 
-16/03 [Protokoll](https://static.datasektionen.se/protokoll/dmprot050316.pdf)
+16/03 Protokoll
 
-16/02 [Protokoll](https://static.datasektionen.se/protokoll/dmprot050216.pdf)
+16/02 Protokoll
 
-20/01 [Protokoll](https://static.datasektionen.se/protokoll/dmprot050120.pdf)
+20/01 Protokoll
 
 ###2004
 
-02/12 [Protokoll](https://static.datasektionen.se/protokoll/dmprot041202.pdf)
+02/12 Protokoll
 
-19/10 [Protokoll](https://static.datasektionen.se/protokoll/dmprot041019.pdf)
+19/10 Protokoll
 
-07/10 [Protokoll](https://static.datasektionen.se/protokoll/dmprot041007.pdf)
+07/10 Protokoll
 
-06/09 [Protokoll](https://static.datasektionen.se/protokoll/dmprot040906.pdf)
+06/09 Protokoll
 
-08/18 [Protokoll](https://static.datasektionen.se/protokoll/dmprot040818.pdf)
+08/18 Protokoll
 
-20/04 [Protokoll](https://static.datasektionen.se/protokoll/dmprot20040420.pdf)
+20/04 Protokoll
 
-21/03 [Protokoll](https://static.datasektionen.se/protokoll/dmprot20040321.pdf)
+21/03 Protokoll
 
-17/03 [Protokoll](https://static.datasektionen.se/protokoll/dmprot20040317.pdf)
+17/03 Protokoll
 
-24/01 [Protokoll](https://static.datasektionen.se/protokoll/dmprot20040124.pdf)
+24/01 Protokoll
 
 ###2003
 
-11/11 [Protokoll](https://static.datasektionen.se/protokoll/dmprot20031111.pdf)
+11/11 Protokoll
 
-29/09 [Protokoll](https://static.datasektionen.se/protokoll/dmprot030929.pdf)
+29/09 Protokoll
 
-01/09 [Protokoll](https://static.datasektionen.se/protokoll/dmprot030901.pdf)
+01/09 Protokoll
 
-15/08 [Protokoll](https://static.datasektionen.se/protokoll/dmprot030815.pdf)
+15/08 Protokoll
