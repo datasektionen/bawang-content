@@ -29,10 +29,6 @@ Den aktuella Jämlikhetspolicyn för Sektionen.
 Rekryteringspolicyn definierar och reglerar val, inval och rekrytering
 på sektionen.
 
-### [Hedersdelta](/sektionen/hedersdelta)
-
-Lista över de som mottagit Datasektionens hedersdelta.
-
 ### [Hedersmedlem](/sektionen/hedersmedlem)
 
 Lista över de som utnämnts till hedersmedlem på Datasektionen.
