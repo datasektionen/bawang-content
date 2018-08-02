@@ -23,7 +23,7 @@ Samuel Hertzberg<br />
 **Samdoquise**, <br />
 Martin Hyberg<br />
 [samdoquise@d.kth.se](mailto:samdoquise@d.kth.se)<br />
-070-581 98 93s
+070-581 98 93
 
 ### Det Kongliga Mammeriet
 **Mamma**, <br />
