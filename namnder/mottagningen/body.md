@@ -36,7 +36,7 @@ När nØllan anlänt till Teknis kommer nØllan därför att få genomgå den re
 
 För att dessa prövningar skall genomföras på ett rättvist och korrekt sätt har nio hårdföra, tappra och ädla kämpar nedstigit från De Högre Sfärerna för att övervaka antagningen. Dessa tappra kämpar av stål kallas Det Kongliga Drifveriet.
 
-Det Kongliga Drifveriet är en sammanslutning svetsad långt före urtidens begynnelse. Deras ärofulla mission: att med hjälp av Det Magnifika Ljuset och Den Eviga Sanningen drifva schlemmet ur de icke renade så att de på domens dag skall visa sig värdiga. Det Kongliga Drifveriet leds ytterst av De Högre Sfärerna, vars vilja kungörs av GammelOsquar Dräpare.
+Det Kongliga Drifveriet är en sammanslutning svetsad långt före urtidens begynnelse. Deras ärofulla mission: att med hjälp av Det Magnifika Ljuset och Den Eviga Sanningen drifva schlemmet ur de icke renade så att de på domens dag skall visa sig värdiga. Det Kongliga Drifveriet leds ytterst av De Högre Sfärerna, vars vilja kungörs av GammelOsqulda Dräpare.
 
 De Högre Sfärernas jordiske företrädare är Konglig Öfverdrif, allsmäktig ledare för Det Kongliga Drifveriet. Vid sin sida har Konglig Öfverdrif vapendragarna Konglig Direktifdrif och Konglig Indrif. De tre är, liksom resten av sammanslutningen, orubbliga i sin övertygelse att strida för den Det Kongliga Drifveriets urgamla devis som i diamant står inristad i det djupaste av valv, djupt nere i den Kungliga Tekniska Högskolans katakomber:
 
