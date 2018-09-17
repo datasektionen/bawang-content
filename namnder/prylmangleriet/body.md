@@ -1,14 +1,14 @@
 # Prylmånglaren
 
-Tjo bästis!
+Hej! 
 
-Välkommen till Prylmånglarens sida på Datasektionen. Om du inte redan vet vem jag är (du är fortfarande min bästis) heter jag Mårten Grönlund och är Prylis under 2017. Jag tar hand om sektionens märken, ovvar och andra otroligt balla grejer. Målet är att nästan exakt hela tiden anordna försäljningar, framför allt i __META__, men jag finns även på vissa evenemang och säljer relevanta prylar (så kallad Prylis-to-go). Försäljningar meddelas via hemsidan, facebook, och i desperata fall, via megafon i sektionslokalen. Om ni inte hittar mig och har ett sjukt akut behov av mina tjänster, skicka ett [mail](mailto:prylis@d.kth.se) eller ring eller smsa eller nåt på __073-872 71 68__.
+Det är jag som är Prylis, gag heter Laura Löhning om du inte visste det! Så, nu vet du! Jag har hand om det mesta du kan tänka dig i prylväg, ovvar, märken, spegater, sångböcker, stickers, pins, manschettknappar och mycket mer! 
 
-Vill du se fler märken eller andra prylar hos Prylis och har en bra/dålig/helt okej idé? Peta på mig, fysiskt eller virtuellt, så kirrar vi det.
+Jag brukar sälja ungefär varannan vecka runt lunch i META. Ibland säljer jag på lite andra tider för att jag tycker att det är kul och för att jag får göra lite som jag vill. Vill ni ha bättre koll och se fina, emojifyllda facebookinlägg kan ni gå in och gilla min facebooksida som heter "Prylis". Där säger jag alltid till innan det är försäljning. 
 
-Jättemånga kramar och kärlek <3
+Har du kanske en amazing märkesidée eller en cool pryl-idée kan du komma till mig och säga det! Det går också bra att skriva till mig via Prylissidan! Jag har också ett sånt här mobilnummer som många har, det ser ut så här: 0705791667. Det går också bra att ställa frågor om man nu känner för det! Jag har en mail också, prylis@d.kth.se! Där kan man också skriva saker! Eller bara säga hej. 
 
-Prylis
+PoK från Prylis ❤
 
 ## Prylis @ Facebook
 
