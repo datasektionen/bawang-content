@@ -50,16 +50,16 @@ För mer information och pris kontakta D-Dagenansvarig Nils Streijffert på [d-d
 *   Barbongar, 10 st 500kr
 *   Logga på Goodiebag, 1 300 kr
 
-## Anmälan
+## Anmälan för D-Dagen 2019
 Anmälan till Konglig Datasektionens arbetsmarknadsdag, D-dagen, görs i
 två steg. Det första steget består av att anmäla ert företag via
-[denna](https://docs.google.com/forms/d/e/1FAIpQLSfU2UMy9nVYERSMu3gWNwwGVeJY0sjYB_cu0wgXhnwBBGNVGQ/closedform)
+[denna](https://goo.gl/forms/ipiFZiKdOpg7GrN23)
 sida.
 
 Det andra och sista steget består av att skriva på
-[detta](https://drive.google.com/file/d/1qeCEv1mxZ8BTtYAwTT_8ds0swtAjbQlI/view)
+[detta]()
 kontrakt (inkl. beställningsformulär) och skicka till [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)
-med rubriken <br>**Kontrakt D-Dagen 2018 - Företagsnamn**
+med rubriken <br>**Kontrakt D-Dagen 2019 - Företagsnamn**
 
 Observera att om vi inte får detta kontrakt inom tre veckor efter det
 att ni har anmält er på internet så kommer vi att plocka bort er
