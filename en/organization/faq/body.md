@@ -1,39 +1,35 @@
 # FAQ
 
-## FAQ angående fester, arrangemang och events
+## FAQ concerning parties, arrangements and events
 
+### I would love to organize a party, but I don't know how...
 
-### Jag tycker det vore asfett att göra en fest, men jag vet inte hur..
+Technically, anyone can organize a party or event. However, to organize a
+Datasektionen-even you have to be a member of Datasektionen (the Computer Science 
+chapter). You also need to figure out a location, get a permit, and have a 
+person that is qualified to be responsible for the event.
+Email the Datasektionen leadership at drek@d.kth.se! (Don't worry, they
+know english :) )
 
-Tekniskt sett får vem som helst ha en fest, men för att ordna fest på
-Data så måste du vara medlem på Datasektionen. Dessutom måste du ha en
-lokal, ett festtillstånd och en utbildad ansvarig för tillställningen.
-Behöver du hjälp så kan du maila Drektoratet på drek@d.kth.se!
+#### Do I need to be a Datasektionen member to do stuff?
 
-#### Måste jag vara medlem i Datasektionen för att få göra saker?
+Yep. The only think you can do without being a member, is that you can
+spend time at META (our lunch room) between 06:00 and 17:00.
 
-Ja, du måste vara medlem. Det enda du får göra om du inte är medlem är
-att vara i META mellan 06 och 17.
+#### I need a location, could I book META?
 
-#### Jag behöver en lokal, kan jag låna META?
+The Datasektionen regulations say the following (unofficial translation): 
+§7: META may only be booked by Datasektionen functionaries, as well as 
+organs within the THS, and other organizations. But contact the club or 
+organisation that fits with the activity you want to organize, and hopefully
+they can help you.
 
-I Datas reglemente står följande §7: Sektionslokalen kan endast
-bokas/hyras av sektionernas styrelser, nämnder och funktionärer, såväl
-som av organ inom THS, kårföreningar och andra sektioner. Men ta kontakt
-med den nämnd du anser hör ihop med den aktivitet du vill ha så kan dom
-förhoppningsvis hjälpa dig. Är du inte säker på vem du ska prata med,
-kontakta Drektoratet!
+If you are unsure, contact the leadership!
 
-#### Men, jag gillar inte META (yeah, right) och skulle vilja vara någon annanstans. Finns det inget annat för mig?
+#### Are there other locations than META that I can book?
 
-Jo då. THS har sina gasque-salar t ex. Dessa kostar förvisso pengar att
-hyra men de är också väldigt trevliga att vistas i och det krävs då
-ingen serveringsansvarig. Det ska också nämnas att om du hyr som
-kårmedlem (och därför också sektionsmedlem) så gör du det billigare (typ
-halva priset). Gör du det via din sektion så får du göra det ännu
-billigare (fast pris för varje lokal). För att göra lokalbokningen
-kontaktar du THS Programgrupp, bestående av Nymble Klubbmästeri, RN
-Eventteknik, Platoon DJ’s och Filmnämnden.
+Sure. THS has some party locations, for example. These do cost money to 
+book but are very nice. If you go through the CHapter it's cheaper.
 
 #### Men hallå? Måste jag ha alkohol med om jag ska anordna någonting?
 
