@@ -1,11 +1,11 @@
 # Informationsorganet (Ior)
 
-Informationsorganet har en lite annorlunda plats bland nämnderna. Vi jobbar med att göra det lätt för medlemmar och nämnder att kommunicera och få ut information till varandra. Våra hjälpmedel för att göra detta är främst sektionens hemsida, som vi för närvarande håller på att bygga om. Detta för att den ska bli smidigare att använda.
+Informationsorganet is a special club in the section. We work hard to make communication and information spread easier among the section members. To help us with this we use the sections website, facebook and the TV-screens in META.
 
-Ior har två stora fördelar jämfört med de andra nämnderna. För det första jobbar vi mycket med teknik och tekniska lösningar, något som vi hoppas att alla ni som sökt till Datateknik tycker är positivt. Vi är helt enkelt den nämnd som sysslar mest med datorer. För det andra så är jobb i Ior så mycket man gör det till. Känner du att du har för lite tid över? Då finns det småsaker du jättegärna får hjälpa till med. Har du en idé på något komplicerat men väldigt användbart system för informationsspridning du skulle vilja bygga? Då finns hjälp att få i Ior.
+Ior has two great advantages compared with the other parts of the section. First of all we work a lot with technology and technical solutions, something you are probably positive to if you are a studying computer science. We are basically the part of the section which works the most with computers. Secondly, contributing to IOR is not harder than you make it. Do you have little spare time? Then there are smaller things that you could help build! Do you have an idea for something complicated but useful for spreading information that you would like to build? Then there is help in IOR!
 
-Är du intresserad av informationsspridning och datorer? Då är Ior nämnden för dig!
+Are you intereseted in computers and communications? Then Ior is the right club for you!
 
-    “IORs främsta syfte är att främja och styra upp informationsflödet, till, från och mellan datasektionens medlemmar”
+    “IORs main purpose is to promote and handle information flow, to, from and between the members of datasektionen”
 
-Har du information som du vill ha publicerad, åsikter om något eller bara någon fråga så går det utmärkt att maila oss på ior@d.kth.se (skriv gärna ett tydligt ämne (subject) på mailet). För versionshantering och felrapportering använder vi [Github](https://github.com/datasektionen). Rapportera felen under projektet Purjo.
+Do you have information that you want published, opinions about something or just a question? Just email us at ior@d.kth.se (please write a clear subject). For version control we use Github](https://github.com/datasektionen).
