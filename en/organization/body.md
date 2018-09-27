@@ -25,7 +25,7 @@ member are allowed to attend and vote at the chapter meetings(SM).
 
 ### Clubs
 
-[Här är en bild som beskriver vår organisation](https://static.datasektionen.se/organisation/karta-2017-01-31.jpg)
+[Here is a picture describing our organization](https://static.datasektionen.se/organisation/karta-2017-01-31.jpg)
 
 A club is an organisational entity created for a specific purpose. One of our clubs monitors our study environment, another takes care of the sektionslokal, another arrange parties and so forth. Every club has a chairman that is elected at the SM. How you become member of a club varies from which club it is. Some clubs has a limit to how many members they bring in and some have
 interviews. If you want to know more a bout a certain club, you are welcome to contact the club's chairman!\
