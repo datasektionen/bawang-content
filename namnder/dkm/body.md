@@ -43,7 +43,7 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 **Gillar:** Att undersöka hur mycket man faktiskt måste vara i skolan  
 **Ogillar:** Struktur  
 **Specialitet:** Har glasögon med halveringstid på ett år.  
-**Citat:**  
+**Citat:**
 _Varför är Christinas vatten bakochfram?_  
 
 <img align="right" src="http://dkm.io/images/wille.jpg">
@@ -53,7 +53,7 @@ _Varför är Christinas vatten bakochfram?_
 **Gillar:** Kyla, att prata, bäskhäfv  
 **Ogillar:** Reglerna till bäskhäfv, regler i allmänhet  
 **Specialitet:** Vara heeeeeeelt  
-**Citat:**  
+**Citat:**
 _"Power Ball"? Nää, "Super Bowl" heter det!_  
 
 <img align="right" src="http://dkm.io/images/henke.jpg">
@@ -63,7 +63,7 @@ _"Power Ball"? Nää, "Super Bowl" heter det!_
 **Gillar:** Att bidra till kurrekassan  
 **Ogillar:** Malplacerad oregano  
 **Specialitet:** Att missa bussen, att "missa bussen"  
-**Citat:**  
+**Citat:**
 _Bullshit att du har oregano i köttfärssås, det ska du ha på pizza och i grekisk sallad din **idiot!**_  
 
 <img align="right" src="http://dkm.io/images/agnes.jpg">
@@ -73,7 +73,7 @@ _Bullshit att du har oregano i köttfärssås, det ska du ha på pizza och i gre
 **Gillar:** Kylspel  
 **Ogillar:** Drickspel  
 **Specialitet:** Respektera sallad, vara från Skåne  
-**Citat:**  
+**Citat:**
 _HATAR BARN FLYGPLAN?!_  
 
 <img align="right" src="http://dkm.io/images/christine.jpg">
@@ -83,7 +83,7 @@ _HATAR BARN FLYGPLAN?!_
 **Gillar:** Allmänna idrottsklubbar, allmän idrott  
 **Ogillar:** När folk spränger hennes toa-gerilla  
 **Specialitet:** Gasolina.  
-**Citat:**  
+**Citat:**
 _Eh han den där... Anis._  
 
 <img align="right" src="http://dkm.io/images/philip.jpg">
@@ -93,7 +93,7 @@ _Eh han den där... Anis._
 **Gillar:** Tobbe Trollkarl  
 **Ogillar:** Att bli spirénstrypt  
 **Specialitet:** Klippa till spiréner.  
-**Citat:**  
+**Citat:**
 _Jag är inte full! Jag är medveten!_
 
 <img align="right" src="http://dkm.io/images/eva.jpg">
@@ -103,7 +103,7 @@ _Jag är inte full! Jag är medveten!_
 **Gillar:** Gurka, snitsiga procentberäkningar  
 **Ogillar:** Döda djur i sin mat, "Så"  
 **Specialitet:** Misstolkningar? Aha, missförstånd.  
-**Citat:**  
+**Citat:**
 _Hallå heter det ”snake eyes” eller ”snake guy”?_  
 
 <img align="right" src="http://dkm.io/images/melvin.jpg">
@@ -113,7 +113,7 @@ _Hallå heter det ”snake eyes” eller ”snake guy”?_
 **Gillar:** Spiréner, amarettoflaskor, amarettospiréner  
 **Ogillar:** Tyngdlagspåverkad tvåfotsurinering  
 **Specialitet:** Explosivt rörmokeri.  
-**Citat:**  
+**Citat:**
 _Burre burre_  
 
 
