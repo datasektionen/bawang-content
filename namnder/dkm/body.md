@@ -39,82 +39,82 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 <img align="right" src="http://dkm.io/images/felix.jpg">
 ### Felix Andersson
 #### Klubbmästare
-**Favoritdrink:** Monster
-**Gillar:** Att undersöka hur mycket man faktiskt måste vara i skolan
-**Ogillar:** Struktur
-**Specialitet:** Har glasögon med halveringstid på ett år.
-**Citat:**
-_Varför är Christinas vatten bakochfram?_
+**Favoritdrink:** Monster  
+**Gillar:** Att undersöka hur mycket man faktiskt måste vara i skolan  
+**Ogillar:** Struktur  
+**Specialitet:** Har glasögon med halveringstid på ett år.  
+**Citat:**  
+_Varför är Christinas vatten bakochfram?_  
 
 <img align="right" src="http://dkm.io/images/wille.jpg">
-### William Agnér
-#### Vice Klubbmästare
-**Favoritdrink:**  "Cuba Libre"
-**Gillar:** Kyla, att prata, bäskhäfv
-**Ogillar:** Reglerna till bäskhäfv, regler i allmänhet
-**Specialitet:** Vara heeeeeeelt
-**Citat:**
-_"Power Ball"? Nää, "Super Bowl" heter det!_
+### William Agnér  
+#### Vice Klubbmästare  
+**Favoritdrink:**  "Cuba Libre"  
+**Gillar:** Kyla, att prata, bäskhäfv  
+**Ogillar:** Reglerna till bäskhäfv, regler i allmänhet  
+**Specialitet:** Vara heeeeeeelt  
+**Citat:**  
+_"Power Ball"? Nää, "Super Bowl" heter det!_  
 
 <img align="right" src="http://dkm.io/images/henke.jpg">
-### Henrik Jolérus
-#### Infomästare
-**Favoritdrink:** Är köttfärssås en drink?
-**Gillar:** Att bidra till kurrekassan,
-**Ogillar:** Malplacerad oregano
-**Specialitet:** Att missa bussen, att "missa bussen"
-**Citat:**
-_Bullshit att du har oregano i köttfärssås, det ska du ha på pizza och i grekisk sallad din **idiot!**_
+### Henrik Jolérus  
+#### Infomästare  
+**Favoritdrink:** Är köttfärssås en drink?  
+**Gillar:** Att bidra till kurrekassan  
+**Ogillar:** Malplacerad oregano  
+**Specialitet:** Att missa bussen, att "missa bussen"  
+**Citat:**  
+_Bullshit att du har oregano i köttfärssås, det ska du ha på pizza och i grekisk sallad din **idiot!**_  
 
 <img align="right" src="http://dkm.io/images/agnes.jpg">
-### Agnes Forsberg
-#### Festmästare
-**Favoritdrink:**  Sista shotsen i flarran
-**Gillar:** Kylspel
-**Ogillar:** Drickspel
-**Specialitet:** Respektera sallad, vara från Skåne
-**Citat:**
-_HATAR BARN FLYGPLAN?!_
+### Agnes Forsberg  
+#### Festmästare  
+**Favoritdrink:**  Sista shotsen i flarran  
+**Gillar:** Kylspel  
+**Ogillar:** Drickspel  
+**Specialitet:** Respektera sallad, vara från Skåne  
+**Citat:**  
+_HATAR BARN FLYGPLAN?!_  
 
 <img align="right" src="http://dkm.io/images/christine.jpg">
-### Christine Rosquist
-#### Ekonomimästare
-**Favoritdrink:** En liten bara
-**Gillar:** Allmänna idrottsklubbar, allmän idrott
-**Ogillar:** När folk spränger hennes toa-gerilla
-**Specialitet:** Gasolina.
-**Citat:**
-_Eh han den där... Anis._
+### Christine Rosquist  
+#### Ekonomimästare  
+**Favoritdrink:** En liten bara  
+**Gillar:** Allmänna idrottsklubbar, allmän idrott  
+**Ogillar:** När folk spränger hennes toa-gerilla  
+**Specialitet:** Gasolina.  
+**Citat:**  
+_Eh han den där... Anis._  
 
 <img align="right" src="http://dkm.io/images/philip.jpg">
-### Philip Song
-#### Ekonomimästare
-**Favoritdrink:** En flaska rött vin, eller två
-**Gillar:** Tobbe Trollkarl
-**Ogillar:** Att bli spirénstrypt
-**Specialitet:** Klippa till spiréner.
-**Citat:**
+### Philip Song  
+#### Ekonomimästare  
+**Favoritdrink:** En flaska rött vin, eller två  
+**Gillar:** Tobbe Trollkarl  
+**Ogillar:** Att bli spirénstrypt  
+**Specialitet:** Klippa till spiréner.  
+**Citat:**  
 _Jag är inte full! Jag är medveten!_
 
 <img align="right" src="http://dkm.io/images/eva.jpg">
-### Eva Despinoy
-#### Barmästare
-**Favoritdrink:** Jokk, det vildaste tranbäret
-**Gillar:** Gurka, snitsiga procentberäkningar
-**Ogillar:** Döda djur i sin mat, "Så"
-**Specialitet:** Misstolkningar? Aha, missförstånd.
-**Citat:**
-_Hallå heter det ”snake eyes” eller ”snake guy”?_
+### Eva Despinoy  
+#### Barmästare  
+**Favoritdrink:** Jokk, det vildaste tranbäret  
+**Gillar:** Gurka, snitsiga procentberäkningar  
+**Ogillar:** Döda djur i sin mat, "Så"  
+**Specialitet:** Misstolkningar? Aha, missförstånd.  
+**Citat:**  
+_Hallå heter det ”snake eyes” eller ”snake guy”?_  
 
 <img align="right" src="http://dkm.io/images/melvin.jpg">
-### Melvin Lundqvist
-#### Barmästare
-**Favoritdrink:** Isacs bubbel
-**Gillar:** Spiréner, amarettoflaskor, amarettospiréner
-**Ogillar:** Tyngdlagspåverkad tvåfotsurinering
-**Specialitet:** Explosivt rörmokeri.
-**Citat:**
-_Burre burre_
+### Melvin Lundqvist  
+#### Barmästare  
+**Favoritdrink:** Isacs bubbel  
+**Gillar:** Spiréner, amarettoflaskor, amarettospiréner  
+**Ogillar:** Tyngdlagspåverkad tvåfotsurinering  
+**Specialitet:** Explosivt rörmokeri.  
+**Citat:**  
+_Burre burre_  
 
 
 ## Cliff
