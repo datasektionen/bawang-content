@@ -1,3 +1,14 @@
+<style>
+ img {
+   width: 165px;
+   height: 165px;
+   border-radius: 50%;
+   object-fit: cover;
+   box-sizing: content-box;
+   padding-top: 10px;
+ }
+ </style>
+
 ## Sök DKM nu! <a href="http://dkm.io/ansök">http://dkm.io/ansök</a>
 
 # DKM
