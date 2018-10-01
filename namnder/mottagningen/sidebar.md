@@ -19,6 +19,22 @@ Samuel Hertzberg<br />
 [lillebror@d.kth.se](mailto:lillebror@d.kth.se)<br />
 070-508 76 21 
 
+### Det Kongliga Drifveriet
+**Konglig Öfverdrif**, <br />
+Josefin Nilsson<br />
+[ofverdrif@d.kth.se](mailto:ofverdrif@d.kth.se)<br />
+076-828 59 20
+
+**Konglig Direktifdrif**, <br />
+Nicole Jagelid <br />
+[direktifdrif@d.kth.se](mailto:direktifdrif@d.kth.se)<br />
+073-506 67 33
+
+**Konglig Indrif**, <br />
+Mikael Forsmark<br />
+[indrif@d.kth.se](mailto:indrif@d.kth.se)<br />
+070-424 61 62 
+
 ### Det Kongliga Doqumenteriet
 **Samdoquise**, <br />
 Martin Hyberg<br />
