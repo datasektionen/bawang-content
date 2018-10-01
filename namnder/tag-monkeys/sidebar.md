@@ -4,7 +4,7 @@ Behöver du hjälp eller har frågor kring grafisk design, tveka inte att kontak
 
 #### Datas Art Director, DAD
 
-Patric Lantz
+Hannes Arvidsson
 
 [dad@d.kth.se](mailto:dad@d.kth.se)
 
