@@ -136,7 +136,7 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Klara Eserstam__
   * Barmästare
   * _Som att man inte slickat på metas golv förut_
-* __Joar Rutqvist_
+* __Joar Rutqvist__
   * Barmästare
   * _Alltså det finns en fett god drink, du börjar med krossat glas..._
 * __Martin Hyberg__
