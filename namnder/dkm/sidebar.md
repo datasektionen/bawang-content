@@ -13,6 +13,4 @@ Sortiment och annat bar-relaterat?
 
 Vi tar in nya medlemmar en gång per år, vanligtvis på hösten strax efter mottagningen.
 
-Ansökan är öppen fram t.o.m. den 3/10 2018.
-
-**Sök nu!** <a href="http://dkm.io/ansök">http://dkm.io/ansök</a> 
+Ansökningsperioden är över för i år. Sök gärna nästa år!
