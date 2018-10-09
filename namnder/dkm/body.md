@@ -9,8 +9,6 @@
  }
  </style>
 
-## Sök DKM nu! <a href="http://dkm.io/ansök">http://dkm.io/ansök</a>
-
 # DKM
 
 DKM är Datas Klubbmästeri. Det är vi som ser till att ni dataloger har möjlighet att ha roligt under er tid här på teknis. Vi anordnar fester och pubar under hela året (förutom mottagningen). Vill du komma i kontakt med oss, släng iväg ett mail till [dkm@d.kth.se](mailto:dkm@d.kth.se)!
@@ -138,13 +136,16 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Klara Eserstam__
   * Barmästare
   * _Som att man inte slickat på metas golv förut_
+* __Joar Rutqvist_
+  * Barmästare
+  * _Alltså det finns en fett god drink, du börjar med krossat glas..._
 * __Martin Hyberg__
   * Festmästare
   * _Omg nu fick jag leversvikt_
 
 ### Cliff -17
 
-* __Bengt-Göran Strandberg__
+* __Aron Strandberg__
   * Klubbmästare
   * _Jag ville ha en gif, så jag googlade på "fucking nerds". Rookie mistake_
 * __Carl Nordling__
@@ -152,7 +153,10 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
   * _En skalbagge skulle aldrig banga på en bärs_
 * __Malcolm Tivelius__
   * Ekonomimästare
-  * _Det är rimligt att vara rimlig, och det var här jag blev anfallen av ankor_
+  * _Det är rimligt att vara rimlig, och det var här jag blev anfallen av ankor_*
+* __Josefin Nilsson__
+  * Ekonomimästare
+  * _Okej, så: jag är inte så jättehaj på rondeller... Hur ska jag köra?_
 * __Helena Alinder__
   * Barmästare
   * _Det är helt okej att inte minnas något av en kväll, så länge man har en skön känsla!_
