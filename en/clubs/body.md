@@ -1,51 +1,50 @@
-# Nämnder på Datasektionen
+# The Clubs of the CS chapter
 
-###[DKM – Datas Klubbmästeri](/namnder/dkm)
-Vad vore en sektion utan fester? Datasektionens Klubbmästeri har fixat fester lika länge som sektionen funnits till.
+###[DKM – Party organizes](/namnder/dkm)
+What would a Chapter be without parties? DKM has been organizing parties as long as the Chapter has existed.
 
 ###[dbuggen](http://dbu.gg)
-dbuggen är Datas sektionstidning. Den utkommer när en eventuell redaktion har tid och fantasi, vilket händer inte alltför sällan. Numera kan du, förutom att läsa den mycket uppskattade papperstidningen, även läsa dbuggen online.
+dbuggen is the Chapter's own paper. It's released whenever any possible editors have the time or the will. This actually sometimes happens! Nowadays you can also read it online.
 
 ###[METAdorerna](/namnder/metadorerna)
-Vår gemensamma sektionslokal heter META och ligger på Osquars Backe 21. META vårdas av sektionslokalsgruppen METAdorerna.
+Our common Chapter Hall is named META and can be found at Osquars Backe 21. we are the ones taking care of the place.
 
-###[IOR – Informationsorganet för Datasektionen](/namnder/informationsorganet)
-Vi ägnar oss åt att samla in och sprida ut information på Datasektionen.
+###[IOR – Eeore - Information group - Hacker club](/namnder/informationsorganet)
+We make sure the chapter's infromation distribution systems work properly, which results in lots of hacking.
 
-###[Tag Monkeys – Datas ritapor](/namnder/tag-monkeys)
-Grafisk design <3
 
-###[Jämlikhetsnämnden](/namnder/jamlikhetsnamnden)
-Nämnden som gör allt för att alla ska känna sig trygga och välkomna på Konglig Datasektionen.
+###[Tag Monkeys](/namnder/tag-monkeys)
+Graphic design <3
 
-###[KÖN – Konglig Östrogennämnden](/namnder/konglig-ostrogennamnden)
-Nämnden som hjälper tjejer på data att nätverka med varandra.
+###[Equality council](/namnder/jamlikhetsnamnden)
+We want everyone to feel safe and welcome.
 
-###[Mottagningen](/namnder/mottagningen)
-Har hand om mottagningen av de nya som börjar på Datasektionen. Här hittar du information om vem som är vem, samt när och var alla fester och annat skoj händer.
+###[KÖN – Women̈́s club](/namnder/konglig-ostrogennamnden)
+Group for helping girls at the CS chapter network with each other.
 
-###[Näringslivsgruppen](/namnder/naringslivsgruppen)
-Näringslivsgruppen ansvarar för Datasektionens näringslivskontakter vilket innefattar bl.a. arbetsmarknadsdagar, studiebesök på intressanta företag samt olika former av sponsring.
+###[The reception](/namnder/mottagningen)
+Here is all the info about the reception, the scedule, etc.
 
-###[Prylmångleriet](/namnder/prylmangleriet)
-Prylis säljer saker såsom sångböcker och märken till köpsugna teknologer.
+###[Industry group](/namnder/naringslivsgruppen)
+The industry group handles the Chapter's professional contacts, organizes job fairs, lunch lectures, study visits, and other kids of sponsoring.
 
-###[Qulturnämnden](/namnder/qulturnamnden)
-Qulturnämnden ombesörjer sektionens kulturella verksamhet i form av exempelvis filmvisningar och godisförsäljning.
+###[Prylmångleriet - pathces and merch](/namnder/prylmangleriet)
+_Prylis_ sells the stuff CS students want to buy 
 
-###[Idrottsnämnden](/namnder/idrottsnamnden)
-Idrottsnämndens aktiviteter beror helt på vad dess medlemmar vill göra.
-Vi satsar bl a på att delta i alla grenar i THS-Mästerskapen samt att
-hålla kontinuerliga aktiviteter vid sidan av studierna.
+###[Qulturnämnden - qulture group](/namnder/qulturnamnden)
+Film nights, eating candy, and other forms of _qulture_.
 
-###[Studienämnden](/namnder/studienamnden)
-Ägnar sig åt att granska undervisningen. Studienämndens huvudsakliga arbete består av att utvärdera kurserna och samtala med kursansvarig, så att förbättringar kan göras.
+###[Idrottsnämnden - Sport group](/namnder/idrottsnamnden)
+We do whatever we want. 
 
-###[DEMON – Datasektionens Musiknämnd](/namnder/datasektionens-musiknamnd)
-DEMON är Datas musikentusiaster som spelar musik tillsammans, DJ:ar musik och snackar om musik. Musik? Musik!
+###[Studienämnden - Study council](/namnder/studienamnden)
+Keeping an eye on the studies, the courses and the factulty.
 
-###DESC – Datas E-Sports Community
-DESC anordnar spelkvällar för E-sportsentusiaster och tar tillvara på medlemmarnas intressen inom området.
+###[DEMON – Music group](/namnder/datasektionens-musiknamnd)
+DEMON are the music enthusiasts of the CS chapter. Meet to jam together!
+
+###DESC – Computer science E-sport community
+DESC organizes gaming nights and other events for gaming enthusiasts in the chapter.
 
 ## Projekt på Datasektionen
 
@@ -61,35 +60,22 @@ Sångboksgruppen
 
 [Bröllopet](https://www.facebook.com/brollopet2017)
 
-## Hur startar man projekt
-För att starta ett projetk så måste det ligga i sektionens intresse då det är sektionens pengar som kommer att användas.
-Därför för att starta ett nytt projekt måste en motion med följande saker lämnas in till nästkommande SM.
-För att starta ett Nytt projekt så krävs följande enligt stadgarna:
+## How to start a project
+To start a project, there has to be an interest on the part of the chapter since we'll be using the chapter's money. 
+So you have to get a motion passed at an SM.
 
-- **Projektnamn**
-- **Syfte**
-- **Budget**
-- **Verksamhetsplan**
-- **Ungefärlig tidsplan**
+## Earlier groups and projects 
 
-Vill man sen få rollen som projektledare för just sitt projekt krävs sen att man även har med en att-sats i motionen som säger att projektledaren ska väljas direkt av SM genom fri nominering. Om inte det finns med så väljs då denna genom samma procedur som för val av övriga funktionärer. 
+Spexmästeriet: Was responsible for creating new _spex_. Closed Budget-SM 2013.
 
-## Återupplivande av projekt. 
-Projekt som D-rektoratet anser vara återkommande kan då istället genom beslut på DM med en kort motivering innehållande referens till minst ett väldigt likartat tidigare projekt samt en uppskattning av de uppgifter, bortsett från budget, som krävs för att starta ett nytt projekt. Val av projektledare sker genom samma procedur som för val av övriga funktionärer vid nästkommande SM. Projektledare åläggs att inkomma med motion innehållandes budget samt verksamhetsplan för projektet till första möjliga SM efter valet, såvida SM inte redan beslutat om dessa för denna projektomgång.
+Fenixorden: Awarded the “Årets Fenix”. Closed på Budget-SM 2013.
 
+Cerise Siren: Choir of the CS chapter. (Merged with Spexmästeriet 2005)
 
-## Tidigare nämnder och föreningar på Datasektionen
+Dataspelet: Data's own _spex_. Now exists as a common _spex_ together with Media, METAspexet.
 
-Spexmästeriet: Var ansvarigt för att skapa nya spex på sektionen. Lades ner på Budget-SM 2013.
+Dart Vader: CS Dart group.
 
-Fenixorden: Delade ut utmärkelsen “Årets Fenix”. Lades ner på Budget-SM 2013.
+Jong: CS Juggling group.
 
-Cerise Siren: Datas egen skönsjungande kör. (Blev en del av Spexmästeriet 2005)
-
-Dataspelet: Datas eget spex. Finns numera i formen av ett gemensamt spex med Media, METAspexet.
-
-Dart Vader: Datasektionens dartförening.
-
-Jong: Datasektionens jongleringsförening.
-
-SHFF: Sektionshusfondsföreningen.
+SHFF: Sektionshusfondsföreningen (untranslateable - sorry, one international student that go this far. Thanks for reading tho!).
