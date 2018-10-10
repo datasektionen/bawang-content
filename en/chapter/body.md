@@ -1,68 +1,77 @@
-# Konglig Datasektionen
+# _Konglig Datasektionen_<sub>TODO: translate more at the end</sub>
 
-Datasektionen är en ideell
-[studentsektion](https://sv.wikipedia.org/wiki/Studentsektion) under
-[Tekniska Högskolans Studentkår](http://ths.kth.se) som finns till för
-att alla som läser Datateknik på KTH ska få en så bra studietid som
-möjligt. Dels genom att bevaka kurserna som vi läser, dels genom att
-ordna aktiviteter utanför studierna. På sektionen finns det flera
-nämnder, som var och en håller på med det som intresserar dem. Du kan
-läsa mer om olika saker de gör här nedan.
 
-Festverksamhet, DKM
+
+Datasektionen, or the Computer Science Chapter is a non-profit 
+[student chapter](https://sv.wikipedia.org/wiki/Studentsektion)
+under [THS](http://ths.kth.se) which exists to give all CS students at
+KTH the best study time possible. We achieve this in part by monitoring
+the courses in the programme, and in part by organizing activities 
+outside of the studies themselves. We're a bit like a watchdog, and
+a bit like a fraternity (but more open). In the chapter there are 
+several groups doing specific stuff that interests them. Read more about 
+those below!
+
+Party activities, DKM
 -------------------
 
-Fester är något en teknolog sällan klarar sig utan i mer än ett par
-dagar. För att tillfredsställa behoven finns Datas Klubbmästeri.
-[DKM](/namnder/dkm), som det så enkelt kallas i lekmannatermer, består av ett
-gäng som definitivt har examen att anordna helt bonkers fester. Nu tycker du
-säkert att det här låter extremt bra - det är det.
+Few engineering students could go longer than a few days without partying.
+To satisty this need, we have DKM, or the Club Masters of Data. 
+[DKM](/namnder/dkm), is made up of a few nice people who organize totally
+incredible parties. You must think they are awesome. They are. 
+Parties are helt at META almost every wednesay.
 
-Underhållning och aktiviteter
+
+Activities and entertainment
 -----------------------------
 
-På Konglig Datasektionen finns det många sätt att roa sig. Förutom
-studier i intressanta ämnen och episka fester anordnas det även
-qulturella tillställningar, så som film- och spelkvällar. Vi samarbetar
-även med andra föreningar för att tillsammans sprida qultur över campus.
-Söker du sällskap till ett qulturellt arrangemang, eller har du planer
-på att anordna ett eget? Vänd dig till oss så hjälper vi dig.
+There are many ways to have fun at the CS chater. Apart from interesting 
+studies and epic parties, _qultiral_ events are sometimes organized. This 
+could be film- or gaming evenings. We also collaborate with other groups to 
+spread _qulture_ all around the campus. Looking for company? We can help!
+[DKM](/namnder/qulturnamnden)
 
-Studiebevakning
+
+Keeping an eye on the studies...
 ---------------
 
-Studienämnden ansvarar för att alla dataloger får en så bra utbildning
-som möjligt. Vi träffas minst en gång per läsperiod och diskuterar hur
-det går i olika kurser och masterprogram. Om du upplever något problem
-med studievägledningen eller hur en kurs fungerar är det till oss du ska
-vända dig! Studienämnden är öppen för alla dataloger - vem som helst får
-komma på våra möten och alla som vill är välkomna att gå med i nämnden.
+The study council makes sure that all CS students get the best education
+possible. We meet at least once a period and discuss how things are going 
+in all the different courses and programmes. If you're experiencing problems 
+with the faculty or a course, you should contact us!  The study council is 
+open for all CS students, so anyone can come to our meetings.
+[Studienämnden](/namnder/studienamnden)
+[sno@d.kth.se](mailto:sno@d.kth.se)
 
-Näringslivskontakt
+Industry contact
 ------------------
 
-Näringslivsgruppen står för sektionens kontakt med näringslivet och vi
-ordnar tillsammans med företag och andra branschorganisationer olika
-event som den årliga arbetsmarknadsdagen D-Dagen men även företagspubar,
-föreläsningar och lite andra mer speciella arrangemang. Vi hjälper även
-till med att förmedla jobb genom annonser i olika medium och ibland har
-vi lite olika specialerbjudanden.
+The industry group takes care of the chapter's contact with the professional
+world. We organize events together with interested companies, such as the yearly
+D-dagen CS job fair, company pubs, lunch lectures, and other events. We
+also help companies advertize jobs and sometimes organize something special.
 
-Sektionslokal
+META, our Chapter Hall
 -------------
 
-Datasektionens och Sektionen för Medietekniks gemensamma sektionslokal
-heter META och är det utrymme på KTH där våra sektionsmedlemmar kan
-umgås, äta och studera mellan föreläsningarna. META ligger på Osquars
-Backe 21 och tas hand om sektionslokalsgruppen METAdorerna.
+META is the hall where CS and Media students can meet, eat and party. 
+The address is Osquars Backe 21 and the heroes taking care of the place
+are _METAdorerna_.
 
-Informationsspridning
+Information distribution (or, the hacker club)
 ---------------------
 
-Informationsorganet har som främsta syfte att sprida information – till,
-från och mellan Datasektionens medlemmar. Det är vi som underhåller och
-utvecklar vår hemsida, ser till att nyhetsbrev kommer ut löpande och
-håller koll på sektionens grafiska profil.
+IOR (eeyore) started as a group to facilitate spreading of information
+in the chapter (e.g. through this website, which we develop!), but has 
+morphed in the the CS Chapter's _hacker club_. We make sure the website,
+and all other projects are up and running, and there are many of those. 
+Want more programming in your life? Or maybe you're a good designer, 
+tester, developer, or just like ice cream? Join us at a hackathon every\* 
+thursday in comptuter room Grå (fifth floor, E building). 
+
+\*We're not really that punctual and sometimes miss thursdays. Check our 
+[facebook site](https://www.facebook.com/search/top/?q=informationsorganet)
+for fresh news!
 
 Mottagning av nya studenter
 ---------------------------
