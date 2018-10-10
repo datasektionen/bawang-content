@@ -1,6 +1,6 @@
-# _Konglig Datasektionen_<sub>TODO: translate more at the end</sub>
+# _Konglig Datasektionen_
 
-
+<sub>TODO: translate more at the end</sub>
 
 Datasektionen, or the Computer Science Chapter is a non-profit 
 [student chapter](https://sv.wikipedia.org/wiki/Studentsektion)
@@ -73,132 +73,78 @@ thursday in comptuter room Grå (fifth floor, E building).
 [facebook site](https://www.facebook.com/search/top/?q=informationsorganet)
 for fresh news!
 
-Mottagning av nya studenter
+Student Reception
 ---------------------------
 
-Mottagningen ser till att de nyantagna till Datasektionen känner sig
-välkommna och har roligt. Du hittar schema och mer information om
-mottagningen på [mottagningens sida](/namnder/mottagningen).
+The reception is very important for welcoming new students and making sure they 
+feel good coming here. The schedule and other information can be found at
+the [reception website](/namnder/mottagningen).
 
-Styrelse
+Board
 --------
 
-Styrelsen, eller ”D-rektoratet”, har det övergripande ansvaret för allt
-som händer på sektionen. Styrelsens ansvarsområden är uppdelade mellan
-dess medlemmar. Är man medlem i sektionen kan man också bli invald i
-styrelsen på ett sektionsmöte, så kallat "SM". Styrelsens huvuduppgift
-är genomföra beslut som tas på SM.
+The board, or ”D-rektoratet” has the overarching responsibility for everything
+that happens in the CS chapter. They are the bosses, you could say. Each member
+has their share of responsibilities, and they are elected during _SM_, Chapter
+Meetings. Their main task is realizing democratic decisions made by the Chapter.
 
-Kårfullmäktigeledamöter
------------------------
-
-Datasektionens kårfullmäktigeledamöter representerar sektionen i
-Kårfullmäktige, KF, som är Tekniska Högskolans Studentkår, THS, högsta
-beslutande organ. Kårfullmäktige bestämmer bland annat om kårens pengar,
-vem som ska vara kårordförande, fastigheterna Nymble och Osqvik samt
-vilka sektioner som ska finnas.
-
-Sektionstidning
+Chapter Paper
 ---------------
 
-[dbuggen](http://dbu.gg) är Datasektionens stolta sektionstidning där sär
-skrivningar är lika sär som de är skrivna, som ledamöterna i Svenska Akademien
-drömmer våta drömmar om på nätterna och inte minst de som har tagit på sig att
-föra det skrivna ordet som en nymodighetens virvelvind genom sektionen.
-nØlledbuggen är dbuggens årliga publikation för nyantagna studenter. 
+[dbuggen](http://dbu.gg) is the CS chapter's own paper!
 
-Jämlikhetsarbete
+Equality work
 ----------------
 
-Jämlikhetsnämnden är nämnden som arbetar för att alla ska känna sig lika
-trygga och lika mycket värda på Datasektionen. Hit vänder du dig om du
-har frågor om trakasserier, diskriminering, eller om du utsatts för
-något otrevligt på sektionen. Ingen fråga är för liten! Om du brinner
-för att arbeta mot orättvisor och gillar att ha en åsikt ska du
-självklart gå med i nämnden.
+The equality council works to make everyone feel safe, accepted and treated
+equally at the CS section. You can turn here if you have questions about 
+discrimination, unfair treatment, or similar issues. No issue is too small!
+If you like combatting inequalities you should definitely [join](/namnder/jamlikhetsnamnden).
 
-Konglig Östrogennämnden, KÖN
-----------------------------
-
-Trots Datasektionens så få men ack så underbara tjejer finns ett ljus i
-tunneln: Konglig Östrogennämnden är nämnden som hjälper tjejer på data
-att nätverka med varandra! Denna nystartade nämnd på Datasektionen
-anordnar middagar under året och samarbetar även med Näringslivsgruppen
-anordna företagsevents. Under hösten kommer det dessutom hållas en
-tjejgasque! Låter det som något för dig? Håll utkik efter mer info på
-datasektionens hemsida!
-
-Spex
+The Spex
 ----
 
-METAspexet är ett samarbete mellan Datasektionen och Sektionen för
-Medieteknik. Ändamålet är att bringa glädje till sektionernas medlemmar
-genom att ägna sig åt [spex](https://sv.wikipedia.org/wiki/Spex), gyckel,
-musik, dans och andra sceniska underhållningsformer samt ytterligare
-stärka sektionernas samverkan. De verkar för en årlig uppsättning av
-METAspexet.
+A _Spex_ is a theatrical student event of sorts.
+METAspexet is a collabortion between the CS and Media chapters. It brings
+joy to the members of the chapters. THe [spex](https://sv.wikipedia.org/wiki/Spex), is full of 
+music, dance, comedy, and more. It's hard to describe. But you should see it!
 
-Idrottsverksamhet
+Sports
 -----------------
 
-Idrottsnämndens aktiviteter beror helt på vad dess medlemmar vill göra.
-Vi satsar bl a på att delta i alla grenar i THS-Mästerskapen samt att
-hålla kontinuerliga aktiviteter vid sidan av studierna.
+The Sport group does whatever its members feel like doing. Football, hockey,
+running, it varies a lot. Join here: https://www.facebook.com/groups/datafotboll/
 
-Internationell verksamhet / International activities
-----------------------------------------------------
+International
+-----------------
 
-Datas Internationella Utskott, DIU, anordnar mottagningen av de
-internationella studenterna. / Datasektionen International Committee
-organizes the reception of international students.
+We have an international study coordinator who knows the most about the CS chapter's itnernational
+projects. isc@d.kth.se
 
-Studieresa
+Study trip
 ----------
 
-Studieresan, Studs, anordnas som en projektkurs för dataloger i
-slutet av sin utbildning. Projektets mål är att ta sig till ett
-främmande land, lära känna en annan kultur samt förbättra deltagarnas
-kontakter med näringslivet. Eftersom projektet arrangeras som kurs får
-du poäng och dessutom en fantastisk upplevelse.
+Studs is the CS chapter's yearly study trip to another country.
 
-Märken och overaller, Prylmångleriet
+Overalls and patches
 ------------------------------------
 
-Vi har alla vaknat en dag och insett att Plattan inte räcker till för
-alla våra inköpsbehov. Av just den anledningen, och en hel del andra,
-finns vi.
+_Prylmånglaren_ is the person at the CS chapter who makes sure to get
+all the, patches and merchandise, which are s big part of sedish student culture. 
+They can be found in META and organize selling events semi-regularly. prylis@d.kth.se
 
-Prylmångleriet är Datasektionens egna nasare. Allt det som en
-datateknolog kan tänkas behöva som inte främjar studierna har dessa
-krabater på sin försäljningslista. Det gäller saker som ovvar, märken,
-pins och alla andra möjliga prylar. Prylmånglaren hittas oftast i META
-och kör semireguljära försäljningar.
-
-Skidresa
+Ski-trip
 --------
 
-Datasektionen åker varje vinter till Åre (dÅre) för några dagars härlig
-skidåkning och nattliv. Anmälan öppnar efter mottagningen och
-arrangemanget är till självkostnadspris med Skistars studentrabatter.
+Each year, the CS chapter goes to Åre (dÅre) for some skiing! SIgn-up opens after the reception.
 
-Musikverksamhet, DEMON
+Music
 ---------------------
 
-Nämnden DEMON finns för att täcka alla dina musikrelaterade behov.
-Ibland känner du för att plocka fram plonkaren i dig, och då plocka fram
-en av syntharna. Eller kanske redo för lite trumträning, och haka på att
-lira i en replokal. Eller bara stå och üntza på en pub. Man kan göra
-mycket med musik.
+_DEMON_  is the music group. They sometimes practice live, meet up, et.c.
 
-Badhusfest
+Bath house party
 ----------
 
-Plums är en fest som varje år anordnas av DKM. Föreställ dig en fest där du är i ett badhus och 
-DKM har slängt in ett par grymma DJs, en äkta delmängd av spritförrådet samt mackor för alla! 
-Som om inte det vore nog kan du självklart kombinera detta med bad och bastu. Allt som 
-allt kan man lätt säga att det är det bästa som händer i en teknologs liv.
-
-Sektionsbilen
--------------
-
-Sektionen har en bil man kan [låna](/sektionen/sektionsbilen)!
+_Plums_ is a party organized each year by DKM. We actually rent a whole bath house, get some
+awesome DJ's and party all night long!
