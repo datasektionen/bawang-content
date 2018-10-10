@@ -1,29 +1,23 @@
-#Studier
-Har du problem eller frågor relaterade till studierna? Kolla om svaren finns i [vanliga frågor om studierna](/studier/faq).
-Annars maila någon av de nedan. Är du osäker vem du kan fråga? Maila [sno@d.kth.se](mailto:sno@d.kth.se)
+#Study life
+Having issues or questions related to your studies? Check the answers in the [study FAQ](/en/studier/faq).
+Or email one of the people below. They all love being able to help! 
 
-## Kontakt
-Här finner du kontaktuppgifter för att ta vidare problem/frågor du kan tänkas ha rörande studier.
+Not sure who to email? Email [sno@d.kth.se](mailto:sno@d.kth.se)
 
-### Studienämndens ordförande
-Kontakta mig om du har frågor/funderingar rörande dina studier. T.ex. att något inte funkar inom en kurs. Vill du kontakta någon mer specifikt inom studienämnden, säg en årskursrepresentant [kolla här](/namnder/studienamnden#kontakt)
+## Contact
+Here is a list of conctact detail regarding issues or questions related to your studies. 
+
+### Chairman of the Study Council
+Concact me if you have questions about your studies. For example, if there are problems in a course. All courses should also have a course representative (student who represents all the students in talks with the faculty) and you migth be able to find your representative [here:](/namnder/studienamnden#kontakt)
 
 [sno@d.kth.se](mailto:sno@d.kth.se)
 
 ### Studerandeskyddsombud
-Kontakta mig om du har frågor/funderingar rörande studiemiljön, ur både fysiskt och psykosocialt perspektiv.
+Contac me if you have issues regarding the study environment. This includes both physical and psycho-social problems.
 
 [sso@d.kth.se](mailto:sso@d.kth.se)
 
-### Jämlikhetsnämndens ordförande
-Kontakta mig om du har frågor/funderingar rörande jämlikhetsfrågor. 
+### Equality council
+Contact me if with questions or comments about equality.
 
 [jamlikordf@d.kth.se](mailto:jamlikordf@d.kth.se)
-
-## Övrigt
-På dessa sidor försöker vi samla så mycket information som möjligt som
-rör dina studier på D-programmet (Civilingenjörsprogrammet Datateknik på KTH).
-
-
-
-
