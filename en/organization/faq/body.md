@@ -12,8 +12,7 @@ For more information, email the chapter's board at drek@d.kth.se.
 
 #### Do I need to be a chapter member to do stuff?
 
-Yep. The only think you can do without being a member, is that you can
-spend time at META (our lunch room) between 06:00 and 17:00.
+Yep. The only think you can do without being a member, is spending time at META (our lunch room) between 06:00 and 17:00.
 
 #### I need a location, could I book META?
 
@@ -62,13 +61,13 @@ THS halls
 
 Do you have an event idea for chapter members? Or do you need to make an important purchase? You can always apply for economic support from the chapter in case you lack resources.
 
-### What money?
+### What kind of money?
 
 The head of the chapter, d-Rektoratet (the board) and the chapter meeting (SM) can all make decisions on funding activities and purchases related to the chapter. The head can approve total sums of 2000 kr and the board, 10 000 kr. The chapter meeting does not have a limit. Economic resources are handed out through the disposition fund.
 
 ### What do I need to do?
 
-Just need a small push? If your need is less than 2000 kr, you can simply mail the chapter head with a justification.
+Just need a small push? If you need less than 2000 kr, you can simply mail the chapter head with a justification.
 
 For sums between 2000 and 10 000 kr, you must wait for the board to come to a decision during a board meeting. Send a mail to [the board](drek@d.kth.se) with a justification. You are welcome to join the meeting, announced five days before, to present your application and to answer questions.
 
