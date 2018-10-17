@@ -2,99 +2,74 @@
 
 ## FAQ concerning parties, arrangements and events
 
-### I would love to organize a party, but I don't know how...
+### I would love to organize a party, but I don't know how to...
 
-Technically, anyone can organize a party or event. However, to organize a
-Datasektionen-even you have to be a member of Datasektionen (the Computer Science 
-chapter). You also need to figure out a location, get a permit, and have a 
+Technically, anyone can organize a party or event. However, to organize an
+event you have to be a member of the Computer Science chapter. You also need 
+to figure out a location, get a permit, and have a 
 person that is qualified to be responsible for the event.
-Email the Datasektionen leadership at drek@d.kth.se! (Don't worry, they
-know english :) )
+For more information, email the chapter's board at drek@d.kth.se.
 
-#### Do I need to be a Datasektionen member to do stuff?
+#### Do I need to be a chapter member to do stuff?
 
 Yep. The only think you can do without being a member, is that you can
 spend time at META (our lunch room) between 06:00 and 17:00.
 
 #### I need a location, could I book META?
 
-The Datasektionen regulations say the following (unofficial translation): 
-§7: META may only be booked by Datasektionen functionaries, as well as 
+The chapter regulations state the following (unofficial translation): 
+§7: META may only be booked by the Computer Science chapter functionaries, as well as 
 organs within the THS, and other organizations. But contact the club or 
 organisation that fits with the activity you want to organize, and hopefully
 they can help you.
 
-If you are unsure, contact the leadership!
+If you are unsure, contact the board.
 
 #### Are there other locations than META that I can book?
 
-Sure. THS has some party locations, for example. These do cost money to 
-book but are very nice. If you go through the CHapter it's cheaper.
+Sure. THS has halls specifically for parties. While nice, these tend to
+cost more than the Computer Science chapter's halls.
 
-#### Men hallå? Måste jag ha alkohol med om jag ska anordna någonting?
+#### But hey, do I need alcohol if I host a party?
 
-Absolut inte. Man kan anordna alla typer av event i META (eller andra
-lokaler) och vill man göra det utan alkohol så gäller samma procedur men
-att den ansvarige inte behöver ha STAD-utbildningen.
+Nope! You can host any type of event in META (or other places). 
+The only difference being, the party is not required to have a person
+having read the [STAD course](http://www.stad.org/en/about-stad).
 
-#### Jag har hört något om festanmälan, är det något jag behöver bry mig om?
+#### I have heard something about some party application, do I need to care?
 
-Ja, generellt sätt är det bra att ha festanmälan vid arrangemang
-eftersom man då gör väktarna medvetna om att man är där och roar sig.
-Men är man fler än 20 så måste man ha en festanmälan (oavsett om man ska
-ha med alkohol eller ej). Prata med Sektionsordförande (ordf@d.kth.se)
-eller Klubbmästare (klubbm@d.kth.se) så hjälper de dig med detta (i alla
-fall om du ska boka META).
+A party application is good to have in order to notify guards about your event. 
+However, if you intend to host more than 20 people, you must make an application. This 
+applies no matter if you serve alcohol or not. Need any help? Contact [the head of the chapter](ordf@d.kth.se)
+or the [head of the bar](klubbm@d.kth.se).
 
-#### Hur får jag veta allt jag behöver om lokalen jag bokar?
+#### How can I get information about party locations?
 
-Prata med ansvarige uthyrare, t ex Lokalchefen (lokalchef@d.kth.se)
-ifall du hyr META.
+Talk to the head of the hall/location, e.g. [the head of the chapter hall](lokalchef@d.kth.se) if you're booking META.
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-### Ordningsregler
-
+### Code of Conduct
 
 <https://intra.kth.se/polopoly_fs/1.662086!/fester_kth_lokaler.pdf>
 
-THS-lokaler
+THS halls
 -----------
 
 <http://ths.kth.se/wp-content/uploads/2010/01/THS-Hyrespriser-fr.-2014-02-19.pdf>
 
-### Hur du får ekonomiskt stöd för sektionsverksamhet
+### How to get economic support for chapter activity
 
-Har du en idé till ett roligt event för sektionsmedlemmarna? Eller
-behöver du göra ett viktigt inköp? Om du inte har pengar kan du alltid
-ansöka om ekonomiskt stöd från sektionen.
+Do you have an event idea for chapter members? Or do you need to make an important purchase? You can always apply for economic support from the chapter in case you lack resources.
 
-### Vadå för pengar?
+### What money?
 
-Ordförande, d-Rektoratet och Sektionsmötet (SM) kan alla besluta om att
-skjuta till lite pengar för aktiviteter och inköp som gäller sektionen.
-Ordförande kan besluta om summor upp till 2000 kr, d-Rektoratet upp till
-10 000 kr och SM kan ta beslut gällande alla summor över detta. Dessa
-medel kommer ur den budgeterade dispositionsfonden.
+The head of the chapter, d-Rektoratet (the board) and the chapter meeting (SM) can all make decisions on funding activities and purchases related to the chapter. The head can approve total sums of 2000 kr and the board, 10 000 kr. The chapter meeting does not have a limit. Economic resources are handed out through the disposition fund.
 
-### Hur gör jag?
+### What do I need to do?
 
-Behöver du bara ett litet tillskott? Om det gäller en summa upp till
-2000 kr räcker det med att du mailar ordförande med en motivering.
+Just need a small push? If your need is less than 2000 kr, you can simply mail the chapter head with a justification.
 
-För utdelning av summor mellan 2000 och 10 000 kr behöver d-Rektoratet
-ta ett styrelsebeslut. Detta görs på d-Rektoratsmöte (DM) och kallelsen
-till dessa går ut fem dagar innan mötet. Skicka ett mail till styrelsen
-(drek@d.kth.se) där du motiverar din ansökan; därefter är du varmt
-välkommen att närvara på DM för att presentera din förfrågan och svara
-på frågor kring denna.
+For sums between 2000 and 10 000 kr, you must wait for the board to come to a decision during a board meeting. Send a mail to [the board](drek@d.kth.se) with a justification. You are welcome to join the meeting, announced five days before, to present your application and to answer questions.
 
-Beslut som gäller summor överstigande 10 000 kr behöver ett beslut på
-SM, där alla sektionens medlemmar får närvara. Skicka en motion till
-styrelsen inför det DM som brukar hållas precis innan SM där du
-motiverar dig. Tveka inte att höra av dig om du har frågor om formalia
-eller vill komma i kontakt med någon du kan bolla idéer med - detta är
-högst uppskattat. Därefter uppmanas du närvara på DM innan SM för
-diskussion kring motionen och till SM följs detta sedan upp av ett
-motionssvar författat av d-Rek. En LaTeX-mall för motioner hittar du
-under rubriken "Motion" på [denna](/sektionen/organisation) sida.
+Applications with sums above 10 000 kr need to pass on the chapter meeting. Send a motion to the board meeting preceding the chapter meeting with your justification. You can also ask for help on formalia or discuss your idea. Following the board meeting, an answer from the board regarding your motion will be announced during the chapter meeting. A LaTeX template for motions can be found, under "Motion", [here](/sektionen/organisation).
