@@ -1,56 +1,52 @@
-# Näringsliv
+# Business relations
 
-Vill ert företag komma i kontakt med Dataloger? Vi i Näringslivsgruppen
-arbetar aktivt för ett ökat samarbete mellan datastudenter och näringsliv. Vi
-hjälper er att anordna event där studenter kan komma i kontakt med er och ert
-företag, för att få en inblick i det framtida arbetslivet.
+Do you want to come in contact with computer science students?
+The Computer Science Chapter's industry group actively works for an increased 
+cooperation beetween computer science students and the industry. We will help
+you arrange events in order for students to come in contact with your company
+and to give them a glimpse of their future working life.
 
-Om ni t.ex. vill rekrytera eller göra reklam finns det många sätt att gå
-tillväga, exempelvis via en traditionell lunchföreläsning, reklam eller
-annonsering på Datasektionens jobbportal. Här nedan listar vi våra vanligaste
-kontaktvägar/event, men vi kommer gärna på nya idéer tillsammans med er.
+We offer many ways for you to contact students: lunch lectures, advertisment, 
+using the Computer Science Chapter's job board, etc. We will also gladly discuss 
+any new ideas with you. Looking for a more traditional approach? Take a look at 
+our traditional events, listed below.
 
-Hör gärna av er till oss inom näringslivsgruppen, via mail eller
-telefon, för mer information.
+Please feel free to contact us within the industry group by mail or phone
+for more information.
 
 ## Pub
 
-Ta chansen och presentera ert företag på någon av våra populära
-onsdagspubar. Hit anländer dataloger för att ta någonting äta och dricka
-efter skoldagens slut. Det är en bra möjlighet för att mingla med
-studenterna i en mer avslappnad miljö och presentera ert företag, om så
-önskas finns även möjlighet att hålla en föreläsning innan. Vi står för
-personal och hjälper er med annonseringen.
+Take the chance to present your company at one of our popular Wednesday pubs,
+where many computer science students stay to eat and drink after their lectures.
+It is be a good opportunity to mingle with students in a more relaxed enviroment
+as well as to present your company. A lecture can be held beforehand as well, if
+desired. We stand for staff and will help you with advertisement.
 
+## Lunch lecture
 
-## Lunchföreläsning
+Lunch lectures are often very appreciated by students. You will hold a
+presentation during lunch (12:15-13:00) in front of around 60 students.
+Students will receive a simple lunch before the presentation, sponsored
+by you. The contents of the lecture is completely up to you and, if 
+desired, the food too. You can, for instance, present your company, projects or
+trainee programmes.
 
-Lunchföreläsningarna brukar vara mycket uppskattade av studenterna. Ni
-håller en presentation under lunchen (kl. 12:15-13:00) för cirka 60
-studenter samtidigt som de äter en enklare lunch som ni bekostar. Vad ni
-vill prata om på föreläsningen är helt upp till er och ni kan även välja
-vilken typ av mat som serveras. På lunchföreläsningen kan ni exempelvis
-presentera företaget, projekt eller Trainee-program.
+## Poster advertisement
 
-## Affischering
-
-Vi trycker och sätter upp affischer i Datasektionens sektionslokal,
-META, som även delas med studenter på Medieteknik. Vi sätter även upp
-affischer i andra lokaler där dataloger rör sig, exempelvis utanför datorsalar och liknande.
-
+We print and place posters in the Computer Science Chapter's chapter hall,
+META, shared by computer science and media technology students. We also
+place posters in areas with high concentrations of computer science students,
+such as computer halls.
 
 ## dJobb
 
-[dJobb](http://djobb.se) är Datasektionens nylanserade jobbportal. Den är
-perfekt om ni söker kreativa, drivna och nyfikna dataloger till exjobb,
-sommarjobb eller fast anställning. Lägg upp en annons på jobbportalen där den
-garanterat når många aktivt jobbsökande dataloger.
+Are you looking for creative, skilled and inquisitive computer science students
+for thesis projects or employment? Then the Computer Science Chapter's job
+board, [dJobb](http://djobb.se), is perfect for you. By placing a post on
+dJobb, you are guaranteed to reach lots of job-seeking computer science students.
 
+## Advertisement
 
-## Reklam
-
-Vill ni ha chansen att få göra dataloger lite gladare och samtidigt göra
-reklam? Sponsra då sektionen med en rolig eller andvändbar pryl eller
-varför inte göra något helt nytt och annorlunda? Endast fantasin sätter
-gränser.
-
+Looking to make computer science students happier while advertising your company
+at the same time? Sponsor the chapter with fun, usable or completely new
+stuff to make their day. The only limit is your imagination.
