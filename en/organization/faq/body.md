@@ -63,7 +63,7 @@ Do you have an event idea for chapter members? Or do you need to make an importa
 
 ### What kind of money?
 
-The head of the chapter, d-Rektoratet (the board) and the chapter meeting (SM) can all make decisions on funding activities and purchases related to the chapter. The head can approve total sums of 2000 kr and the board, 10 000 kr. The chapter meeting does not have a limit. Economic resources are handed out through the disposition fund.
+The head of the chapter, d-Rektoratet (the board) and the chapter meeting (SM) can all make decisions on funding activities and purchases related to the chapter. The head can approve total sums of 2000 kr and the board, 10 000 kr. The chapter meeting does not have a limit. Economic resources are handed out from the disposition fund.
 
 ### What do I need to do?
 
