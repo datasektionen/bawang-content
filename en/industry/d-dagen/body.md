@@ -55,7 +55,7 @@ For more information regarding the Cerise Package and costs, please contact Linn
 
 Registration for D-Dagen is done in two steps.
 
-First, register your company for the fair itself via [this form](https://docs.google.com/forms/d/e/1FAIpQLScQngxlgluhM7efm4b-Q8v69VvOdnWhRsFAMhNJ9NMs1eLCNA/viewform).
+Firstly, register your company for the fair itself via [this form](https://docs.google.com/forms/d/e/1FAIpQLScQngxlgluhM7efm4b-Q8v69VvOdnWhRsFAMhNJ9NMs1eLCNA/viewform).
 
 Secondly, sign [this contract](http://static.datasektionen.se/d-dagen/kontrakt2017) and send it to [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se) with the title <br>**Contract D-Dagen 2017 - Company name**
 
