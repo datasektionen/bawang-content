@@ -1,71 +1,65 @@
 # D-Dagen
 
-Konglig Datasektionen anordnar årligen D-dagen, som är en
-arbetsmarknadsdag där D-studenter och företagen får chans att utveckla
-en närmare kontakt med varandra. I år äger denna heldagsmässa rum den 5e
-oktober på campus Valhallavägen. Senare på kvällen har vi en
-traditionsenlig sittning som även följs av en pub, där ni har
-möjligheten att träffa studenterna i en mer avslappnad miljö. Under
-puben finns det möjlighet att bjuda studenter på valfri dryck i baren
-med hjälp av barbongar. Under dagen blir företagsrepresentanterna bjudna
-på frukost, lunch, fika och middag.
+D-Dagen is the Computer Science Chapter's annual work fair. Hosted by 
+students, D-Dagen creates a space for computer science students and 
+companies to interact and develop relations. The work fair takes place
+at the KTH Campus on Valhallavägen. A traditional three-course student 
+dinner follows the fair, followed by a pub in order for you to mingle
+with students in a more relaxed environment. You will have the possibility
+to offer drinks to students using drink coupons. You and other company
+representatives will receive breakfast, lunch, dinner and fika.
 
-Detta är baspaketet för D-Dagen 2017.
+Below is the base package for D-Dagen 2017.
 
-## Baspaket
+## Base package
 
-*   5 kvm yta
-*   Bord, 1 st
-*   Frukost och lunch, 2 personer
-*   Sittning, 2 personer
-*   Barbongar, 10 st
-*   El och internetanslutning
+*   An area of 5 sq m
+*   One table
+*   Two breakfast and lunch coupons
+*   Two dinner tickets
+*   Ten drink coupons
+*   Electricity and Internet connection
 *   Fika
-*   2 månaders annonsering på [djobb.se](http://djobb.se)
+*   2 months of advertisement on [djobb.se](http://djobb.se), the Computer Science Chapter's job board
 
-**Pris:** 25 000 kr
+**Price:** 25 000 kr
 
 
-## Cerisa Paketet
+## The Cerise Package
 
-*   Heluppslag i katalogen
-*   Logga på katalogens framsida
-*   Kick-off med D-Dagens projektgrupp
-*   Möjlighet för kick-off med D-Dagens dagspersonal
-*   Möjlighet att hålla en presentation för D-Dagens dagspersonal
-*   10 kvm yta
-*   Bord, 1 st
-*   Frukost och lunch, 4 personer
-*   Sittning, 4 personer
-*   Barbongar, 10 st
-*   El och internetanslutning
+*   A full page in the catalogue
+*   A logo on the front page of the catalogue
+*   Kick-off with the D-Dagen project group
+*   Possibility of kick-off with the D-Dagen fair staff
+*   Possibility of holding a presentation for the D-Dagen fair staff
+*   An area of 10 sq m
+*   One table
+*   Four breakfast and lunch coupons
+*   Four dinner tickets
+*   Ten drink coupons
+*   Electricity and Internet connection
 *   Fika
-*   2 månaders annonsering på [djobb.se](http://djobb.se)
+*   2 months of advertisement on [djobb.se](http://djobb.se), the Computer Science Chapter's job board
 
-För mer information och pris kontakta D-Dagenansvarig Linn Jensen på [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)
+For more information regarding the Cerise Package and costs, please contact Linn Jensen at [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se). 
 
-## Extra tillägg
+## Additional orders
 
-*   Bord 1st, 300 kr
-*   Företagsrepresentant dag, 1 st 300kr
-*   Företagsrepresentant kväll, 1 st 500kr
-*   Barbongar, 10 st 500kr
-*   Logga på Goodiebag, 1 300 kr
+*   One table, 300 kr
+*   One company representative during the day, 300kr
+*   One company representative during the evening, 500kr
+*   Ten drink coupons, 500kr
+*   Logo on goodie bag, 300 kr
 
-## Anmälan
+## Registration
 
-Anmälan till Konglig Datasektionens arbetsmarknadsdag, D-dagen, görs i
-två steg. Det första steget består av att anmäla ert företag via
-[denna](https://docs.google.com/forms/d/e/1FAIpQLScQngxlgluhM7efm4b-Q8v69VvOdnWhRsFAMhNJ9NMs1eLCNA/viewform)
-sida.
+Registration for D-Dagen is done in two steps.
 
-Det andra och sista steget består av att skriva på
-[detta](http://static.datasektionen.se/d-dagen/kontrakt2017)
-kontrakt (inkl. beställningsformulär) och skicka till [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)
-med rubriken <br>**Kontrakt D-Dagen 2017 - Företagsnamn**
+First, register your company for the fair itself via [this form](https://docs.google.com/forms/d/e/1FAIpQLScQngxlgluhM7efm4b-Q8v69VvOdnWhRsFAMhNJ9NMs1eLCNA/viewform).
 
-Observera att om vi inte får detta kontrakt inom tre veckor efter det
-att ni har anmält er på internet så kommer vi att plocka bort er
-anmälan!
+Secondly, sign [this contract](http://static.datasektionen.se/d-dagen/kontrakt2017) and send it to [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se) with the title <br>**Contract D-Dagen 2017 - Company name**
 
-Vi syns i höst!
+Please observe, your registration will be removed if we have not received 
+the contract within three weeks of your registration.
+
+See you this autumn!
