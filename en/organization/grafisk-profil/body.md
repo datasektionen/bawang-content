@@ -1,6 +1,8 @@
 # Graphical profile
 
-The chapter is developing a graphical profile in order to standardise **typography, colours and use of the chapter logo**. The profile has been used during the development of the chapter's new webpage and will make everyone happy, should it be used in other contexts too.
+The chapter is developing a graphical profile in order to standardise **typography, colours and use of the chapter logo**. The profile has been used during the development of the chapter's new webpage and use of the profile in other contexts is highly encouraged.
+
+will make everyone happy, should it be used in other contexts too.
 
 * The chapter uses the Lato font
 * The primary colour is **cerise**, with shades _strong_ (#EE2A7B), _regular_ (#E83D84) and _light_ (#EC5F99)
