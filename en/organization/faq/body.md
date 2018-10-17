@@ -29,16 +29,16 @@ If you are unsure, contact the board.
 Sure. THS has halls specifically for parties. While nice, these tend to
 cost more than the Computer Science chapter's halls.
 
-#### But hey, do I need alcohol if I host a party?
+#### Do I need alcohol if I host a party?
 
 Nope! You can host any type of event in META (or other places). 
 The only difference being, the party is not required to have a person
 having read the [STAD course](http://www.stad.org/en/about-stad).
 
-#### I have heard something about some party application, do I need to care?
+#### What is a party application?
 
 A party application is good to have in order to notify guards about your event. 
-However, if you intend to host more than 20 people, you must make an application. This 
+If you intend to host more than 20 people, you must make an application. This 
 applies no matter if you serve alcohol or not. Need any help? Contact [the head of the chapter](ordf@d.kth.se)
 or the [head of the bar](klubbm@d.kth.se).
 
@@ -71,4 +71,4 @@ Just need a small push? If you need less than 2000 kr, you can simply mail the c
 
 For sums between 2000 and 10 000 kr, you must wait for the board to come to a decision during a board meeting. Send a mail to [the board](drek@d.kth.se) with a justification. You are welcome to join the meeting, announced five days before, to present your application and to answer questions.
 
-Applications with sums above 10 000 kr need to pass on the chapter meeting. Send a motion to the board meeting preceding the chapter meeting with your justification. You can also ask for help on formalia or discuss your idea. Following the board meeting, an answer from the board regarding your motion will be announced during the chapter meeting. A LaTeX template for motions can be found, under "Motion", [here](/sektionen/organisation).
+Applications with sums above 10 000 kr need to pass on the chapter meeting. Send a motion to the board meeting preceding the chapter meeting with your justification. You can also ask for help on formalia or discuss your idea. You are requested to join the meeting in order to discuss about your motion. Following the board meeting, an answer from the board regarding your motion will be announced during the chapter meeting. A LaTeX template for motions can be found, under "Motion", [here](/sektionen/organisation).
