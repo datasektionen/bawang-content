@@ -3,11 +3,6 @@
 
 ## Näringslivskontakt
 
-**D-Dagen ansvarig**<br />
-Nils Streijffert<br />
-E-post: [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)<br />
-070-144 08 57
-
 Näringslivsgruppen har hand om sektionens kontakter med företag. Oavsett
 anledning är du alltid välkommen att kontakta oss:
 
@@ -19,6 +14,11 @@ E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 Emma Schüldt<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
 076-118 84 26
+
+**D-Dagen ansvarig**<br />
+Nils Streijffert<br />
+E-post: [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)<br />
+070-144 08 57
 
 
 
