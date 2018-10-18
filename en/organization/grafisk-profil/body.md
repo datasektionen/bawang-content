@@ -1,18 +1,12 @@
-# Grafisk profil
+# Graphical profile
 
-Sektionen har en grafisk profil under utveckling, med avgränsningar i **typografi, färgskala
-och användning av sektionsskölden** som inte tidigare tillämpats. Profilen har använts under
-utvecklingen av sektionens nya hemsida och alla blir väldigt glada om den även används i
-andra sammanhang.
+The chapter is developing a graphical profile in order to standardise **typography, colours and use of the chapter logo**. The profile has been used during the development of the chapter's new webpage and use of the profile in other contexts is highly encouraged.
 
-Det som finns specat är att:
+* The chapter uses the Lato font
+* The primary colour is **cerise**, with shades _strong_ (#EE2A7B), _regular_ (#E83D84) and _light_ (#EC5F99)
+* Accent colours are off-black (#212121), yellow (#FCDA04) and off-white (#F7F7F7)
+* The black delta logo shall be used on light backgrounds and the white delta logo, on dark backgrounds
 
-* sektionen använder fonten Lato
-* primärfärgen är **cerise**, med avgränsning till nyanserna _strong_ (#EE2A7B), _regular_
-(#E83D84) och _light_ (#EC5F99)
-* accentfärgerna är off-black (#212121), gul (#FCDA04) och off-white (#F7F7F7)
-* skölden med det svarta deltat används då bakgrunden är ljus och det vita deltat används då bakgrunden är mörk.
+There are [guidelines](https://raw.githubusercontent.com/datasektionen/UI/master/Ref_Sheet/ref_sheet.png) for graphical interfaces. Graphical resources are hosted on the chapter's [GitHub repo](https://github.com/datasektionen/UI/).
 
-För grafiska gränssnitt finns ett antal [riktlinjer](https://raw.githubusercontent.com/datasektionen/UI/master/Ref_Sheet/ref_sheet.png) att följa. En hel del resurser relaterade till grafik finns i Datasektionens [UI-repo på GitHub](https://github.com/datasektionen/UI/).
-
-Observera dock att den grafiska profilen är under utveckling, så håll koll här för uppdateringar.
+Please observe, the graphical profile is under development and updates will be posted here.
