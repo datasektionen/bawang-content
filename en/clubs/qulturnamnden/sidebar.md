@@ -1,5 +1,9 @@
-Qulturattaché: Wilhelm Åkermark
+## Contact info
 
-Mail: [qulturattache@d.kth.se](mailto:qulturattache@d.kth.se)
+Do you like tabletop games and/or other forms of Qulture? Contact us!
 
-Telefon/Phone: 073-5325441
+#### Qulturattaché
+
+Christian Weigelt
+
+[qulturattache@d.kth.se](mailto:qulturattache@d.kth.se)
