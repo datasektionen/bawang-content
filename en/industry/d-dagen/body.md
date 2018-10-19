@@ -2,14 +2,15 @@
 
 D-Dagen is the Computer Science Chapter's annual work fair. Hosted by 
 students, D-Dagen creates a space for computer science students and 
-companies to interact and develop relations. The work fair takes place
-at the KTH Campus on Valhallavägen. A traditional three-course student 
-dinner follows the fair, followed by a pub in order for you to mingle
-with students in a more relaxed environment. You will have the possibility
-to offer drinks to students using drink coupons. You and other company
-representatives will receive breakfast, lunch, dinner and fika.
+companies to interact and develop relations. This year, the work fair takes place
+on the 11th October at the KTH campus on Valhallavägen. A traditional 
+three-course student dinner follows the fair, followed by a pub in order 
+for you to mingle with students in a more relaxed environment. You will 
+have the possibility to offer drinks to students using drink coupons. 
+Company representatives will receive breakfast, lunch, 
+dinner and fika during the day.
 
-Below is the base package for D-Dagen 2017.
+Below is the base package for D-Dagen 2018.
 
 ## Base package
 
@@ -20,7 +21,6 @@ Below is the base package for D-Dagen 2017.
 *   Ten drink coupons
 *   Electricity and Internet connection
 *   Fika
-*   2 months of advertisement on [djobb.se](http://djobb.se), the Computer Science Chapter's job board
 
 **Price:** 25 000 kr
 
@@ -39,25 +39,24 @@ Below is the base package for D-Dagen 2017.
 *   Ten drink coupons
 *   Electricity and Internet connection
 *   Fika
-*   2 months of advertisement on [djobb.se](http://djobb.se), the Computer Science Chapter's job board
 
-For more information regarding the Cerise Package and costs, please contact Linn Jensen at [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se). 
+For more information regarding the Cerise Package and costs, please contact Nils Streijffert at [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se). 
 
 ## Additional orders
 
-*   One table, 300 kr
-*   One company representative during the day, 300kr
-*   One company representative during the evening, 500kr
-*   Ten drink coupons, 500kr
-*   Logo on goodie bag, 300 kr
+*   One table, 500 kr
+*   One company representative during the day, 300 kr
+*   One company representative during the evening, 500 kr
+*   Ten drink coupons, 500 kr
+*   A logo on the goodie bag, 1300 kr
 
-## Registration
+## Registration for D-Dagen 2019
 
-Registration for D-Dagen is done in two steps.
+Registration for the Computer Science Chapter's work fair, D-Dagen, is done in two steps.
 
-Firstly, register your company for the fair itself via [this form](https://docs.google.com/forms/d/e/1FAIpQLScQngxlgluhM7efm4b-Q8v69VvOdnWhRsFAMhNJ9NMs1eLCNA/viewform).
+Firstly, register your company for the fair via [this form](https://goo.gl/forms/ipiFZiKdOpg7GrN23).
 
-Secondly, sign [this contract](http://static.datasektionen.se/d-dagen/kontrakt2017) and send it to [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se) with the title <br>**Contract D-Dagen 2017 - Company name**
+Secondly and lastly, sign [this contract]() (as well as the order form),  and send it to [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se) with the title <br>**Contract D-Dagen 2019 - Company name**.
 
 Please observe, your registration will be removed if we have not received 
 the contract within three weeks of your registration.
