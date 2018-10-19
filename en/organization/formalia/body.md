@@ -1,58 +1,62 @@
-Formalia
+Formalities
 --------
 
+A collection of formal documents of the Computer Science Chapter.
 En samling av Datasektionens formella dokument.
 
-### [Protokoll](/organisation/protokoll)
+### [Protocols](/organisation/protokoll)
 
-Protokoll från Sektionsmöten och D-rektoratsmöten
+Protocols from Chapter and Board Meetings
 
-### [Grafisk profil](/organisation/grafisk-profil)
+### [Graphical profile](/organisation/grafisk-profil)
 
-Hur får man använda Datasektionens logotyp och var finns de i
-tryckvänliga filformat?
+How can you actually use the logo of the Computer Science Chapter and 
+where can you find it in print-friendly formats?
 
-### [Stadgar](https://styrdokument.datasektionen.se/stadgar)
+### [Bylaws](https://styrdokument.datasektionen.se/stadgar)
 
-Datasektionens stadgar, alltid i senast reviderade upplagan.
+The bylaws of the Computer Science Chapter, the latest revisions are 
+always available (in Swedish only, however).
 
-### [Reglemente](https://styrdokument.datasektionen.se/reglemente)
+### [Regulations](https://styrdokument.datasektionen.se/reglemente)
 
-Reglementet reglerar sektionsverksamheten utöver stadgarna.
+The Regulations regulate Chapter activities wherever the bylaws don't apply.
 
-### [Jämlikhetspolicy](https://styrdokument.datasektionen.se/jamlikhetspolicy)
+### [Equality Policy](https://styrdokument.datasektionen.se/jamlikhetspolicy)
 
-Den aktuella Jämlikhetspolicyn för Sektionen.
+The current equality policy of the Chapter.
 
-### [Rekryteringspolicy](https://styrdokument.datasektionen.se/rekryteringspolicy)
+### [Recruitment policy](https://styrdokument.datasektionen.se/rekryteringspolicy)
+
+Our recruitment policy explains and regulates our election and recruitment processes.
 
 Rekryteringspolicyn definierar och reglerar val, inval och rekrytering
 på sektionen.
 
-### [Hedersmedlem](/sektionen/hedersmedlem)
+### [Honorary Member](/sektionen/hedersmedlem)
 
-Lista över de som utnämnts till hedersmedlem på Datasektionen.
+A list of all persons whom have been appointed as honorary members of the Computer Science Chapter.
 
-### [Verksamhetsplan](/organisation/verksamhetsplan)
+### [Operational plan](/organisation/verksamhetsplan)
 
-Den aktuella verksamhetsplanen.
+The current operational plan of the Chapter.
 
-### [Alkoholpolicy](https://styrdokument.datasektionen.se/alkoholpolicy)
+### [Alcohol and drug policy](https://styrdokument.datasektionen.se/alkoholpolicy)
 
-Den aktuella Alkoholpolicyn för Sektionen.
+The current alcohol and drug policy of the Chapter.
 
 ### [DFunk-policy](https://styrdokument.datasektionen.se/dfunkpolicy)
 
-Den aktuella dfunk-policyn för Sektionen.
+The current dFunk-policy of the Chapter.
 
-### [Ekonomiskt Styrdokument](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument)
+### [Economical regulatory documents](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument)
 
-Det aktuella Ekonomiska Styrdokumentet för Sektionen.
+The current economical regulatory documents of the Chapter.
 
 ### [Budget](/organisation/budget)
 
-Sektionens aktuella budget.
+The current budget of the Chapter.
 
-### [Årsrapporter](/organisation/arsrapporter)
+### [Annual reports](/organisation/arsrapporter)
 
-Verksamhetsberättelse och bokföring för de år som har det.
+Operational plans and book keeping of past years (where there are).
