@@ -31,7 +31,7 @@ The industry group handles the Chapter's professional contacts, organizes job fa
 ###[Prylmångleriet - pathces and merch](/namnder/prylmangleriet)
 _Prylis_ sells the stuff CS students want to buy 
 
-###[Qulturnämnden - qulture group](/namnder/qulturnamnden)
+###[Qulturnämnden - Qulture Committee](/namnder/qulturnamnden)
 Film nights, eating candy, and other forms of _qulture_.
 
 ###[Idrottsnämnden - Sport group](/namnder/idrottsnamnden)
@@ -43,7 +43,7 @@ Keeping an eye on the studies, the courses and the factulty.
 ###[DEMON – Music group](/namnder/datasektionens-musiknamnd)
 DEMON are the music enthusiasts of the CS chapter. Meet to jam together!
 
-###DESC – Computer science E-sport community
+###DESC – Computer Science E-sports community
 DESC organizes gaming nights and other events for gaming enthusiasts in the chapter.
 
 ## Projekt på Datasektionen
