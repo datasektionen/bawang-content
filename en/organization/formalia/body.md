@@ -1,7 +1,7 @@
 Formalities
 --------
 
-A collection of formal documents of the Computer Science Chapter.
+A collection of the Computer Science Chapter's formal documents.
 
 ### [Protocols](/organisation/protokoll)
 
