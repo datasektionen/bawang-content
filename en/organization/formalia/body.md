@@ -6,7 +6,7 @@ En samling av Datasektionens formella dokument.
 
 ### [Protocols](/organisation/protokoll)
 
-Protocols from Chapter and Board Meetings
+Protocols from Chapter and Board Meetings (Swedish only)
 
 ### [Graphical profile](/organisation/grafisk-profil)
 
