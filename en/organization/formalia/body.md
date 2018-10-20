@@ -27,7 +27,7 @@ The current equality policy of the Chapter.
 
 ### [Recruitment policy](https://styrdokument.datasektionen.se/rekryteringspolicy)
 
-Our recruitment policy explains and regulates our election and recruitment processes.
+Our recruitment policy explains and regulates our processes for recruitment to committees. (Swedish only)
 
 Rekryteringspolicyn definierar och reglerar val, inval och rekrytering
 på sektionen.
