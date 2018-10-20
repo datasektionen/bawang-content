@@ -9,14 +9,14 @@ dbuggen is the Chapter's own paper. It's released whenever any possible editors 
 ###[METAdorerna](/namnder/metadorerna)
 Our common Chapter Hall is named META and can be found at Osquars Backe 21. we are the ones taking care of the place.
 
-###[IOR – Eeore - Information group - Hacker club](/namnder/informationsorganet)
+###[IOR – Eeore - Information committee - Hacker club](/namnder/informationsorganet)
 We make sure the chapter's infromation distribution systems work properly, which results in lots of hacking.
 
 
 ###[Tag Monkeys](/namnder/tag-monkeys)
 Graphic design <3
 
-###[Equality council](/namnder/jamlikhetsnamnden)
+###[Equality Committee](/namnder/jamlikhetsnamnden)
 We want everyone to feel safe and welcome.
 
 ###[KÖN – Women̈́s club](/namnder/konglig-ostrogennamnden)
@@ -34,10 +34,10 @@ _Prylis_ sells the stuff CS students want to buy
 ###[Qulturnämnden - Qulture Committee](/namnder/qulturnamnden)
 Film nights, eating candy, and other forms of _qulture_.
 
-###[Idrottsnämnden - Sport group](/namnder/idrottsnamnden)
+###[Idrottsnämnden - Sport Committee](/namnder/idrottsnamnden)
 We do whatever we want. 
 
-###[Studienämnden - Study council](/namnder/studienamnden)
+###[Studienämnden - Study committee](/namnder/studienamnden)
 Keeping an eye on the studies, the courses and the factulty.
 
 ###[DEMON – Music group](/namnder/datasektionens-musiknamnd)
@@ -64,7 +64,7 @@ Sångboksgruppen
 To start a project, there has to be an interest on the part of the chapter since we'll be using the chapter's money. 
 So you have to get a motion passed at an SM.
 
-## Earlier groups and projects 
+## Earlier groups/committees and projects 
 
 Spexmästeriet: Was responsible for creating new _spex_. Closed Budget-SM 2013.
 
