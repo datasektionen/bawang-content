@@ -15,7 +15,7 @@ where can you find it in print-friendly formats?
 ### [Bylaws](https://styrdokument.datasektionen.se/stadgar)
 
 The bylaws of the Computer Science Chapter, the latest revisions are 
-always available (in Swedish only, however).
+always available (in Swedish only).
 
 ### [Regulations](https://styrdokument.datasektionen.se/reglemente)
 
