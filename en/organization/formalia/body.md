@@ -9,8 +9,7 @@ Protocols from Chapter and Board Meetings (Swedish only)
 
 ### [Graphical profile](/organisation/grafisk-profil)
 
-How can you actually use the logo of the Computer Science Chapter and 
-where can you find it in print-friendly formats?
+How the chapter logo may be used and where can it be found in good formats.
 
 ### [Bylaws](https://styrdokument.datasektionen.se/stadgar)
 
@@ -28,9 +27,6 @@ The current equality policy of the Chapter.
 ### [Recruitment policy](https://styrdokument.datasektionen.se/rekryteringspolicy)
 
 Our recruitment policy explains and regulates our processes for recruitment to committees. (Swedish only)
-
-Rekryteringspolicyn definierar och reglerar val, inval och rekrytering
-på sektionen.
 
 ### [Honorary Member](/sektionen/hedersmedlem)
 
