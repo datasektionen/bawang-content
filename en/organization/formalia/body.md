@@ -2,7 +2,6 @@ Formalities
 --------
 
 A collection of formal documents of the Computer Science Chapter.
-En samling av Datasektionens formella dokument.
 
 ### [Protocols](/organisation/protokoll)
 
