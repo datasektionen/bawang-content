@@ -58,4 +58,4 @@ The current budget of the Chapter.
 
 ### [Annual reports](/organisation/arsrapporter)
 
-Operational plans and book keeping of past years (where there are).
+Annual reports and final accounts for past operational years.
