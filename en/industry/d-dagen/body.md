@@ -25,7 +25,7 @@ Below is the base package for D-Dagen 2018.
 **Price:** 25 000 kr
 
 
-## The Cerise Package
+## Main Sponsor
 
 *   A full page in the catalogue
 *   A logo on the front page of the catalogue
