@@ -40,7 +40,7 @@ Below is the base package for D-Dagen 2018.
 *   Electricity and Internet connection
 *   Fika
 
-For more information regarding the Cerise Package and costs, please contact Nils Streijffert at [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se). 
+For more information regarding the Main Sponsor Package and costs, please contact Nils Streijffert at [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se). 
 
 ## Additional orders
 
