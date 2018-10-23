@@ -7,7 +7,8 @@ Som bevis på medlemskap i någon av Datasektionens fem ordnar bärs respektive 
 Medlemskap i Klubbmästare Emeritus-orden tilldelas de klubbmästare på Datasektionen som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
-
+    
+    Pontus Broberg, Tricesimus Tertius, 2017/2018
     Aron Strandberg, Untricesimus 2016/2017
     Adam Denlert, Untricesimus 2015/2016
     Robin Hellgren, Tricesimus 2014/2015
@@ -49,6 +50,7 @@ Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig s
 
 Valspråk: Ensam är stark. Tillsammans är vi bara många.
 
+    Shapour Jahanshahi, Untricesimus 2017
     Hanna Nyblom, Tricesima 2016
     Shayan Effati, Tricesimus 2015
     Ida Vainionpää, Duodetricesima 2014
@@ -89,6 +91,7 @@ Medlemskap i Storasyskon Emeritus-orden tilldelas de Storasyskon som förtjänst
 
 Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
 
+    Jonas Dahl, Untricesimus 2017
     Agnes Åman, Untricesima 2016
     Björn Englesson, Tricesimus 2015
     Anna Olsson, Undetricesima 2014
@@ -123,6 +126,8 @@ Medlemskap i Kassör Emeritus-orden tilldelas de Kassörer på Datasektionen som
 
 Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
 
+    Andreas Holmgren, Tricesimus Quartus 2017
+    Alexander Viklund, Duotricesimus 2016
     Ludvig Hagberg, Undetricesimus 2015
     Filip Shulze, Tricesimus 2014
     Frida Jansson, Vicesimus Septa 2013
@@ -137,6 +142,7 @@ Ordenstecknet för Ordförande Emeritus består av en störtad femuddig stjärna
 
 Valspråk: Det är faktiskt vi som bestämmer.
 
+    Alexander Viklund, Duotricesimus 2017
     Henrik Johansson, Untricesimus 2016
     Lovisa Runhem, Tricesima 2015
     Jacob Sievers, Undetricesimus 2014
