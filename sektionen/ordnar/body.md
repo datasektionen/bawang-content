@@ -126,7 +126,7 @@ Medlemskap i Kassör Emeritus-orden tilldelas de Kassörer på Datasektionen som
 
 Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
 
-    Andreas Holmgren, Tricesimus Quartus 2017
+    Andreas Magnedal Holmgren, Tricesimus Quartus 2017
     Alexander Viklund, Duotricesimus 2016
     Ludvig Hagberg, Undetricesimus 2015
     Filip Shulze, Tricesimus 2014
