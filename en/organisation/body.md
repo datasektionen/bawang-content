@@ -1,7 +1,7 @@
 # Organisation
 
 The Data Chapter is a nonprofit organisation that works for our
-members interest. We have by-laws and a board of directors – and a lot of documents. At first hand we follow the Swedish laws as a non-profit organisation. We also follow to the KTH Student Union bylaws,
+members interest. We have by-laws and a board of directors – and a lot of documents. At first hand we follow the Swedish laws as a nonprofit organisation. We also follow to the KTH Student Union bylaws,
 rules and white paper.
 
 The Data Chapter also have their own white paper. To regulate our own activities we got our **[by-laws](https://styrdokument.datasektionen.se/stadgar)** and our volunteers
