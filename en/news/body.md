@@ -1,2 +1,2 @@
-Nyheter/Event
-=============
+News/Events
+===========
