@@ -1,19 +1,21 @@
-## Kontakt
+## Contact
 
-METAdorerna: metadorerna@d.kth.se
+#### METAdorerna
+[metadorerna@d.kth.se](mailto:metadorerna@d.kth.se)
+#### Konglig Lokalchef (D)
+Kitty Thai     
+[lokalchef@d.kth.se](mailto:lokalchef@d.kth.se)
 
-Konglig Lokalchef (D):
-Erik Dackebro, lokalchef@d.kth.se
+#### Sektionslokalsansvarig (Media)
+Matilda Richardson  
+[sektionslokal@media.kth.se](mailto:sektionslokal@media.kth.se)
 
-Sektionslokalsansvarig (Media):
-Caroline 'Carpy' Yu, sektionslokal@media.kth.se
+* [Chapter-house booking](https://datasektionen.se/sektionen/lokalbokning)
 
-* [Lokalbokning / Chapter-house booking](https://datasektionen.se/sektionen/lokalbokning)
+* [Purchase proposals for META](https://goo.gl/forms/xc7Ndq0wogKmR0rd2)
 
-* [Inköpsförslag till META](https://goo.gl/forms/xc7Ndq0wogKmR0rd2)
+* [Existing purchase proposals](https://docs.google.com/spreadsheets/d/1uJ8N7e_wQN9sqz1k2pKb1dXqNZbtgllChEv-B0EBm9M)
 
-* [Existerande inköpsförslag](https://docs.google.com/spreadsheets/d/1uJ8N7e_wQN9sqz1k2pKb1dXqNZbtgllChEv-B0EBm9M)
+* [Error reports and improvement proposals for META](https://goo.gl/forms/ndd7AOIy99NzDpe33)
 
-* [Felanmälning av/Förbättringsförslag till META](https://goo.gl/forms/ndd7AOIy99NzDpe33)
-
-* [Existerande felanmälningar/förbättringsförslag](https://docs.google.com/spreadsheets/d/15N6Yd58SfEJtvzMhjRGfj47bYbrmjl8cX5hkvFeZ9EA)
+* [Existing error reports and improvement proposals](https://docs.google.com/spreadsheets/d/15N6Yd58SfEJtvzMhjRGfj47bYbrmjl8cX5hkvFeZ9EA)
