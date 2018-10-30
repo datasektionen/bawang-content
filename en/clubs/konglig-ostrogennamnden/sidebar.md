@@ -1,8 +1,8 @@
 ## Kontakt
 
-Maila oss gärna om du tycker att Konglig Östrogennämnden låter som något för dig, eller om du har förslag till oss!
+Maila oss gärna om du tycker att GEEK låter som något för dig, eller om du har förslag till oss!
 
-Öfvermatrona, Denise Nordlöf: ofvermatrona@d.kth.se
+Öfvermatrona, Victoria Hedenmalm: ofvermatrona@d.kth.se
 
 [Facebook](https://www.facebook.com/kongligostrogennamnden)
 
