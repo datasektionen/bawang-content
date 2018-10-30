@@ -28,7 +28,7 @@ DESC - Datas E-Sports Community - anordnar spelkvällar för E-sportsentusiaster
 
 ## Tjejer på data
 
-Trots Datasektionens så få men ack så underbara tjejer finns ett ljus i tunneln: [Konglig Östrogennämnden](/namnder/konglig-ostrogennamnden) är nämnden som hjälper tjejer på data att nätverka med varandra. De anordnar företagsevent och tjejgasquen.
+Trots Datasektionens så få men ack så underbara tjejer finns ett ljus i tunneln: [GEEK](/namnder/geek) är nämnden som hjälper tjejer på data att nätverka med varandra. De anordnar företagsevent och tjejgasquen.
 
 ## Sektionslokal
 

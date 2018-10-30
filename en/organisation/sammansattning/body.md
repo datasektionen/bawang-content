@@ -43,7 +43,7 @@ __Kontaktnämnder__
 
 * dÅre
 
-* Konglig Östrogennämnden
+* GEEK
 
 ## Kassör
 

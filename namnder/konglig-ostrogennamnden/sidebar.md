@@ -1,6 +1,6 @@
 ## Kontakt
 
-Maila oss gärna om du tycker att Konglig Östrogennämnden låter som något för dig, eller om du har förslag till oss!
+Maila oss gärna om du tycker att GEEK låter som något för dig, eller om du har förslag till oss!
 
 Öfvermatrona, Victoria Hedenmalm: ofvermatrona@d.kth.se
 

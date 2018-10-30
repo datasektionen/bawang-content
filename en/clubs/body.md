@@ -19,7 +19,7 @@ Graphic design <3
 ###[Equality Committee](/namnder/jamlikhetsnamnden)
 We want everyone to feel safe and welcome.
 
-###[KÖN – Women̈́s club](/namnder/konglig-ostrogennamnden)
+###[GEEK - Girls: Empowered, Encouraged, Knowledgable](/en/clubs/geek)
 Group for helping girls at the CS chapter network with each other.
 
 ###[The reception](/namnder/mottagningen)
@@ -29,13 +29,13 @@ Here is all the info about the reception, the scedule, etc.
 The industry group handles the Chapter's professional contacts, organizes job fairs, lunch lectures, study visits, and other kids of sponsoring.
 
 ###[Prylmångleriet - pathces and merch](/namnder/prylmangleriet)
-_Prylis_ sells the stuff CS students want to buy 
+_Prylis_ sells the stuff CS students want to buy
 
 ###[Qulturnämnden - Qulture Committee](/namnder/qulturnamnden)
 Film nights, eating candy, and other forms of _qulture_.
 
 ###[Idrottsnämnden - Sport Committee](/namnder/idrottsnamnden)
-We do whatever we want. 
+We do whatever we want.
 
 ###[Studienämnden - Study committee](/namnder/studienamnden)
 Keeping an eye on the studies, the courses and the factulty.
@@ -61,10 +61,10 @@ Sångboksgruppen
 [Bröllopet](https://www.facebook.com/brollopet2017)
 
 ## How to start a project
-To start a project, there has to be an interest on the part of the chapter since we'll be using the chapter's money. 
+To start a project, there has to be an interest on the part of the chapter since we'll be using the chapter's money.
 So you have to get a motion passed at an SM.
 
-## Earlier groups/committees and projects 
+## Earlier groups/committees and projects
 
 Spexmästeriet: Was responsible for creating new _spex_. Closed Budget-SM 2013.
 
