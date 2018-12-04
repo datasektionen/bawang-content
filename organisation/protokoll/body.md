@@ -5,6 +5,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ## Sektionsmöten, SM
 ###2018
+
 11/5 [Val-SM](https://static.datasektionen.se/protokoll/val_sm_2018)
 
 27/3 [Revisions-SM](http://static.datasektionen.se/protokoll/revisions_sm_2018)
