@@ -5,6 +5,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ## Sektionsmöten, SM
 ###2018
+11/5 [Val-SM](https://static.datasektionen.se/protokoll/val_sm_2018)
+
 27/3 [Revisions-SM](http://static.datasektionen.se/protokoll/revisions_sm_2018)
 
 22/1 [Extra-SM](http://static.datasektionen.se/protokoll/protokoll_extra_sm_2018)
@@ -312,6 +314,11 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 ## D-rektoratsmöten, DM
 
 ###2018
+
+9/5 [Ett Transitivt-DM](https://static.datasektionen.se/protokoll/ett_transitivt_dm_2018)
+
+16/4 [Ett Hexadecimalt-DM](https://static.datasektionen.se/protokoll/ett_hexadecimalt_dm_2018)
+
 15/3 [Ett Reviderat-DM](http://static.datasektionen.se/protokoll/ett_reviderat_dm_2018)
 
 13/2 [Ett Olyckligt-DM](http://static.datasektionen.se/protokoll/ett_olyckligt_dm_2018)
