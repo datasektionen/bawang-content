@@ -6,6 +6,10 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 ## Sektionsmöten, SM
 ###2018
 
+29/11 [Glögg-SM](https://static.datasektionen.se/protokoll/glogg_sm_2018)
+
+29/10 [Budget-SM](https://static.datasektionen.se/protokoll/budget_sm_2018)
+
 11/5 [Val-SM](https://static.datasektionen.se/protokoll/val_sm_2018)
 
 27/3 [Revisions-SM](http://static.datasektionen.se/protokoll/revisions_sm_2018)
