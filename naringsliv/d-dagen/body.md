@@ -1,4 +1,6 @@
 # D-Dagen
+<!---
+
 
 Konglig Datasektionen anordnar årligen D-dagen, som är en
 arbetsmarknadsdag där D-studenter och företagen får chans att utveckla
@@ -64,5 +66,5 @@ med rubriken <br>**Kontrakt D-Dagen 2019 - Företagsnamn**
 Observera att om vi inte får detta kontrakt inom tre veckor efter det
 att ni har anmält er på internet så kommer vi att plocka bort er
 anmälan!
-
+-->
 Vi ses i höst!
