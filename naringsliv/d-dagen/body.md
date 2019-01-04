@@ -1,4 +1,7 @@
 # D-Dagen
+
+## Det kommer släppas information under början på våren, om du vill anmäla intresse för att få informationen på mejl fyll i  [detta formulär](https://goo.gl/forms/ipiFZiKdOpg7GrN23)"
+
 <!---
 
 
