@@ -14,10 +14,14 @@ Emma Schüldt<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
 076-118 84 26
 
-**Arbetsmarknadsdagsansvarig**<br />
-Nils Streijffert<br />
+**Arbetsmarknadsdagsansvariga**<br />
+Victor Sellstedt <br />
+070-865 02 09 
+Simone de Blasio <br />
+072-932 06 89
 E-post: [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)<br />
-070-144 08 57
+
+072-932 06 89
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
 
@@ -40,9 +44,9 @@ D-rektoratet, på adressen [drek@d.kth.se](mailto:drek@d.kth.se). Du kan
 även kontakta Datasektionens Ordförande direkt:
 
 **Ordförande**<br />
-Victor Sellstedt<br />
+Ävelin Pantigoso<br />
 E-post: [ordf@d.kth.se](mailto:ordf@d.kth.se)<br />
-070-865 02 09
+076-125 74 00 
 
 ## Sektionsinformation
 
