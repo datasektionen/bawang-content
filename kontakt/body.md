@@ -15,13 +15,11 @@ E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
 076-118 84 26
 
 **Arbetsmarknadsdagsansvariga**<br />
-Victor Sellstedt <br />
-070-865 02 09 <br />
-Simone de Blasio <br />
-072-932 06 89 <br />
+Victor Sellstedt & Simone de Blasio  <br />
 E-post: [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)<br />
+070-865 02 09 <br />
+072-932 06 89 
 
-072-932 06 89
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
 
