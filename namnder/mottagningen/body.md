@@ -3,15 +3,7 @@
 
 Via kvällspressen kommer schlemma rapporter om studentskivor och annat whüdrought beteende. Säkra tecken på att nØllan är på marsch. Snart kommer Teknis hotas av nØllans alla härjningar.
 
-Sektionen samlas sig till försvar. Piskbeprydda Västar, Vita Snuttefiltar, Allseende Kameror, Mattäckta Förkläden samt Glittrande Guldpengar plockas fram.
-
-## Schema	
-
-Under Mottagningen gäller följande schema. Ett tips är att lägga till schemat i din egen kalender, via den <a href="https://calendar.google.com/calendar/ical/cuuu32ru6hih8cjtdt5i3gfhhg%40group.calendar.google.com/public/basic.ics" target="_blank">här iCal-länken</a> som fungerar med de flesta kalenderapplikationer. Om du använder Google Calendar kan du trycka på länken nere i kalenderns högra hörn.	
-	
-Länk för prenumeration: https://calendar.google.com/calendar/ical/cuuu32ru6hih8cjtdt5i3gfhhg%40group.calendar.google.com/public/basic.ics	
-	
-<iframe src="https://calendar.google.com/calendar/embed?src=cuuu32ru6hih8cjtdt5i3gfhhg%40group.calendar.google.com&ctz=Europe%2FStockholm" style="border-width:0" width="600" height="600" frameborder="0" scrolling="no"></iframe>	
+Sektionen samlas sig till försvar. Piskbeprydda Västar, Vita Snuttefiltar, Allseende Kameror, Mattäckta Förkläden samt Glittrande Guldpengar plockas fram.	
 
 ## Mottagningens grenar
 
