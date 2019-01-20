@@ -57,7 +57,7 @@ Du kommer att tillbringa mycket tid med dina Daddan den första tiden, så utnyt
 “På ytan mjuk, innerst inne kramgo!”
 
 ###Det Kongliga Doqumenteriet
-<img alt="Doqumenteriet-logga" src="https://static.datasektionen.se/mottagningen/doqumenteriet.svg" style="float: right; width: 35%" />
+<img alt="Doqumenteriet-logga" src="https://static.datasektionen.se/mottagningen/doqumenteriet.png" style="float: right; width: 35%" />
 
 *Det Kongliga Doqumenteriet följer nØllan vart den än tar vägen. Överallt finns en chans att föreviga det där speciella ögonblicket.*
 
