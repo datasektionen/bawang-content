@@ -34,86 +34,155 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ## Medlemmar
 
-<img align="right" src="http://dkm.io/images/felix.jpg">
-### Felix Andersson
-#### Klubbmästare
-**Favoritdrink:** Monster  
-**Gillar:** Att undersöka hur mycket man faktiskt måste vara i skolan  
-**Ogillar:** Struktur  
-**Specialitet:** Har glasögon med halveringstid på ett år.  
+<img align="right" src="http://dkm.io/images/felix2.jpg">
+### Felix Andersson  
+#### Klubbmästare  
+**Favoritdrink:** Frank's, Monster  
+**Gillar:** Biodlingar   
+**Ogillar:** Kullersten  
+**Specialitet:** Elektriska färdmedel   
 **Citat:**
-_Varför är Christinas vatten bakochfram?_  
+_Jag tog en sniff av Bailey på getsupet_  
 
-<img align="right" src="http://dkm.io/images/wille.jpg">
+<img align="right" src="http://dkm.io/images/william2.jpg">
 ### William Agnér  
 #### Vice Klubbmästare  
-**Favoritdrink:**  "Cuba Libre"  
-**Gillar:** Kyla, att prata, bäskhäfv  
-**Ogillar:** Reglerna till bäskhäfv, regler i allmänhet  
-**Specialitet:** Vara heeeeeeelt  
+**Favoritdrink:**  Allt med Captain Morgan  
+**Gillar:** Att fucka ur  
+**Ogillar:** Avstigning vid korrekt busshållplats  
+**Specialitet:** Microsoft Paint, "Ordvitsar"  
 **Citat:**
-_"Power Ball"? Nää, "Super Bowl" heter det!_  
+_Är det här Drottning Fucking-hoppa-av-gatan??_  
 
-<img align="right" src="http://dkm.io/images/henke.jpg">
+<img align="right" src="http://dkm.io/images/henrik2.jpg">
 ### Henrik Jolérus  
 #### Infomästare  
-**Favoritdrink:** Är köttfärssås en drink?  
-**Gillar:** Att bidra till kurrekassan  
-**Ogillar:** Malplacerad oregano  
-**Specialitet:** Att missa bussen, att "missa bussen"  
+**Favoritdrink:** Rip asså  
+**Gillar:** Att förse klubbm med arbete  
+**Ogillar:** När kurrekassan är tom  
+**Specialitet:** Ilskna fotoposer  
 **Citat:**
 _Bullshit att du har oregano i köttfärssås, det ska du ha på pizza och i grekisk sallad din **idiot!**_  
 
-<img align="right" src="http://dkm.io/images/agnes.jpg">
+<img align="right" src="http://dkm.io/images/agnes2.jpg">
 ### Agnes Forsberg  
 #### Festmästare  
-**Favoritdrink:**  Sista shotsen i flarran  
-**Gillar:** Kylspel  
-**Ogillar:** Drickspel  
-**Specialitet:** Respektera sallad, vara från Skåne  
+**Favoritdrink:**  Skinny bitch  
+**Gillar:** En bricka med tjack- DE E NAJS  
+**Ogillar:** Trista representanter för KTHs lokalservice  
+**Specialitet:** Pizzaplatser  
 **Citat:**
-_HATAR BARN FLYGPLAN?!_  
+_Rather two pumps than a trump_  
 
-<img align="right" src="http://dkm.io/images/christine.jpg">
+<img align="right" src="http://dkm.io/images/christine2.jpg">
 ### Christine Rosquist  
 #### Ekonomimästare  
-**Favoritdrink:** En liten bara  
-**Gillar:** Allmänna idrottsklubbar, allmän idrott  
-**Ogillar:** När folk spränger hennes toa-gerilla  
-**Specialitet:** Gasolina.  
+**Favoritdrink:** Hinkish lallish  
+**Gillar:** SM-guld   
+**Ogillar:** Smeknamn  
+**Specialitet:** Diplomati med kassörer  
 **Citat:**
-_Eh han den där... Anis._  
+_Jag är rowdy - eller nej, jag är rowdy inombords._  
 
-<img align="right" src="http://dkm.io/images/philip.jpg">
+<img align="right" src="http://dkm.io/images/philip2.jpg">
 ### Philip Song  
 #### Ekonomimästare  
-**Favoritdrink:** En flaska rött vin, eller två  
-**Gillar:** Tobbe Trollkarl  
-**Ogillar:** Att bli spirénstrypt  
-**Specialitet:** Klippa till spiréner.  
+**Favoritdrink:** Omnikeller  
+**Gillar:** STAD-utbildningen  
+**Ogillar:** Rött vin  
+**Specialitet:** Har genetisk motståndskraft mot alkohol  
 **Citat:**
 _Jag är inte full! Jag är medveten!_
 
-<img align="right" src="http://dkm.io/images/eva.jpg">
+<img align="right" src="http://dkm.io/images/eva2.jpg">
 ### Eva Despinoy  
 #### Barmästare  
-**Favoritdrink:** Jokk, det vildaste tranbäret  
-**Gillar:** Gurka, snitsiga procentberäkningar  
-**Ogillar:** Döda djur i sin mat, "Så"  
-**Specialitet:** Misstolkningar? Aha, missförstånd.  
+**Favoritdrink:** Dom där långa vodkorna  
+**Gillar:** "I Fink U Freeky" - Die Antwoord  
+**Ogillar:** När man är TPL  
+**Specialitet:** Okonventionella handdanser  
 **Citat:**
-_Hallå heter det ”snake eyes” eller ”snake guy”?_  
+_ÖPPNA ALDRIG EN ÖL MED DINA ÖGONBEN!!!_  
 
-<img align="right" src="http://dkm.io/images/melvin.jpg">
+<img align="right" src="http://dkm.io/images/melvin2.jpg">
 ### Melvin Lundqvist  
 #### Barmästare  
-**Favoritdrink:** Isacs bubbel  
-**Gillar:** Spiréner, amarettoflaskor, amarettospiréner  
-**Ogillar:** Tyngdlagspåverkad tvåfotsurinering  
-**Specialitet:** Explosivt rörmokeri.  
+**Favoritdrink:** Nudelsoppa  
+**Gillar:**   
+**Ogillar:** Att gör sig förstådd i slutet av kvällen  
+**Specialitet:** Egenbenämnda dekorationer av spritflaskor  
 **Citat:**
 _Burre burre_  
 
+<img align="right" src="http://dkm.io/images/amanda2.jpg">
+### Amanda Krohn  
+#### Langarknatte  
+**Favoritdrink:** Vänta, har du inte du fått punsch?  
+**Gillar:** Solidarisk alkoholservering  
+**Ogillar:** Dålig sikt i skidbacken  
+**Specialitet:** Att skriva sig ur ett barstopp  
+**Citat:**
+_Hajj! Fickfri? Är stoppa/ vill.gärna ha punsch<3_
+
+<img align="right" src="http://dkm.io/images/anton2.jpg">
+### Anton Björklund  
+#### Kungknatte  
+**Favoritdrink:** Kung  
+**Gillar:** Kung  
+**Ogillar:** Bussresor utan Kung  
+**Specialitet:** Kung  
+**Citat:**
+_Man kan ta en grabb från Gävle, men aldrig en Kung från grabben._
+
+<img align="right" src="http://dkm.io/images/george2.jpg">
+### George Bassilious  
+#### Gucciknatte  
+**Favoritdrink:** Sina egna glas i beerpong  
+**Gillar:** "Gucci Gang" - Lil Pump  
+**Ogillar:** Sin egen vinstandel i beerpong  
+**Specialitet:** Ordspråk i branschen  
+**Citat:**
+_Fem myror är större än fler elefanter_
+
+<img align="right" src="http://dkm.io/images/isabel2.jpg">
+### Magnus Lindahl  
+#### Taggknatte  
+**Favoritdrink:** Fan inte vatten  
+**Gillar:** Mentalt tänkande  
+**Ogillar:** Vatten  
+**Specialitet:** Att vara taggad när ingen annan är det  
+**Citat:**
+_Skynda på nu, nu blir vi juice!_
+
+<img align="right" src="http://dkm.io/images/luciano2.jpg">
+### Luciano Zapata  
+#### El knattito  
+**Favoritdrink:** Mandelbailey's  
+**Gillar:** Att vara en grönsak  
+**Ogillar:** Allt som är piss  
+**Specialitet:** Hemmafester för DKM som DKM inte vet om  
+**Citat:**
+_Jag satt i soffan och bara kollade runt. Sen förstod jag att jag var en grönsak._
+
+<img align="right" src="http://dkm.io/images/magnus2.jpg">
+### Magnus Lindahl  
+#### Mekanikerknatte  
+**Favoritdrink:** Leon  
+**Gillar:** Sena efterfester i Kungshamra  
+**Ogillar:** Offentlig klacksång  
+**Specialitet:** Reparationer och uppgraderingar  
+**Citat:**
+_Tjing!..... Eller va?_
+
+<img align="right" src="http://dkm.io/images/vilma2">
+### Vilma Jalava  
+#### Knattinnen  
+**Favoritdrink:** Moët  
+**Gillar:** "In My Feelings" - Drake  
+**Ogillar:** Fake bitches  
+**Specialitet:** Toalettinspektion  
+**Citat:**
+_Jag gillar din rumpa! Men inte i mitt ansikte_
 
 ## Cliff
 
