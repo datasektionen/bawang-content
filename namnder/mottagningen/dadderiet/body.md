@@ -2,7 +2,7 @@
 
 <img alt="Dadderiet-logga" src="https://static.datasektionen.se/mottagningen/dadderiet.svg" style="float: right; width: 35%" />
 
-_Mottagningen börjar närma sig och förberedelserna är redan igång! I höst kommer återigen vilsna nØllan som behöver ett gäng supersnälla, jättetrevliga daddor som kan leda dem på rätt väg här på teknis. Därför är det dags för dig att redan nu söka Dadderiet till hösten 2017._
+_Mottagningen börjar närma sig och förberedelserna är redan igång! I höst kommer återigen vilsna nØllan som behöver ett gäng supersnälla, jättetrevliga daddor som kan leda dem på rätt väg här på teknis. Därför är det dags för dig att redan nu söka Dadderiet till hösten 2019._
 
 Kommer du ihåg när du själv började på KTH, en gång för länge sedan, att det då var två snälla personer i cerise snickarbyxor som tog hand om dig? En sådan kan du också bli. Som dadda tar du tillsammans med en annan dadda hand om en grupp nØllan och visar dem hur allt går till. Du lär känna nØllan och ger dem möjligheten att lära känna dig.
 
