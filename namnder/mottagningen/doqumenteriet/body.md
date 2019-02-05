@@ -1,6 +1,6 @@
 # Doqumenteriet
 
-<img alt="Doqumenteriet-logga" src="https://static.datasektionen.se/mottagningen/doqumenteriet.svg" style="float: right; width: 35%" />
+<img alt="Doqumenteriet-logga" src="https://static.datasektionen.se/mottagningen/doqumenteriet.png" style="float: right; width: 35%" />
 
 _I höst kommer det återigen nØllan som behöver ett gäng foto-, film- och ljud & ljusintresserade doqumenterister som ska se till att nØllan dokumenteras och alla event har ljud och ljus. Därför har det blivit dags att söka Doqumenteriet 2017._
 
@@ -10,7 +10,7 @@ I mottagningen så har alla olika ansvarområden och detta gäller även för do
 
 I doqumenteriet arbetar man hårt, men har också väldigt trevligt, mysigt och roligt. Nu söker vi några snälla, glada, stresståliga och kreativa dataloger som känner sig manade att under hösten vara med i Det Kongliga Doqumenteriet.
 
-## Sök Ekonomeriet om du känner att:
+## Sök Doqumenteriet om du känner att:
 
 * Tycker om att lära känna nya människor
 * Är en kreativ och positiv person
