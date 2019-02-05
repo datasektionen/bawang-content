@@ -5,6 +5,6 @@ Har du frågor om Mottagningen, och Doqumenteriet? Släng iväg ett mejl till os
 ### Kontaktuppgifter
 
 **Samdoquise**, <br />
-Patric Lantz<br />
+Olivia Herber<br />
 [samdoquise@d.kth.se](mailto:samdoquise@d.kth.se)<br />
-070-222 35 25
+076-357 05 00
