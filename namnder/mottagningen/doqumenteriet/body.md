@@ -2,7 +2,7 @@
 
 <img alt="Doqumenteriet-logga" src="https://static.datasektionen.se/mottagningen/doqumenteriet.png" style="float: right; width: 35%" />
 
-_I höst kommer det återigen nØllan som behöver ett gäng foto-, film- och ljud & ljusintresserade doqumenterister som ska se till att nØllan dokumenteras och alla event har ljud och ljus. Därför har det blivit dags att söka Doqumenteriet 2017._
+_I höst kommer det återigen nØllan som behöver ett gäng foto-, film- och ljud & ljusintresserade doqumenterister som ska se till att nØllan dokumenteras och alla event har ljud och ljus. Därför har det blivit dags att söka Doqumenteriet 2019._
 
 Under mottagningen så är det mycket som händer och då är det bra att det alltid finns en foto/film-doquis nära till hands för att dokumentera alla roliga saker nØllan gör. Det är inte bara saker som ska dokumenteras under mottagningen utan det finns även event, till exempel första entrén, nattorienteringen och nØllegasquen, som behöver ljud och ljus. Det är detta som doqumenteriet gör under mottagningen.
 
