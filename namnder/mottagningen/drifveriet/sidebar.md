@@ -5,16 +5,16 @@ Har du frågor om Mottagningen, och Det Kongliga Drifveriet? Släng iväg ett me
 ### Kontaktuppgifter
 
 **Konglig Öfverdrif**, <br />
-Shapour Jahanshahi<br />
+Mikael Forsmark<br />
 [ofverdrif@d.kth.se](mailto:ofverdrif@d.kth.se)<br />
-073-957 11 19
-
-**Konglig Indrif**, <br />
-Helena Alinder<br />
-[indrif@d.kth.se](mailto:indrif@d.kth.se)<br />
-076-348 00 86
+070-424 61 62
 
 **Konglig Direktifdrif**, <br />
-Josefin Nilsson<br />
+Pontus Broberg <br />
 [direktifdrif@d.kth.se](mailto:direktifdrif@d.kth.se)<br />
-076-828 59 20
+072-035 62 44
+
+**Konglig Indrif**, <br />
+Joar Rutqvist<br />
+[indrif@d.kth.se](mailto:indrif@d.kth.se)<br />
+073-367 94 46 
