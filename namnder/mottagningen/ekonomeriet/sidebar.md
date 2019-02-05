@@ -5,11 +5,11 @@ Har du frågor om Mottagningen, och Ekonomeriet? Släng iväg ett mejl till oss 
 ### Kontaktuppgifter
 
 **Storebror**, <br />
-Jonas Dahl<br />
+Emil Lindblom<br />
 [storebror@d.kth.se](mailto:storebror@d.kth.se)<br />
-070-796 48 83
+073-984 67 73
 
 **Konglig Öfverdrif**, <br />
-Shapour Jahanshahi<br />
+Mikael Forsmark<br />
 [ofverdrif@d.kth.se](mailto:ofverdrif@d.kth.se)<br />
-073-957 11 19
+070-424 61 62
