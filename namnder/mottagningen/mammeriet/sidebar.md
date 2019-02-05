@@ -4,6 +4,6 @@ Har du frågor om Mottagningen, och Mammeriet? Släng iväg ett mejl till oss i 
 
 ### Kontaktuppgifter
 **Mamma**, <br />
-Linn Bergelid<br />
+Klara Eserstam<br />
 [mamma@d.kth.se](mailto:mamma@d.kth.se)<br />
-073-846 99 66
+073-048 45 50 
