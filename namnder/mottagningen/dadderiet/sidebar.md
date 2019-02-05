@@ -4,12 +4,12 @@ Har du frågor om Mottagningen, och Dadderiet? Släng iväg ett mejl till oss i 
 
 ### Kontaktuppgifter
 
-**Halvbror**, <br />
-Cristian Osorio Bretti<br />
-[halvbror@d.kth.se](mailto:halvbror@d.kth.se)<br />
-070-782 65 60
+**Lillasyster**, <br />
+Lisa Håkansson<br />
+[lillasyster@d.kth.se](mailto:lillasyster@d.kth.se)<br />
+076-050 40 98
 
 **Lillebror**, <br />
-Albin Remnestål<br />
+Olle Hovmark<br />
 [lillebror@d.kth.se](mailto:lillebror@d.kth.se)<br />
-070-911 31 88
+073-834 74 05
