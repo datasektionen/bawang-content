@@ -1,28 +1,15 @@
-# Prylmånglaren
+# Prylmångleriet
 
-Hej! 
+Vad tusan är Prylmångleriet och vem är Prylis?!
+Jo det är Konglig datasektions nämnd som har med allt märkes, ovve och annat prylrelaterat att göra! 
 
-Det är jag som är Prylis, gag heter Laura Löhning om du inte visste det! Så, nu vet du! Jag har hand om det mesta du kan tänka dig i prylväg, ovvar, märken, spegater, sångböcker, stickers, pins, manschettknappar och mycket mer! 
+Prylmångleriet är alltså stället att vända dig till om du vill pimpa din ovve bortom alla tänkbara gränser. Vanligtvis säljer prylmångleriet märken i META varje jämn vecka mellan 12:15 och 13:00. Men det kan även förekomma försäljingar på events eller när någon godtycklig medlem av prylmångleriet känner att hen har för lite studier. 
 
-Jag brukar sälja ungefär varannan vecka runt lunch i META. Ibland säljer jag på lite andra tider för att jag tycker att det är kul och för att jag får göra lite som jag vill. Vill ni ha bättre koll och se fina, emojifyllda facebookinlägg kan ni gå in och gilla min facebooksida som heter "Prylis". Där säger jag alltid till innan det är försäljning. 
-
-Har du kanske en amazing märkesidée eller en cool pryl-idée kan du komma till mig och säga det! Det går också bra att skriva till mig via Prylissidan! Jag har också ett sånt här mobilnummer som många har, det ser ut så här: 0705791667. Det går också bra att ställa frågor om man nu känner för det! Jag har en mail också, prylis@d.kth.se! Där kan man också skriva saker! Eller bara säga hej. 
-
-PoK från Prylis ❤
-
-## Prylis @ Facebook
-
-Prylmånglaren finns givetvis på [facebook](https://www.facebook.com/prylisdata). Ett sjukt bra sätt att få reda på vad som händer, som inte kräver mer än att du fortsätter besöka facebook sådär slentrianmässigt som du redan gör.
-
-## Hur köper man märken?
-
-Precis som i en vanlig affär, men som bara är öppen på helt godtyckliga tider. Om du tycker att det har gått oförskämt länge sen det var öppet sist, peta på mig med ovannämnda petverktyg så öppnar jag butiken, dirr.
+Om det är något du känner att du vill veta så ta jättegärna kontakt över mail prylis@d.kth.se eller på [facebook](https://www.facebook.com/prylisdata)!
 
 ## Vad finns hos Prylis?
 
-Prylis har mycket grejer, väldigt mycket grejer, men här kan du se vad som fanns vid senaste inventeringen. I framtiden dyker det kanske även upp lite bilder här.
-
-[Inventory](https://docs.google.com/spreadsheet/pub?key=0AnjfL675gTJ1dDhWZ0ZadGtmWXJzRUFmbUJwa01XdGc&output=html&widget=true)
+Prylis har otroligt mycket roliga grejer, så det är bara att komma förbi på någon fredags försäljning!
 
 <!---
 ## TJO ETTAN!
@@ -65,6 +52,5 @@ Ni får välja ert årskursmärke på en Onsdagspub den 7 december. Först komme
 ## Just do it!
 -->
 
-Puss och kram
-
+Mvh
 Prylis
