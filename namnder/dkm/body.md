@@ -107,8 +107,8 @@ _ÖPPNA ALDRIG EN ÖL MED DINA ÖGONBEN!!!_
 <img align="right" src="http://dkm.io/images/melvin2.jpg">
 ### Melvin Lundqvist  
 #### Barmästare  
-**Favoritdrink:** Nudelsoppa  
-**Gillar:**   
+**Favoritdrink:** Isacs bubbel  
+**Gillar:** Nudelsoppa  
 **Ogillar:** Att gör sig förstådd i slutet av kvällen  
 **Specialitet:** Egenbenämnda dekorationer av spritflaskor  
 **Citat:**
@@ -145,7 +145,7 @@ _Man kan ta en grabb från Gävle, men aldrig en Kung från grabben._
 _Fem myror är större än fler elefanter_
 
 <img align="right" src="http://dkm.io/images/isabel2.jpg">
-### Magnus Lindahl  
+### Isabel Redtzer  
 #### Taggknatte  
 **Favoritdrink:** Fan inte vatten  
 **Gillar:** Mentalt tänkande  
