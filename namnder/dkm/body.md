@@ -138,8 +138,8 @@ _Man kan ta en grabb från Gävle, men aldrig en Kung från grabben._
 ### George Bassilious  
 #### Gucciknatte  
 **Favoritdrink:** Sina egna glas i beerpong  
-**Gillar:** "Gucci Gang" - Lil Pump  
-**Ogillar:** Sin egen vinstandel i beerpong  
+**Gillar:** Ruben  
+**Ogillar:** "Gucci Gang" - Lil Pump  
 **Specialitet:** Ordspråk i branschen  
 **Citat:**
 _Fem myror är större än fler elefanter_
