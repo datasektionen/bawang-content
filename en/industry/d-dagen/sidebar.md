@@ -1,8 +1,7 @@
-<img src="https://maps.google.com/maps/api/staticmap?center=59.3472694,18.0705245&amp;zoom=16&amp;size=280x290&amp;maptype=roadmap&amp;markers=color:red|label:Nymble|59.3472694,18.0705245&amp;sensor=false" width="100%" />
+### D-Dagen 2019
+[ddagen.se](https://ddagen.se/)
 
-### D-Dagen 2017
-
-* Torsdagen den 5 oktober
+* Thursday, October 10
 * KTH, Campus Valhallavägen
-* Mässans öppettider: 10.00 – 16.00
-* E-post: [d-dagen.sales@d.kth.se](mailto:d-dagen.sales@d.kth.se)
+* The fair's opening hours: 10.00 – 16.00
+* E-mail: [d-dagen.sales@d.kth.se](mailto:d-dagen.sales@d.kth.se)
