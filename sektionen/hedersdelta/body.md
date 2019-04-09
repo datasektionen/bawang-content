@@ -12,6 +12,10 @@ går det även att maila D-rektoratet.
 
 #Innehavare av Hedersdeltat
 
+## Mottagare 2019
+
+[Shapour Jahanshahi](#shapour), Untricesimus
+
 ## Mottagare 2018
 
 [Jonas Dahl](#jonadahl), Untricesimus
@@ -636,6 +640,13 @@ Wolfram Meyer, Tertius
 </dl>
 ## Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
 ---------------------------------------------
+## Motiveringar till 2019 års mottagare
+
+#### Shapour Jahanshahi <a name="shapour"></a>
+
+Shapour Jahanshahi har under sina år på sektionen lyst upp tillvaron för mången datalog med sin till synes oändliga glädje och vänlighet. Att data är grå är känt sedan många år men om alla var som Shapour skulle ett sådant rykte fått svårt att få fäste från första början. Som Datas Art Director inledde Shapour sin sektionskarriär med en vrålstart och gick sedan vidare till mottagningen där han med oreringar och humor drev schlemmet ur nØllan - inte mindre än fyra gånger. Sista vändan i mottagningen ställde han sig längst fram i rampljuset och gjorde ett föredömligt jobb till trots allt det ansvar som kommer av att vara Konglig Överdriv. När Konglig Datasektionen fyllde trettiofem var Shapour med som Jubileumsmarskalk och anordnade en hel vecka sprängfylld med event i samarbete med sektionens nämnder och som avslutades med den största födelsedagsfesten i mannaminne. 
+
+För sitt gedigna och långvariga engagemang i sektionen tilldelas Shapour Jahanshahi Hedersdeltat.
 
 ## Motiveringar till 2018 års mottagare
 
