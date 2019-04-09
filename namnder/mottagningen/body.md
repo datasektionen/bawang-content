@@ -5,20 +5,18 @@ Via kvällspressen kommer schlemma rapporter om studentskivor och annat whüdrou
 
 Sektionen samlas sig till försvar. Piskbeprydda Västar, Vita Snuttefiltar, Allseende Kameror, Mattäckta Förkläden samt Glittrande Guldpengar plockas fram.
 
-## Schema	
+## Schema
 
-Under Mottagningen gäller följande schema. Ett tips är att lägga till schemat i din egen kalender, via den <a href="https://calendar.google.com/calendar/ical/cuuu32ru6hih8cjtdt5i3gfhhg%40group.calendar.google.com/public/basic.ics" target="_blank">här iCal-länken</a> som fungerar med de flesta kalenderapplikationer. Om du använder Google Calendar kan du trycka på länken nere i kalenderns högra hörn.	
-	
-Länk för prenumeration: https://calendar.google.com/calendar/ical/cuuu32ru6hih8cjtdt5i3gfhhg%40group.calendar.google.com/public/basic.ics	
-	
-<iframe src="https://calendar.google.com/calendar/embed?src=cuuu32ru6hih8cjtdt5i3gfhhg%40group.calendar.google.com&ctz=Europe%2FStockholm" style="border-width:0" width="600" height="600" frameborder="0" scrolling="no"></iframe>	
+Under Mottagningen gäller följande schema. Ett tips är att lägga till schemat i din egen kalender, via den <a href="" target="_blank">här iCal-länken (kommer snart!)</a> som fungerar med de flesta kalenderapplikationer. Om du använder Google Calendar kan du trycka på länken nere i kalenderns högra hörn.
+Länk för prenumeration: (kommer snart!)
+Kalendern kommer också visas här.
 
 ## Mottagningens grenar
 
 ###Det Kongliga Drifveriet
 <img alt="Drifveriet-logga" src="https://static.datasektionen.se/mottagningen/drifveriet.svg" style="float: right; width: 35%" />
 
-*Det Kongliga Drifveriet är en gammal anrik institution som sedan urminnes tider kämpat för ljuset och sanningen.*
+_Det Kongliga Drifveriet är en gammal anrik institution som sedan urminnes tider kämpat för ljuset och sanningen._
 
 Den dag vi in i det sista hoppades undkomma, har slutligen kommit. Mörka och ondskefulla krafter har beslutat att utsända sitt främsta vapen i ett försök att utplåna den Kungliga Tekniska Högskolan. En hord av frustande teknologaspiranter har skymtats haltandes mot portarna… nØllan nalkas!
 
@@ -45,8 +43,7 @@ De Högre Sfärernas jordiske företrädare är Konglig Öfverdrif, allsmäktig 
 ###Det Kongliga Dadderiet
 <img alt="Dadderiet-logga" src="https://static.datasektionen.se/mottagningen/dadderiet.svg" style="float: right; width: 35%" />
 
-*Det Kongliga Dadderiet är nØllans vän i alla väder. Det finns alltid kramgoa daddan att ty sig till när vindarna viner runt knuten.*
-
+_Det Kongliga Dadderiet är nØllans vän i alla väder. Det finns alltid kramgoa daddan att ty sig till när vindarna viner runt knuten._
 
 Det är tydligen så att nØllan blivit stor nog att inse att nØllan inte klarar sig utan livet på Teknis. Men det är inte så lätt att komma in i Livet på denna den förnämsta av tekniska högskolor, ty Livet består till en början av många hårda strapatser, samt i viss mån av en del matematik. Faror lurar på de mest oväntade av platser och tidpunkter från den stund nØllan beträder Teknis anrika mark. [Elaka examinatorer](http://us.imdb.com/Title?0036914) och [uråldriga demoner](https://www.astro.umd.edu/~miller/Cthulhu.gif) lurar överallt. Dessa är i sig förskräckliga och skulle både räcka och bli över, men här finns även något så skrämmande att nØllan inte kan föreställa sig det ens i sina värsta mardrömmar – Det Kongliga Drifveriet.
 
@@ -67,7 +64,7 @@ Du kommer att tillbringa mycket tid med dina Daddan den första tiden, så utnyt
 ###Det Kongliga Doqumenteriet
 <img alt="Doqumenteriet-logga" src="https://static.datasektionen.se/mottagningen/doqumenteriet.svg" style="float: right; width: 35%" />
 
-*Det Kongliga Doqumenteriet följer nØllan vart den än tar vägen. Överallt finns en chans att föreviga det där speciella ögonblicket.*
+_Det Kongliga Doqumenteriet följer nØllan vart den än tar vägen. Överallt finns en chans att föreviga det där speciella ögonblicket._
 
 Under nØllans första tid på KTH händer en väldans massa saker väldigt ofta. Eftersom nØllan givetvis inte har en sportslig chans att minnas, förstå eller ens märka merparten av dessa händelser kommer nØllan få hjälp av Det Kongliga Doqumenteriet.
 
@@ -88,24 +85,24 @@ Sammanfattningsvis kan nØllan alltså betrakta Doqumenteriet som nØllans vänn
 ###Det Kongliga Mammeriet
 <img alt="Mammeriet-logga" src="https://static.datasektionen.se/mottagningen/mammeriet.svg" style="float: right; width: 35%" />
 
-*Mammeriet ser till att nØllan mår bra och har roligt. Denna eminenta samling människor, de så kallade mammeristerna, har huvudansvaret för att planera och genomföra alla stora fester under Mottagningen.*
+_Mammeriet ser till att nØllan mår bra och har roligt. Denna eminenta samling människor, de så kallade mammeristerna, har huvudansvaret för att planera och genomföra alla stora fester under Mottagningen._
 
 Dessutom tar Mammeriet hand om Mottagningens kära Mottagningsbil och inhandlar alla nödvändigheter, från mat till diskmedel till A4-papper. Självklart är det även Mammeriet som ser till att nØllan håller sig mätt och belåten.
 
 ####Hur går det här till?
 
-När det väl går till, brukar det gå bra till. Då mammeristens högsta önskan är att få nØllan mätt, nöjd och belåten flyger Mammeriet över alla hinder. När maten kokats, dukarna rullats ut och drycken hällts upp tar Mammeriet med varma famnar emot nØllan till Mottagningens alla sittningar. 
+När det väl går till, brukar det gå bra till. Då mammeristens högsta önskan är att få nØllan mätt, nöjd och belåten flyger Mammeriet över alla hinder. När maten kokats, dukarna rullats ut och drycken hällts upp tar Mammeriet med varma famnar emot nØllan till Mottagningens alla sittningar.
 
 ####Kännetecken
 
-När Mammeriet inte lagar mat, handlar eller dricker kaffe, hälsar de gärna på nØllan och alla andra i mottagningen. En mammerist känns igen genom de karaktäristiska mammeristshortsen. Befinner sig Mammeriet i köket eller på annan plats där överhängande risk för nedkladdning finns, bärs ofta ett vitt förkläde med Snobben på för att kunna bestämma vem som kladdat mest. Nämn katter eller kaffe och varje mammerist kommer hoppa till och sugas in mot dig som en järnpartikel mot en magnet. 
+När Mammeriet inte lagar mat, handlar eller dricker kaffe, hälsar de gärna på nØllan och alla andra i mottagningen. En mammerist känns igen genom de karaktäristiska mammeristshortsen. Befinner sig Mammeriet i köket eller på annan plats där överhängande risk för nedkladdning finns, bärs ofta ett vitt förkläde med Snobben på för att kunna bestämma vem som kladdat mest. Nämn katter eller kaffe och varje mammerist kommer hoppa till och sugas in mot dig som en järnpartikel mot en magnet.
 
 Sammanfattningsvis är Mammeriet en vänlig skara som nØllan kan betraka som sina vänner. Mammeristerna kommer göra allt för att svara på nØllans frågor och göra alla glada under varje fest. Livet sägs vara en fest, så man skulle kunna säga att Mammeriet gör allt för att göra alla glada, alltid. För att visa hur mycket nØllan vill vara vän med mammeristerna får nØllan gärna komma och prata med Mammeriet under sittningar, luncher och alla andra tillfällen under Mottagningen. Varför inte tacka för den oftast så goda maten eller prata om vädret? Har du en ordvits på lager finns det inte en enda mammerist som inte är idel öra.
 
 ###Det Kongliga Ekonomeriet
 <img alt="Ekonomeriet-logga" src="https://static.datasektionen.se/mottagningen/ekonomeriet.svg" style="float: right; width: 35%" />
 
-*Ekonomeriet ser till så att cash alltid finns i mottagningen. Utan ekonomeristernas klirrande pengasäckar hade nØllan inte klarat sig länge.*
+_Ekonomeriet ser till så att cash alltid finns i mottagningen. Utan ekonomeristernas klirrande pengasäckar hade nØllan inte klarat sig länge._
 
 Att ta hand om nØllan kräver mycket arbete för mottagningspersonalen och ibland också mycket pengar. Snuttefiltar, nappflaskor, kameror, förkläden och mat är dyra saker och hur skulle det väl se ut om dadderiet gick runt i trasiga snuttefiltar? Eller hur skulle det vara om doqumenteriet fick nöja sig med mobilkameror? Och utan pengar till mat skulle varken nØllan eller personalen klara sig särskilt länge. Ekonomeriet to the rescue!
 Med sina säckar fulla med guldpengar och med bättre sinne för pengar än Joakim von Anka glider de runt på campus och ser till så att cash alltid finns.
@@ -113,4 +110,3 @@ Med sina säckar fulla med guldpengar och med bättre sinne för pengar än Joak
 ####Kännetecken
 
 Ekonomeristerna må älska pengar högst av allt men de gillar också nØllan. När de inte dyker runt i sin pengabinge hälsar de gärna på nØllan och resten av personalen. nØllan känner igen dem på sina glittrande guldkedjor som de aldrig skulle synas utan. Om nØllan är riktigt snäll kanske de till och med bjuder på lite guldpengar, vem vet!
-
