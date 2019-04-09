@@ -14,14 +14,28 @@ går det även att maila D-rektoratet.
 
 ## Mottagare 2019
 
+<dl>
+<dt>
+</dt>
+<dd>
 [Shapour Jahanshahi](#shapour), Untricesimus
 
+</dd>
+</dl>
 ## Mottagare 2018
 
+<dl>
+<dt>
+</dt>
+<dd>
 [Jonas Dahl](#jonadahl), Untricesimus
 
+</dd>
+<dd>
 [Alexander Viklund](#viklu), Duotricesimus
 
+</dd>
+</dl>
 ## Mottagare 2017
 
 <dl>
