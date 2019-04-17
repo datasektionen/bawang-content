@@ -320,7 +320,21 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2018
 
-9/5 [Ett Transitivt-DM](https://static.datasektionen.se/protokoll/ett_transitivt_dm_2018)
+6/12 [Ett Flygande-DM](https://static.datasektionen.se/protokoll/ett_flygande_dm_2018)
+
+19/11 [Ett Glädjefyllt-DM](https://static.datasektionen.se/protokoll/ett_gladjefyllt_dm_2018)
+
+5/11 [Ett Intilligande-DM](https://static.datasektionen.se/protokoll/ett_intilliggande_dm_2018)
+
+28/10 [Ett Budgeterat-DM](https://static.datasektionen.se/protokoll/ett_budgeterat_dm_2018)
+
+2/10 [Ett-Hastigt-DM](https://static.datasektionen.se/protokoll/ett_hastigt_dm_2018)
+
+5/9 [Ett Transitivt-DM](https://static.datasektionen.se/protokoll/ett_transitivt_dm_2018)
+
+30/5 [Ett Skiftande-DM](https://static.datasektionen.se/protokoll/ett_skiftande_dm_2018)
+
+9/5 [Ett Utvalt-DM](https://static.datasektionen.se/protokoll/ett_utvalt_dm_2018)
 
 16/4 [Ett Hexadecimalt-DM](https://static.datasektionen.se/protokoll/ett_hexadecimalt_dm_2018)
 
