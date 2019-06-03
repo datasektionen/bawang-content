@@ -34,79 +34,9 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ## Medlemmar
 
-<img align="right" src="http://dkm.io/images/felix2.jpg">
-### Felix Andersson  
-#### Klubbmästare  
-**Favoritdrink:** Frank's, Monster  
-**Gillar:** Biodlingar   
-**Ogillar:** Kullersten  
-**Specialitet:** Elektriska färdmedel   
-**Citat:**
-_Jag tog en sniff av Bailey på getsupet_  
-
-<img align="right" src="http://dkm.io/images/william2.jpg">
-### William Agnér  
-#### Vice Klubbmästare  
-**Favoritdrink:**  Allt med Captain Morgan  
-**Gillar:** Att fucka ur  
-**Ogillar:** Avstigning vid korrekt busshållplats  
-**Specialitet:** Microsoft Paint, "Ordvitsar"  
-**Citat:**
-_Är det här Drottning Fucking-hoppa-av-gatan??_  
-
-<img align="right" src="http://dkm.io/images/henrik2.jpg">
-### Henrik Jolérus  
-#### Infomästare  
-**Favoritdrink:** Rip asså  
-**Gillar:** Att förse klubbm med arbete  
-**Ogillar:** När kurrekassan är tom  
-**Specialitet:** Ilskna fotoposer  
-**Citat:**
-_Bullshit att du har oregano i köttfärssås, det ska du ha på pizza och i grekisk sallad din **idiot!**_  
-
-<img align="right" src="http://dkm.io/images/agnes2.jpg">
-### Agnes Forsberg  
-#### Festmästare  
-**Favoritdrink:**  Skinny bitch  
-**Gillar:** En bricka med tjack- DE E NAJS  
-**Ogillar:** Trista representanter för KTHs lokalservice  
-**Specialitet:** Pizzaplatser  
-**Citat:**
-_Rather two pumps than a trump_  
-
-<img align="right" src="http://dkm.io/images/christine2.jpg">
-### Christine Rosquist  
-#### Ekonomimästare  
-**Favoritdrink:** Hinkish lallish  
-**Gillar:** SM-guld   
-**Ogillar:** Smeknamn  
-**Specialitet:** Diplomati med kassörer  
-**Citat:**
-_Jag är rowdy - eller nej, jag är rowdy inombords._  
-
-<img align="right" src="http://dkm.io/images/philip2.jpg">
-### Philip Song  
-#### Ekonomimästare  
-**Favoritdrink:** Omnikeller  
-**Gillar:** STAD-utbildningen  
-**Ogillar:** Rött vin  
-**Specialitet:** Har genetisk motståndskraft mot alkohol  
-**Citat:**
-_Jag är inte full! Jag är medveten!_
-
-<img align="right" src="http://dkm.io/images/eva2.jpg">
-### Eva Despinoy  
-#### Barmästare  
-**Favoritdrink:** Dom där långa vodkorna  
-**Gillar:** "I Fink U Freeky" - Die Antwoord  
-**Ogillar:** När man är TPL  
-**Specialitet:** Okonventionella handdanser  
-**Citat:**
-_ÖPPNA ALDRIG EN ÖL MED DINA ÖGONBEN!!!_  
-
 <img align="right" src="http://dkm.io/images/melvin2.jpg">
 ### Melvin Lundqvist  
-#### Barmästare  
+#### Klubbmästare  
 **Favoritdrink:** Isacs bubbel  
 **Gillar:** Nudelsoppa  
 **Ogillar:** Att gör sig förstådd i slutet av kvällen  
@@ -114,79 +44,103 @@ _ÖPPNA ALDRIG EN ÖL MED DINA ÖGONBEN!!!_
 **Citat:**
 _Burre burre_  
 
-<img align="right" src="http://dkm.io/images/amanda2.jpg">
-### Amanda Krohn  
-#### Langarknatte  
-**Favoritdrink:** Vänta, har du inte du fått punsch?  
-**Gillar:** Solidarisk alkoholservering  
-**Ogillar:** Dålig sikt i skidbacken  
-**Specialitet:** Att skriva sig ur ett barstopp  
-**Citat:**
-_Hajj! Fickfri? Är stoppa/ vill.gärna ha punsch<3_
-
-<img align="right" src="http://dkm.io/images/anton2.jpg">
-### Anton Björklund  
-#### Kungknatte  
-**Favoritdrink:** Kung  
-**Gillar:** Kung  
-**Ogillar:** Bussresor utan Kung  
-**Specialitet:** Kung  
-**Citat:**
-_Man kan ta en grabb från Gävle, men aldrig en Kung från grabben._
-
-<img align="right" src="http://dkm.io/images/george2.jpg">
-### George Bassilious  
-#### Gucciknatte  
-**Favoritdrink:** Sina egna glas i beerpong  
-**Gillar:** Ruben  
-**Ogillar:** "Gucci Gang" - Lil Pump  
-**Specialitet:** Ordspråk i branschen  
-**Citat:**
-_Fem myror är större än fler elefanter_
-
-<img align="right" src="http://dkm.io/images/isabel2.jpg">
-### Isabel Redtzer  
-#### Taggknatte  
-**Favoritdrink:** Fan inte vatten  
-**Gillar:** Mentalt tänkande  
-**Ogillar:** Vatten  
-**Specialitet:** Att vara taggad när ingen annan är det  
-**Citat:**
-_Skynda på nu, nu blir vi juice!_
-
-<img align="right" src="http://dkm.io/images/luciano2.jpg">
-### Luciano Zapata  
-#### El knattito  
-**Favoritdrink:** Mandelbailey's  
-**Gillar:** Att vara en grönsak  
-**Ogillar:** Allt som är piss  
-**Specialitet:** Hemmafester för DKM som DKM inte vet om  
-**Citat:**
-_Jag satt i soffan och bara kollade runt. Sen förstod jag att jag var en grönsak._
-
 <img align="right" src="http://dkm.io/images/magnus2.jpg">
 ### Magnus Lindahl  
-#### Mekanikerknatte  
+#### Vice Klubbmästare  
 **Favoritdrink:** Leon  
 **Gillar:** Sena efterfester i Kungshamra  
 **Ogillar:** Offentlig klacksång  
 **Specialitet:** Reparationer och uppgraderingar  
 **Citat:**
-_Tjing!..... Eller va?_
+_Tjing!..... Eller va?_  
+
+<img align="right" src="http://dkm.io/images/george2.jpg">
+### George Bassilious  
+#### Infomästare  
+**Favoritdrink:** Sina egna glas i beerpong  
+**Gillar:** Ruben  
+**Ogillar:** "Gucci Gang" - Lil Pump  
+**Specialitet:** Ordspråk i branschen  
+**Citat:**
+_Fem myror är större än fler elefanter_  
+
+<img align="right" src="http://dkm.io/images/anton2.jpg">
+### Anton Björklund  
+#### Festmästare  
+**Favoritdrink:** Kung  
+**Gillar:** Kung  
+**Ogillar:** Bussresor utan Kung  
+**Specialitet:** Kung  
+**Citat:**
+_Man kan ta en grabb från Gävle, men aldrig en Kung från grabben._  
+
+<img align="right" src="http://dkm.io/images/isabel2.jpg">
+### Isabel Redtzer  
+#### Barmästare  
+**Favoritdrink:** Fan inte vatten  
+**Gillar:** Mentalt tänkande  
+**Ogillar:** Vatten  
+**Specialitet:** Att vara taggad när ingen annan är det  
+**Citat:**
+_Skynda på nu, nu blir vi juice!_  
+
+<img align="right" src="http://dkm.io/images/amanda2.jpg">
+### Amanda Krohn  
+#### Barmästare  
+**Favoritdrink:** Vänta, har du inte du fått punsch?  
+**Gillar:** Solidarisk alkoholservering  
+**Ogillar:** Dålig sikt i skidbacken  
+**Specialitet:** Att skriva sig ur ett barstopp  
+**Citat:**
+_Hajj! Fickfri? Är stoppa/ vill.gärna ha punsch<3_  
 
 <img align="right" src="http://dkm.io/images/vilma2">
 ### Vilma Jalava  
-#### Knattinnen  
+#### Ekonomimästare  
 **Favoritdrink:** Moët  
 **Gillar:** "In My Feelings" - Drake  
 **Ogillar:** Fake bitches  
 **Specialitet:** Toalettinspektion  
 **Citat:**
-_Jag gillar din rumpa! Men inte i mitt ansikte_
+_Jag gillar din rumpa! Men inte i mitt ansikte_  
+
+<img align="right" src="http://dkm.io/images/luciano2.jpg">
+### Luciano Zapata  
+#### Ekonomimästare  
+**Favoritdrink:** Mandelbailey's  
+**Gillar:** Att vara en grönsak  
+**Ogillar:** Allt som är piss  
+**Specialitet:** Hemmafester för DKM som DKM inte vet om  
+**Citat:**
+_Jag satt i soffan och bara kollade runt. Sen förstod jag att jag var en grönsak._  
 
 ## Cliff
 
 Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför de kallas för Cliff? Fråga närmsta Cliff!
+
+### Cliff -19
+
+* __Felix Andersson__
+  * Klubbmästare
+  * _Jag tog en sniff av Bailey på getsupet_
+* __William Agnér__
+  * Vice klubbmästare
+  * _Är det här Drottning Fucking-hoppa-av-gatan??_
+* __Henrik Jolérus__
+  * Infomästare
+  * _Bullshit att du har oregano i köttfärssås, det ska du ha på pizza och i grekisk sallad din **idiot!**_
+* __Agnes Forsberg__
+  * Festmästare
+  * _Karriär? Utveckling? Nej, livet handlar om pizzaplats!_
+* __Christine Rosquist__
+  * Ekonomimästare
+  * _Jag dab:ar inte gratis, lixom._
+* __Philip Song__
+  * Ekonomimästare
+  * _Jag vann över Jesus på gokart, och sen åkte vi moppe._
+* __Eva Despinoy__
+  * Barmästare
+  * _ÖPPNA ALDRIG EN ÖL MED DINA ÖGONBEN!!!_
 
 ### Cliff -18
 
