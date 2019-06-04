@@ -29,9 +29,9 @@ Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivss
 För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 
 **Kommunikatör**<br />
-Simone de Blasio<br />
+Felix Almay<br />
 E-post: [info@d.kth.se](mailto:info@d.kth.se)<br />
-072-932 06 89
+07 242 151 42
 
 Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Datasektionens Informationsorgan, IOR, på adressen [ior@d.kth.se](mailto:ior@d.kth.se).
 
