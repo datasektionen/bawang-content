@@ -54,25 +54,25 @@ _Burre burre_
 **Citat:**
 _Tjing!..... Eller va?_  
 
-<img align="right" src="http://dkm.io/images/george2.jpg">
-### George Bassilious  
-#### Infomästare  
-**Favoritdrink:** Sina egna glas i beerpong  
-**Gillar:** Ruben  
-**Ogillar:** "Gucci Gang" - Lil Pump  
-**Specialitet:** Ordspråk i branschen  
+<img align="right" src="http://dkm.io/images/luciano2.jpg">
+### Luciano Zapata  
+#### Ekonomimästare  
+**Favoritdrink:** Mandelbailey's  
+**Gillar:** Att vara en grönsak  
+**Ogillar:** Allt som är piss  
+**Specialitet:** Hemmafester för DKM som DKM inte vet om  
 **Citat:**
-_Fem myror är större än fler elefanter_  
+_Jag satt i soffan och bara kollade runt. Sen förstod jag att jag var en grönsak._  
 
-<img align="right" src="http://dkm.io/images/anton2.jpg">
-### Anton Björklund  
-#### Festmästare  
-**Favoritdrink:** Kung  
-**Gillar:** Kung  
-**Ogillar:** Bussresor utan Kung  
-**Specialitet:** Kung  
+<img align="right" src="http://dkm.io/images/vilma2">
+### Vilma Jalava  
+#### Ekonomimästare  
+**Favoritdrink:** Moët  
+**Gillar:** "In My Feelings" - Drake  
+**Ogillar:** Fake bitches  
+**Specialitet:** Toalettinspektion  
 **Citat:**
-_Man kan ta en grabb från Gävle, men aldrig en Kung från grabben._  
+_Jag gillar din rumpa! Men inte i mitt ansikte_  
 
 <img align="right" src="http://dkm.io/images/isabel2.jpg">
 ### Isabel Redtzer  
@@ -94,25 +94,25 @@ _Skynda på nu, nu blir vi juice!_
 **Citat:**
 _Hajj! Fickfri? Är stoppa/ vill.gärna ha punsch<3_  
 
-<img align="right" src="http://dkm.io/images/vilma2">
-### Vilma Jalava  
-#### Ekonomimästare  
-**Favoritdrink:** Moët  
-**Gillar:** "In My Feelings" - Drake  
-**Ogillar:** Fake bitches  
-**Specialitet:** Toalettinspektion  
+<img align="right" src="http://dkm.io/images/anton2.jpg">
+### Anton Björklund  
+#### Festmästare  
+**Favoritdrink:** Kung  
+**Gillar:** Kung  
+**Ogillar:** Bussresor utan Kung  
+**Specialitet:** Kung  
 **Citat:**
-_Jag gillar din rumpa! Men inte i mitt ansikte_  
+_Man kan ta en grabb från Gävle, men aldrig en Kung från grabben._  
 
-<img align="right" src="http://dkm.io/images/luciano2.jpg">
-### Luciano Zapata  
-#### Ekonomimästare  
-**Favoritdrink:** Mandelbailey's  
-**Gillar:** Att vara en grönsak  
-**Ogillar:** Allt som är piss  
-**Specialitet:** Hemmafester för DKM som DKM inte vet om  
+<img align="right" src="http://dkm.io/images/george2.jpg">
+### George Bassilious  
+#### Infomästare  
+**Favoritdrink:** Sina egna glas i beerpong  
+**Gillar:** Ruben  
+**Ogillar:** "Gucci Gang" - Lil Pump  
+**Specialitet:** Ordspråk i branschen  
 **Citat:**
-_Jag satt i soffan och bara kollade runt. Sen förstod jag att jag var en grönsak._  
+_Fem myror är större än fler elefanter_  
 
 ## Cliff
 
@@ -126,12 +126,6 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __William Agnér__
   * Vice klubbmästare
   * _Är det här Drottning Fucking-hoppa-av-gatan??_
-* __Henrik Jolérus__
-  * Infomästare
-  * _Bullshit att du har oregano i köttfärssås, det ska du ha på pizza och i grekisk sallad din **idiot!**_
-* __Agnes Forsberg__
-  * Festmästare
-  * _Karriär? Utveckling? Nej, livet handlar om pizzaplats!_
 * __Christine Rosquist__
   * Ekonomimästare
   * _Jag dab:ar inte gratis, lixom._
@@ -141,6 +135,12 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Eva Despinoy__
   * Barmästare
   * _ÖPPNA ALDRIG EN ÖL MED DINA ÖGONBEN!!!_
+* __Agnes Forsberg__
+  * Festmästare
+  * _Karriär? Utveckling? Nej, livet handlar om pizzaplats!_
+* __Henrik Jolérus__
+  * Infomästare
+  * _Bullshit att du har oregano i köttfärssås, det ska du ha på pizza och i grekisk sallad din **idiot!**_
 
 ### Cliff -18
 
