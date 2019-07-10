@@ -11,6 +11,6 @@ Sortiment och annat bar-relaterat?
 
 ## Ansökan till DKM
 
-Vi tar in nya medlemmar en gång per år, vanligtvis på hösten strax efter mottagningen.
+Ansökan öppnar efter mottagningen! Tveka inte på att söka, det är kul!
 
-Ansökningsperioden är över för i år. Sök gärna nästa år!
+
