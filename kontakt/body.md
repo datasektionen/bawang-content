@@ -10,9 +10,8 @@ anledning är du alltid välkommen att kontakta oss:
 E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
 **Näringslivsansvarig**<br />
-Emma Schüldt<br />
+Vakantsatt - kontakta arbetsmarknadsdagsansvariga nedan<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
-076-118 84 26
 
 **Arbetsmarknadsdagsansvariga**<br />
 Victor Sellstedt & Simone de Blasio  <br />
