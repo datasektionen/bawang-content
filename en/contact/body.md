@@ -25,11 +25,11 @@ Visit the [industry group's page](/naringsliv) for more information.
 For general questions, contact our head of communications at:
 
 **Head of communications**<br />
-Felix Almay<br />
+Fe​lix Al​may<br />
 E-mail: [info@d.kth.se](mailto:info@d.kth.se)<br />
 07 242 151 42
 
-For questions regarding datasektionen.se or systems handled by the chapter, contact the chapter's information committee at [ior@d.kth.se](mailto:ior@d.kth.se).
+For questions regarding [datasektionen.se](/) or other systems handled by the chapter, contact the chapter's information committee at [ior@d.kth.se](mailto:ior@d.kth.se).
 
 ## The board
 
