@@ -5,5 +5,5 @@ För att ha koll på vad Baknämnden gör, gilla
 
 #### Bakis
 
-Emma Nimstad <br>
+Amanda Berg <br>
 [bakis@d.kth.se](mailto:bakis@d.kth.se)
