@@ -3,17 +3,17 @@
 Om du har frågor gällande Informationsorganet så kan du kontakta någon av dessa funktionärer!
 
 #### Kommunikatör
-Simone de Blasio
+Felix Almay
 info@d.kth.se
 
 #### Chefredaqtör
-Patric Lantz  
+Martin Jönsson Hyberg
 chefred@d.kth.se
 
 #### Datas Art Director
-Patric Lantz  
+Johan Lam
 dad@d.kth.se
 
 #### Systemansvarig
-Alexander Viklund   
+Alexander Viklund
 d-sys@d.kth.se
