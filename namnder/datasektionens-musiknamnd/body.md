@@ -6,7 +6,7 @@ Datasektionens musiknämnd. Leds av nuvarande Ärkedemoner Luciano Zapata Sanche
 
 ## Replokal
 
-Varje söndag kl 16:30-23:15 har vi en replokalstid på Odenplan! Är man intresserad av att repa så är det bara att slänga iväg ett mail till [arkedemon@d.kth.se](mailto:arkedemon@d.kth.se) för att få ytterligare information. :)
+Varje söndag kl 16:30-23:15 har vi en replokalstid på Söder Mälarstrand! Är man intresserad av att hyra replokalen så är det bara att slänga iväg ett mail till [arkedemon@d.kth.se](mailto:arkedemon@d.kth.se) för att få ytterligare information. :)
 
 ## Prylar
 
