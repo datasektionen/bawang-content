@@ -17,7 +17,7 @@ Kontakta oss om du har frågor om eller kommentarer kring studierna eller studie
 
 Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Beroende på vilket år du går ska du höra av dig till din årskursrepresentant eller masterstudent!
 
-År 1 - Elsa: [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
+År 1 - Elsa och Magnus: [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
 
 År 2 - Sara och Daniel: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
 

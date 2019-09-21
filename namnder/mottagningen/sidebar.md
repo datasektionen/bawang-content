@@ -18,6 +18,22 @@ Olle Hovmark<br />
 [lillebror@d.kth.se](mailto:lillebror@d.kth.se)<br />
 073-834 74 05 
 
+### Det Kongliga Drifveriet
+**Konglig Öfverdrif**, <br />
+Mikael Forsmark<br />
+[ofverdrif@d.kth.se](mailto:ofverdrif@d.kth.se)<br />
+070-424 61 62
+
+**Konglig Direktifdrif**, <br />
+Pontus Broberg <br />
+[direktifdrif@d.kth.se](mailto:direktifdrif@d.kth.se)<br />
+072-035 62 44
+
+**Konglig Indrif**, <br />
+Joar Rutqvist<br />
+[indrif@d.kth.se](mailto:indrif@d.kth.se)<br />
+073-367 94 46 
+
 ### Det Kongliga Doqumenteriet
 **Samdoquise**, <br />
 Olivia Herber<br />
