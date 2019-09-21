@@ -112,7 +112,7 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 
 ### Cliff -19
 
-* __Filip Andersson__
+* __Felix Andersson__
   * Klubbmästare
   * _Jag tog en sniff av Bailey på getsupet_
 * __William Agnér__
@@ -136,7 +136,7 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 
 ### Cliff -18
 
-* __Petrus Brolund__
+* __Pontus Broberg__
   * Klubbmästare
   * _Nu ska jag sätta mig ner och ta ett djup andetag, sedan ta ett djupt biraandetag_
 * __Samuel Hertzberg__
@@ -151,7 +151,7 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Klara Eserstam__
   * Barmästare
   * _Som att man inte slickat på metas golv förut_
-* __Jonathan Rosberg__
+* __Joar Rutqvist__
   * Barmästare
   * _Alltså det finns en fett god drink, du börjar med krossat glas..._
 * __Martin Hyberg__
