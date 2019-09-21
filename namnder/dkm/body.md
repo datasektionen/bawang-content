@@ -34,7 +34,8 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ## Medlemmar
 
-### Tactical-crew Alpha Beta johhhny  
+<img align="right" src="http://dkm.io/images/melvin2.jpg">
+### Melvin Lundqvist  
 #### Klubbmästare  
 **Favoritdrink:** Isacs bubbel  
 **Gillar:** Nudelsoppa  
@@ -43,7 +44,8 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 **Citat:**
 _Burre burre_  
 
-### Sir Builder of Youngshire
+<img align="right" src="http://dkm.io/images/magnus2.jpg">
+### Magnus Lindahl  
 #### Vice Klubbmästare  
 **Favoritdrink:** Leon  
 **Gillar:** Sena efterfester i Kungshamra  
@@ -52,7 +54,8 @@ _Burre burre_
 **Citat:**
 _Tjing!..... Eller va?_  
 
-### Man-sveper the first  
+<img align="right" src="http://dkm.io/images/luciano2.jpg">
+### Luciano Zapata  
 #### Ekonomimästare  
 **Favoritdrink:** Mandelbailey's  
 **Gillar:** Att vara en grönsak  
@@ -61,7 +64,8 @@ _Tjing!..... Eller va?_
 **Citat:**
 _Jag satt i soffan och bara kollade runt. Sen förstod jag att jag var en grönsak._  
 
-###  FinnaBeRich deLUX  
+<img align="right" src="http://dkm.io/images/vilma2">
+### Vilma Jalava  
 #### Ekonomimästare  
 **Favoritdrink:** Moët  
 **Gillar:** "In My Feelings" - Drake  
@@ -70,7 +74,8 @@ _Jag satt i soffan och bara kollade runt. Sen förstod jag att jag var en gröns
 **Citat:**
 _Jag gillar din rumpa! Men inte i mitt ansikte_  
 
-### TrippelTips  
+<img align="right" src="http://dkm.io/images/isabel2.jpg">
+### Isabel Redtzer  
 #### Barmästare  
 **Favoritdrink:** Fan inte vatten  
 **Gillar:** Mentalt tänkande  
@@ -79,7 +84,8 @@ _Jag gillar din rumpa! Men inte i mitt ansikte_
 **Citat:**
 _Skynda på nu, nu blir vi juice!_  
 
-### Shark von Gratisbyxpåse  
+<img align="right" src="http://dkm.io/images/amanda2.jpg">
+### Amanda Krohn  
 #### Barmästare  
 **Favoritdrink:** Vänta, har du inte du fått punsch?  
 **Gillar:** Solidarisk alkoholservering  
@@ -88,7 +94,8 @@ _Skynda på nu, nu blir vi juice!_
 **Citat:**
 _Hajj! Fickfri? Är stoppa/ vill.gärna ha punsch<3_  
 
-### Klanty McKung  
+<img align="right" src="http://dkm.io/images/anton2.jpg">
+### Anton Björklund  
 #### Festmästare  
 **Favoritdrink:** Kung  
 **Gillar:** Kung  
@@ -97,7 +104,8 @@ _Hajj! Fickfri? Är stoppa/ vill.gärna ha punsch<3_
 **Citat:**
 _Man kan ta en grabb från Gävle, men aldrig en Kung från grabben._  
 
-### Folke af Gorg  
+<img align="right" src="http://dkm.io/images/george2.jpg">
+### George Bassilious  
 #### Infomästare  
 **Favoritdrink:** Sina egna glas i beerpong  
 **Gillar:** Ruben  
