@@ -1,6 +1,6 @@
 # DEMON
 
-Datasektionens musiknämnd
+Datasektionens musiknämnd. Leds av nuvarande Ärkedemoner Luciano Zapata Sanchez och Olle Hovmark.
 
 ## För alla musikintresserade på Datasektionen KTH
 
