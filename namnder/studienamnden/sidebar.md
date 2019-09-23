@@ -4,6 +4,6 @@ Frågor om studierna? Tveka inte att kontakta oss!
 
 #### Studienämndens ordförande
 
-Cristian Osorio Bretti
+Elsa Benzinger
 
 [sno@d.kth.se](mailto:sno@d.kth.se)
