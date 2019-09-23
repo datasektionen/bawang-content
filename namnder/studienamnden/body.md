@@ -5,7 +5,7 @@
 Tveka aldrig att kontakta Studienämnden om du har en åsikt eller fråga!
 Du är givetvis alltid välkommen på studienämndsmötena (se [nyhetssidan](/nyheter) för datum).
 
-Studienämnden hjälper till med att föra vidare studenternas åsikter till lärare eller berörda parter på CSC för att förbättra utbildningen. Har du något du vill säga till om kan du antingen kontakta oss i Studienämnden eller komma på ett Studienämndsmöte. Vi svarar även på studenters frågor om studierna alternativt hjälper till att ta reda på vem man kan kontakta för att få svar.
+Studienämnden hjälper till med att föra vidare studenternas åsikter till lärare eller berörda parter på EECS för att förbättra utbildningen. Har du något du vill säga till om kan du antingen kontakta oss i Studienämnden eller komma på ett Studienämndsmöte. Vi svarar även på studenters frågor om studierna alternativt hjälper till att ta reda på vem man kan kontakta för att få svar.
 
 "Vi är här för dig" - Kontakta oss eller kom på ett Studienämndsmöte.
 
@@ -17,13 +17,13 @@ Kontakta oss om du har frågor om eller kommentarer kring studierna eller studie
 
 Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Beroende på vilket år du går ska du höra av dig till din årskursrepresentant eller masterstudent!
 
-År 1 - Elsa och Magnus: [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
+År 1 - Maximiliam [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
 
-År 2 - Sara och Daniel: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
+År 2 - Elsa och Magnus: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
 
-År 3 - Albin och Axel: [ake-3@d.kth.se](mailto:ake-3@d.kth.se)
+År 3 - Sara och Daniel: [ake-3@d.kth.se](mailto:ake-3@d.kth.se)
 
-Master - Abdallah: [master@d.kth.se](mailto:master@d.kth.se)
+Master - Albin och Axel: [master@d.kth.se](mailto:master@d.kth.se)
 
 
 ### Studiemiljö
@@ -38,7 +38,7 @@ Kontakta Studienämndens ordförande om du har någon annan fråga: [sno@d.kth.s
 ## Om studienämnden
 
 Datasektionen har, precis som alla andra sektioner, en studienämnd som arbetar med studiebevakning. Studienämndens huvudsakliga syfte är att bevaka och förbättra utbildningskvaliteten och studiemiljön för sektionens medlemmar på såväl kort som lång sikt.
-För dig innebär det att vi för vidare din åsikt till lärare eller berörda parter på CSC. Du kan komma i kontakt med oss genom mailadresserna ovan eller genom att delta på ett studienämndsmöte. Varje möte meddelas på [nyhetssidan](/nyheter).
+För dig innebär det att vi för vidare din åsikt till lärare eller berörda parter på EECS. Du kan komma i kontakt med oss genom mailadresserna ovan eller genom att delta på ett studienämndsmöte. Varje möte meddelas på [nyhetssidan](/nyheter).
 
 Vi svarar även på studenters frågor om studierna alternativt hjälper till att ta reda på vem man kan kontakta för att få svar.
 
@@ -70,7 +70,7 @@ Studienämndens ordförande (SNO) leder arbetet i Studienämnden samt inom studi
 SNO är intresserad av studenternas åsikter om både utbildningen och Studienämnden, för att kunna utföra det arbete som reglementet sägen. Dessutom kanske just du kan hjälpa oss att ta reda på om vi arbetar med rätt saker i studierelaterade frågor.
 
 ### Programansvarig student
-Programansvarig student (PAS) arbetar tillsammans med Studienämndens ordförande för att förbättra utbildningens kvalitet. PAS ansvarar huvudsakligen för kontakten till lärare samt utbildningsansvariga på CSC-skolan, och arbetar i allmänhet med det mer långsiktiga fokuset i Studienämnden.
+Programansvarig student (PAS) arbetar tillsammans med Studienämndens ordförande för att förbättra utbildningens kvalitet. PAS ansvarar huvudsakligen för kontakten till lärare samt utbildningsansvariga på EECS-skolan, och arbetar i allmänhet med det mer långsiktiga fokuset i Studienämnden.
 
 ### Styrelseledamot för utbildningsfrågor
 Styrelseledamot för utbildningsfrågor (D-UF) verkar för en bättre utbildningskvalitet på sektionen. Tanken är att D-UF ska ha en total bild över utbildningen. Vidare ansvarar ledamoten, D-UF, för kontakten mellan styrelsen och Studienämndens ordförande/Programansvarig student.
@@ -86,6 +86,6 @@ Enligt sektionens reglemente är den huvudsakliga verksamheten att
 * Bevaka och söka förbättra den fysiska och psykosociala studiemiljön
 
 ### Studienämndsmöten
-Studienämndsmöten hålls minst en gång per period. Mötena är öppna för samtliga intresserade sektionsmedlemmar. Man kan alltid ta upp studierelaterade frågor eller Studienämndens verksamhet. Annars diskuterar vi aktuella problem i kurser, och funktionärerna berättar vad de gjort sedan föregående möte.
+Studienämnden har lunchmöte varannan vecka. Mötena är öppna för samtliga intresserade sektionsmedlemmar. Man kan alltid ta upp studierelaterade frågor eller Studienämndens verksamhet. Annars diskuterar vi aktuella problem i kurser, och funktionärerna berättar vad de gjort sedan föregående möte.
 
 Tidigare mötesprotokoll hittas [här](https://drive.google.com/drive/folders/0B5oC_KdJBCU7amRQb3RFb3VQbzg)
