@@ -15,16 +15,17 @@ DKM är Datas Klubbmästeri. Det är vi som ser till att ni dataloger har möjli
 
 ## Vad gör vi?
 
-Varje onsdag har ni möjlighet att avnjuta en kall öl/cider/drink/alkoholfritt alternativ tillsammans med god och prisvärd mat i META. Puben öppnar 17:17 och håller på tills gäster eller personal fått nog. Passa på att ta ett avbrott från labbandet och svänga förbi META en onsdag. Första onsdagspuben i månaden har vi dessutom temapub med nya och roliga teman varje gång, missa inte!
+Varje onsdag har ni möjlighet att avnjuta en kall öl/cider/drink/alkoholfritt alternativ tillsammans med god och prisvärd mat i META. Puben öppnar 17:17 och håller på tills gäster eller personal fått nog. Passa på att ta ett avbrott från labbandet och svänga förbi META en onsdag. Vanligtvis första onsdagspuben efter csn-utbetalning har vi dessutom temapub med nya och roliga teman varje gång, missa inte!
 
 Efter tentaperioderna behöver man slappna av och ta en paus en kort stund innan man tar itu med pluggandet igen. Vad passar väl då bättre än en tentapub? DKM anordnar två tentapubar per år, Medias Klubbmästeri tar hand om de andra två. Vi har campus bästa läge och campus bästa spritbar, och du – vi tar kort!
 
 Utöver onsdagspubarna har vi även ett par större event:
 
 - **Reclaim**, direkt efter mottagningen, en fet fest för att fira att DKM tar tillbaka spritförrådet.
+- **DPR**, någon gång under hösten, en fest som vi håller tillsammans med våra vänner i ClubWästeriet, med nytt tema varje år!
 - **dJulmiddagen**, strax innan jul, där ni får chansen att äta ett riktigt fett julbord tillsammans med era vänner på sektionen.
 - **Plums**, någon gång under vintern, vi fixar ett helt badhus med fullt serveringstillstånd och slänger in 300 glada gäster.
-- **DPR**, någon gång under våren, en fest som vi håller tillsammans med våra vänner i ClubWästeriet, med nytt tema varje år!
+
 
 ## Facebook!
 

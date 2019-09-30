@@ -4,13 +4,13 @@ Tveka inte på att kontakta oss!
 **Hela DKM:** [dkm@d.kth.se](mailto:dkm@d.kth.se)  
 
 Klagomål, komplimanger, gåvor?  
-**Klubbmästare:**  [klubbm@dkm.io](mailto:klubbm@dkm.io)
+**Klubbmästare:**  [klubbm@d.kth.se](mailto:klubbm@d.kth.se)
 
 Sortiment och annat bar-relaterat?  
-**Barmästare** [barm@dkm.io](mailto:barm@dkm.io)
+**Barmästare** [barm@d.kth.se](mailto:barm@d.kth.se)
 
 ## Ansökan till DKM
 
-Ansökan öppnar efter mottagningen! Tveka inte på att söka, det är kul!
+Vi brukar vanligtvis ta in nya medlemmar på hösten. Ansökan har öppet tills den 2/10 och man söker på dkm.io/ansok! Sök! Det är kul! <>
 
 
