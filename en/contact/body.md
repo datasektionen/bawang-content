@@ -8,14 +8,14 @@ The industry group handles the chapter's contacts with companies. You can always
 E-mail: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
 **Head of business relations**<br />
-Andreas Heiskanen<br />
+Vacant - contact the heads of D-Dagen<br />
 E-mail: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
-070-59 22 399
 
-**Head of D-Dagen**<br />
-Linn Jensen<br />
+**Heads of D-Dagen**<br />
+Victor Sellstedt & Simone de Blasio<br />
 E-mail: [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)<br />
-076-250 92 00
+070-865 02 09<br />
+072-932 06 89
 
 Visit the [industry group's page](/naringsliv) for more information.
 
@@ -25,20 +25,20 @@ Visit the [industry group's page](/naringsliv) for more information.
 For general questions, contact our head of communications at:
 
 **Head of communications**<br />
-Johan Käck<br />
+Fe​lix Al​may<br />
 E-mail: [info@d.kth.se](mailto:info@d.kth.se)<br />
-076-230 78 67
+07 242 151 42
 
-For questions regarding datasektionen.se or systems handled by the chapter, contact the chapter's information committee at [ior@d.kth.se](mailto:ior@d.kth.se).
+For questions regarding [datasektionen.se](/) or other systems handled by the chapter, contact the chapter's information committee at [ior@d.kth.se](mailto:ior@d.kth.se).
 
 ## The board
 
 For questions regarding the chapter's organisation, contact the board at [drek@d.kth.se](mailto:drek@d.kth.se). You can also contact the head of the chapter directly at:
 
 **Head of the Computer Science Chapter**<br />
-Alexander Viklund<br />
+Ävelin Pantigoso<br />
 E-mail: [ordf@d.kth.se](mailto:ordf@d.kth.se)<br />
-076-015 61 42
+076-125 74 00
 
 ## Chapter details
 

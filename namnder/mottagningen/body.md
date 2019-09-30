@@ -7,9 +7,9 @@ Sektionen samlas sig till försvar. Piskbeprydda Västar, Vita Snuttefiltar, All
 
 ## Schema
 
-Under Mottagningen gäller följande schema. Ett tips är att lägga till schemat i din egen kalender, via den <a href="" target="_blank">här iCal-länken (kommer snart!)</a> som fungerar med de flesta kalenderapplikationer. Om du använder Google Calendar kan du trycka på länken nere i kalenderns högra hörn.
-Länk för prenumeration: (kommer snart!)
-Kalendern kommer också visas här.
+Under Mottagningen gäller följande schema. Ett tips är att lägga till schemat i din egen kalender, via den <a href="https://calendar.google.com/calendar/ical/euvn9oje1io3kenslrd197c348%40group.calendar.google.com/public/basic.ics" target="_blank">här iCal-länken</a> som fungerar med de flesta kalenderapplikationer. Om du använder Google Calendar kan du trycka på länken nere i kalenderns högra hörn.			 
+ 			
+ <iframe src="https://calendar.google.com/calendar/embed?src=euvn9oje1io3kenslrd197c348%40group.calendar.google.com&ctz=Europe%2FStockholm" style="border-width:0" width="600" height="600" frameborder="0" scrolling="no"></iframe>	
 
 ## Mottagningens grenar
 
