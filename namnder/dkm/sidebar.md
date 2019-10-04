@@ -11,4 +11,4 @@ Sortiment och annat bar-relaterat?
 
 ## Ansökan till DKM
 
-Vi brukar vanligtvis ta in nya medlemmar på hösten. Ansökan har öppet tills den 2/10 och man söker på dkm.io/ansok! Sök! Det är kul! <>
+Vi brukar vanligtvis ta in nya medlemmar på hösten. Ansökan för dkm 19/20 har stängt!
