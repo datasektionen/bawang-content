@@ -12,6 +12,7 @@ Verksamhetsplan
 Verksamhetsplan för projekt
 ---------------------------
 
+-   [Project Pride](https://static.datasektionen.se/verksamhetsplaner/vp_project_pride_2019)
 -   [dÅre 2020](https://static.datasektionen.se/verksamhetsplaner/vp_dare_2020.pdf)
 -   [METAspexet 2020](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_1920.pdf)
 -   [Studs 2020](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2020)
