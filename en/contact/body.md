@@ -8,7 +8,7 @@ The industry group handles the chapter's contacts with companies. You can always
 E-mail: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
 **Head of business relations**<br />
-Vacant - contact the heads of D-Dagen<br />
+Eric Fredin Haslum<br />
 E-mail: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
 
 **Heads of D-Dagen**<br />
