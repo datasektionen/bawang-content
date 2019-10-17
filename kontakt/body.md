@@ -10,7 +10,7 @@ anledning är du alltid välkommen att kontakta oss:
 E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
 **Näringslivsansvarig**<br />
-Vakantsatt - kontakta arbetsmarknadsdagsansvariga nedan<br />
+Eric Fredin Haslum<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
 
 **Arbetsmarknadsdagsansvariga**<br />
@@ -28,7 +28,7 @@ Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivss
 För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 
 **Kommunikatör**<br />
-Felix Almay<br />
+Fel​ix Alm​ay<br />
 E-post: [info@d.kth.se](mailto:info@d.kth.se)<br />
 07 242 151 42
 
