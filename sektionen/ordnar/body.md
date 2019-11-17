@@ -50,6 +50,7 @@ Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig s
 
 Valspråk: Ensam är stark. Tillsammans är vi bara många.
 
+    Mikael Forsmark, Duotricesimus 2019
     Josefin Nilsson, Tricesimus Tertia 2018
     Shapour Jahanshahi, Untricesimus 2017
     Hanna Nyblom, Tricesima 2016
@@ -92,6 +93,7 @@ Medlemskap i Storasyskon Emeritus-orden tilldelas de Storasyskon som förtjänst
 
 Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
 
+    Emil Lindblom, Duotricesimus 2019
     Cristian Osorio Bretti, Tricesimus Tertius 2018
     Jonas Dahl, Untricesimus 2017
     Agnes Åman, Untricesima 2016
@@ -144,6 +146,7 @@ Ordenstecknet för Ordförande Emeritus består av en störtad femuddig stjärna
 
 Valspråk: Det är faktiskt vi som bestämmer.
 
+    Victor Sellstedt, Tricesimus Quartus 2018
     Alexander Viklund, Duotricesimus 2017
     Henrik Johansson, Untricesimus 2016
     Lovisa Runhem, Tricesima 2015
