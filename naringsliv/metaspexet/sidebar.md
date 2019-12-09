@@ -1,5 +1,5 @@
 ### Metaspexet
-}
+
 
 **E-post [direqtionen@metaspexet.se](mailto:direqtionen@metaspexet.se)**
 
