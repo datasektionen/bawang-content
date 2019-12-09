@@ -336,7 +336,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 19/11 [Ett Glädjefyllt-DM](https://static.datasektionen.se/protokoll/ett_gladjefyllt_dm_2018)
 
-5/11 [Ett Intilligande-DM](https://static.datasektionen.se/protokoll/ett_intilliggande_dm_2018)
+5/11 [Ett Intilliggande-DM](https://static.datasektionen.se/protokoll/ett_intilliggande_dm_2018)
 
 28/10 [Ett Budgeterat-DM](https://static.datasektionen.se/protokoll/ett_budgeterat_dm_2018)
 
