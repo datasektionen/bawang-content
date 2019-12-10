@@ -1,5 +1,5 @@
 ## Studs 2020
-Besök vår hemsida: [studs.se](https://www.studs.se)<br><br>
+Besök vår hemsida: [studs.se](www.studs.se)<br><br>
 #### Företag?
 Om ni är intresserade och vill veta mer, kontakt vår säljansvarige Cristian på cristian@studs.se
 #### Student?
