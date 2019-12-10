@@ -1,6 +1,6 @@
 ### Kontakta Mottagningen
 
-Tveka inte att höra av dig till oss med frågor
+Tveka inte att höra av dig till oss med frågor:
 
 **Epost:** [titel@d.kth.se](mailto:titel@d.kth.se)
 
