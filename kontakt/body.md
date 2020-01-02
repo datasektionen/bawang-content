@@ -41,9 +41,9 @@ D-rektoratet, på adressen [drek@d.kth.se](mailto:drek@d.kth.se). Du kan
 även kontakta Datasektionens Ordförande direkt:
 
 **Ordförande**<br />
-Ävelin Pantigoso<br />
+Niklas Vatn<br />
 E-post: [ordf@d.kth.se](mailto:ordf@d.kth.se)<br />
-[076-125 74 00](tel:076-1257400)
+[+46 72 905 74 91](tel: +46 72 905 74 91)
 
 ## Sektionsinformation
 
