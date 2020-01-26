@@ -37,9 +37,9 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 <img align="right" src="http://dkm.io/images/melvin3.jpg">
 ### Melvin Lundqvist  
-#### Klubbmästare  
+#### Klubbmästare    
 **Favoritdrink:** Isacs bubbel  
-**Gillar:** Alpha johnny aka. AJ
+**Gillar:** Alpha johnny aka. AJ  
 **Ogillar:** Att gör sig förstådd i slutet av kvällen  
 **Specialitet:** Tappa bort Alpha johnny  
 **Citat:**
@@ -48,49 +48,49 @@ _Den som snackar skit om Alpha-johnny har ingen morgondag!_
 <img align="right" src="http://dkm.io/images/magnus.jpg">
 ### Magnus Lindahl  
 #### Vice Klubbmästare  
-**Favoritdrink:** Brook ipa 
-**Gillar:** Dank memes
-**Ogillar:** Folk som inte beter sig (i META)
-**Specialitet:** Reparationer, Uppgraderingar och typ allt annat
+**Favoritdrink:** Brook ipa  
+**Gillar:** Dank memes  
+**Ogillar:** Folk som inte beter sig (i META)  
+**Specialitet:** Reparationer, Uppgraderingar och typ allt annat  
 **Citat:**
 _Jag är medveten, jag kan bara inte röra mig._  
 
-<img align="right" src="http://dkm.io/images/luciano2.jpg">
+<img align="right" src="http://dkm.io/images/luciano.jpg">
 ### Luciano Zapata  
 #### Ekonomimästare  
-**Favoritdrink:** Varannan alkohol 
+**Favoritdrink:** Varannan alkohol  
 **Gillar:** Att vara en grönsak  
 **Ogillar:** Allt som är piss  
 **Specialitet:** Hemmafester för DKM som DKM inte vet om  
 **Citat:**
 _varannan vatten är ju också varannan alk!_  
 
-<img align="right" src="http://dkm.io/images/vilma2">
+<img align="right" src="http://dkm.io/images/vilma2.jpg">
 ### Vilma Jalava  
 #### Ekonomimästare  
 **Favoritdrink:** Moët  
-**Gillar:** Pengar
+**Gillar:** Pengar  
 **Ogillar:** Fake bitches  
-**Specialitet:** Lyfta folk
+**Specialitet:** Lyfta folk  
 **Citat:**
 _Om inte jag flyger full, flyger jag fel._  
 
 <img align="right" src="http://dkm.io/images/issa.jpg">
 ### Isabel Redtzer  
 #### Barmästare  
-**Favoritdrink:** Big wave
-**Gillar:** Att vara SA
-**Ogillar:** Förlust 
+**Favoritdrink:** Big Wave  
+**Gillar:** Att vara SA  
+**Ogillar:** Förlust  
 **Specialitet:** Att vara taggad när ingen annan är det  
 **Citat:**
 _Jag kan inte dricka med näsan._  
 
-<img align="right" src="http://dkm.io/images/amanda2.jpg">
+<img align="right" src="http://dkm.io/images/amanda.jpg">
 ### Amanda Krohn  
 #### Barmästare  
 **Favoritdrink:** Vänta, har du inte du fått punsch?  
-**Gillar:** Solidarisk alkoholservering  
-**Ogillar:** Dålig sikt i skidbacken  
+**Gillar:** Katter  
+**Ogillar:** Träningsvärk  
 **Specialitet:** Att skriva sig ur ett barstopp  
 **Citat:**
 _Hajj! Fickfri? Är stoppa/ vill.gärna ha punsch<3_  
@@ -100,90 +100,90 @@ _Hajj! Fickfri? Är stoppa/ vill.gärna ha punsch<3_
 #### Festmästare  
 **Favoritdrink:** Kung  
 **Gillar:** Kung  
-**Ogillar:** Att Slick City stängt ner 
-**Specialitet:** Rolig Bong
+**Ogillar:** Att Slick City stängt ner  
+**Specialitet:** Rolig Bongar  
 **Citat:**
 _Man kan ta en grabb från Gävle, men aldrig en Kung från grabben._  
 
-<img align="right" src="http://dkm.io/images/george2.jpg">
+<img align="right" src="http://dkm.io/images/george.jpg">
 ### George Bassilious  
 #### Infomästare  
-**Favoritdrink:** Peroni i sina egna beerpong glas
+**Favoritdrink:** Peroni i sina egna beerpong glas  
 **Gillar:** TikTok  
-**Ogillar:** Maskinerna som tar över  
+**Ogillar:** "Gucci Gang" - Lil Pump  
 **Specialitet:** Ordspråk i branschen  
 **Citat:**
 _Varje förlust är bara avsaknad av vinst._  
 
 <img align="right" src="http://dkm.io/images/henrik.jpg">
-### Henrik Niss 
+### Henrik Niss  
 #### TestoKnatte  
 **Favoritdrink:** Goldstrike 50%  
-**Gillar:** Hitta på goda drinkar
-**Ogillar:** Stark mat
-**Specialitet:** Musikaliskt geni
+**Gillar:** Hitta på goda drinkar  
+**Ogillar:** Stark mat  
+**Specialitet:** Musikaliskt geni  
 **Citat:**
-_lite glögg är doping i skridskovärlden._ 
+_lite glögg är doping i skridskovärlden._  
 
 <img align="right" src="http://dkm.io/images/axel.jpg">
-### Axel Kaliff 
-#### VloggarKnatte
-**Favoritdrink:** The turtles are bleeding (patent pending)   
-**Gillar:**  Att Skratta
-**Ogillar:** Lappleken
-**Specialitet:** Legendariska snapchatvloggar
+### Axel Kaliff  
+#### VloggarKnatte  
+**Favoritdrink:** The turtles are bleeding (patent pending)  
+**Gillar:**  Att Dansa  
+**Ogillar:** Lappleken  
+**Specialitet:** Legendariska snapchatvloggar  
 **Citat:**
-_Gör vad du vill med ditt pubishår._
+_Gör vad du vill med ditt pubishår._  
 
 <img align="right" src="http://dkm.io/images/lotta.jpg">
-### Lotta Johnsson
-#### VinnarskalleKnatte
-**Favoritdrink:** Rimliga bois av punsch   
-**Gillar:** Att vinna
-**Ogillar:** Att förlora
-**Specialitet:** Sänka sina motståndare
+### Lotta Johnsson  
+#### VinnarskalleKnatte  
+**Favoritdrink:** Rimliga bois av punsch  
+**Gillar:** Att vinna  
+**Ogillar:** Att förlora  
+**Specialitet:** Sänka sina motståndare  
 **Citat:**
-_Det här är ändå en rimlig boi._
+_Det här är ändå en rimlig boi._  
 
 <img align="right" src="http://dkm.io/images/bror2.jpg">
-### Bror Sebastian Sjövald
-#### OpenKnatte
-**Favoritdrink:** FishShot 
-**Gillar:** Att vara vaken
-**Ogillar:** Avspärrningsnät i Åre
-**Specialitet:** Aldrig sova
+### Bror Sebastian Sjövald  
+#### OpenKnatte  
+**Favoritdrink:** FishShot  
+**Gillar:** Att vara vaken  
+**Ogillar:** Avspärrningsnät i Åre  
+**Specialitet:** Aldrig sova  
 **Citat:**
-_Tror du man blir utvilad av kloroform?_
+_Tror du man blir utvilad av kloroform?_  
 
-<img align="right" src="http://dkm.io/images/george2.jpg">
-### Jennifer Larsson
-#### SmatteKnatte
-**Favoritdrink:** Fine Wine 
-**Gillar:** Ost på Pasta
-**Ogillar:** Systembolagets åldersgränser
-**Specialitet:** 
+<img align="right" src="http://dkm.io/images/jennifer.jpg">
+### Jennifer Larsson  
+#### SmatteKnatte  
+**Favoritdrink:** Fine Wine   
+**Gillar:** Ost på Pasta  
+**Ogillar:** Systembolagets åldersgränser  
+**Specialitet:** Vinexpert
 **Citat:**
 _JAG VILL INTE VA SMATTE!_
 
 <img align="right" src="http://dkm.io/images/samuel.jpg">
-### Samuel Peetre
-#### DiCaprioKnatte
-**Favoritdrink:** P3
-**Gillar:** Paris
-**Ogillar:** Missa nattbussen
-**Specialitet:** Skådespelarking
+### Samuel Peetre  
+#### DiCaprioKnatte  
+**Favoritdrink:** P3  
+**Gillar:** Paris  
+**Ogillar:** Missa nattbussen  
+**Specialitet:** Skådespelarking  
 **Citat:**
-_Rosor är röda, cider är gott, jag vill ha öl._
+_Rosor är röda, cider är gott, jag vill ha öl._  
 
 <img align="right" src="http://dkm.io/images/maria.jpg">
-### Maria Elena Petterson
-#### KändisKnatte
+### Maria Elena Petterson  
+#### KändisKnatte  
 **Favoritdrink:** Garage  
-**Gillar:** Edvard Blom
-**Ogillar:** Olena bebisar
-**Specialitet:** Viral på typ alla sociala medier
+**Gillar:** Edvard Blom  
+**Ogillar:** Olena bebisar  
+**Specialitet:** Viral på typ alla sociala medier  
 **Citat:**
-_Absolut det är lent, men bebisar är lena._
+_Absolut det är lent, men bebisar är lena._  
  
 
 ## Cliff
