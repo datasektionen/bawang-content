@@ -35,55 +35,55 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ## Medlemmar
 
-<img align="right" src="http://dkm.io/images/melvin2.jpg">
+<img align="right" src="http://dkm.io/images/melvin3.jpg">
 ### Melvin Lundqvist  
 #### Klubbmästare  
 **Favoritdrink:** Isacs bubbel  
-**Gillar:** Nudelsoppa  
+**Gillar:** Alpha johnny aka. AJ
 **Ogillar:** Att gör sig förstådd i slutet av kvällen  
-**Specialitet:** Egenbenämnda dekorationer av spritflaskor  
+**Specialitet:** Tappa bort Alpha johnny  
 **Citat:**
-_Burre burre_  
+_Den som snackar skit om Alpha-johnny har ingen morgondag!_  
 
-<img align="right" src="http://dkm.io/images/magnus2.jpg">
+<img align="right" src="http://dkm.io/images/magnus.jpg">
 ### Magnus Lindahl  
 #### Vice Klubbmästare  
-**Favoritdrink:** Leon  
-**Gillar:** Sena efterfester i Kungshamra  
-**Ogillar:** Offentlig klacksång  
-**Specialitet:** Reparationer och uppgraderingar  
+**Favoritdrink:** Brook ipa 
+**Gillar:** Dank memes
+**Ogillar:** Folk som inte beter sig (i META)
+**Specialitet:** Reparationer, Uppgraderingar och typ allt annat
 **Citat:**
-_Tjing!..... Eller va?_  
+_Jag är medveten, jag kan bara inte röra mig._  
 
 <img align="right" src="http://dkm.io/images/luciano2.jpg">
 ### Luciano Zapata  
 #### Ekonomimästare  
-**Favoritdrink:** Mandelbailey's  
+**Favoritdrink:** Varannan alkohol 
 **Gillar:** Att vara en grönsak  
 **Ogillar:** Allt som är piss  
 **Specialitet:** Hemmafester för DKM som DKM inte vet om  
 **Citat:**
-_Jag satt i soffan och bara kollade runt. Sen förstod jag att jag var en grönsak._  
+_varannan vatten är ju också varannan alk!_  
 
 <img align="right" src="http://dkm.io/images/vilma2">
 ### Vilma Jalava  
 #### Ekonomimästare  
 **Favoritdrink:** Moët  
-**Gillar:** "In My Feelings" - Drake  
+**Gillar:** Pengar
 **Ogillar:** Fake bitches  
-**Specialitet:** Toalettinspektion  
+**Specialitet:** Lyfta folk
 **Citat:**
-_Jag gillar din rumpa! Men inte i mitt ansikte_  
+_Om inte jag flyger full, flyger jag fel._  
 
-<img align="right" src="http://dkm.io/images/isabel2.jpg">
+<img align="right" src="http://dkm.io/images/issa.jpg">
 ### Isabel Redtzer  
 #### Barmästare  
-**Favoritdrink:** Fan inte vatten  
-**Gillar:** Mentalt tänkande  
-**Ogillar:** Vatten  
+**Favoritdrink:** Big wave
+**Gillar:** Att vara SA
+**Ogillar:** Förlust 
 **Specialitet:** Att vara taggad när ingen annan är det  
 **Citat:**
-_Skynda på nu, nu blir vi juice!_  
+_Jag kan inte dricka med näsan._  
 
 <img align="right" src="http://dkm.io/images/amanda2.jpg">
 ### Amanda Krohn  
@@ -95,25 +95,96 @@ _Skynda på nu, nu blir vi juice!_
 **Citat:**
 _Hajj! Fickfri? Är stoppa/ vill.gärna ha punsch<3_  
 
-<img align="right" src="http://dkm.io/images/anton2.jpg">
+<img align="right" src="http://dkm.io/images/anton.jpg">
 ### Anton Björklund  
 #### Festmästare  
 **Favoritdrink:** Kung  
 **Gillar:** Kung  
-**Ogillar:** Bussresor utan Kung  
-**Specialitet:** Kung  
+**Ogillar:** Att Slick City stängt ner 
+**Specialitet:** Rolig Bong
 **Citat:**
 _Man kan ta en grabb från Gävle, men aldrig en Kung från grabben._  
 
 <img align="right" src="http://dkm.io/images/george2.jpg">
 ### George Bassilious  
 #### Infomästare  
-**Favoritdrink:** Sina egna glas i beerpong  
-**Gillar:** Ruben  
-**Ogillar:** "Gucci Gang" - Lil Pump  
+**Favoritdrink:** Peroni i sina egna beerpong glas
+**Gillar:** TikTok  
+**Ogillar:** Maskinerna som tar över  
 **Specialitet:** Ordspråk i branschen  
 **Citat:**
-_Fem myror är större än fler elefanter_  
+_Varje förlust är bara avsaknad av vinst._  
+
+<img align="right" src="http://dkm.io/images/henrik.jpg">
+### Henrik Niss 
+#### TestoKnatte  
+**Favoritdrink:** Goldstrike 50%  
+**Gillar:** Hitta på goda drinkar
+**Ogillar:** Stark mat
+**Specialitet:** Musikaliskt geni
+**Citat:**
+_lite glögg är doping i skridskovärlden._ 
+
+<img align="right" src="http://dkm.io/images/axel.jpg">
+### Axel Kaliff 
+#### VloggarKnatte
+**Favoritdrink:** The turtles are bleeding (patent pending)   
+**Gillar:**  Att Skratta
+**Ogillar:** Lappleken
+**Specialitet:** Legendariska snapchatvloggar
+**Citat:**
+_Gör vad du vill med ditt pubishår._
+
+<img align="right" src="http://dkm.io/images/lotta.jpg">
+### Lotta Johnsson
+#### VinnarskalleKnatte
+**Favoritdrink:** Rimliga bois av punsch   
+**Gillar:** Att vinna
+**Ogillar:** Att förlora
+**Specialitet:** Sänka sina motståndare
+**Citat:**
+_Det här är ändå en rimlig boi._
+
+<img align="right" src="http://dkm.io/images/bror2.jpg">
+### Bror Sebastian Sjövald
+#### OpenKnatte
+**Favoritdrink:** FishShot 
+**Gillar:** Att vara vaken
+**Ogillar:** Avspärrningsnät i Åre
+**Specialitet:** Aldrig sova
+**Citat:**
+_Tror du man blir utvilad av kloroform?_
+
+<img align="right" src="http://dkm.io/images/george2.jpg">
+### Jennifer Larsson
+#### SmatteKnatte
+**Favoritdrink:** Fine Wine 
+**Gillar:** Ost på Pasta
+**Ogillar:** Systembolagets åldersgränser
+**Specialitet:** 
+**Citat:**
+_JAG VILL INTE VA SMATTE!_
+
+<img align="right" src="http://dkm.io/images/samuel.jpg">
+### Samuel Peetre
+#### DiCaprioKnatte
+**Favoritdrink:** P3
+**Gillar:** Paris
+**Ogillar:** Missa nattbussen
+**Specialitet:** Skådespelarking
+**Citat:**
+_Rosor är röda, cider är gott, jag vill ha öl._
+
+<img align="right" src="http://dkm.io/images/maria.jpg">
+### Maria Elena Petterson
+#### KändisKnatte
+**Favoritdrink:** Garage  
+**Gillar:** Edvard Blom
+**Ogillar:** Olena bebisar
+**Specialitet:** Viral på typ alla sociala medier
+**Citat:**
+_Absolut det är lent, men bebisar är lena._
+ 
 
 ## Cliff
 
@@ -129,13 +200,13 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
   * _Är det här Drottning Fucking-hoppa-av-gatan??_
 * __Christine Rosquist__
   * Ekonomimästare
-  * _Jag dab:ar inte gratis, lixom._
+  * _Jag hörde inte vad dom sa, jag är liksom lite full._
 * __Philip Song__
   * Ekonomimästare
   * _Jag vann över Jesus på gokart, och sen åkte vi moppe._
 * __Eva Despinoy__
   * Barmästare
-  * _ÖPPNA ALDRIG EN ÖL MED DINA ÖGONBEN!!!_
+  * _Jag är hellre snygg och sur än ful och skrattig._
 * __Agnes Forsberg__
   * Festmästare
   * _Karriär? Utveckling? Nej, livet handlar om pizzaplats!_
