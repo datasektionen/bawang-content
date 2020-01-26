@@ -5,7 +5,10 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ## Sektionsmöten, SM
 ###2019
+
 24/1 [Extra-SM](https://static.datasektionen.se/protokoll/extra_sm_2019)
+
+28/11 [Glögg-SM](https://static.datasektionen.se/protokoll/glogg_sm_2019)
 
 ###2018
 
@@ -324,13 +327,19 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 ###2019
 21/2 [Ett Disk-å-DM](https://static.datasektionen.se/protokoll/ett_diska_dm_2019)
 
+11/4 [Ett Länkskatt-DM](https://static.datasektionen.se/protokoll/link_tax_dm_2019)
+
+5/9 [Kursstarts-DM](https://static.datasektionen.se/protokoll/kursstarts_dm_2019)
+
+24/10 [Nalle Puh-DM](https://static.datasektionen.se/protokoll/nalle_puh_dm_2019)
+
 ###2018
 
 6/12 [Ett Flygande-DM](https://static.datasektionen.se/protokoll/ett_flygande_dm_2018)
 
 19/11 [Ett Glädjefyllt-DM](https://static.datasektionen.se/protokoll/ett_gladjefyllt_dm_2018)
 
-5/11 [Ett Intilligande-DM](https://static.datasektionen.se/protokoll/ett_intilliggande_dm_2018)
+5/11 [Ett Intilliggande-DM](https://static.datasektionen.se/protokoll/ett_intilliggande_dm_2018)
 
 28/10 [Ett Budgeterat-DM](https://static.datasektionen.se/protokoll/ett_budgeterat_dm_2018)
 

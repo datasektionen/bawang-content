@@ -3,45 +3,45 @@
 Vi som är ansvariga för Mottagningen kallas för Titel. Vill du kontakta oss kan du skicka ett mail till [titel@d.kth.se](mailto:titel@d.kth.se). Vill du kontakta en specifik person finns kontaktuppgifter nedan.
 
 ### Det Kongliga Dadderiet 
-**Storebror**, <br />
-Emil Lindblom<br />
-[storebror@d.kth.se](mailto:storebror@d.kth.se)<br />
-073-984 67 73
+**Storasyster**, <br />
+Lisa Håkansson<br />
+[storasyster@d.kth.se](mailto:storasyster@d.kth.se)<br />
+070-773 90 33
 
 **Lillasyster**, <br />
-Lisa Håkansson<br />
+Sinéad Eriksson<br />
 [lillasyster@d.kth.se](mailto:lillasyster@d.kth.se)<br />
-076-050 40 98
+070-630 07 96
 
 **Lillebror**, <br />
-Olle Hovmark<br />
-[lillebror@d.kth.se](mailto:lillebror@d.kth.se)<br />
-073-834 74 05 
+William Agnér<br />
+[lillebror@d.kth.se](mailto:lillebror@d.kth.se)<br /> 
+072-201 70 12
 
 ### Det Kongliga Drifveriet
 **Konglig Öfverdrif**, <br />
-Mikael Forsmark<br />
+Joar Rutqvist<br />
 [ofverdrif@d.kth.se](mailto:ofverdrif@d.kth.se)<br />
-070-424 61 62
+073-367 94 46
 
 **Konglig Direktifdrif**, <br />
-Pontus Broberg <br />
+Isabel Redtzer <br />
 [direktifdrif@d.kth.se](mailto:direktifdrif@d.kth.se)<br />
-072-035 62 44
+070-868 05 88
 
 **Konglig Indrif**, <br />
-Joar Rutqvist<br />
+Amanda Krohn<br />
 [indrif@d.kth.se](mailto:indrif@d.kth.se)<br />
-073-367 94 46 
+070-882 17 74 
 
 ### Det Kongliga Doqumenteriet
 **Samdoquise**, <br />
-Olivia Herber<br />
+Vilma Jalava<br />
 [samdoquise@d.kth.se](mailto:samdoquise@d.kth.se)<br />
-076-357 05 00
+079-347 58 50
 
-### Det Kongliga Mammeriet
-**Mamma**, <br />
-Klara Eserstam<br />
-[mamma@d.kth.se](mailto:mamma@d.kth.se)<br />
-073-048 45 50 
+### Det Kongliga Quisineriet
+**Storquisine**, <br />
+Agnes Forsberg<br />
+[titel@d.kth.se](mailto:titel@d.kth.se)<br />
+079-348 30 09 

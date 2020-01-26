@@ -10,14 +10,14 @@ anledning är du alltid välkommen att kontakta oss:
 E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
 **Näringslivsansvarig**<br />
-Vakantsatt - kontakta arbetsmarknadsdagsansvariga nedan<br />
+Eric Fredin Haslum<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
 
 **Arbetsmarknadsdagsansvariga**<br />
 Victor Sellstedt & Simone de Blasio  <br />
 E-post: [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)<br />
-070-865 02 09 <br />
-072-932 06 89 
+[070-865 02 09](tel:070-8650209) <br />
+[072-932 06 89](tel:072-9320689)
 
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
@@ -28,9 +28,9 @@ Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivss
 För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 
 **Kommunikatör**<br />
-Felix Almay<br />
+Fel​ix Alm​ay<br />
 E-post: [info@d.kth.se](mailto:info@d.kth.se)<br />
-07 242 151 42
+[07 242 151 42](tel:0724215142)
 
 Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Datasektionens Informationsorgan, IOR, på adressen [ior@d.kth.se](mailto:ior@d.kth.se).
 
@@ -41,9 +41,9 @@ D-rektoratet, på adressen [drek@d.kth.se](mailto:drek@d.kth.se). Du kan
 även kontakta Datasektionens Ordförande direkt:
 
 **Ordförande**<br />
-Ävelin Pantigoso<br />
+Niklas Vatn<br />
 E-post: [ordf@d.kth.se](mailto:ordf@d.kth.se)<br />
-076-125 74 00 
+[+46 72 905 74 91](tel: +46 72 905 74 91)
 
 ## Sektionsinformation
 

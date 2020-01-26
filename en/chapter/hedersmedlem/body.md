@@ -5,6 +5,7 @@ An honorary member is a person that has especially supported the chapters intere
 
 ## Members
 
+-   Örjan Ekeberg, Programansvarig Datateknik, 2019
 -   Helen Lindkvist, Student counselor Media technology, 2015
 -   Alicja Lissenko, Student counselor Computer science, 2015
 -   Kjelle och Heidi, Wardens, 2015
@@ -18,6 +19,10 @@ An honorary member is a person that has especially supported the chapters intere
 -   Stefan Östlund, Electrical engineering, 1983
 -   Katrin Rosenqvist, Engineering physics, 1983
 -   Johan Groth, Engineering physics, 1983
+
+### Örjan Ekeberg
+
+Örjan Ekeberg har varit programansvarig i flera år och aktivt arbetat med att förbättra programmet för oss alla. Han har alltid haft studenternas bästa i åtanke och gjort allt han kunnat för att få skolsammanslagningen att bli så bra som möjligt. Han har även ställt upp för Mottagningen i flera år och firat sina bemärkelsedagar med oss. Med detta kan man utan tvekan säga att Örjan förtjänar vara hedersmedlem hos Datasektionen.
 
 ### Helen Lindkvist och Alicja Lissenko
 

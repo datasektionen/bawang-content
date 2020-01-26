@@ -1954,3 +1954,48 @@ sektionen.
 <em>Anette Gunnarsson</em> har som sektionens "ständige sekreterare"och
 sedemera vice.ordförande varit ett ansikte utåt. Hon har varitaktiv på
 sektionen
+## Motiveringar till 1988 års mottagare
+
+#### Patrik Anderson
+
+Patrik Anderson har varit en drivande kraft i arbetet att skapa sektionsanda och dito traditioner. Han har dessutom i sin egenskap av Kongl. lokalchef ordnat två stycken sektionslokaler att sektionen.
+
+#### Kjell Lundesten
+
+Kjell Lundesten har på ett förtjänstfullt sätt startat och format Datasektionens klubbmästeri. Denna livskraftiga nämnd har sedan dess glatt sektiones medlemmar med ett otal olika engagemang, varav dagens vårbal är ett bra exempel.
+
+#### Henrik Syk
+
+Vi som varit närvarande vid andra sammanhang än undervisning vet alla vilket enormt arbete Henrik Syk har lagt ner på sektionen.
+
+#### Mia Agrell
+
+Mia Agrell har genom sitt idoga arbete inom nämnder och styrelser och i sin egenskap av både SNO och SVL på ett genuint sätt fört fram de tankar och åsikter som finns förankrade hos Datasektionens medlemmar. Hon är dessutom innehavare av en Harley Davidson i sektionens färg.
+
+#### Jerker Andersson
+
+Jerker Andersson har genom ett idogt arbete bl. a. som initiativtagare till Datasektionens särskilda kommité och organiasatör av Quarnevalens grillparty 1987 bidragit till att ge Datasektionen ett gott anseende i stora kretsar.
+
+#### Jesper Lundh
+
+Jesper Lundh har förtjänstfullt verkat på flera poster inom sektionen och har på dessa genom sitt engagemang bidragit till att skapa Datasektionen ett ansikte utåt.
+
+#### Johan Palmkvist
+
+Med initiativkraft och framförsikt samlade Johan Palmkvist den skara av kulturellt och humoristiskt begåvade teknologer som skapade sektionstidningen D-buggen, vilken snabbt blev en av de bättre publikationerna som står att finna på KTH.
+
+#### Björn Gambäck
+
+Björn Gambäck har aktivt verkat inom många av sektionens nämnder. Han har dessutom med engagemang och uthållighet fört fram Datasektionens sak i bl.a. Studienämnden, UFND, Kårstyrelsen och kårfullmäktige.
+
+#### Hillevi Gavel
+
+Genom sitt dagliga arbete och med gott humör strävar Hillevi Gavel efter att skapa en trivsam miljö för sektionens medlemmar, vilket är ett enormt arbete i det tysta.
+
+#### Kai-Mikael Jää-Aro
+
+Kai-Mikael Jää-Aro har det otacksamma värvet att utskänka de förnödenheter en teknolog kräver för sin dagliga kunskapsinhämtning. Detta har han gjort med en flit och entuiasm som har gått långt över förväntan och behov.
+
+#### Wolfram Meyer
+
+Wolfram Meyer har med sitt lätttillgängliga sätt och sin personlighet satt en egen profil på de poster han har innehaft på sektionen. Trots att det har hänt att andra engagemang har blivit lidande har han alltid haft tid och ork för sektionsarbete.

@@ -8,6 +8,7 @@ upp på nästkommande Sektionsmöte för beslut.
 
 ## Medlemmar
 
+-   Örjan Ekeberg, Programansvarig Datateknik, 2019
 -   Helen Lindkvist, Studievägledare Medieteknik, 2015
 -   Alicja Lissenko, Studievägledare Datateknik, 2015
 -   Kjelle och Heidi, Väktare, 2015
@@ -21,6 +22,11 @@ upp på nästkommande Sektionsmöte för beslut.
 -   Stefan Östlund, Elektro, 1983
 -   Katrin Rosenqvist, Fysik, 1983
 -   Johan Groth, Fysik, 1983
+
+
+### Örjan Ekeberg
+
+Örjan Ekeberg har varit programansvarig i flera år och aktivt arbetat med att förbättra programmet för oss alla. Han har alltid haft studenternas bästa i åtanke och gjort allt han kunnat för att få skolsammanslagningen att bli så bra som möjligt. Han har även ställt upp för Mottagningen i flera år och firat sina bemärkelsedagar med oss. Med detta kan man utan tvekan säga att Örjan förtjänar vara hedersmedlem hos Datasektionen.
 
 ### Helen Lindkvist och Alicja Lissenko
 

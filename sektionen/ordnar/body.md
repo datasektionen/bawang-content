@@ -8,7 +8,8 @@ Medlemskap i Klubbmästare Emeritus-orden tilldelas de klubbmästare på Datasek
 
 Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
     
-    Pontus Broberg, Tricesimus Tertius, 2017/2018
+    Felix Andersson, Tricesimus Quartus 2018/2019
+    Pontus Broberg, Tricesimus Tertius 2017/2018
     Aron Strandberg, Untricesimus 2016/2017
     Adam Denlert, Untricesimus 2015/2016
     Robin Hellgren, Tricesimus 2014/2015
@@ -50,6 +51,7 @@ Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig s
 
 Valspråk: Ensam är stark. Tillsammans är vi bara många.
 
+    Mikael Forsmark, Duotricesimus 2019
     Josefin Nilsson, Tricesimus Tertia 2018
     Shapour Jahanshahi, Untricesimus 2017
     Hanna Nyblom, Tricesima 2016
@@ -92,6 +94,7 @@ Medlemskap i Storasyskon Emeritus-orden tilldelas de Storasyskon som förtjänst
 
 Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
 
+    Emil Lindblom, Duotricesimus 2019
     Cristian Osorio Bretti, Tricesimus Tertius 2018
     Jonas Dahl, Untricesimus 2017
     Agnes Åman, Untricesima 2016
@@ -127,7 +130,8 @@ Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna
 Medlemskap i Kassör Emeritus-orden tilldelas de Kassörer på Datasektionen som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
-
+    
+    Gustav Ung, Tricesimus Quartus 2018
     Andreas Magnedal Holmgren, Tricesimus Quartus 2017
     Alexander Viklund, Duotricesimus 2016
     Ludvig Hagberg, Undetricesimus 2015
@@ -144,6 +148,7 @@ Ordenstecknet för Ordförande Emeritus består av en störtad femuddig stjärna
 
 Valspråk: Det är faktiskt vi som bestämmer.
 
+    Victor Sellstedt, Tricesimus Quartus 2018
     Alexander Viklund, Duotricesimus 2017
     Henrik Johansson, Untricesimus 2016
     Lovisa Runhem, Tricesima 2015

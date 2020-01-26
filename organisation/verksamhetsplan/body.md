@@ -1,6 +1,8 @@
 Verksamhetsplan
 ===============
 
+-   [Verksamhetsplan 2020](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2020.pdf)
+-   [Verksamhetsplan 2019](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2019)
 -   [Verksamhetsplan 2018](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2018.pdf)
 -   [Verksamhetsplan 2017](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2017.pdf)
 -   [Verksamhetsplan 2016](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan-2016.pdf)
@@ -11,9 +13,11 @@ Verksamhetsplan
 Verksamhetsplan för projekt
 ---------------------------
 
--   [dÅre 2018](https://static.datasektionen.se/verksamhetsplaner/vp_dare_2018.pdf)
--   [METAspexet 2017/2018](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_1718.pdf)
--   [Studs 2018](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2018.pdf)
+-   [Project Pride](https://static.datasektionen.se/verksamhetsplaner/vp_project_pride_2019)
+-   [dÅre 2020](https://static.datasektionen.se/verksamhetsplaner/vp_dare_2020.pdf)
+-   [METAspexet 2020](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_1920.pdf)
+-   [Studs 2020](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2020)
 -   [dJubileet](http://static.datasektionen.se/verksamhetsplaner/vp_djubileet_2018.pdf)
--   [Sångboksgruppen](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplansangbok.pdf)
+-   [Vårbalen 2020](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2020)
+-   [Hello World](https://static.datasektionen.se/verksamhetsplaner/vp_hello_world)
 
