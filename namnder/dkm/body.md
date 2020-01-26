@@ -71,7 +71,7 @@ _varannan vatten är ju också varannan alk!_
 **Favoritdrink:** Moët  
 **Gillar:** Pengar  
 **Ogillar:** Fake bitches  
-**Specialitet:** Lyfta folk  
+**Specialitet:** Lyfta folk på fyllan  
 **Citat:**
 _Om inte jag flyger full, flyger jag fel._  
 
@@ -93,7 +93,7 @@ _Jag kan inte dricka med näsan._
 **Ogillar:** Träningsvärk  
 **Specialitet:** Att skriva sig ur ett barstopp  
 **Citat:**
-_Hajj! Fickfri? Är stoppa/ vill.gärna ha punsch<3_  
+_Un poko. Som man säger på icke-svenska_  
 
 <img align="right" src="http://dkm.io/images/anton.jpg">
 ### Anton Björklund  
@@ -161,7 +161,7 @@ _Tror du man blir utvilad av kloroform?_
 **Favoritdrink:** Fine Wine   
 **Gillar:** Ost på Pasta  
 **Ogillar:** Systembolagets åldersgränser  
-**Specialitet:** Vinexpert
+**Specialitet:** Vinexpert  
 **Citat:**
 _JAG VILL INTE VA SMATTE!_
 
