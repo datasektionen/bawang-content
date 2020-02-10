@@ -1,8 +1,8 @@
 ## Kontakt
 
 #### Ärkedemon  
-Luciano Zapata Sanchez
-Olle Hovmark 
+Luciano Zapata Sanchez  
+Olle Hovmark   
 [arkedemon@d.kth.se](mailto:arkedemon@d.kth.se)
 
 
