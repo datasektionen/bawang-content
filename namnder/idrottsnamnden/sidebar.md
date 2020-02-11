@@ -3,5 +3,5 @@
 Om du har några sportiga frågor så kan du höra av dig till Sektionsidrottsledaren!
 
 #### Sektionsidrottsledare  
-Alexander Westberg-Bladh
+Fredrik Pålsson Norlin
 [idrott@d.kth.se](mailto:idrott@d.kth.se)
