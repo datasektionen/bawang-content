@@ -331,7 +331,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 23/01 [Årtiondets första-DM](https://static.datasektionen.se/protokoll/artiondets_forsta_dm_2020-01-23)
 
 ###2019
-29/1 [Ett_Regerings-DM](https://static.datasektionen.se/protokoll/ett_regerings_dm_2019)
+29/1 [Ett Regerings-DM](https://static.datasektionen.se/protokoll/ett_regerings_dm_2019)
 
 21/2 [Ett Disk-å-DM](https://static.datasektionen.se/protokoll/ett_diska_dm_2019)
 
