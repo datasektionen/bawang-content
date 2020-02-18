@@ -7,9 +7,11 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2019
 
-24/1 [Extra-SM](https://static.datasektionen.se/protokoll/extra_sm_2019)
-
 28/11 [Glögg-SM](https://static.datasektionen.se/protokoll/glogg_sm_2019)
+
+26/3 [Revisions-SM](https://static.datasektionen.se/protokoll/revisions_sm_2019)
+
+24/1 [Extra-SM](https://static.datasektionen.se/protokoll/extra_sm_2019)
 
 ###2018
 
