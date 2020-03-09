@@ -10,4 +10,4 @@ have the possibility to offer drinks to students using drink coupons.
 Company representatives will receive breakfast, lunch,
 dinner and fika during the day.
 
-For prices and more information please visist: [ddagen.se](https://ddagen.se).
+For prices and more information please visit: [ddagen.se](https://ddagen.se).
