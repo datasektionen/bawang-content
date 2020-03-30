@@ -36,9 +36,9 @@ For questions regarding [datasektionen.se](/) or other systems handled by the ch
 For questions regarding the chapter's organisation, contact the board at [drek@d.kth.se](mailto:drek@d.kth.se). You can also contact the head of the chapter directly at:
 
 **Head of the Computer Science Chapter**<br />
-Ävelin Pantigoso<br />
+Niklas Vatn<br />
 E-mail: [ordf@d.kth.se](mailto:ordf@d.kth.se)<br />
-[076-125 74 00](tel:+46761257400)
+[+46 72 905 74 91](tel:+46 72 905 74 91)
 
 ## Chapter details
 

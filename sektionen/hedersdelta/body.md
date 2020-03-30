@@ -7,7 +7,7 @@ läsa längre ner på sidan.
 
 #Hedersdelta-nomineringar
 
-[Här](https://docs.google.com/forms/d/1I6AcrbFrqHsMV3dTLZcWiRXLNid3ex3wy-SD51kP9Bk/edit) kan nomineringar göras! Självklart
+[Här](https://forms.gle/BhdF5A2TbmgWb1jp7) kan nomineringar göras! Självklart
 går det även att maila D-rektoratet.
 
 #Innehavare av Hedersdeltat

@@ -1,5 +1,5 @@
 ## Kontakt
 
 #### Internationell studentkoordinator
-Anders Steen  
+Simon Olander Ålund  
 [isc@d.kth.se](mailto:isc@d.kth.se)

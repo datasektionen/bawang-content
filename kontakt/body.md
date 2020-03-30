@@ -14,10 +14,8 @@ Eric Fredin Haslum<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
 
 **Arbetsmarknadsdagsansvariga**<br />
-Victor Sellstedt & Simone de Blasio  <br />
+Andreas Wallström & Julia Byström <br />
 E-post: [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)<br />
-[070-865 02 09](tel:070-8650209) <br />
-[072-932 06 89](tel:072-9320689)
 
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
@@ -41,9 +39,9 @@ D-rektoratet, på adressen [drek@d.kth.se](mailto:drek@d.kth.se). Du kan
 även kontakta Datasektionens Ordförande direkt:
 
 **Ordförande**<br />
-Ävelin Pantigoso<br />
+Niklas Vatn<br />
 E-post: [ordf@d.kth.se](mailto:ordf@d.kth.se)<br />
-[076-125 74 00](tel:076-1257400)
+[+46 72 905 74 91](tel: +46 72 905 74 91)
 
 ## Sektionsinformation
 

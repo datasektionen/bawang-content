@@ -8,7 +8,8 @@ Medlemskap i Klubbmästare Emeritus-orden tilldelas de klubbmästare på Datasek
 
 Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
     
-    Pontus Broberg, Tricesimus Tertius, 2017/2018
+    Felix Andersson, Tricesimus Quartus 2018/2019
+    Pontus Broberg, Tricesimus Tertius 2017/2018
     Aron Strandberg, Untricesimus 2016/2017
     Adam Denlert, Untricesimus 2015/2016
     Robin Hellgren, Tricesimus 2014/2015
@@ -129,7 +130,8 @@ Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna
 Medlemskap i Kassör Emeritus-orden tilldelas de Kassörer på Datasektionen som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
-
+    
+    Gustav Ung, Tricesimus Quartus 2018
     Andreas Magnedal Holmgren, Tricesimus Quartus 2017
     Alexander Viklund, Duotricesimus 2016
     Ludvig Hagberg, Undetricesimus 2015

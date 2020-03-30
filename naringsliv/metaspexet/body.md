@@ -1,4 +1,6 @@
-## METAspexet
+# METAspexet
+
+## Projektet
 
 METAspexet är en grupp studenter från Datasektionen och Sektionen för Medieteknik på KTH som årligen sätter upp en musikal. Vi är ca 130 kreativa personer som på ett eller annat sätt är med och fixar uppsättningen 2020, med bra spridning mellan olika årskurser och de två programmen. Föreställningarna är i maj men spexet arbetar aktivt under hela året.
 

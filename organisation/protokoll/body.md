@@ -4,7 +4,17 @@ Protokoll
 Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs upp på denna sida. Vid frågor angående protokoll, kontakta Datasektionens sekreterare.
 
 ## Sektionsmöten, SM
+
+###2020
+
+28/1 [Extra-SM](https://static.datasektionen.se/protokoll/extra_sm_2020)
+
 ###2019
+
+28/11 [Glögg-SM](https://static.datasektionen.se/protokoll/glogg_sm_2019)
+
+26/3 [Revisions-SM](https://static.datasektionen.se/protokoll/revisions_sm_2019)
+
 24/1 [Extra-SM](https://static.datasektionen.se/protokoll/extra_sm_2019)
 
 ###2018
@@ -321,7 +331,12 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ## D-rektoratsmöten, DM
 
+###2020 
+23/01 [Årtiondets första-DM](https://static.datasektionen.se/protokoll/artiondets_forsta_dm_2020-01-23)
+
 ###2019
+29/1 [Ett Regerings-DM](https://static.datasektionen.se/protokoll/ett_regerings_dm_2019)
+
 21/2 [Ett Disk-å-DM](https://static.datasektionen.se/protokoll/ett_diska_dm_2019)
 
 11/4 [Ett Länkskatt-DM](https://static.datasektionen.se/protokoll/link_tax_dm_2019)

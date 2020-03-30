@@ -1,18 +1,16 @@
 # D-Dagen
 
-## Det kommer släppas information under början på våren
-
 Konglig Datasektionen anordnar årligen D-Dagen, som är en
 arbetsmarknadsdag där D-studenter och företagen får chans att utveckla
-en närmare kontakt med varandra. I år äger denna heldagsmässa rum den 10
-oktober på campus Valhallavägen. Senare på kvällen har vi en
+en närmare kontakt med varandra. Mässan är en heldagsmässa som oftast äger rum tidigt i
+oktober på campus Valhallavägen. Senare på kvällen har vi vanligen en
 traditionsenlig sittning som även följs av en pub, där ni har
 möjligheten att träffa studenterna i en mer avslappnad miljö. Under
 puben finns det möjlighet att bjuda studenter på valfri dryck i baren
 med hjälp av barbongar. Under dagen blir företagsrepresentanterna bjudna
 på frukost, lunch, fika och middag.
 
-För priser och mer information, vänligen klicka [här](https://ddagen.se/companies).
+För priser och mer information, vänligen besök [ddagen.se](https://ddagen.se).
 
 
 <!---
