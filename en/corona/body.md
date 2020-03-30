@@ -17,7 +17,7 @@ Why have we made this decision?
 
 **The social pressure.** When we arrange an event, the fear of missing out affects many members. Someone feels a little bit ill but doesn’t want to miss the seating and decides to attend anyway. That kind of reasoning is something that people make and we don’t want to encourage behaviour of this sort.
 
-**The chapter's economic safety**
+**The chapter's economic safety.**
 We don't know how the situation will develop. As a consequence, we want to be careful with new expenses since events could be cancelled. This applies especially for bigger expenses for future events.
 
 The decision has been incredibly hard to make and there are plenty of factors that have been considered before making this decision.
