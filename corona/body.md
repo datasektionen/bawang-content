@@ -1,5 +1,7 @@
 # Utlåtande från D-rektoratet angående verksamheten
 
+*Senast updaterad 2019-03-30*
+
 På grund av omvärldsläget till följd av viruset covid-19 (coronavirus) har D-rektoratet beslutat följande:
 
 * Alla större eller långa evenemang, pubar och gasquer som arrangeras inom ramen för sektionens verksamhet ställs in tills vidare.
@@ -10,9 +12,12 @@ På grund av omvärldsläget till följd av viruset covid-19 (coronavirus) har D
 
 Varför har vi tagit det här beslutet?
 
-**Uppdateringar om utbrottet av covid-19 sker kontinuerligt och vi vet inte vad nästa steg är**. Vi har valt att agera på den information vi har från KTH, THS och Folkhälsomyndigheten. Enligt FHM ökar risken för smittspridning med stora antal deltagare och långvariga evenemang, såsom pubar och sittningar. Vi vet inte hur läget kommer att utvecklas. Därför vill vi vara försiktiga med nya utlägg eftersom arrangemang kan komma att ställas in.
+**Uppdateringar om utbrottet av covid-19 sker kontinuerligt och vi vet inte vad nästa steg är**. Vi har valt att agera på den information vi har från KTH, THS och Folkhälsomyndigheten. Enligt FHM ökar risken för smittspridning med stora antal deltagare och långvariga evenemang, såsom pubar och sittningar.
 
 **Den sociala pressen.** När vi arrangerar ett evenemang är rädslan för att missa det säkert något som spelar in för många medlemmar. Någon kanske är lite sjuk, men man vill inte missa sittningen och går ändå. Den typen av resonemang gör människor och vi vill inte uppmuntra till den sortens beteende i dagsläget
+
+**Sektionens ekonomiska säkerhet**
+Vi vet inte hur läget kommer att utvecklas. Därför vill vi vara försiktiga med nya utlägg eftersom arrangemang kan komma att ställas in. Detta gäller speciellt större utlägg för framtida event.
 
 Beslutet har varit otroligt svårt att fatta och det är många faktorer som har vägts samman för att ta det här beslutet.
 
