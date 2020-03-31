@@ -3,6 +3,7 @@
 *Last updated 2020-03-30*
 
 Because of the circumstances in the world due to the covid-19 (The coronavirus) outbreak, D-directorate has decided the following:
+
 * All larger and longer events, pubs and seatings within the scope of the chapters operations, are cancelled until further notice.
 * We discourage all committees and projects from having physical activities in META, on KTH campus or at other locations. We encourage digital activities however.
 * If physical events are performed the [Swedish Public Health Agency’s recommendations for public gatherings](https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/information-till-arrangorer-av-evenemang/) must be followed.
@@ -12,8 +13,6 @@ Because of the circumstances in the world due to the covid-19 (The coronavirus) 
 Why have we made this decision?
 
 **Updates about the covid-19 outbreak are published continuously and we don’t know what the next step is**. We have chosen to act on the information we have received from KTH, THS and the Public Health Agency of Sweden. According to the Public Health Agency, the risk of spreading the virus increases with a large number of participants and long-lasting events, such as pubs and seatings. 
-
-**Updates regarding the outbreak of covid-19 happen on a continuous basis and we don't know what the next step is**. According to FHM the risk of disease increase with prolonged events that have a large number of participants, such as pubs and seatings.
 
 **The social pressure.** When we arrange an event, the fear of missing out affects many members. Someone feels a little bit ill but doesn’t want to miss the seating and decides to attend anyway. That kind of reasoning is something that people make and we don’t want to encourage behaviour of this sort.
 
