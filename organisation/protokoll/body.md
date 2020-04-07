@@ -333,9 +333,11 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2020 
 
-23/01 [Årtiondets första-DM](https://static.datasektionen.se/protokoll/artiondets_forsta_dm_2020-01-23)
+23/1 [Årtiondets första-DM](https://static.datasektionen.se/protokoll/artiondets_forsta_dm_2020-01-23)
 
 18/2 [Ett Skottår-DM](https://static.datasektionen.se/protokoll/ett_skottar_dm_2020)
+
+17/3 [Ett Divergent-DM](https://static.datasektionen.se/protokoll/ett_divergent_dm_2020)
 
 ###2019
 
