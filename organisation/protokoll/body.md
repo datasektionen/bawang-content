@@ -9,7 +9,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 28/1 [Extra-SM](https://static.datasektionen.se/protokoll/extra_sm_2020)
 
-03/26 [Revisions-SM](https://static.datasektionen.se/protokoll/revisions_sm_2020)
+26/3 [Revisions-SM](https://static.datasektionen.se/protokoll/revisions_sm_2020)
 
 ###2019
 
