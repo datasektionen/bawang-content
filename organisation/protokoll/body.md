@@ -7,9 +7,9 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2020
 
-28/1 [Extra-SM](https://static.datasektionen.se/protokoll/extra_sm_2020)
-
 26/3 [Revisions-SM](https://static.datasektionen.se/protokoll/revisions_sm_2020)
+
+28/1 [Extra-SM](https://static.datasektionen.se/protokoll/extra_sm_2020)
 
 ###2019
 
@@ -335,23 +335,23 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2020 
 
-23/1 [Årtiondets första-DM](https://static.datasektionen.se/protokoll/artiondets_forsta_dm_2020-01-23)
+17/3 [Ett Divergent-DM](https://static.datasektionen.se/protokoll/ett_divergent_dm_2020)
 
 18/2 [Ett Skottår-DM](https://static.datasektionen.se/protokoll/ett_skottar_dm_2020)
 
-17/3 [Ett Divergent-DM](https://static.datasektionen.se/protokoll/ett_divergent_dm_2020)
+23/1 [Årtiondets första-DM](https://static.datasektionen.se/protokoll/artiondets_forsta_dm_2020-01-23)
 
 ###2019
 
-29/1 [Ett Regerings-DM](https://static.datasektionen.se/protokoll/ett_regerings_dm_2019)
-
-21/2 [Ett Disk-å-DM](https://static.datasektionen.se/protokoll/ett_diska_dm_2019)
-
-11/4 [Ett Länkskatt-DM](https://static.datasektionen.se/protokoll/link_tax_dm_2019)
+24/10 [Nalle Puh-DM](https://static.datasektionen.se/protokoll/nalle_puh_dm_2019)
 
 5/9 [Kursstarts-DM](https://static.datasektionen.se/protokoll/kursstarts_dm_2019)
 
-24/10 [Nalle Puh-DM](https://static.datasektionen.se/protokoll/nalle_puh_dm_2019)
+11/4 [Ett Länkskatt-DM](https://static.datasektionen.se/protokoll/link_tax_dm_2019)
+
+21/2 [Ett Disk-å-DM](https://static.datasektionen.se/protokoll/ett_diska_dm_2019)
+
+29/1 [Ett Regerings-DM](https://static.datasektionen.se/protokoll/ett_regerings_dm_2019)
 
 ###2018
 
