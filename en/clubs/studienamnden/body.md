@@ -17,13 +17,13 @@ Kontakta oss om du har frågor om eller kommentarer kring studierna eller studie
 
 Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Beroende på vilket år du går ska du höra av dig till din årskursrepresentant eller masterstudent!
 
-År 1 - Victor och Axel: [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
+År 1 - Maximiliam och Jesper: [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
 
-År 2 - Cristian och Tobias: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
+År 2 - Elsa och Magnus: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
 
-År 3 - Artem och Abdallah: [ake-3@d.kth.se](mailto:ake-3@d.kth.se)
+År 3 - Sara och Daniel: [ake-3@d.kth.se](mailto:ake-3@d.kth.se)
 
-Master - Per, Rebecka och August: [master@d.kth.se](mailto:master@d.kth.se)
+Master - Felix: [master@d.kth.se](mailto:master@d.kth.se)
 
 
 ### Studiemiljö
