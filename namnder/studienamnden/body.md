@@ -23,7 +23,7 @@ Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du a
 
 År 3 - Sara och Daniel: [ake-3@d.kth.se](mailto:ake-3@d.kth.se)
 
-Master - Albin och Axel: [master@d.kth.se](mailto:master@d.kth.se)
+Master - Felix: [master@d.kth.se](mailto:master@d.kth.se)
 
 
 ### Studiemiljö
