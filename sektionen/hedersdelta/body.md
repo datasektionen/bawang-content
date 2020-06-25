@@ -17,7 +17,7 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-[Shapour Jahanshahi](#shapour), Untricesimus
+Shapour Jahanshahi, Untricesimus
 
 </dd>
 </dl>
@@ -27,11 +27,11 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-[Jonas Dahl](#jonadahl), Untricesimus
+Jonas Dahl, Untricesimus
 
 </dd>
 <dd>
-[Alexander Viklund](#viklu), Duotricesimus
+Alexander Viklund, Duotricesimus
 
 </dd>
 </dl>
@@ -41,15 +41,15 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-[Jesper Bränn](#jbrann), Tricesimus
+Jesper Bränn, Tricesimus
 
 </dd>
 <dd>
-[Mattias Danielsson](#matdanie), Tricesimus
+Mattias Danielsson, Tricesimus
 
 </dd>
 <dd>
-[Shayan Effati](#shayane), Tricesimus
+Shayan Effati, Tricesimus
 
 </dd>
 </dl>  
@@ -59,11 +59,11 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-[Lovisa Runhem](#lrunhem), Tricesima
+Lovisa Runhem, Tricesima
 
 </dd>
 <dd>
-[Andreas Linn](#anlinn), Tricesimus
+Andreas Linn, Tricesimus
 
 </dd>
 </dl>
@@ -73,19 +73,19 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-[Jesper Bratt](#jbratt), Vicesimus Septus
+Jesper Bratt, Vicesimus Septus
 
 </dd>
 <dd>
-[Niklas Bäckström](#nikbac), Vicesimus Septus
+Niklas Bäckström, Vicesimus Septus
 
 </dd>
 <dd>
-[Peter Boström](#pbos), Vicesimus Sextus
+Peter Boström, Vicesimus Sextus
 
 </dd>
 <dd>
-[Petter Djupfeldt](#petterdj), Vicesimus Septus
+Petter Djupfeldt, Vicesimus Septus
 
 </dd>
 </dl>
@@ -95,19 +95,19 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-[Marie Alexander](#marieale), Duodetricesimus
+Marie Alexander, Duodetricesimus
 
 </dd>
 <dd>
-[Emma Angermund](#eang), Vicesimus Sextus
+Emma Angermund, Vicesimus Sextus
 
 </dd>
 <dd>
-[Robert Welin Berger](#robertwb), Vicesimus Sextus
+Robert Welin Berger, Vicesimus Sextus
 
 </dd>
 <dd>
-[Frida Jansson](#fridajan), Vicesimus Septus
+Frida Jansson, Vicesimus Septus
 
 </dd>
 </dl>
@@ -117,27 +117,27 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-[Alexander Solsmed](#solsmed), Vicesimus Septus
+Alexander Solsmed, Vicesimus Septus
 
 </dd>
 <dd>
-[Andreas Tarandi](#taran), Vicesimus Sextus
+Andreas Tarandi, Vicesimus Sextus
 
 </dd>
 <dd>
-[Johan Stjernberg](#stjer), Vicesimus Sextus
+Johan Stjernberg, Vicesimus Sextus
 
 </dd>
 <dd>
-[Max Nordlund](#maxno), Duodetricesimus
+Max Nordlund, Duodetricesimus
 
 </dd>
 <dd>
-[Michael Hjortholt](#michjo), Vicesimus Quintus
+Michael Hjortholt, Vicesimus Quintus
 
 </dd>
 <dd>
-[Victor Koronen](#koronen), Vicesimus Septus
+Victor Koronen, Vicesimus Septus
 
 </dd>
 </dl>
@@ -147,11 +147,11 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-[Charlie Lindviken](#lindvi), Vicesimus Sextus
+Charlie Lindviken, Vicesimus Sextus
 
 </dd>
 <dd>
-[Andreas Falk](#andfal), Vicesimus Septus
+Andreas Falk, Vicesimus Septus
 
 </dd>
 </dl>
@@ -161,23 +161,23 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-[Jonas Sundberg](#josundb), Vicesimus Quartus
+Jonas Sundberg, Vicesimus Quartus
 
 </dd>
 <dd>
-[Egil Antonsen](#egila), Vicesimus Quartus
+Egil Antonsen, Vicesimus Quartus
 
 </dd>
 <dd>
-[Martin Frost](#blame), Tertius Vicesimus
+Martin Frost, Tertius Vicesimus
 
 </dd>
 <dd>
-[Pärham Fazelzadeh Hashemi](#parhamfh), Vicesimus Quartus
+Pärham Fazelzadeh Hashemi, Vicesimus Quartus
 
 </dd>
 <dd>
-[Tobias Svensson](#tosve), Vicesimus Quartus
+Tobias Svensson, Vicesimus Quartus
 
 </dd>
 </dl>
@@ -187,23 +187,23 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-[Mikael Gerdin](#mgerdin), Vicesimus Quartus
+Mikael Gerdin, Vicesimus Quartus
 
 </dd>
 <dd>
-[Patrik Stenmark](#spatrik), Dovicesimus
+Patrik Stenmark, Dovicesimus
 
 </dd>
 <dd>
-[Joel Westberg](#joelwes), Tertius Vicesimus
+Joel Westberg, Tertius Vicesimus
 
 </dd>
 <dd>
-[Pontus Walter](#pwalter), Tertius Vicesimus
+Pontus Walter, Tertius Vicesimus
 
 </dd>
 <dd>
-[Per Almquist](#peralmq), Tertius Vicesimus
+Per Almquist, Tertius Vicesimus
 
 </dd>
 </dl>
