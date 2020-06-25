@@ -19,7 +19,7 @@ Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du a
 
 År 1 - Maximiliam och Jesper [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
 
-År 2 - Elsa och Magnus: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
+År 2 - Elsa: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
 
 År 3 - Sara och Daniel: [ake-3@d.kth.se](mailto:ake-3@d.kth.se)
 
