@@ -18,22 +18,6 @@ William Agnér<br />
 [lillebror@d.kth.se](mailto:lillebror@d.kth.se)<br /> 
 072-201 70 12
 
-### Det Kongliga Drifveriet
-**Konglig Öfverdrif**, <br />
-Joar Rutqvist<br />
-[ofverdrif@d.kth.se](mailto:ofverdrif@d.kth.se)<br />
-073-367 94 46
-
-**Konglig Direktifdrif**, <br />
-Isabel Redtzer <br />
-[direktifdrif@d.kth.se](mailto:direktifdrif@d.kth.se)<br />
-070-868 05 88
-
-**Konglig Indrif**, <br />
-Amanda Krohn<br />
-[indrif@d.kth.se](mailto:indrif@d.kth.se)<br />
-070-882 17 74 
-
 ### Det Kongliga Doqumenteriet
 **Samdoquise**, <br />
 Vilma Jalava<br />
