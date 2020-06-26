@@ -2,7 +2,7 @@
 ============
 
 # OBS
-Vi håller på att ändra hosting på sidan, men protokoll kommer upp så snart detta är färdigställt. Behöver du komma åt någon årsrapport, kontakta drek@d.kth.se.
+Vi håller på att ändra hosting på sidan, men årsrapporter kommer upp så snart detta är färdigställt. Behöver du komma åt någon årsrapport, kontakta drek@d.kth.se.
 
 ## 2017
 -   Verksamhetsberättelse 2017
