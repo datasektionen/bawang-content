@@ -347,11 +347,15 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2019
 
+9/12 [Ett Vettigt-DM](https://static.datasektionen.se/protokoll/ett_vettigt_dm_2019)
+
 24/10 [Nalle Puh-DM](https://static.datasektionen.se/protokoll/nalle_puh_dm_2019)
 
 5/9 [Kursstarts-DM](https://static.datasektionen.se/protokoll/kursstarts_dm_2019)
 
 11/6 [Varning-för-Måsen-DM](https://static.datasektionen.se/protokoll/varning_for_masen_dm_2019)
+
+6/5 [Karriärsuppföljnings-DM](https://static.datasektionen.se/protokoll/karriaruppfoljnings_dm_2019)
 
 11/4 [Ett Länkskatt-DM](https://static.datasektionen.se/protokoll/link_tax_dm_2019)
 
