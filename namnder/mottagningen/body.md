@@ -5,12 +5,6 @@ Via kvällspressen kommer schlemma rapporter om studentskivor och annat whüdrou
 
 Sektionen samlas sig till försvar. Piskbeprydda Västar, Vita Snuttefiltar, Allseende Kameror, Mattäckta Förkläden samt Glittrande Guldpengar plockas fram.
 
-## Schema
-
-Under Mottagningen gäller följande schema. Ett tips är att lägga till schemat i din egen kalender, via den <a href="https://calendar.google.com/calendar/ical/euvn9oje1io3kenslrd197c348%40group.calendar.google.com/public/basic.ics" target="_blank">här iCal-länken</a> som fungerar med de flesta kalenderapplikationer. Om du använder Google Calendar kan du trycka på länken nere i kalenderns högra hörn.			 
- 			
- <iframe src="https://calendar.google.com/calendar/embed?src=euvn9oje1io3kenslrd197c348%40group.calendar.google.com&ctz=Europe%2FStockholm" style="border-width:0" width="600" height="600" frameborder="0" scrolling="no"></iframe>	
-
 ## Mottagningens grenar
 
 ###Det Kongliga Drifveriet
@@ -82,22 +76,22 @@ Det har med tiden visat sig att det enda riktigt tillförlitliga sättet att gen
 
 Sammanfattningsvis kan nØllan alltså betrakta Doqumenteriet som nØllans vänner. Doqumenteriet kommer med ett leende på läpparna svara på nØllans frågor och vara med nØllan överallt. För att visa hur gärna nØllan vill vara Doqumenteriets vän kan nØllan inför den beredde fotografen se till att till exempel spexa eller göra bort sig. Det senare är troligen en av de få saker nØllan skulle kunna klara av alldeles på egen hand.
 
-###Det Kongliga Mammeriet
+###Det Kongliga Quisineriet
 <img alt="Mammeriet-logga" src="https://static.datasektionen.se/mottagningen/mammeriet.svg" style="float: right; width: 35%" />
 
-_Mammeriet ser till att nØllan mår bra och har roligt. Denna eminenta samling människor, de så kallade mammeristerna, har huvudansvaret för att planera och genomföra alla stora fester under Mottagningen._
+_Quisineriet ser till att nØllan mår bra och har roligt. Denna eminenta samling människor, de så kallade quisinerna, har huvudansvaret för att planera och genomföra alla stora fester under Mottagningen._
 
-Dessutom tar Mammeriet hand om Mottagningens kära Mottagningsbil och inhandlar alla nödvändigheter, från mat till diskmedel till A4-papper. Självklart är det även Mammeriet som ser till att nØllan håller sig mätt och belåten.
+Dessutom tar Quisineriet hand om Mottagningens kära Mottagningsbil och inhandlar alla nödvändigheter, från mat till diskmedel till A4-papper. Självklart är det även Quisineriet som ser till att nØllan håller sig mätt och belåten.
 
 ####Hur går det här till?
 
-När det väl går till, brukar det gå bra till. Då mammeristens högsta önskan är att få nØllan mätt, nöjd och belåten flyger Mammeriet över alla hinder. När maten kokats, dukarna rullats ut och drycken hällts upp tar Mammeriet med varma famnar emot nØllan till Mottagningens alla sittningar.
+När det väl går till, brukar det gå bra till. Då quisinernas högsta önskan är att få nØllan mätt, nöjd och belåten flyger Quisineriet över alla hinder. När maten kokats, dukarna rullats ut och drycken hällts upp tar Quisineriet med varma famnar emot nØllan till Mottagningens alla sittningar.
 
 ####Kännetecken
 
-När Mammeriet inte lagar mat, handlar eller dricker kaffe, hälsar de gärna på nØllan och alla andra i mottagningen. En mammerist känns igen genom de karaktäristiska mammeristshortsen. Befinner sig Mammeriet i köket eller på annan plats där överhängande risk för nedkladdning finns, bärs ofta ett vitt förkläde med Snobben på för att kunna bestämma vem som kladdat mest. Nämn katter eller kaffe och varje mammerist kommer hoppa till och sugas in mot dig som en järnpartikel mot en magnet.
+När Quisineriet inte lagar mat, handlar eller dricker kaffe, hälsar de gärna på nØllan och alla andra i mottagningen. En quisine känns igen genom de karaktäristiska quisineshortsen. Befinner sig Quisineriet i köket eller på annan plats där överhängande risk för nedkladdning finns, bärs ofta ett vitt förkläde med Snobben på för att kunna bestämma vem som kladdat mest. Nämn katter eller kaffe och varje quisine kommer hoppa till och sugas in mot dig som en järnpartikel mot en magnet.
 
-Sammanfattningsvis är Mammeriet en vänlig skara som nØllan kan betraka som sina vänner. Mammeristerna kommer göra allt för att svara på nØllans frågor och göra alla glada under varje fest. Livet sägs vara en fest, så man skulle kunna säga att Mammeriet gör allt för att göra alla glada, alltid. För att visa hur mycket nØllan vill vara vän med mammeristerna får nØllan gärna komma och prata med Mammeriet under sittningar, luncher och alla andra tillfällen under Mottagningen. Varför inte tacka för den oftast så goda maten eller prata om vädret? Har du en ordvits på lager finns det inte en enda mammerist som inte är idel öra.
+Sammanfattningsvis är Quisineriet en vänlig skara som nØllan kan betraka som sina vänner. Quisinerna kommer göra allt för att svara på nØllans frågor och göra alla glada under varje fest. Livet sägs vara en fest, så man skulle kunna säga att Quisineriet gör allt för att göra alla glada, alltid. För att visa hur mycket nØllan vill vara vän med quisinerna får nØllan gärna komma och prata med Quisineriet under sittningar, luncher och alla andra tillfällen under Mottagningen. Varför inte tacka för den oftast så goda maten eller prata om vädret? Har du en ordvits på lager finns det inte en enda quisine som inte är idel öra.
 
 ###Det Kongliga Ekonomeriet
 <img alt="Ekonomeriet-logga" src="https://static.datasektionen.se/mottagningen/ekonomeriet.svg" style="float: right; width: 35%" />

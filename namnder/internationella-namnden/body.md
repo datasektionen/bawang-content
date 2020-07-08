@@ -1,6 +1,6 @@
 # Internationella nämnden
 
-Datasektionens internationella nämnd delad med Sektionen för Medieteknik. Leds av Datasektionens nuvarande internationella studentkoordinator Anders Steen och Sektionen för Medietekniks internationella samordnare Simon Sundström.
+Datasektionens internationella nämnd delad med Sektionen för Medieteknik. Leds av Datasektionens nuvarande internationella studentkoordinator Simon Olander Ålund och Sektionen för Medietekniks internationella samordnare Simon Sundström.
 
 ## För alla internationella aktiviteter på Datasektionen
 
@@ -20,7 +20,7 @@ Gilla gärna nämndens facebooksida för att få uppdateringar om gruppens evene
 
 The Computer Science Chapter's International Group!
 
-This is a shared group between the Computer Science Chapter and the Chapter for Media Technology, headed by International Student Coordinator Anders Steen from CS and International Organizer Simon Sundström from Media.
+This is a shared group between the Computer Science Chapter and the Chapter for Media Technology, headed by International Student Coordinator Simon Olander Ålund from CS and International Organizer Simon Sundström from Media.
 
 The group organizes at least two events per semester for computer science students and media technology students. The group recruits new excited organizers at the beginning of each semester, but is open to new organizers all year round.
 

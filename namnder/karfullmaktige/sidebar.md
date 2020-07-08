@@ -2,12 +2,11 @@
 
 Maila oss om du undrar över något om Kårfullmäktige, eller om du har förslag till något du tycker vi ska driva mot kåren!
 
-Kårfullmäktige ledamöter, <br>
-David Norrman: kf@d.kth.se <br>
-Jakob Arvidsson: kf@d.kth.se <br>
-Anton Lilja: kf@d.kth.se
+Kårfullmäktigeledamöter: <br>
+Gábor Nagy: [d-kf@d.kth.se](d-kf@d.kth.se) <br>
+Emilia Jakobson Stålhane: [d-kf@d.kth.se](d-kf@d.kth.se) <br>
+Matteus Berg: [d-kf@d.kth.se](d-kf@d.kth.se) 
 
-Kårfullmäktige suppleanter,  <br>
-Simone de Blasio: kf@d.kth.se
+Kårfullmäktigesuppleanter:  <br>
 
-[Facebook](https://www.facebook.com/KF.Data/)
+[Facebook](https://facebook.com/KF.Data)
