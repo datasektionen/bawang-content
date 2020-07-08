@@ -15,7 +15,7 @@ DKM är Datas Klubbmästeri. Det är vi som ser till att ni dataloger har möjli
 
 ## Vad gör vi?
 
-Varje onsdag har ni möjlighet att avnjuta en kall öl/cider/drink/alkoholfritt alternativ tillsammans med god och prisvärd mat i META. Puben öppnar 17:17 och håller på tills gäster eller personal fått nog. Passa på att ta ett avbrott från labbandet och svänga förbi META en onsdag. Vanligtvis första onsdagspuben efter csn-utbetalning har vi dessutom temapub med nya och roliga teman varje gång, missa inte!
+Varje onsdag har ni möjlighet att avnjuta en kall öl/cider/drink/alkoholfritt alternativ tillsammans med god och prisvärd mat i META. Puben öppnar 17:17 och håller på tills gäster eller personal fått nog. Passa på att ta ett avbrott från labbandet och svänga förbi META en onsdag. Vanligtvis första onsdagspuben efter CSN-utbetalning har vi dessutom temapub med nya och roliga teman varje gång, missa inte!
 
 Efter tentaperioderna behöver man slappna av och ta en paus en kort stund innan man tar itu med pluggandet igen. Vad passar väl då bättre än en tentapub? DKM anordnar två tentapubar per år, Medias Klubbmästeri tar hand om de andra två. Vi har campus bästa läge och campus bästa spritbar, och du – vi tar kort!
 
@@ -35,155 +35,77 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ## Medlemmar
 
-<img align="right" src="http://dkm.io/images/melvin3.jpg">
-### Melvin Lundqvist  
-#### Klubbmästare    
-**Favoritdrink:** Isacs bubbel  
-**Gillar:** Alpha johnny aka. AJ  
-**Ogillar:** Att gör sig förstådd i slutet av kvällen  
-**Specialitet:** Tappa bort Alpha johnny  
+### Snövit 
+#### Klubbmästare  
+**Favoritdrink:** In beer we trust
+**Gillar:** När puben stänger sent
+**Ogillar:** När puben stänger tidigt  
+**Specialitet:** Att vara dum i huvet  
 **Citat:**
-_Den som snackar skit om Alpha-johnny har ingen morgondag!_  
+_DKM är dumma i huvet._   
 
-<img align="right" src="http://dkm.io/images/magnus.jpg">
-### Magnus Lindahl  
+### Prosit
 #### Vice Klubbmästare  
-**Favoritdrink:** Brook ipa  
-**Gillar:** Dank memes  
-**Ogillar:** Folk som inte beter sig (i META)  
-**Specialitet:** Reparationer, Uppgraderingar och typ allt annat  
+**Favoritdrink:** In beer we trust
+**Gillar:** När puben stänger sent  
+**Ogillar:** När puben stänger tidigt  
+**Specialitet:** Att vara dum i huvet 
 **Citat:**
-_Jag är medveten, jag kan bara inte röra mig._  
+_DKM är dumma i huvet._  
 
-<img align="right" src="http://dkm.io/images/luciano.jpg">
-### Luciano Zapata  
+### Kloker
 #### Ekonomimästare  
-**Favoritdrink:** Varannan alkohol  
-**Gillar:** Att vara en grönsak  
-**Ogillar:** Allt som är piss  
-**Specialitet:** Hemmafester för DKM som DKM inte vet om  
+**Favoritdrink:** In beer we trust  
+**Gillar:** När puben stänger sent  
+**Ogillar:** När puben stänger tidigt  
+**Specialitet:** Att vara dum i huvet 
 **Citat:**
-_varannan vatten är ju också varannan alk!_  
+_DKM är dumma i huvet._ 
 
-<img align="right" src="http://dkm.io/images/vilma2.jpg">
-### Vilma Jalava  
+### Trötter 
 #### Ekonomimästare  
-**Favoritdrink:** Moët  
-**Gillar:** Pengar  
-**Ogillar:** Fake bitches  
-**Specialitet:** Lyfta folk på fyllan  
+**Favoritdrink:** In beer we trust  
+**Gillar:** När puben stänger sent  
+**Ogillar:** När puben stänger tidigt  
+**Specialitet:** Att vara dum i huvet 
 **Citat:**
-_Om inte jag flyger full, flyger jag fel._  
+_DKM är dumma i huvet._  
 
-<img align="right" src="http://dkm.io/images/issa.jpg">
-### Isabel Redtzer  
+### Butter
 #### Barmästare  
-**Favoritdrink:** Big Wave  
-**Gillar:** Att vara SA  
-**Ogillar:** Förlust  
-**Specialitet:** Att vara taggad när ingen annan är det  
+**Favoritdrink:** In beer we trust  
+**Gillar:** När puben stänger sent  
+**Ogillar:** När puben stänger tidigt  
+**Specialitet:** Att vara dum i huvet 
 **Citat:**
-_Jag kan inte dricka med näsan._  
+_DKM är dumma i huvet._  
 
-<img align="right" src="http://dkm.io/images/amanda.jpg">
-### Amanda Krohn  
+### Blyger
 #### Barmästare  
-**Favoritdrink:** Vänta, har du inte du fått punsch?  
-**Gillar:** Katter  
-**Ogillar:** Träningsvärk  
-**Specialitet:** Att skriva sig ur ett barstopp  
+**Favoritdrink:** In beer we trust   
+**Gillar:** När puben stänger sent  
+**Ogillar:** När puben stänger tidigt  
+**Specialitet:** Att vara dum i huvet  
 **Citat:**
-_Un poko. Som man säger på icke-svenska_  
+_DKM är dumma i huvet._
 
-<img align="right" src="http://dkm.io/images/anton.jpg">
-### Anton Björklund  
+### Glader 
 #### Festmästare  
-**Favoritdrink:** Kung  
-**Gillar:** Kung  
-**Ogillar:** Att Slick City stängt ner  
-**Specialitet:** Rolig Bongar  
+**Favoritdrink:** In beer we trust 
+**Gillar:** När puben stänger sent  
+**Ogillar:** När puben stänger tidigt  
+**Specialitet:** Att vara dum i huvet  
 **Citat:**
-_Man kan ta en grabb från Gävle, men aldrig en Kung från grabben._  
+_DKM är dumma i huvet._  
 
-<img align="right" src="http://dkm.io/images/george.jpg">
-### George Bassilious  
+### Toker
 #### Infomästare  
-**Favoritdrink:** Peroni i sina egna beerpong glas  
-**Gillar:** TikTok  
-**Ogillar:** "Gucci Gang" - Lil Pump  
-**Specialitet:** Ordspråk i branschen  
+**Favoritdrink:** In beer we trust  
+**Gillar:** När puben stänger sent  
+**Ogillar:** När puben stänger tidigt 
+**Specialitet:** Att vara dum i huvet 
 **Citat:**
-_Varje förlust är bara avsaknad av vinst._  
-
-<img align="right" src="http://dkm.io/images/henrik.jpg">
-### Henrik Niss  
-#### TestoKnatte  
-**Favoritdrink:** Goldstrike 50%  
-**Gillar:** Hitta på goda drinkar  
-**Ogillar:** Stark mat  
-**Specialitet:** Musikaliskt geni  
-**Citat:**
-_lite glögg är doping i skridskovärlden._  
-
-<img align="right" src="http://dkm.io/images/axel.jpg">
-### Axel Kaliff  
-#### VloggarKnatte  
-**Favoritdrink:** The turtles are bleeding (patent pending)  
-**Gillar:**  Att Dansa  
-**Ogillar:** Lappleken  
-**Specialitet:** Legendariska snapchatvloggar  
-**Citat:**
-_Gör vad du vill med ditt pubishår._  
-
-<img align="right" src="http://dkm.io/images/lotta.jpg">
-### Lotta Johnsson  
-#### VinnarskalleKnatte  
-**Favoritdrink:** Rimliga bois av punsch  
-**Gillar:** Att vinna  
-**Ogillar:** Att förlora  
-**Specialitet:** Sänka sina motståndare  
-**Citat:**
-_Det här är ändå en rimlig boi._  
-
-<img align="right" src="http://dkm.io/images/bror2.jpg">
-### Bror Sebastian Sjövald  
-#### OpenKnatte  
-**Favoritdrink:** FishShot  
-**Gillar:** Att vara vaken  
-**Ogillar:** Avspärrningsnät i Åre  
-**Specialitet:** Aldrig sova  
-**Citat:**
-_Tror du man blir utvilad av kloroform?_  
-
-<img align="right" src="http://dkm.io/images/jennifer.jpg">
-### Jennifer Larsson  
-#### SmatteKnatte  
-**Favoritdrink:** Fine Wine   
-**Gillar:** Ost på Pasta  
-**Ogillar:** Systembolagets åldersgränser  
-**Specialitet:** Vinexpert  
-**Citat:**
-_JAG VILL INTE VA SMATTE!_
-
-<img align="right" src="http://dkm.io/images/samuel.jpg">
-### Samuel Peetre  
-#### DiCaprioKnatte  
-**Favoritdrink:** P3  
-**Gillar:** Paris  
-**Ogillar:** Missa nattbussen  
-**Specialitet:** Skådespelarking  
-**Citat:**
-_Rosor är röda, cider är gott, jag vill ha öl._  
-
-<img align="right" src="http://dkm.io/images/maria.jpg">
-### Maria Elena Petterson  
-#### KändisKnatte  
-**Favoritdrink:** Garage  
-**Gillar:** Edvard Blom  
-**Ogillar:** Olena bebisar  
-**Specialitet:** Viral på typ alla sociala medier  
-**Citat:**
-_Absolut det är lent, men bebisar är lena._  
+_DKM är dumma i huvet._  
  
 
 ## Cliff
@@ -231,7 +153,7 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Klara Eserstam__
   * Barmästare
   * _Som att man inte slickat på metas golv förut_
-* __Joar Rutqvist__
+* __Joel Reuter__
   * Barmästare
   * _Alltså det finns en fett god drink, du börjar med krossat glas..._
 * __Martin Hyberg__
