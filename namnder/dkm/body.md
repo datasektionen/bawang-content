@@ -37,20 +37,20 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ### Snövit 
 #### Klubbmästare  
-**Favoritdrink:** In beer we trust
-**Gillar:** När puben stänger sent
+**Favoritdrink:** In beer we trust  
+**Gillar:** När puben stänger sent  
 **Ogillar:** När puben stänger tidigt  
 **Specialitet:** Att vara dum i huvet  
-**Citat:**
-_DKM är dumma i huvet._   
+**Citat:** 
+_DKM är dumma i huvet._  
 
 ### Prosit
 #### Vice Klubbmästare  
-**Favoritdrink:** In beer we trust
+**Favoritdrink:** In beer we trust  
 **Gillar:** När puben stänger sent  
 **Ogillar:** När puben stänger tidigt  
-**Specialitet:** Att vara dum i huvet 
-**Citat:**
+**Specialitet:** Att vara dum i huvet  
+**Citat:** 
 _DKM är dumma i huvet._  
 
 ### Kloker
@@ -58,17 +58,17 @@ _DKM är dumma i huvet._
 **Favoritdrink:** In beer we trust  
 **Gillar:** När puben stänger sent  
 **Ogillar:** När puben stänger tidigt  
-**Specialitet:** Att vara dum i huvet 
-**Citat:**
-_DKM är dumma i huvet._ 
+**Specialitet:** Att vara dum i huvet  
+**Citat:** 
+_DKM är dumma i huvet._  
 
 ### Trötter 
 #### Ekonomimästare  
 **Favoritdrink:** In beer we trust  
 **Gillar:** När puben stänger sent  
 **Ogillar:** När puben stänger tidigt  
-**Specialitet:** Att vara dum i huvet 
-**Citat:**
+**Specialitet:** Att vara dum i huvet  
+**Citat:** 
 _DKM är dumma i huvet._  
 
 ### Butter
@@ -76,35 +76,35 @@ _DKM är dumma i huvet._
 **Favoritdrink:** In beer we trust  
 **Gillar:** När puben stänger sent  
 **Ogillar:** När puben stänger tidigt  
-**Specialitet:** Att vara dum i huvet 
-**Citat:**
+**Specialitet:** Att vara dum i huvet  
+**Citat:** 
 _DKM är dumma i huvet._  
 
 ### Blyger
 #### Barmästare  
-**Favoritdrink:** In beer we trust   
+**Favoritdrink:** In beer we trust  
 **Gillar:** När puben stänger sent  
 **Ogillar:** När puben stänger tidigt  
 **Specialitet:** Att vara dum i huvet  
-**Citat:**
-_DKM är dumma i huvet._
+**Citat:** 
+_DKM är dumma i huvet._  
 
 ### Glader 
 #### Festmästare  
-**Favoritdrink:** In beer we trust 
+**Favoritdrink:** In beer we trust  
 **Gillar:** När puben stänger sent  
 **Ogillar:** När puben stänger tidigt  
 **Specialitet:** Att vara dum i huvet  
-**Citat:**
-_DKM är dumma i huvet._  
+**Citat:** 
+_DKM är dumma i huvet._   
 
 ### Toker
 #### Infomästare  
 **Favoritdrink:** In beer we trust  
 **Gillar:** När puben stänger sent  
-**Ogillar:** När puben stänger tidigt 
-**Specialitet:** Att vara dum i huvet 
-**Citat:**
+**Ogillar:** När puben stänger tidigt  
+**Specialitet:** Att vara dum i huvet  
+**Citat:** 
 _DKM är dumma i huvet._  
  
 
