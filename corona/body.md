@@ -20,6 +20,7 @@ Vi kommer kontinuerligt ta ställning till hur vi ska agera med grund i det råd
 Om ni har några frågor så är ni välkomna att kontakta D-rektoratet via [drek@d.kth.se](mailto:drek@d.kth.se.).
 
 Länk till THS och KTH:s utlåtanden angående corona:
+
 [THS information om COVID-19](https://ths.kth.se/sv/corona)
 
 [KTH om covid-19 (coronavirus)](https://intra.kth.se/campus/sakerhet/kris/corona) 
