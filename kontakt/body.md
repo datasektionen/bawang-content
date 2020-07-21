@@ -26,9 +26,9 @@ Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivss
 För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 
 **Kommunikatör**<br />
-Fel​ix Alm​ay<br />
+Adam Sjöberg<br />
 E-post: [info@d.kth.se](mailto:info@d.kth.se)<br />
-[07 242 151 42](tel:0724215142)
+
 
 Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Datasektionens Informationsorgan, IOR, på adressen [ior@d.kth.se](mailto:ior@d.kth.se).
 
