@@ -33,69 +33,69 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 [![Facebook logo](http://dkm.io/images/FB-logo.png)](https://www.facebook.com/datasklubbmasteri)
 
-## Medlemmar
+## Medlemmar  
 
-### Folkes Fylke 
+### Folkes Fylke  
 #### Klubbmästare  
-**Favoritdrink:** Peroni (plz sponsra)
-**Gillar:** TikTok
-**Ogillar:** Pöbeln 
-**Specialitet:** Vara den sista som lämnar festen 
-**Citat:** 
+**Favoritdrink:** Peroni (plz sponsra)  
+**Gillar:** TikTok  
+**Ogillar:** Pöbeln  
+**Specialitet:** Vara den sista som lämnar festen  
+**Citat:**  
 _Det är en gamble, spela med mig och du antingen vinner eller förlorar._  
 
-### Broder Bass
+### Broder Bass  
 #### Vice Klubbmästare  
-**Favoritdrink:** White Russian
-**Gillar:** OPEN-tjack
-**Ogillar:** Att ha ont i vänstra hjärnhalvan
-**Specialitet:** Skapa feng shui i sig själv
-**Citat:** 
+**Favoritdrink:** White Russian  
+**Gillar:** OPEN-tjack  
+**Ogillar:** Att ha ont i vänstra hjärnhalvan  
+**Specialitet:** Skapa feng shui i sig själv  
+**Citat:**  
 _Kloroform hjälper mig inte ur det här_  
 
-### Ivan Toveva
+### Ivan Toveva  
 #### Ekonomimästare  
-**Favoritdrink:** Big Wave 
-**Gillar:** Franska
-**Ogillar:** När testosteronnivån är låg
-**Specialitet:** Lyfta folk på fyllan
-**Citat:** 
-_Jag är inte full, jag är bara baktung._   
+**Favoritdrink:** Big Wave  
+**Gillar:** Franska  
+**Ogillar:** När testosteronnivån är låg  
+**Specialitet:** Lyfta folk på fyllan  
+**Citat:**  
+_Jag är inte full, jag är bara baktung._  
 
-### Samonardo Pecaprio
+### Samonardo Pecaprio  
 #### Barmästare  
-**Favoritdrink:** Spritis finaste rödvin
-**Gillar:** Franska
-**Ogillar:** Att bli hög på laminering
-**Specialitet:** Estetiska moves på dansgolvet
-**Citat:** 
+**Favoritdrink:** Spritis finaste rödvin  
+**Gillar:** Franska  
+**Ogillar:** Att bli hög på laminering  
+**Specialitet:** Estetiska moves på dansgolvet  
+**Citat:**  
 _Jag är Shawn Mendes nedknarkade tvillingbror._  
 
-### Smatt af Fur
+### Smatt af Fur  
 #### Barmästare  
-**Favoritdrink:** Nånting IPA
-**Gillar:** Att ragga utan resultat
-**Ogillar:** För mycket pengar på kontot
-**Specialitet:** Power positions
-**Citat:** 
+**Favoritdrink:** Nånting IPA  
+**Gillar:** Att ragga utan resultat  
+**Ogillar:** För mycket pengar på kontot  
+**Specialitet:** Power positions  
+**Citat:**  
 _Det var inte mer än 70 klunkar, men mer än 70 klunkar sprit._  
 
-### Hairy Pubes 
+### Hairy Pubes  
 #### Festmästare  
-**Favoritdrink:** The turtles are bleeding (patent pending)
-**Gillar:** Ultimate Werewolf Legacy
-**Ogillar:** När lägenheten luktar som META efter en pub
-**Specialitet:** Djupa, filosofiska snapchat-vloggar
-**Citat:** 
-_Om man vill vinna på beerpong måste man sexa till det sexigt._   
+**Favoritdrink:** The turtles are bleeding (patent pending)  
+**Gillar:** Ultimate Werewolf Legacy  
+**Ogillar:** När lägenheten luktar som META efter en pub  
+**Specialitet:** Djupa, filosofiska snapchat-vloggar  
+**Citat:**  
+_Om man vill vinna på beerpong måste man sexa till det sexigt._  
 
-### Dijay Mariyh
+### Dijay Mariyh  
 #### Infomästare  
-**Favoritdrink:** Pink Gin
-**Gillar:** Att ta över DJ-båset när ingen ber om det
-**Ogillar:** Olena bebisar
-**Specialitet:** Viral på alla sociala medier
-**Citat:** 
+**Favoritdrink:** Pink Gin  
+**Gillar:** Att ta över DJ-båset när ingen ber om det  
+**Ogillar:** Olena bebisar  
+**Specialitet:** Viral på alla sociala medier  
+**Citat:**  
 _Jag behöver inte bli rik, jag är asiat!_  
  
 
