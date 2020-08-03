@@ -35,82 +35,100 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ## Medlemmar
 
-### Snövit 
+### Folkes Fylke 
 #### Klubbmästare  
-**Favoritdrink:** In beer we trust  
-**Gillar:** När puben stänger sent  
-**Ogillar:** När puben stänger tidigt  
-**Specialitet:** Att vara dum i huvet  
+**Favoritdrink:** Peroni (plz sponsra)
+**Gillar:** TikTok
+**Ogillar:** Pöbeln 
+**Specialitet:** Vara den sista som lämnar festen 
 **Citat:** 
-_DKM är dumma i huvet._  
+_Det är en gamble, spela med mig och du antingen vinner eller förlorar._  
 
-### Prosit
+### Broder Bass
 #### Vice Klubbmästare  
-**Favoritdrink:** In beer we trust  
-**Gillar:** När puben stänger sent  
-**Ogillar:** När puben stänger tidigt  
-**Specialitet:** Att vara dum i huvet  
+**Favoritdrink:** White Russian
+**Gillar:** OPEN-tjack
+**Ogillar:** Att ha ont i vänstra hjärnhalvan
+**Specialitet:** Skapa feng shui i sig själv
 **Citat:** 
-_DKM är dumma i huvet._  
+_Kloroform hjälper mig inte ur det här_  
 
-### Kloker
+### Ivan Toveva
 #### Ekonomimästare  
-**Favoritdrink:** In beer we trust  
-**Gillar:** När puben stänger sent  
-**Ogillar:** När puben stänger tidigt  
-**Specialitet:** Att vara dum i huvet  
+**Favoritdrink:** Big Wave 
+**Gillar:** Franska
+**Ogillar:** När testosteronnivån är låg
+**Specialitet:** Lyfta folk på fyllan
 **Citat:** 
-_DKM är dumma i huvet._  
+_Jag är inte full, jag är bara baktung._   
 
-### Trötter 
-#### Ekonomimästare  
-**Favoritdrink:** In beer we trust  
-**Gillar:** När puben stänger sent  
-**Ogillar:** När puben stänger tidigt  
-**Specialitet:** Att vara dum i huvet  
-**Citat:** 
-_DKM är dumma i huvet._  
-
-### Butter
+### Samonardo Pecaprio
 #### Barmästare  
-**Favoritdrink:** In beer we trust  
-**Gillar:** När puben stänger sent  
-**Ogillar:** När puben stänger tidigt  
-**Specialitet:** Att vara dum i huvet  
+**Favoritdrink:** Spritis finaste rödvin
+**Gillar:** Franska
+**Ogillar:** Att bli hög på laminering
+**Specialitet:** Estetiska moves på dansgolvet
 **Citat:** 
-_DKM är dumma i huvet._  
+_Jag är Shawn Mendes nedknarkade tvillingbror._  
 
-### Blyger
+### Smatt af Fur
 #### Barmästare  
-**Favoritdrink:** In beer we trust  
-**Gillar:** När puben stänger sent  
-**Ogillar:** När puben stänger tidigt  
-**Specialitet:** Att vara dum i huvet  
+**Favoritdrink:** Nånting IPA
+**Gillar:** Att ragga utan resultat
+**Ogillar:** För mycket pengar på kontot
+**Specialitet:** Power positions
 **Citat:** 
-_DKM är dumma i huvet._  
+_Det var inte mer än 70 klunkar, men mer än 70 klunkar sprit._  
 
-### Glader 
+### Hairy Pubes 
 #### Festmästare  
-**Favoritdrink:** In beer we trust  
-**Gillar:** När puben stänger sent  
-**Ogillar:** När puben stänger tidigt  
-**Specialitet:** Att vara dum i huvet  
+**Favoritdrink:** The turtles are bleeding (patent pending)
+**Gillar:** Ultimate Werewolf Legacy
+**Ogillar:** När lägenheten luktar som META efter en pub
+**Specialitet:** Djupa, filosofiska snapchat-vloggar
 **Citat:** 
-_DKM är dumma i huvet._   
+_Om man vill vinna på beerpong måste man sexa till det sexigt._   
 
-### Toker
+### Dijay Mariyh
 #### Infomästare  
-**Favoritdrink:** In beer we trust  
-**Gillar:** När puben stänger sent  
-**Ogillar:** När puben stänger tidigt  
-**Specialitet:** Att vara dum i huvet  
+**Favoritdrink:** Pink Gin
+**Gillar:** Att ta över DJ-båset när ingen ber om det
+**Ogillar:** Olena bebisar
+**Specialitet:** Viral på alla sociala medier
 **Citat:** 
-_DKM är dumma i huvet._  
+_Jag behöver inte bli rik, jag är asiat!_  
  
 
 ## Cliff
 
 Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför de kallas för Cliff? Fråga närmsta Cliff!
+
+### Cliff -20
+
+* __Melvin Lundqvist__
+  * Klubbmästare
+  * _Den som snackar skit om Alpha-johnny har ingen morgondag!_
+* __Mang Ebjuder__
+  * Vice klubbmästare
+  * _Jag är medveten, jag kan bara inte röra mig._
+* __Vilma Javala__
+  * Ekonomimästare
+  * _Om jag inte flyger full, flyger jag fel._
+* __Axe Deosson__
+  * Ekonomimästare
+  * _Varannan vatten är ju också varannan alk._
+* __Isa Winarskall__
+  * Barmästare
+  * _Jag kan inte dricka med näsan!_
+* __Kat von Primtal__
+  * Barmästare
+  * _Un poko. Som man säger på icke-svenska._
+* __Anton Björklund__
+  * Festmästare
+  * _Man kan ta en grabb från Gävle, men aldrig en Kung från grabben._
+* __Henrik Niss__
+  * Mästare
+  * _Lite glögg är doping i skridskovärlden._
 
 ### Cliff -19
 
