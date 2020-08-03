@@ -43,7 +43,7 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 **Specialitet:** Vara den sista som lämnar festen  
 **Citat:**  
 _Det är en gamble, spela med mig och du antingen vinner eller förlorar._  
-
+  
 ### Broder Bass  
 #### Vice Klubbmästare  
 **Favoritdrink:** White Russian  
@@ -51,17 +51,17 @@ _Det är en gamble, spela med mig och du antingen vinner eller förlorar._
 **Ogillar:** Att ha ont i vänstra hjärnhalvan  
 **Specialitet:** Skapa feng shui i sig själv  
 **Citat:**  
-_Kloroform hjälper mig inte ur det här_  
-
+_Kloroform hjälper mig inte ur det här._  
+  
 ### Ivan Toveva  
 #### Ekonomimästare  
 **Favoritdrink:** Big Wave  
-**Gillar:** Franska  
+**Gillar:** Be My Lover - La Bouche  
 **Ogillar:** När testosteronnivån är låg  
 **Specialitet:** Lyfta folk på fyllan  
 **Citat:**  
 _Jag är inte full, jag är bara baktung._  
-
+  
 ### Samonardo Pecaprio  
 #### Barmästare  
 **Favoritdrink:** Spritis finaste rödvin  
@@ -70,7 +70,7 @@ _Jag är inte full, jag är bara baktung._
 **Specialitet:** Estetiska moves på dansgolvet  
 **Citat:**  
 _Jag är Shawn Mendes nedknarkade tvillingbror._  
-
+  
 ### Smatt af Fur  
 #### Barmästare  
 **Favoritdrink:** Nånting IPA  
@@ -79,7 +79,7 @@ _Jag är Shawn Mendes nedknarkade tvillingbror._
 **Specialitet:** Power positions  
 **Citat:**  
 _Det var inte mer än 70 klunkar, men mer än 70 klunkar sprit._  
-
+  
 ### Hairy Pubes  
 #### Festmästare  
 **Favoritdrink:** The turtles are bleeding (patent pending)  
@@ -88,7 +88,7 @@ _Det var inte mer än 70 klunkar, men mer än 70 klunkar sprit._
 **Specialitet:** Djupa, filosofiska snapchat-vloggar  
 **Citat:**  
 _Om man vill vinna på beerpong måste man sexa till det sexigt._  
-
+  
 ### Dijay Mariyh  
 #### Infomästare  
 **Favoritdrink:** Pink Gin  
@@ -111,7 +111,7 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Mang Ebjuder__
   * Vice klubbmästare
   * _Jag är medveten, jag kan bara inte röra mig._
-* __Vilma Javala__
+* __Vilma Jalava__
   * Ekonomimästare
   * _Om jag inte flyger full, flyger jag fel._
 * __Axe Deosson__
