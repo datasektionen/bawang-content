@@ -41,7 +41,7 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 **Gillar:** TikTok  
 **Ogillar:** Pöbeln  
 **Specialitet:** Vara den sista som lämnar festen  
-**Citat:**  
+**Citat:**
 _Det är en gamble, spela med mig och du antingen vinner eller förlorar._  
   
 ### Broder Bass  
@@ -50,7 +50,7 @@ _Det är en gamble, spela med mig och du antingen vinner eller förlorar._
 **Gillar:** OPEN-tjack  
 **Ogillar:** Att ha ont i vänstra hjärnhalvan  
 **Specialitet:** Skapa feng shui i sig själv  
-**Citat:**  
+**Citat:**
 _Kloroform hjälper mig inte ur det här._  
   
 ### Ivan Toveva  
@@ -59,7 +59,7 @@ _Kloroform hjälper mig inte ur det här._
 **Gillar:** Be My Lover - La Bouche  
 **Ogillar:** När testosteronnivån är låg  
 **Specialitet:** Lyfta folk på fyllan  
-**Citat:**  
+**Citat:**
 _Jag är inte full, jag är bara baktung._  
   
 ### Samonardo Pecaprio  
@@ -68,25 +68,25 @@ _Jag är inte full, jag är bara baktung._
 **Gillar:** Franska  
 **Ogillar:** Att bli hög på laminering  
 **Specialitet:** Estetiska moves på dansgolvet  
-**Citat:**  
+**Citat:**
 _Jag är Shawn Mendes nedknarkade tvillingbror._  
-  
+
 ### Smatt af Fur  
 #### Barmästare  
 **Favoritdrink:** Nånting IPA  
 **Gillar:** Att ragga utan resultat  
 **Ogillar:** För mycket pengar på kontot  
 **Specialitet:** Power positions  
-**Citat:**  
-_Det var inte mer än 70 klunkar, men mer än 70 klunkar sprit._  
+**Citat:**
+_Det där var mindre än 70 klunkar men mer än 70 klunkar sprit._  
   
-### Hairy Pubes  
+### Harry Pubes  
 #### Festmästare  
 **Favoritdrink:** The turtles are bleeding (patent pending)  
 **Gillar:** Ultimate Werewolf Legacy  
 **Ogillar:** När lägenheten luktar som META efter en pub  
 **Specialitet:** Djupa, filosofiska snapchat-vloggar  
-**Citat:**  
+**Citat:**
 _Om man vill vinna på beerpong måste man sexa till det sexigt._  
   
 ### Dijay Mariyh  
@@ -95,7 +95,7 @@ _Om man vill vinna på beerpong måste man sexa till det sexigt._
 **Gillar:** Att ta över DJ-båset när ingen ber om det  
 **Ogillar:** Olena bebisar  
 **Specialitet:** Viral på alla sociala medier  
-**Citat:**  
+**Citat:**
 _Jag behöver inte bli rik, jag är asiat!_  
  
 
@@ -108,7 +108,7 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Melvin Lundqvist__
   * Klubbmästare
   * _Den som snackar skit om Alpha-johnny har ingen morgondag!_
-* __Mang Ebjuder__
+* __Build-a-bear__
   * Vice klubbmästare
   * _Jag är medveten, jag kan bara inte röra mig._
 * __Vilma Jalava__
