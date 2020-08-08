@@ -27,5 +27,5 @@ Vilma Jalava<br />
 ### Det Kongliga Quisineriet
 **Storquisine**, <br />
 Agnes Forsberg<br />
-[titel@d.kth.se](mailto:titel@d.kth.se)<br />
+[storquisine@d.kth.se](mailto:storquisine@d.kth.se)<br />
 079-348 30 09 
