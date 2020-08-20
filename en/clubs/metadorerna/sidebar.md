@@ -3,14 +3,14 @@
 #### METAdorerna
 [metadorerna@d.kth.se](mailto:metadorerna@d.kth.se)
 #### Konglig Lokalchef (D)
-Kitty Thai     
+KDouglas Fischer
 [lokalchef@d.kth.se](mailto:lokalchef@d.kth.se)
 
 #### Sektionslokalsansvarig (Media)
-Matilda Richardson  
+Currently Vacant
 [sektionslokal@media.kth.se](mailto:sektionslokal@media.kth.se)
 
-* [Chapter-house booking](https://datasektionen.se/sektionen/lokalbokning)
+* [Chapter Hall booking](en/chapter/lokalbokning)
 
 * [Purchase proposals for META](https://goo.gl/forms/xc7Ndq0wogKmR0rd2)
 

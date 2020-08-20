@@ -5,8 +5,8 @@
 ### I would love to organize a party, but I don't know how to...
 
 Technically, anyone can organize a party or event. However, to organize an
-event you have to be a member of the Computer Science chapter. You also need 
-to figure out a location, get a permit, and have a 
+event you have to be a member of the Computer Science chapter. You also need
+to figure out a location, get a permit, and have a
 person that is qualified to be responsible for the event.
 For more information, email the chapter's board at drek@d.kth.se.
 
@@ -16,9 +16,9 @@ Yep. The only think you can do without being a member, is spending time at META 
 
 #### I need a location, could I book META?
 
-The chapter regulations state the following (unofficial translation): 
-§7: META may only be booked by the Computer Science chapter functionaries, as well as 
-organs within the THS, and other organizations. But contact the club or 
+The chapter regulations state the following (unofficial translation):
+§7: META may only be booked by the Computer Science chapter functionaries, as well as
+organs within the THS, and other organizations. But contact the club or
 organisation that fits with the activity you want to organize, and hopefully
 they can help you.
 
@@ -31,14 +31,14 @@ cost more than the Computer Science chapter's halls.
 
 #### Do I need alcohol if I host a party?
 
-Nope! You can host any type of event in META (or other places). 
+Nope! You can host any type of event in META (or other places).
 The only difference being, the party is not required to have a person
 having read the [STAD course](http://www.stad.org/en/about-stad).
 
 #### What is a party application?
 
-A party application is good to have in order to notify guards about your event. 
-If you intend to host more than 20 people, you must make an application. This 
+A party application is good to have in order to notify guards about your event.
+If you intend to host more than 20 people, you must make an application. This
 applies no matter if you serve alcohol or not. Need any help? Contact [the head of the chapter](ordf@d.kth.se)
 or the [head of the bar](klubbm@d.kth.se).
 
@@ -71,4 +71,4 @@ Just need a small push? If you need less than 2000 kr, you can simply mail the c
 
 For sums between 2000 and 10 000 kr, you must wait for the board to come to a decision during a board meeting. Send a mail to [the board](drek@d.kth.se) with a justification. You are welcome to join the meeting, announced five days before, to present your application and to answer questions.
 
-Applications with sums above 10 000 kr need to pass on the chapter meeting. Send a motion to the board meeting preceding the chapter meeting with your justification. You can also ask for help on formalia or discuss your idea. You are requested to join the meeting in order to discuss about your motion. Following the board meeting, an answer from the board regarding your motion will be announced during the chapter meeting. A LaTeX template for motions can be found, under "Motion", [here](/sektionen/organisation).
+Applications with sums above 10 000 kr need to pass on the chapter meeting. Send a motion to the board meeting preceding the chapter meeting with your justification. You can also ask for help on formalia or discuss your idea. You are requested to join the meeting in order to discuss about your motion. Following the board meeting, an answer from the board regarding your motion will be announced during the chapter meeting. A LaTeX template for motions can be found, under "Motion", [here](https://motioner.datasektionen.se/).
