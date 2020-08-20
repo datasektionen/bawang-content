@@ -1,8 +1,6 @@
-# Booking of META
-
 ## To book META
 
-To book META please use the booking system at 
+To book META please use the booking system at
 **[bokning.datasektionen.se](http://bokning.datasektionen.se)**. If you
 have any questions, please contact the chapter-house bosses by email,
 **[lokalbokning@d.kth.se](mailto:lokalbokning@d.kth.se)**. The email

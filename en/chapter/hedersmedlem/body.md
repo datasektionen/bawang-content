@@ -1,7 +1,4 @@
-The computer science chapters honorary members
-------------------------------
-
-An honorary member is a person that has especially supported the chapters interests and aspirations. To nominate a honorary member a motion is sent to the d-Directorate with a motivation, so that it can be brought up on the next chapter meeting for descision.
+An honorary member is a person that has especially supported the chapters interests and aspirations. To nominate a honorary member a motion is sent to the d-Directorate with a motivation, so that it can be brought up on the next chapter meeting for decision.
 
 ## Members
 

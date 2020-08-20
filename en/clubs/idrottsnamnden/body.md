@@ -1,5 +1,3 @@
-# Välkommen till Idrottsnämnden
-
 Idrottsnämndens aktiviteter beror helt på vad dess medlemmar vill göra. Vi satsar bl.a. på att delta i alla grenar i THS-Mästerskapen samt att hålla kontinuerliga aktiviteter vid sidan av studierna. För närvarande är ca 180 dataloger medlemmar i vår [facebook-grupp](https://www.facebook.com/groups/datafotboll/) där de flesta diskussioner äger rum och i princip all information görs tillgänglig.
 
 Vänd dig till idrottsnämnden när du vill:
