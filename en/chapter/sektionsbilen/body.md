@@ -1,6 +1,6 @@
 # Computer science has a car!
 
-To book the car, visit [bokning.datasektionen.se](https://bokning.datasektionen.se/bookings/5). Below there is a weekly calendar over future and historical bookings.
+To book the car, visit [bokning.datasektionen.se](https://bokning.datasektionen.se/bookings/5).
 
 <div id="calendar"></div>
 <script type="text/javascript">
