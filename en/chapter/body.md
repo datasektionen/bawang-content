@@ -1,7 +1,5 @@
 # _Konglig Datasektionen_
 
-<sub>TODO: translate more at the end</sub>
-
 Datasektionen, or the Computer Science Chapter is a non-profit
 [student chapter](https://sv.wikipedia.org/wiki/Studentsektion)
 under [THS](http://ths.kth.se) which exists to give all CS students at
@@ -83,7 +81,7 @@ the [reception website](/en/clubs/mottagningen).
 Board
 --------
 
-The board, or ”D-rektoratet” has the overarching responsibility for everything
+The board, or the d-Directorate has the overarching responsibility for everything
 that happens in the CS chapter. They are the bosses, you could say. Each member
 has their share of responsibilities, and they are elected during _SM_, Chapter
 Meetings. Their main task is realizing democratic decisions made by the Chapter.
@@ -118,8 +116,8 @@ running, it varies a lot. Join here: https://www.facebook.com/groups/datafotboll
 International
 -----------------
 
-We have an international study coordinator who knows the most about the CS chapter's itnernational
-projects. isc@d.kth.se
+We have an international study coordinator who knows the most about the CS chapter's international
+projects. More information can be found [here](/en/clubs/internationellanamnden) or by sending an[email](isc@d.kth.se).
 
 Study trip
 ----------
