@@ -1,5 +1,3 @@
-#Hedersdeltat
-
 Hedersdeltat är Konglig Datasektionens finaste förtjänsttecken och delas
 ut till de personer som synnerligen förtjänstfullt verkat ideellt för
 sektionen.
@@ -21,6 +19,7 @@ Shapour Jahanshahi, Untricesimus
 
 </dd>
 </dl>
+
 ## Mottagare 2018
 
 <dl>
@@ -35,6 +34,8 @@ Alexander Viklund, Duotricesimus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2017
 
 <dl>
@@ -52,7 +53,9 @@ Mattias Danielsson, Tricesimus
 Shayan Effati, Tricesimus
 
 </dd>
-</dl>  
+</dl>
+
+
 ## Mottagare 2016
 
 <dl>
@@ -67,6 +70,8 @@ Andreas Linn, Tricesimus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2015
 
 <dl>
@@ -89,6 +94,8 @@ Petter Djupfeldt, Vicesimus Septus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2014
 
 <dl>
@@ -111,6 +118,8 @@ Frida Jansson, Vicesimus Septus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2013
 
 <dl>
@@ -141,6 +150,8 @@ Victor Koronen, Vicesimus Septus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2012
 
 <dl>
@@ -155,6 +166,8 @@ Andreas Falk, Vicesimus Septus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2011
 
 <dl>
@@ -181,6 +194,8 @@ Tobias Svensson, Vicesimus Quartus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2010
 
 <dl>
@@ -207,6 +222,8 @@ Per Almquist, Tertius Vicesimus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2009
 
 <dl>
@@ -233,6 +250,8 @@ Roger Ström, Unvicesimus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2008
 
 <dl>
@@ -251,6 +270,8 @@ Jon Karlfeldt (Larsson), Undevicesimus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2007
 
 <dl>
@@ -277,6 +298,8 @@ Pehr Söderman, Unvicesimus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2006
 
 <dl>
@@ -287,6 +310,8 @@ Henrik Fräsén, Vicesimus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2005
 
 <dl>
@@ -301,6 +326,8 @@ Emil Stenström, Undevicesimus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2004
 
 <dl>
@@ -323,6 +350,8 @@ Mark Peldius, Septus decimus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2003
 
 <dl>
@@ -337,6 +366,8 @@ Tommie Gannert, Dodevicesimus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2002
 
 <dl>
@@ -375,6 +406,8 @@ Niklas Persson, Quintus decimus
 
 </dd>
 </dl>
+
+
 ## Mottagare 2001
 
 <dl>
@@ -385,6 +418,8 @@ Daniel Westbom, Sigvard
 
 </dd>
 </dl>
+
+
 ## Mottagare 2000
 
 <dl>
@@ -395,6 +430,8 @@ Joakim Meldahl, Sigvard
 
 </dd>
 </dl>
+
+
 ## Mottagare 1999
 
 <dl>
@@ -417,6 +454,8 @@ Mikael Stralje, tertius decimus
 
 </dd>
 </dl>
+
+
 ## Mottagare 1998
 
 <dl>
@@ -435,6 +474,8 @@ Fredrik Sandberg, Docecimus
 
 </dd>
 </dl>
+
+
 ## Mottagare 1997
 
 <dl>
@@ -453,6 +494,8 @@ Olof Lindholm, Dodecimus
 
 </dd>
 </dl>
+
+
 ## Mottagare 1996
 
 <dl>
@@ -471,6 +514,8 @@ Patrik Nilssom, Decimus
 
 </dd>
 </dl>
+
+
 ## Mottagare 1995
 
 <dl>
@@ -493,6 +538,8 @@ Björn Sjöstrand, Oqtavus
 
 </dd>
 </dl>
+
+
 ## Mottagare 1992
 
 <dl>
@@ -519,6 +566,8 @@ Jan Garefelt, Oqtavus
 
 </dd>
 </dl>
+
+
 ## Mottagare 1991
 
 <dl>
@@ -541,6 +590,8 @@ Peter Nemeth, Quintus
 
 </dd>
 </dl>
+
+
 ## Mottagare 1990
 
 <dl>
@@ -571,6 +622,8 @@ Kristina Nedlich, Quarta
 
 </dd>
 </dl>
+
+
 ## Mottagare 1989
 
 <dl>
@@ -601,6 +654,8 @@ Erik Wåhlin, Tertius
 
 </dd>
 </dl>
+
+
 ## Mottagare 1988
 
 <dl>
@@ -651,3 +706,5 @@ Wolfram Meyer, Tertius
 
 </dd>
 </dl>
+
+
