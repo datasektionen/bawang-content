@@ -1,13 +1,13 @@
 På Datasektionen finns fyra ordnar, benämnda “Klubbmästare Emeritus”, “Storasyskon Emeritus”, “Kassör Emeritus” och “Ordförande Emeritus”.
 
-Som bevis på medlemskap i någon av Datasektionens fem ordnar bärs respektive ordens ordenstecken.
+Som bevis på medlemskap i någon av Datasektionens fyra ordnar bärs respektive ordens ordenstecken.
 
 ## Klubbmästare Emeritus
 
 Medlemskap i Klubbmästare Emeritus-orden tilldelas de klubbmästare på Datasektionen som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
-    
+
     Felix Andersson, Tricesimus Quartus 2018/2019
     Pontus Broberg, Tricesimus Tertius 2017/2018
     Aron Strandberg, Untricesimus 2016/2017
@@ -85,7 +85,7 @@ Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna
 Medlemskap i Kassör Emeritus-orden tilldelas de Kassörer på Datasektionen som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
-    
+
     Gustav Ung, Tricesimus Quartus 2018
     Andreas Magnedal Holmgren, Tricesimus Quartus 2017
     Alexander Viklund, Duotricesimus 2016
@@ -139,4 +139,4 @@ Valspråk: Det är faktiskt vi som bestämmer.
     Lotta Eriksson, Sequnda 1986
     Niklas Gustafsson, Primus 1985
     Anette Keisu (Andersson), Prima 1984
-    Dan Ståhlberg, Primus 1983/1984 
+    Dan Ståhlberg, Primus 1983/1984
