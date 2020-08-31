@@ -4,6 +4,6 @@ Frågor om studierna? Tveka inte att kontakta oss!
 
 #### Studienämndens ordförande
 
-Elsa Benzinger
+Sara Videfors
 
 [sno@d.kth.se](mailto:sno@d.kth.se)
