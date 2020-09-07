@@ -35,7 +35,8 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ## Medlemmar  
 
-### Folkes Fylke  
+<img align="right" src="http://dkm.io/images/20-21/george.jpg">
+### George Bassilious  
 #### Klubbmästare  
 **Favoritdrink:** Peroni (plz sponsra)  
 **Gillar:** TikTok  
@@ -44,7 +45,8 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 **Citat:**
 _Det är en gamble, spela med mig och du antingen vinner eller förlorar._  
   
-### Broder Bass  
+<img align="right" src="http://dkm.io/images/20-21/bror.jpg">
+### Bror Sjövald  
 #### Vice Klubbmästare  
 **Favoritdrink:** White Russian  
 **Gillar:** OPEN-tjack  
@@ -53,7 +55,8 @@ _Det är en gamble, spela med mig och du antingen vinner eller förlorar._
 **Citat:**
 _Kloroform hjälper mig inte ur det här._  
   
-### Ivan Toveva  
+<img align="right" src="http://dkm.io/images/20-21/lotta.jpg">
+### Lotta Johnsson  
 #### Ekonomimästare  
 **Favoritdrink:** Big Wave  
 **Gillar:** Be My Lover - La Bouche  
@@ -62,7 +65,8 @@ _Kloroform hjälper mig inte ur det här._
 **Citat:**
 _Jag är inte full, jag är bara baktung._  
   
-### Samonardo Pecaprio  
+<img align="right" src="http://dkm.io/images/20-21/p3.jpg">
+### Samuel Peetre  
 #### Barmästare  
 **Favoritdrink:** Spritis finaste rödvin  
 **Gillar:** Franska  
@@ -70,8 +74,9 @@ _Jag är inte full, jag är bara baktung._
 **Specialitet:** Estetiska moves på dansgolvet  
 **Citat:**
 _Jag är Shawn Mendes nedknarkade tvillingbror._  
-
-### Smatt af Fur  
+  
+<img align="right" src="http://dkm.io/images/20-21/jennifer.jpg">
+### Jennifer Larsson  
 #### Barmästare  
 **Favoritdrink:** Nånting IPA  
 **Gillar:** Att ragga utan resultat  
@@ -80,7 +85,8 @@ _Jag är Shawn Mendes nedknarkade tvillingbror._
 **Citat:**
 _Det där var mindre än 70 klunkar men mer än 70 klunkar sprit._  
   
-### Harry Pubes  
+<img align="right" src="http://dkm.io/images/20-21/grace.jpg">
+### Grace Kaliff  
 #### Festmästare  
 **Favoritdrink:** The turtles are bleeding (patent pending)  
 **Gillar:** Ultimate Werewolf Legacy  
@@ -89,7 +95,8 @@ _Det där var mindre än 70 klunkar men mer än 70 klunkar sprit._
 **Citat:**
 _Om man vill vinna på beerpong måste man sexa till det sexigt._  
   
-### Dijay Mariyh  
+<img align="right" src="http://dkm.io/images/20-21/maria.jpg">
+### Maria-Elena Pettersson  
 #### Infomästare  
 **Favoritdrink:** Pink Gin  
 **Gillar:** Att ta över DJ-båset när ingen ber om det  
@@ -108,19 +115,19 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Melvin Lundqvist__
   * Klubbmästare
   * _Den som snackar skit om Alpha-johnny har ingen morgondag!_
-* __Build-a-bear__
+* __Magnus Lindahl__
   * Vice klubbmästare
   * _Jag är medveten, jag kan bara inte röra mig._
 * __Vilma Jalava__
   * Ekonomimästare
   * _Om jag inte flyger full, flyger jag fel._
-* __Axe Deosson__
+* __Luciano Zapata__
   * Ekonomimästare
   * _Varannan vatten är ju också varannan alk._
-* __Isa Winarskall__
+* __Isabel Redtzer__
   * Barmästare
   * _Jag kan inte dricka med näsan!_
-* __Kat von Primtal__
+* __Amanda Krohn__
   * Barmästare
   * _Un poko. Som man säger på icke-svenska._
 * __Anton Björklund__
@@ -171,7 +178,7 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Klara Eserstam__
   * Barmästare
   * _Som att man inte slickat på metas golv förut_
-* __Joel Reuter__
+* __Joar Rutqvist__
   * Barmästare
   * _Alltså det finns en fett god drink, du börjar med krossat glas..._
 * __Martin Hyberg__
