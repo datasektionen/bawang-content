@@ -35,7 +35,7 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ## Medlemmar  
 
-<img align="right" src="http://dkm.io/images/20-21/george.jpg">
+<img align="right" src="http://dkm.io/images/20-21/george.JPG">
 ### George Bassilious  
 #### Klubbmästare  
 **Favoritdrink:** Peroni (plz sponsra)  
