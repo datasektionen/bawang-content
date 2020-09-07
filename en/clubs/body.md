@@ -1,46 +1,46 @@
 # The Clubs of the CS chapter
 
-###[DKM – Party organizes](/namnder/dkm)
+###[DKM – Party organizes](/en/clubs/dkm)
 What would a Chapter be without parties? DKM has been organizing parties as long as the Chapter has existed.
 
 ###[dbuggen](http://dbu.gg)
 dbuggen is the Chapter's own paper. It's released whenever any possible editors have the time or the will. This actually sometimes happens! Nowadays you can also read it online.
 
-###[METAdorerna](/namnder/metadorerna)
+###[METAdorerna](/en/clubs/metadorerna)
 Our common Chapter Hall is named META and can be found at Osquars Backe 21. we are the ones taking care of the place.
 
-###[IOR – Eeore - Information committee - Hacker club](/namnder/informationsorganet)
+###[IOR – Eeore - Information committee - Hacker club](/en/clubs/informationsorganet)
 We make sure the chapter's infromation distribution systems work properly, which results in lots of hacking.
 
 
-###[Tag Monkeys](/namnder/tag-monkeys)
+###[Tag Monkeys](/en/clubs/tag-monkeys)
 Graphic design <3
 
-###[Equality Committee](/namnder/jamlikhetsnamnden)
+###[Equality Committee](/en/clubs/jamlikhetsnamnden)
 We want everyone to feel safe and welcome.
 
 ###[GEEK - Girls: Empowered, Encouraged, Knowledgable](/en/clubs/geek)
 Group for helping girls at the CS chapter network with each other.
 
-###[The reception](/namnder/mottagningen)
+###[The reception](/en/clubs/mottagningen)
 Here is all the info about the reception, the scedule, etc.
 
-###[Industry group](/namnder/naringslivsgruppen)
+###[Industry group](/en/clubs/naringslivsgruppen)
 The industry group handles the Chapter's professional contacts, organizes job fairs, lunch lectures, study visits, and other kids of sponsoring.
 
-###[Prylmångleriet - pathces and merch](/namnder/prylmangleriet)
+###[Prylmångleriet - pathces and merch](/en/clubs/prylmangleriet)
 _Prylis_ sells the stuff CS students want to buy
 
-###[Qulturnämnden - Qulture Committee](/namnder/qulturnamnden)
+###[Qulturnämnden - Qulture Committee](/en/clubs/qulturnamnden)
 Film nights, eating candy, and other forms of _qulture_.
 
-###[Idrottsnämnden - Sport Committee](/namnder/idrottsnamnden)
+###[Idrottsnämnden - Sport Committee](/en/clubs/idrottsnamnden)
 We do whatever we want.
 
-###[Studienämnden - Study committee](/namnder/studienamnden)
+###[Studienämnden - Study committee](/en/clubs/studienamnden)
 Keeping an eye on the studies, the courses and the factulty.
 
-###[DEMON – Music group](/namnder/datasektionens-musiknamnd)
+###[DEMON – Music group](/en/clubs/demon)
 DEMON are the music enthusiasts of the CS chapter. Meet to jam together!
 
 ###DESC – Computer Science E-sports community

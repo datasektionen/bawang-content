@@ -8,4 +8,3 @@ Willy Liu
 
 [dad@d.kth.se](mailto:dad@d.kth.se)
 
-[Messenger](https://m.me/willyjliu)

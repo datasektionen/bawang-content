@@ -8,14 +8,12 @@ The industry group handles the chapter's contacts with companies. You can always
 E-mail: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
 **Head of business relations**<br />
-Eric Fredin Haslum<br />
+Johan Luhr<br />
 E-mail: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
 
 **Heads of D-Dagen**<br />
-Victor Sellstedt & Simone de Blasio<br />
+Andreas Wallström & Julia Byström<br />
 E-mail: [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)<br />
-[070-865 02 09](tel:+46708650209)<br />
-[072-932 06 89](tel:+46729320689)
 
 Visit the [industry group's page](/naringsliv) for more information.
 
@@ -25,9 +23,8 @@ Visit the [industry group's page](/naringsliv) for more information.
 For general questions, contact our head of communications at:
 
 **Head of communications**<br />
-Fe​lix Al​may<br />
+Adam Sjöberg<br />
 E-mail: [info@d.kth.se](mailto:info@d.kth.se)<br />
-[07 242 151 42](tel:+46724215142)
 
 For questions regarding [datasektionen.se](/) or other systems handled by the chapter, contact the chapter's information committee at [ior@d.kth.se](mailto:ior@d.kth.se).
 
@@ -55,6 +52,6 @@ META<br />
 Osquars Backe 21<br />
 114 28 Stockholm
 
-**Organisation number**
+**Organization number**
 
 802412-7709

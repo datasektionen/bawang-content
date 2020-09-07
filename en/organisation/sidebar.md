@@ -8,11 +8,11 @@ The Data Chapter By-laws, always in the latest audited version.
 
 The Rules regulate everything that the By-laws don't.[help]
 
-#### [Operational Plan](/organisation/verksamhetsplan)
+#### [Operational Plan](/en/organisation/verksamhetsplan)
 
 Den current operational plan.
 
-#### [The Chapter Budget](/organisation/budget)
+#### [The Chapter Budget](/en/organisation/budget)
 
 The current budget.
 
@@ -44,27 +44,27 @@ The Current social equality policy.
 
 The current cohabitation agreement for META.
 
-#### [Protocols](/organisation/protokoll)
+#### [Protocols](/en/organisation/protokoll)
 
 Protocols from chapter meeting and D-rektorat meeting.
 
-#### [Graphic Charter](/organisation/grafisk-profil)
+#### [Graphic Charter](/en/organisation/grafisk-profil)
 
 How am I allowed to use the Data Chapter's logo and where can I find it in print-friendly file format?
 
-#### [Hedersdelta](/sektionen/hedersdelta)
+#### [Hedersdelta](/en/chapter/hedersdelta)
 
 List of the people who have been awarded the Data Chapter's hedersdelta.
 
-#### [Hedersmedlem](/sektionen/hedersmedlem)
+#### [Hedersmedlem](/en/chapter/hedersmedlem)
 
 List of the people who have been appointed hedersmedlem on the Data chapter.
 
 ### Links
 
 -   [D-rektoratet on Facebook](https://facebook.com/drektoratet/)
--   [What does the Board of Directors do](/sektionen/sammansattning)
--   [Protocols](/organisation/protokoll)
+-   [What does the Board of Directors do](/en/organisation/sammansattning)
+-   [Protocols](/en/organisation/protokoll)
 -   [By-laws](https://styrdokument.datasektionen.se/stadgar)
 -   [Rules](https://styrdokument.datasektionen.se/reglemente)
 -   [Verifikatmall](https://static.datasektionen.se/kvittomall-ht16)

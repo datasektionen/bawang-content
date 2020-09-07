@@ -35,7 +35,7 @@ It's also possible to make a project in the chapter. A project is similar to a t
 
 ### Volunteers
 
-Volunteers are also elected at the SM. Every volunteer is responsible for one club or activity in the chapter. If you want to get engaged in a club or activity you are welcome to turn to its volunteer! If you want to be a volunteer yourself contact [Valberedningen](/sektionen/val) för att kandidera på ett
+Volunteers are also elected at the SM. Every volunteer is responsible for one club or activity in the chapter. If you want to get engaged in a club or activity you are welcome to turn to its volunteer! If you want to be a volunteer yourself contact [Valberedningen](/en/chapter/val) för att kandidera på ett
 SM. Information om vad det innebär att vara funktionär finns i denna
 [intropholdr](https://static.datasektionen.se/infphldr2016-12-15.pdf).
 
@@ -46,17 +46,17 @@ fattas på SM. Styrelsen är därmed ansvarig inför alla medlemmar att
 besluten följs och att sektioner följer sina stadgar och reglementet,
 och självklart även lagen. Datasektionens styrelse består av ordförande,
 vice ordförande, kassör, sekreterare och tre ledamöter. Om du själv vill
-sitta i styrelsen så kontaktar du [Valberedningen](/sektionen/val) för
+sitta i styrelsen så kontaktar du [Valberedningen](/en/chapter/val) för
 att kandidera på ett SM.
 
-[Vad gör styrelsens olika poster](/sektionen/sammansattning)
+[Vad gör styrelsens olika poster](/en/organisation/sammansattning)
 
-[Vilka sitter i styrelsen just nu?](https://dfunkt.datasektionen.se/positions)
+[Vilka sitter i styrelsen just nu?](https://dfunkt.datasektionen.se/)
 
 ### Statutory Auditor
 
 The Statutory Auditor is the one that performs audit through verifying the bookkeeping, quorum and activity in an organisation,
-e.g. an organisation, an institution or a business. The Data Chapter's Auditor examines  bookkeeping and meeting protocols every year to decide if the board of directors have done their job.  Contact [Valberedningen](/sektionen/val) if you want to become if you want to run for Statutory Auditor on next SM.
+e.g. an organisation, an institution or a business. The Data Chapter's Auditor examines  bookkeeping and meeting protocols every year to decide if the board of directors have done their job.  Contact [Valberedningen](/en/chapter/val) if you want to become if you want to run for Statutory Auditor on next SM.
 
 ### When is everything decided?
 

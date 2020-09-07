@@ -1,13 +1,58 @@
-På Datasektionen finns tre ordnar, benämnda “Storasyskon Emeritus”, “Kassör Emeritus” och “Ordförande Emeritus”.
+The Computer Science chapter have four orders. These are “Klubbmästare Emeritus”, “Storasyskon Emeritus”, “Kassör Emeritus”, and “Ordförande Emeritus”.
 
-Som bevis på medlemskap i någon av Datasektionens tre ordnar bärs respektive ordens ordenstecken.
+As proof om membership in one of the orders, the members is rewarded a medal.
+
+## Klubbmästare Emeritus
+
+Membership of the Klubbmästare Emeritus order is awarded to Klubbmästare (head of DKM) at the chapter who have served an entire term.
+
+The order's medal is a five-pointed silver star, with a cerise field, and a black delta in the middle. The star is coated by a laurel wreath.
+
+
+    Felix Andersson, Tricesimus Quartus 2018/2019
+    Pontus Broberg, Tricesimus Tertius 2017/2018
+    Aron Strandberg, Untricesimus 2016/2017
+    Adam Denlert, Untricesimus 2015/2016
+    Robin Hellgren, Tricesimus 2014/2015
+    Sebastian Magnusson, Undetricesimus 2013/2014
+    Jesper Bratt, Vicesimus Septus 2012/2013
+    Simon Ström, Vicesimus Septus 2011/2012
+    Charlie Lindviken, Vicesimus Sextus 2010/2011
+    Gustav Johansson, Vicesimus Quintus 2009/2010
+    Jonas Hellgren, Tertius Vicesimus 2007/2009
+    Eskil Andréen, Unvicesimus 2006/2007
+    Mikael Granholm, Unvicesimus 2005/2006
+    Angelica Diehn, Vicesima 2004/2005
+    Robin Hagblom, Undevicesimus 2003/2004
+    Max Thoursie, Dodevicesimus 2002/2003
+    Lars Holmberg, Septus Decimus 2001/2002
+    Stefan Särne, Sextus Decimus 2000/2001
+    Joel Andersson, Quintus Decimus 1999/2000
+    Magnus Axell, Sigvard 1998/1999
+    Michael Rotstein, Tertius Decimus 1997/1998
+    Martin Hansson, Dodecimus 1996/1997
+    Anna Kismalm, Undecima 1995/1996
+    Samy Sancho, Decimus 1994/1995
+    Jonna Shanwell, Nona 1993/1994
+    Fredrik Gunne, Oqtavus 1993
+    Erlend Jörgensen, Septimus 1992
+    Marianne Lindström, Septa 1991
+    Olof Wallquist, Quintus 1990
+    Joakim Sternberg, Quartus 1989
+    Wolfram Meyer, Tertius 1988
+    Jerker Andersson, Sequndus 1987
+    Jesper Lundh, Sequndus 1986
+    Kjell Lundesten, Primus 1985
 
 ## Storasyskon Emeritus
 
-Medlemskap i Storasyskon Emeritus-orden tilldelas de Storasyskon som förtjänstfullt arbetat under en hel mandatperiod.
+Membership of the Storasyskon Emeritus order is awarded to Storasyskon (head of Reception) at the chapter who have served an entire term.
 
-Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
+The order's medal is a five-pointed cerise star, with a silver field, and a black delta in the middle. The star is coated by a laurel wreath.
 
+    Emil Lindblom, Duotricesimus 2019
+    Cristian Osorio Bretti, Tricesimus Tertius 2018
+    Jonas Dahl, Untricesimus 2017
     Agnes Åman, Untricesima 2016
     Björn Englesson, Tricesimus 2015
     Anna Olsson, Undetricesima 2014
@@ -38,10 +83,13 @@ Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna
 
 ## Kassör Emeritus
 
-Medlemskap i Kassör Emeritus-orden tilldelas de Kassörer på Datasektionen som förtjänstfullt arbetat under en hel mandatperiod.
+Membership of the Kassör Emeritus order is awarded to treasurers at the chapter who have served an entire term.
 
-Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
+The order's medal is a five-pointed green star, with a black field, and a cerise delta in the middle. The star is coated by a golden laurel wreath.
 
+    Gustav Ung, Tricesimus Quartus 2018
+    Andreas Magnedal Holmgren, Tricesimus Quartus 2017
+    Alexander Viklund, Duotricesimus 2016
     Ludvig Hagberg, Undetricesimus 2015
     Filip Shulze, Tricesimus 2014
     Frida Jansson, Vicesimus Septa 2013
@@ -50,12 +98,14 @@ Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i g
 
 ## Ordförande Emeritus
 
-Medlemskap i Ordförande Emeritus-orden tilldelas de Ordförande på Datasektionen som förtjänstfullt arbetat under en hel mandatperiod.
+Membership of the Ordförande Emeritus order is awarded to chairmans at the chapter who have served an entire term.
 
-Ordenstecknet för Ordförande Emeritus består av en störtad femuddig stjärna i guld med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
+The order's medal is a five-pointed golden star, with a black field, and a cerise delta in the middle. The star is coated by a golden laurel wreath.
 
-Valspråk: Det är faktiskt vi som bestämmer.
+Motto: We are the ones actually in charge.
 
+    Victor Sellstedt, Tricesimus Quartus 2018
+    Alexander Viklund, Duotricesimus 2017
     Henrik Johansson, Untricesimus 2016
     Lovisa Runhem, Tricesima 2015
     Jacob Sievers, Undetricesimus 2014
@@ -90,4 +140,4 @@ Valspråk: Det är faktiskt vi som bestämmer.
     Lotta Eriksson, Sequnda 1986
     Niklas Gustafsson, Primus 1985
     Anette Keisu (Andersson), Prima 1984
-    Dan Ståhlberg, Primus 1983/1984 
+    Dan Ståhlberg, Primus 1983/1984

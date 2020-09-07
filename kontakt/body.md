@@ -10,7 +10,7 @@ anledning är du alltid välkommen att kontakta oss:
 E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
 **Näringslivsansvarig**<br />
-Eric Fredin Haslum<br />
+Johan Luhr<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
 
 **Arbetsmarknadsdagsansvariga**<br />
