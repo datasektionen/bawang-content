@@ -1,9 +1,11 @@
-Protokoll
-=========
-
-Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs upp på denna sida. Vid frågor angående protokoll, kontakta Datasektionens sekreterare.
+Proctols from each Chapter and D-directorate Meeting are uploaded here. If you have any questions about a protocol,
+please reach out to [secretary](sekr@d.kth.se).
 
 ## Sektionsmöten, SM
+
+###2020
+
+
 ###2019
 
 24/1 [Extra-SM](https://static.datasektionen.se/protokoll/extra_sm_2019)
