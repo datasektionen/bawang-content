@@ -48,17 +48,15 @@ DESC organizes gaming nights and other events for gaming enthusiasts in the chap
 
 ## Projekt på Datasektionen
 
-[dÅre](http://dåre.se)
+[d�re](http://d�re.se)
 
 [Studs](https://studieresan.se)
 
 [METAspexet](http://metaspexet.se)
 
-Vårbalen
+V?rbalen
 
-Sångboksgruppen
-
-[Bröllopet](https://www.facebook.com/brollopet2017)
+Hello World
 
 ## How to start a project
 To start a project, there has to be an interest on the part of the chapter since we'll be using the chapter's money.
@@ -79,3 +77,7 @@ Dart Vader: CS Dart group.
 Jong: CS Juggling group.
 
 SHFF: Sektionshusfondsföreningen (untranslateable - sorry, one international student that go this far. Thanks for reading tho!).
+
+S�ngboksgruppen
+
+[Br�llopet](https://www.facebook.com/brollopet2017) - Our Wedding with the Media chapter
