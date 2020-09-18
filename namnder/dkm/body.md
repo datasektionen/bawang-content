@@ -11,7 +11,7 @@
 
 # DKM
 
-DKM är Datas Klubbmästeri. Det är vi som ser till att ni dataloger har möjlighet att ha roligt under er tid här på teknis. Vi anordnar fester och pubar under hela året (förutom under mottagningen). Vill du komma i kontakt med oss, släng iväg ett mail till [dkm@d.kth.se](mailto:dkm@d.kth.se)!
+DKM är Datas Klubbmästeri. Det är vi som ser till att ni dataloger har möjlighet att ha roligt under er tid här på teknis. Vi anordnar fester och pubar under hela året (förutom under mottagningen). Vill du komma i kontakt med oss, släng iväg ett mail till [dkm@d.kth.se](mailto:dkm@d.kth.se)! Efter ett beslut från KTH att förbjuda festanmälningar får vi dessvärre inte ha våra events på campus. Vi har däremot idéer och letar efter alternativa lösningar för att fixa feta (men fortfarande säkra ) fester åt sektionen.
 
 ## Vad gör vi?
 
