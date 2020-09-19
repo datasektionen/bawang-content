@@ -6,7 +6,7 @@ rules and white paper.
 
 The Computer Science Chapter also have their own regulatory documents. To regulate our own activities we got our **[by-laws](https://styrdokument.datasektionen.se/stadgar)** and our volunteers
 **[rules](https://styrdokument.datasektionen.se/reglemente)**.
-[Our treasurer](https://dfunkt.datasektionen.se/positions/kassor) is responsible for the chapter's economic routines - you will find them in the [Economic Policy](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument).
+[Our treasurer](https://dfunkt.datasektionen.se/position/id/9) is responsible for the chapter's economic routines - you will find them in the [Economic Policy](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument).
 
 The Computer Science Chapter are also proud proprietors of a permanent
 license to serve alcohol and thus we follow the Swedish Alcohol Law(Alkohollag:2010:1622). To be clear to all our members about our view on alcohol in our chapter hall and our activities
