@@ -1,6 +1,8 @@
 Proctols from each Chapter and D-directorate Meeting are uploaded here. If you have any questions about a protocol,
 please reach out to [secretary](sekr@d.kth.se).
 
+**Unfortunately the protocls are only available in Swedish**
+
 ## Sektionsmöten, SM
 
 ###2020
