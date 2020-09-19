@@ -75,7 +75,7 @@ Works with question regarding the well being of our members, working environment
 social events.
 
 
-__Kontaktfunktionärer__
+__Contact person to__
 
 * Head of the Bar
 
@@ -112,7 +112,7 @@ Works with business related question and our projects and commitess related to t
 Is also responsible for internal communications and that imporant information is avaiable to our members.
 
 
-__Kontaktfunktionärer__
+__Contact person to__
 
 * Project Leaders for STUDS
 
