@@ -3,7 +3,7 @@ Sammansättning
 
 D-rektoratet består av sju ledamöter. Dessa arbetar tillsammans i
 styrelsen men fungerar också som samordnande kontakt för funktionärer
-och nämner på Konglig Datasektionen.
+och nämnder på Konglig Datasektionen.
 
 ## Sektionsordförande
 
@@ -23,7 +23,7 @@ __Kontaktfunktionärer__
 
 ## Vice sektionsordförande
 
-Vice ordförandens viktigaste roll är att assistera och avbelasta
+Vice ordförandens viktigaste roll är att assistera och avlasta
 ordförande för att säkerställa att denna inte överarbetar sig. I detta
 ingår bla. att vara beredd på att rycka in som ställföreträdande
 ordförande om ordförande inte kan fullgöra sina förpliktelser, hålla
