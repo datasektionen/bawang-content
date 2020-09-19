@@ -1,8 +1,4 @@
-Årsrapporter
-============
-
-# OBS
-Vi håller på att ändra lite hosting här på sidan så protokollen kommer upp så snart vi fixat det! Ifall du är nyfiken på någon årsrapport, kontakta drek@d.kth.se.
+# Yearly reports
 
 ## 2017
 -   Verksamhetsberättelse 2017
