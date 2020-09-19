@@ -3,7 +3,7 @@ please reach out to [secretary](sekr@d.kth.se).
 
 **Unfortunately the protocls are only available in Swedish**
 
-## Sektionsmöten, SM
+## Chapter Meetings, SM
 
 ###2020
 
@@ -326,7 +326,7 @@ please reach out to [secretary](sekr@d.kth.se).
 
 29/3 [SM](https://static.datasektionen.se/protokoll/sm900329.html)
 
-## D-rektoratsmöten, DM
+## D-directorate Meetings, DM
 
 ###2019
 21/2 [Ett Disk-å-DM](https://static.datasektionen.se/protokoll/ett_diska_dm_2019)
