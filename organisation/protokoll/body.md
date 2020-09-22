@@ -337,7 +337,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ## D-rektoratsmöten, DM
 
-###2020 
+###2020
 
 22/4 [Ett Zoomer-DM](https://static.datasektionen.se/protokoll/ett_zoomer_dm_2020)
 
