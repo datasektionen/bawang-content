@@ -19,6 +19,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 13/10 [Budget-SM](https://static.datasektionen.se/protokoll/budget_sm_2019)
 
+16/5 [Val-SM](https://static.datasektionen.se/protokoll/val_sm_2019)
+
 26/3 [Revisions-SM](https://static.datasektionen.se/protokoll/revisions_sm_2019)
 
 24/1 [Extra-SM](https://static.datasektionen.se/protokoll/extra_sm_2019)
@@ -351,7 +353,11 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 9/12 [Ett Vettigt-DM](https://static.datasektionen.se/protokoll/ett_vettigt_dm_2019)
 
+18/11 [Ett Eventuellt DM-innan-Glögg-SM](https://static.datasektionen.se/protokoll/ett_eventuellt_dm_innan_glogg_sm_2019)
+
 24/10 [Nalle Puh-DM](https://static.datasektionen.se/protokoll/nalle_puh_dm_2019)
+
+24/9 [De smiter med allt mitt guld!-DM](https://static.datasektionen.se/protokoll/dm_innan_budget_sm_2019)
 
 5/9 [Kursstarts-DM](https://static.datasektionen.se/protokoll/kursstarts_dm_2019)
 
@@ -360,6 +366,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 6/5 [Karriärsuppföljnings-DM](https://static.datasektionen.se/protokoll/karriaruppfoljnings_dm_2019)
 
 11/4 [Ett Länkskatt-DM](https://static.datasektionen.se/protokoll/link_tax_dm_2019)
+
+14/3 [Ett Pi-DM](https://static.datasektionen.se/protokoll/ett_pi_dm_2019)
 
 21/2 [Ett Disk-å-DM](https://static.datasektionen.se/protokoll/ett_diska_dm_2019)
 
