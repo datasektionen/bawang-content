@@ -1,5 +1,4 @@
-#Study life
-Having issues or questions related to your studies? Check the answers in the [study FAQ](/en/studier/faq).
+Having issues or questions related to your studies? Check the answers in the [study FAQ](/en/studies/faq).
 Or email one of the people below. They all love being able to help!
 
 Not sure who to email? Email [sno@d.kth.se](mailto:sno@d.kth.se)
@@ -13,11 +12,11 @@ Concact me if you have questions about your studies. For example, if there are p
 [sno@d.kth.se](mailto:sno@d.kth.se)
 
 ### Studerandeskyddsombud
-Contac me if you have issues regarding the study environment. This includes both physical and psycho-social problems.
+Contact me if you have issues regarding the study environment. This includes both physical and psychosocial problems.
 
 [sso@d.kth.se](mailto:sso@d.kth.se)
 
-### Equality council
+### Equality committee
 Contact me if with questions or comments about equality.
 
 [jamlikordf@d.kth.se](mailto:jamlikordf@d.kth.se)

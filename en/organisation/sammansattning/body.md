@@ -1,165 +1,129 @@
-Sammansättning
+Members of the Board
 --------------
 
-D-rektoratet består av sju ledamöter. Dessa arbetar tillsammans i
-styrelsen men fungerar också som samordnande kontakt för funktionärer
-och nämner på Konglig Datasektionen.
+The D-directorate is the board of the Computer Science chapter and consists of seven members.
+They are the Chairman, Vice Chairman, Treasurer, secretary, and three more board members that are responsible
+for educational issues, student welfare, and business relations. Together they arrange Chapter Meetings, make sure
+the decisions at chapter meetings are executed, coordinate different parts of the chapter, and make strategic and long term plans.
 
-## Sektionsordförande
+Each boardmember is the contact person in the board for some of out elected volunteers.
 
-Sektionens ordförande leder D-rektoratets arbete. Ordföranden ansvarar
-även, tillsammans med ledamoten för sociala frågor och relationer, för
-kontakten med THS och andra sektioner.
+## The Chairman
 
-Ordföranden ser till att saker blir gjorda på sektionen och får ta tag i
-uppgifter som inte direkt faller på någon annan funktionär. Ansvarar
-även för att det upprättas en verksamhetsberättelse varje år som talar
-om vad som hänt under året.
+The Chairman is in charge of the D-directorate and the contact with THS and other chapters.
+The Chairman and the Vice Chairman work in close cooperation to create a plan and a vision with the rest of the board.
 
-__Kontaktnämnd__
+In addition to this The Chairman is an authorized signatory for the chapter and handles alcohol related questions.
 
-* Mottagningen
+__Contact Person to__
 
-## Vice sektionsordförande
+* Head of Receptions
 
-Vice ordförandens viktigaste roll är att assistera och avbelasta
-ordförande för att säkerställa att denna inte överarbetar sig. I detta
-ingår bla. att vara beredd på att rycka in som ställföreträdande
-ordförande om ordförande inte kan fullgöra sina förpliktelser, hålla
-möten (som arbetsmöten,SM eller DM) och representera sektionen.
+* Auditors
 
-Vice sektionsordförande bör vara villig att ta många små uppgifter som
-inte tillhör någon specifik D-rek'post eller hinns med av relevant
-styrelseledamot. Det kontinuerliga ansvaret utgörs mest av fika samt
-ansvar för sektionens nycklar och accesser.
+## Vice Chairman
+The Vice Chairmans primary role is to assist the Chairman and make sure
+that the every board members workload is reasonable and that they are feeling well.
+In the case that the Chariman can't fulfill his obligations the Vice Chairman will
+assume the role as acting Chairman.
 
-__Kontaktnämnder__
+The Vice Chairman does many tasks that aren't related to any other board member or function in the chapter.
 
-* Fanbärare
+__Contact Person to__
 
-* Mulle Schmeck
+* Standard-bearer
 
-* Valberedningen
+## The Treasurer
 
-* dÅre
+The Tresurer is responsible for the most things related to economics.
+This includes declarations, bills, payments, and accounting. The treasurer
+is an authorized signatory for the chapter.
 
-* GEEK
+## The Secretary
 
-## Kassör
+The Secretary is responsible for documenting D-directorate and Chapter Meetings
+and to write protocols and archive them.
 
-Kassören håller helt enkelt reda på sektionens ekonomiska bit. Det
-gäller deklarationer, fakturor och naturligtvis bokföringen. Kassören
-och sektionsordföranden är de som har firmateckningsrätt för sektionen.
+__Contact person to__
 
-__Kontaktnämnder__
+* Nominations committee chairperson
 
-* DKM
-
-* METAspexet
-
-* Vårbalen
-
-* Bröllopet
-
-* Prylmångleriet
-
-## Sekreterare
-
-Sekreteraren är ansvarig för att protokoll skrivs, undertecknas,
-justeras och arkiveras. Sekreteraren ansvarar också för att brev delas
-ut till rätt personer. Även allmän formalia är sekreterarens uppgift.
+* Student union assembly delegates
 
 
-__Kontaktnämnder__
+## Board member of Educational Issues
 
-* Datas Art Director
+This board member works closely with the study council and works as a
+link between them and the board.
 
-* Kårfullmäktige
-
-* DESC
-
-* Redaqtionen
-
-* Sektionshistoriker
-
-
-## Ledamot för utbildningsfrågor
-
-Det löpande arbetet med utbildningsfrågor sköts av Studienämnden. Deras
-kontaktperson i styrelsen ser till att arbetet inte stannar av. Ibland
-kan ledamoten till och med få representera på något utskottsmöte som KTH
-håller.
-
-
-__Kontaktnämnder__
+__Contact person to__
 
 * Programansvarig student
 
-* Studienämndens ordförande
+* The Chariman of the Study Council
 
-* Ärkedemon
+* The Chariman of the Equality Commitee
 
-* Internationella utskottet
+* International student coordinator
 
-* Studerandeskyddsombud
-
-
-## Ledamot för studiesociala frågor
-
-Har frågor som rör medlemmarnas psykiska
-och fysiska miljö som ansvarsområde. Arbetar med att utveckla
-medlemmarnas
-studentliv. Dessa ansvarsområden inkluderar att:
-
-* strategiskt arbeta med utvecklingen av sektionens studiesociala
-verksamhet
-* verka för en god studiemiljö
-* upprätthålla och förvalta kontakten med andra sektioner och
-organisationer
-* verka för en god sammanhållning mellan sektionens engagerade medlemmar
-* från styrelsen arbeta med frågor som berör jämlikhet, mångfald och
-likabehandling
-på sektionen
-
-Det är viktigt att framhärda att miljö innefattar såväl den fysiska som
-den psykosociala miljön.
+* Student safety officer
 
 
-__Kontaktnämnder__
+## Board member of Student issues
 
-* Idrottsnämnden
+Works with question regarding the well being of our members, working environment, and
+social events.
+
+
+__Contact person to__
+
+* Head of the Bar
+
+* Chapter Sports leader
 
 * Ljud- och ljusansvarig
 
-* METAdorerna
+* Chief of halls
 
-* Qulturnämnden
+* Cultural attaché
 
-* Jämlikhetsnämnden
+* Prylis
+
+* Mulle/Mullerina Schmeck
+
+* DESCtop
+
+* Ärkedemon
+
+* Head matron
+
+* Spexdireqteur
+
+* dÅre
+
+* Bakis
+
+* D-Fest
 
 
-## Ledamot för näringsliv och kommunikation
+## Board member of business relations
 
-Arbetar med och för i styrelsen de frågor
-som rör näringsliv och kommunikation, samt är kontaktperson för
-sektionens verksamhet
-som avser dessa områden. Dessa ansvarsområden inkluderar att:
-
-* överblicka och verka för stärkandet av varumärket Datasektionen
-* strategiskt arbeta med utvecklingen av sektionens olika verktyg för intern och extern kommunikation tillsammans med berörda funktionärer
-* strategiskt arbeta med utvecklingen av sektionens näringslivsverksamhet
-* bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på
-sektionen
+Works with business related question and our projects and commitess related to this area.
+Is also responsible for internal communications and that imporant information is avaiable to our members.
 
 
-__Kontaktnämnder__
+__Contact person to__
 
-* Studs
+* Project Leaders for STUDS
 
-* Crash & Bränn
+* Chapter systems officer
 
-* Kommunikatör
+* Communications officer
 
-* Näringslivsgruppen
+* Head of Business Relations
 
-* D-dagen
+* D-dagenansvarig
+
+* Chapter business fair officer
+
+* Chief editor

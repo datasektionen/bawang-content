@@ -2,7 +2,8 @@
 
 I menyn till vänster kan du läsa om alla Datasektionens nämnder.
 
-## Projekt på Datasektionen
+## Återkommande projekt på Datasektionen
+Nedan ses alla återkommande projekt på Datasektionen. Återkommande projekt är projekt som helt enkelt görs om varje år. Till skillnad från vanliga projekt, som oftast sker en gång och sedan läggs ned.
 
 [dÅre](http://dåre.se)
 
@@ -10,11 +11,15 @@ I menyn till vänster kan du läsa om alla Datasektionens nämnder.
 
 [METAspexet](http://metaspexet.se)
 
+[D-Dagen](https://d-dagen.se/)
+
+[Vårbalen](https://www.facebook.com/dvarbalen/?fref=tag)
+
+## Projekt på Datasektionen
+
 [dJubileet](http://djubileet.se)
 
-Vårbalen
-
-Sångboksgruppen
+Hello World
 
 ## Tidigare nämnder och föreningar på Datasektionen
 

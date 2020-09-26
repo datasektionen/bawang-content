@@ -1,16 +1,16 @@
-### Styrdokument
+### Regulatory Documents
 
 #### [By-laws](https://styrdokument.datasektionen.se/stadgar)
 
-The Data Chapter By-laws, always in the latest audited version.
+The Computer Science chapter By-laws, always in the latest audited version.
 
 #### [Rules](https://styrdokument.datasektionen.se/reglemente)
 
-The Rules regulate everything that the By-laws don't.[help]
+The Rules regulate everything that the By-laws don't and are easier to change.
 
 #### [Operational Plan](/en/organisation/verksamhetsplan)
 
-Den current operational plan.
+The current operational plan.
 
 #### [The Chapter Budget](/en/organisation/budget)
 
@@ -40,32 +40,30 @@ The Current information distribution guidelines.
 
 The Current social equality policy.
 
-#### [Samboavtalet 2017](http://static.datasektionen.se/organisation/samboendeavtal2017.pdf)
+#### [Samboendeavtalet 2020](https://static.datasektionen.se/organisation/samboendeavtal2020)
 
 The current cohabitation agreement for META.
 
 #### [Protocols](/en/organisation/protokoll)
 
-Protocols from chapter meeting and D-rektorat meeting.
+Protocols from chapter meetings and D-directorate meetings.
 
 #### [Graphic Charter](/en/organisation/grafisk-profil)
 
-How am I allowed to use the Data Chapter's logo and where can I find it in print-friendly file format?
+How am I allowed to use the Computer Science chapter's logo and where can I find it in print-friendly file format?
 
 #### [Hedersdelta](/en/chapter/hedersdelta)
 
-List of the people who have been awarded the Data Chapter's hedersdelta.
+List of the people who have been awarded the The Honorary Delta.
 
 #### [Hedersmedlem](/en/chapter/hedersmedlem)
 
-List of the people who have been appointed hedersmedlem on the Data chapter.
+List of the people who have been appointed Honorary Member on the Computer Science chapter.
 
 ### Links
 
--   [D-rektoratet on Facebook](https://facebook.com/drektoratet/)
+-   [Th D-directorate on Facebook](https://facebook.com/drektoratet/)
 -   [What does the Board of Directors do](/en/organisation/sammansattning)
 -   [Protocols](/en/organisation/protokoll)
 -   [By-laws](https://styrdokument.datasektionen.se/stadgar)
 -   [Rules](https://styrdokument.datasektionen.se/reglemente)
--   [Verifikatmall](https://static.datasektionen.se/kvittomall-ht16)
--   [d-Phunkintropholdr](http://static.datasektionen.se/infphldr2016-12-15.pdf)

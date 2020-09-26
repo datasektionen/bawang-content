@@ -4,6 +4,6 @@
 
 #### Qulturattaché
 
-Christian Weigelt
+Tobias Hansson
 
 [qulturattache@d.kth.se](mailto:qulturattache@d.kth.se)
