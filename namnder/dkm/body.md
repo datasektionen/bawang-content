@@ -35,7 +35,8 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ## Medlemmar  
 
-<img align="right" src="http://dkm.io/images/20-21/george.JPG">
+<img align="right" src="http://dkm.io/images/20-21/george.JPG">  
+
 ### George Bassilious  
 #### Klubbmästare  
 **Favoritdrink:** Peroni (plz sponsra)  
@@ -45,7 +46,8 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 **Citat:**
 _Det är en gamble, spela med mig och du antingen vinner eller förlorar._  
   
-<img align="right" src="http://dkm.io/images/20-21/bror.JPG">
+<img align="right" src="http://dkm.io/images/20-21/bror.JPG">  
+
 ### Bror Sjövald  
 #### Vice Klubbmästare  
 **Favoritdrink:** White Russian  
@@ -55,7 +57,8 @@ _Det är en gamble, spela med mig och du antingen vinner eller förlorar._
 **Citat:**
 _Kloroform hjälper mig inte ur det här._  
   
-<img align="right" src="http://dkm.io/images/20-21/lotta.JPG">
+<img align="right" src="http://dkm.io/images/20-21/lotta.JPG">  
+
 ### Lotta Johnsson  
 #### Ekonomimästare  
 **Favoritdrink:** Big Wave  
@@ -65,7 +68,8 @@ _Kloroform hjälper mig inte ur det här._
 **Citat:**
 _Jag är inte full, jag är bara baktung._  
   
-<img align="right" src="http://dkm.io/images/20-21/p3.JPG">
+<img align="right" src="http://dkm.io/images/20-21/p3.JPG">  
+  
 ### Samuel Peetre  
 #### Barmästare  
 **Favoritdrink:** Spritis finaste rödvin  
@@ -75,7 +79,8 @@ _Jag är inte full, jag är bara baktung._
 **Citat:**
 _Jag är Shawn Mendes nedknarkade tvillingbror._  
   
-<img align="right" src="http://dkm.io/images/20-21/jennifer.JPG">
+<img align="right" src="http://dkm.io/images/20-21/jennifer.JPG">  
+  
 ### Jennifer Larsson  
 #### Barmästare  
 **Favoritdrink:** Nånting IPA  
@@ -85,7 +90,8 @@ _Jag är Shawn Mendes nedknarkade tvillingbror._
 **Citat:**
 _Det där var mindre än 70 klunkar men mer än 70 klunkar sprit._  
   
-<img align="right" src="http://dkm.io/images/20-21/grace.JPG">
+<img align="right" src="http://dkm.io/images/20-21/grace.JPG">  
+  
 ### Grace Kaliff  
 #### Festmästare  
 **Favoritdrink:** The turtles are bleeding (patent pending)  
@@ -95,7 +101,8 @@ _Det där var mindre än 70 klunkar men mer än 70 klunkar sprit._
 **Citat:**
 _Om man vill vinna på beerpong måste man sexa till det sexigt._  
   
-<img align="right" src="http://dkm.io/images/20-21/maria.JPG">
+<img align="right" src="http://dkm.io/images/20-21/maria.JPG">  
+  
 ### Maria-Elena Pettersson  
 #### Infomästare  
 **Favoritdrink:** Pink Gin  
