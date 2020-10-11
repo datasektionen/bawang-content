@@ -11,6 +11,4 @@ Sortiment och annat bar-relaterat?
 
 ## Ansökan till DKM
 
-DKM 20/21 söker just nu förstärkning. Gå in på [dkm.io/ansok](http://dkm.io/ansok) och skicka in din ansökan! Sista ansökningsdag är 7/10.  
-
-Vi ses på intervjun <>
+Vi brukar vanligtvis ta in nya medlemmar på hösten. Ansökan för DKM 20/21 har stängt!
