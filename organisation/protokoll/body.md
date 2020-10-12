@@ -343,7 +343,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 10/9 [Kan-man-vara-på-campus?-DM](https://static.datasektionen.se/protokoll/kan_man_vara_pa_campus_dm_2020)
 
-07/5 [Ett Digitalt-DM-innan-Val-SM](https://static.datasektionen.se/protokoll/ett_digitalt_dm_innan_val_sm_2020)
+7/5 [Ett Digitalt-DM-innan-Val-SM](https://static.datasektionen.se/protokoll/ett_digitalt_dm_innan_val_sm_2020)
 
 22/4 [Ett Zoomer-DM](https://static.datasektionen.se/protokoll/ett_zoomer_dm_2020)
 
