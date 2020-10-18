@@ -3,11 +3,11 @@
 #### METAdorerna
 [metadorerna@d.kth.se](mailto:metadorerna@d.kth.se)
 #### Konglig Lokalchef (D)
-KDouglas Fischer
+Douglas Fischer
 [lokalchef@d.kth.se](mailto:lokalchef@d.kth.se)
 
 #### Sektionslokalsansvarig (Media)
-Currently Vacant
+Andreas Wingqvist  
 [sektionslokal@media.kth.se](mailto:sektionslokal@media.kth.se)
 
 * [Chapter Hall booking](en/chapter/lokalbokning)
