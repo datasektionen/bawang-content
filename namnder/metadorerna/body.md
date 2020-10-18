@@ -10,13 +10,13 @@ META är ju även en festlokal så i samarbete med DKM ser vi till att ölkylarn
 
 ## Städskrii - Måndagsstäd
 
-Det är vi som håller i måndagsstäden i Meta under året. Vi bjuder in nyantagna att hjälpa till och städa för att lära sig vart allt ligger i lokalen och hur sopphanteringen fungerar. Alla som hjälper till att städa 2 gånger får vara med på en väl påkostad fest i slutet av året. Städningen sker måndagar med start klockan 17:17 i nØllegrupperna och tar typ en timme efter skolan. Passar det inte att städa på den avsatta tiden kan man komma förbi en annan måndag eller dom avsedda extra städen mot slutet av terminen.
+Det är vi som håller i måndagsstäden i Meta under året. Vi bjuder in nyantagna att hjälpa till och städa för att lära sig vart allt ligger i lokalen och hur sopphanteringen fungerar. Alla som hjälper till att städa 2 gånger får vara med på en väl påkostad fest i slutet av året. Städningen sker måndagar med start klockan 17:17 i nØllegrupperna och tar typ en timme efter skolan. Passar det inte att städa på den avsatta tiden kan man komma förbi en annan måndag eller på något av de avsedda extra-städen mot slutet av terminen.
 
 ## Interna Poster
 
 #### Städskrii 
 
-Har ansvar för måndagsstäden samt anordna städfesten som tack till de som städat.
+Har ansvar för måndagsstäden samt att anordna städfesten som tack till de som städat.
 
 ---
 
@@ -85,9 +85,9 @@ Responsible for the plants in META.
 
 #### MOBA
 
-“Master Of Board Admin”
+“Master of Board Admin”
 
-Har ansvar för att anslagstavlan i META hålls snygg och att reglerna angående affischering hålls. Ser även till att andra informativa lappar om lokalen finns, till exempel om stängning och intruktioner om våra apparater.
+Har ansvar för att anslagstavlan i META hålls snygg och att reglerna angående affischering följs. Ser även till att andra informativa lappar om lokalen finns, till exempel om stängning och intruktioner om våra apparater.
 
 ---
 
@@ -95,9 +95,9 @@ Responsible for the notice-board in META. Keeps it tidy, clean and enforces the 
 
 #### MOPP
 
-”Master Of Parties & Punsch”
+”Master of Parties & Punsch”
 
-Har ansvar för METAdorernas teambuildings (både mindre och stora) som sker ungefär en gång i månaden.
+Har ansvar för METAdorernas teambuildings (både stora och små) som sker ungefär en gång i månaden.
 
 ---
 
@@ -112,3 +112,21 @@ Har ansvar för att catwalken hålls städad samt för kvarglömda saker.
 ---
 
 Responsible for keeping the catwalk clean. Also responsible for lost and found.
+
+#### MUMS
+”Master of Magnifika Sötsaker”
+
+Har ansvar för att köpa in fika till METAdorerna.
+
+---
+
+Responsible for buying "fika" to METAdorerna.
+
+#### MOMS
+”Master of Mötesrummets Stuff”
+
+Har ansvar för mötesrummet i META.
+
+---
+
+Responsible for "mötesrummet" i META. 
