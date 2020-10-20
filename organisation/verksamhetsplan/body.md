@@ -22,3 +22,4 @@ Verksamhetsplan för projekt
 -   [Hello World](https://static.datasektionen.se/verksamhetsplaner/vp_hello_world)
 -   [Vårbalen 2021](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2021)
 -   [dForum 2021](https://static.datasektionen.se/verksamhetsplaner/vp_dforum_2021)
+-   [Studs 2021](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2021)
