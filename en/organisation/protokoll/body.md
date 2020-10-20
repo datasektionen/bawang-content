@@ -7,12 +7,23 @@ please reach out to [secretary](sekr@d.kth.se).
 
 ###2020
 
+19/5 [Val-SM](https://static.datasektionen.se/protokoll/val_sm_2020)
+
+26/3 [Revisions-SM](https://static.datasektionen.se/protokoll/revisions_sm_2020)
+
+28/1 [Extra-SM](https://static.datasektionen.se/protokoll/extra_sm_2020)
 
 ###2019
 
-24/1 [Extra-SM](https://static.datasektionen.se/protokoll/extra_sm_2019)
-
 28/11 [Glögg-SM](https://static.datasektionen.se/protokoll/glogg_sm_2019)
+
+13/10 [Budget-SM](https://static.datasektionen.se/protokoll/budget_sm_2019)
+
+16/5 [Val-SM](https://static.datasektionen.se/protokoll/val_sm_2019)
+
+26/3 [Revisions-SM](https://static.datasektionen.se/protokoll/revisions_sm_2019)
+
+24/1 [Extra-SM](https://static.datasektionen.se/protokoll/extra_sm_2019)
 
 ###2018
 
@@ -326,10 +337,45 @@ please reach out to [secretary](sekr@d.kth.se).
 
 29/3 [SM](https://static.datasektionen.se/protokoll/sm900329.html)
 
-## D-directorate Meetings, DM
+## D-rektoratsmöten, DM
+
+###2020
+
+10/9 [Kan-man-vara-på-campus?-DM](https://static.datasektionen.se/protokoll/kan_man_vara_pa_campus_dm_2020)
+
+7/5 [Ett Digitalt-DM-innan-Val-SM](https://static.datasektionen.se/protokoll/ett_digitalt_dm_innan_val_sm_2020)
+
+22/4 [Ett Zoomer-DM](https://static.datasektionen.se/protokoll/ett_zoomer_dm_2020)
+
+17/3 [Ett Divergent-DM](https://static.datasektionen.se/protokoll/ett_divergent_dm_2020)
+
+18/2 [Ett Skottår-DM](https://static.datasektionen.se/protokoll/ett_skottar_dm_2020)
+
+23/1 [Årtiondets första-DM](https://static.datasektionen.se/protokoll/artiondets_forsta_dm_2020-01-23)
 
 ###2019
+
+9/12 [Ett Vettigt-DM](https://static.datasektionen.se/protokoll/ett_vettigt_dm_2019)
+
+18/11 [Ett Eventuellt DM-innan-Glögg-SM](https://static.datasektionen.se/protokoll/ett_eventuellt_dm_innan_glogg_sm_2019)
+
+24/10 [Nalle Puh-DM](https://static.datasektionen.se/protokoll/nalle_puh_dm_2019)
+
+24/9 [De smiter med allt mitt guld!-DM](https://static.datasektionen.se/protokoll/dm_innan_budget_sm_2019)
+
+5/9 [Kursstarts-DM](https://static.datasektionen.se/protokoll/kursstarts_dm_2019)
+
+11/6 [Varning-för-Måsen-DM](https://static.datasektionen.se/protokoll/varning_for_masen_dm_2019)
+
+6/5 [Karriärsuppföljnings-DM](https://static.datasektionen.se/protokoll/karriaruppfoljnings_dm_2019)
+
+11/4 [Ett Länkskatt-DM](https://static.datasektionen.se/protokoll/link_tax_dm_2019)
+
+14/3 [Ett Pi-DM](https://static.datasektionen.se/protokoll/ett_pi_dm_2019)
+
 21/2 [Ett Disk-å-DM](https://static.datasektionen.se/protokoll/ett_diska_dm_2019)
+
+29/1 [Ett Regerings-DM](https://static.datasektionen.se/protokoll/ett_regerings_dm_2019)
 
 ###2018
 
@@ -337,7 +383,7 @@ please reach out to [secretary](sekr@d.kth.se).
 
 19/11 [Ett Glädjefyllt-DM](https://static.datasektionen.se/protokoll/ett_gladjefyllt_dm_2018)
 
-5/11 [Ett Intilligande-DM](https://static.datasektionen.se/protokoll/ett_intilliggande_dm_2018)
+5/11 [Ett Intilliggande-DM](https://static.datasektionen.se/protokoll/ett_intilliggande_dm_2018)
 
 28/10 [Ett Budgeterat-DM](https://static.datasektionen.se/protokoll/ett_budgeterat_dm_2018)
 
