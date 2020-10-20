@@ -21,3 +21,4 @@ Operational Plans for Projects
 - [dJubileet](http://static.datasektionen.se/verksamhetsplaner/vp_djubileet_2018.pdf)
 - [Vårbalen 2020](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2020)
 - [Hello World](https://static.datasektionen.se/verksamhetsplaner/vp_hello_world)
+- [Studs 2021](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2021)
