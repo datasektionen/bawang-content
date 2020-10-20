@@ -763,6 +763,7 @@ Wolfram Meyer, Tertius
 </dl>
 ## Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
 ---------------------------------------------
+
 ## Motiveringar till 2020 års mottagare
 
 #### Cristian Osorio Bretti <a name="criob"></a>
