@@ -17,7 +17,6 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-
 [Cristian Osorio Bretti](#criob), Tricesimus Tertius
 
 </dd>
