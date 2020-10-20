@@ -8,7 +8,7 @@ läsa längre ner på sidan.
 [Här](https://docs.google.com/forms/d/e/1FAIpQLSdkNjAdltq36f9UHgUZ1D0cG13BiBkE7tpR0_mU9DacAzCWfw/viewform?usp=sf_link) kan nomineringar till Hedersdeltat 2021 göras! Självklart
 går det även att maila D-rektoratet.
 
-#Innehavare av Hedersdeltat
+# Innehavare av Hedersdeltat
 
 
 ## Mottagare 2020
@@ -17,6 +17,7 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
+
 [Cristian Osorio Bretti](#criob), Tricesimus Tertius
 
 </dd>
