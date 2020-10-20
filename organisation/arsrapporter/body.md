@@ -1,6 +1,17 @@
 Årsrapporter
 ============
 
+## 2019
+-   [Verksamhetsberättelse 2019](https://static.datasektionen.se/arsrapporter/verksamhetsberattels_2019)
+-   [Verksamhetsavstämning 2019](https://static.datasektionen.se/arsrapporter/verksamhetsavstamning_2019)
+-   [Bokslut 2019](https://static.datasektionen.se/arsrapporter/ekonomisk_berattelse_2019)
+
+## 2018
+-   [Verksamhetsberättelse 2018](https://static.datasektionen.se/arsrapporter/verksamhetsberattelse_2018)
+-   [Verksamhetsavstämning 2018](https://static.datasektionen.se/arsrapporter/verksamhetsavstamning_2018)
+-   [Bokslut 2018](https://static.datasektionen.se/arsrapporter/bokslut_2018)
+
+
 ## 2017
 -   [Verksamhetsberättelse 2017](https://static.datasektionen.se/arsrapporter/verksamhetsberattelse_2017.pdf)
 -   [Verksamhetsavstämning 2017](https://static.datasektionen.se/arsrapporter/verksamhetsavstamning_2017.pdf)
