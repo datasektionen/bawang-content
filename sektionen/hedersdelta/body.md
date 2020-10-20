@@ -10,7 +10,6 @@ går det även att maila D-rektoratet.
 
 # Innehavare av Hedersdeltat
 
-
 ## Mottagare 2020
 
 <dl>
@@ -29,7 +28,6 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-
 [Shapour Jahanshahi](#shapour), Untricesimus
 
 </dd>
