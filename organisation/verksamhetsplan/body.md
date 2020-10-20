@@ -21,4 +21,4 @@ Verksamhetsplan för projekt
 -   [Vårbalen 2020](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2020)
 -   [Hello World](https://static.datasektionen.se/verksamhetsplaner/vp_hello_world)
 -   [Vårbalen 2021](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2021)
--   [dForum 2021]((https://static.datasektionen.se/verksamhetsplaner/vp_dforum_2021)
+-   [dForum 2021](https://static.datasektionen.se/verksamhetsplaner/vp_dforum_2021)
