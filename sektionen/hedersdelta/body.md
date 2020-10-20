@@ -10,6 +10,19 @@ går det även att maila D-rektoratet.
 
 #Innehavare av Hedersdeltat
 
+
+## Mottagare 2020
+
+<dl>
+<dt>
+</dt>
+<dd>
+
+[Cristian Osorio Bretti](#criob), Tricesimus Tertius
+
+</dd>
+</dl>
+
 ## Mottagare 2019
 
 <dl>
@@ -750,6 +763,19 @@ Wolfram Meyer, Tertius
 </dl>
 ## Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
 ---------------------------------------------
+## Motiveringar till 2020 års mottagare
+
+#### Cristian Osorio Bretti <a name="criob"></a>
+Cristian Osorio Bretti har under sin tid på datasektionen skapat ett glädjefyllt, tryggt och inkluderande klimat. Cristian har varit en aktiv sektionsmedlem, bland annat anordnat sittningar och pubar med SpexM, varit storebror och studienämndsordförande. Som storebror år 2019 arbetade Cristian för mottagningpersonalens välmående och mycket gjordes för att minska stressen och öka sammanhållningen.
+
+
+Men det är inte bara i sin roll som storasyskon som Cristian har utmärkt sig, utan även genom sitt långvariga arbete inom utbildningspåverkan. Under året som studienämndens ordförande strukturerade han nämndens arbete genom att införa längre arbetsmöten och lunchmöten för varje årskurs 1-3 där man framför feedback och åsikter om utbildningen. Cristian har även bidragit med mycket engagemang och har framförallt framfört studenternas talan när EECS släppte sin rapport för utbildningsportfölj 2025. Tack vare hans påverkan behöll datateknikprogrammet många specialiseringskurser som annars skulle ha ersätts. Han var dessutom med i rekryteringsprocessen när en ny programansvarig för vårt program skulle tillsättas.
+
+
+För sitt ständiga arbete att göra vår sektion och utbildning bättre tilldelas därmed Cristian Osorio Bretti Hedersdeltat.
+
+
+
 ## Motiveringar till 2019 års mottagare
 
 #### Shapour Jahanshahi <a name="shapour"></a>
