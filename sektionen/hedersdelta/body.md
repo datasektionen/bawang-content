@@ -17,7 +17,7 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-[Cristian Osorio Bretti](#criob), Tricesimus Tertius
+[Cristian Osorio Bretti](https://datasektionen.se/sektionen/hedersdelta#criob), Tricesimus Tertius
 
 </dd>
 </dl>
@@ -29,7 +29,7 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-[Shapour Jahanshahi](#shapour), Untricesimus
+<a href="#shapour">Shapour Jahanshahi</a>, Untricesimus
 
 </dd>
 </dl>
