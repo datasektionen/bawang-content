@@ -15,6 +15,8 @@ Nedan ses alla återkommande projekt på Datasektionen. Återkommande projekt ä
 
 [Vårbalen](https://www.facebook.com/dvarbalen/?fref=tag)
 
+[dJulkalendern](https://djul.datasektionen.se/)
+
 ## Projekt på Datasektionen
 
 [dJubileet](http://djubileet.se)
