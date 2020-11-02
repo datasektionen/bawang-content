@@ -13,6 +13,7 @@ Verksamhetsplan
 Verksamhetsplan för projekt
 ---------------------------
 
+-   [dJulkalendern](https://static.datasektionen.se/verksamhetsplaner/vp_djulkalendern_2020)
 -   [Project Pride](https://static.datasektionen.se/verksamhetsplaner/vp_project_pride_2019)
 -   [dÅre 2021](https://static.datasektionen.se/verksamhetsplaner/vp_dare_2021.pdf)
 -   [METAspexet 2020](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_1920.pdf)
