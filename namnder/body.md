@@ -5,7 +5,7 @@ I menyn till vänster kan du läsa om alla Datasektionens nämnder.
 ## Återkommande projekt på Datasektionen
 Nedan ses alla återkommande projekt på Datasektionen. Återkommande projekt är projekt som helt enkelt görs om varje år. Till skillnad från vanliga projekt, som oftast sker en gång och sedan läggs ned.
 
-[dÅre](http://dåre.se)
+dÅre
 
 [Studs](https://studieresan.se)
 
@@ -16,6 +16,8 @@ Nedan ses alla återkommande projekt på Datasektionen. Återkommande projekt ä
 [Vårbalen](https://www.facebook.com/dvarbalen/?fref=tag)
 
 [dJulkalendern](https://djul.datasektionen.se/)
+
+Project pride
 
 ## Projekt på Datasektionen
 
