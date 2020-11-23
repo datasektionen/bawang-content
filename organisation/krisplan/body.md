@@ -5,19 +5,19 @@ Skillnaden mellan en kris och en olycka är hur grav händelsen är. En händels
 ### Nummer som är bra att ha:
 
 - 112: vid akuta ärenden
-- KTHs Larmnummer: 08 - 790 77 00. Vid akut behov av väktare eller för att underrätta KTH:s säkerhetsavdelning.
-- KTHs Väktarstöd: 08 - 790 99 00. Vid mindre akuta ärenden då ni behöver komma i kontakt med väktare, du kommer uppmanas att lämna ditt nummer så kommer en väktare att kontakta dig.
-- Polisen: 114 14 - vid ej brådskande ärenden
-- Sjukvårdsupplysningen: 1177 - vid ej brådskande ärenden
-- Giftinformationscentralen: 010 - 456 67 00 - vid ej brådskande ärenden
+- KTHs Larmnummer: [08 - 790 77 00](tel: 08 - 790 77 00). Vid akut behov av väktare eller för att underrätta KTH:s säkerhetsavdelning.
+- KTHs Väktarstöd: [08 - 790 99 00](tel: 08 - 790 99 00). Vid mindre akuta ärenden då ni behöver komma i kontakt med väktare, du kommer uppmanas att lämna ditt nummer så kommer en väktare att kontakta dig.
+- Polisen: [114 14](tel: 114 14) - vid ej brådskande ärenden
+- Sjukvårdsupplysningen: [1177](tel: 1177) - vid ej brådskande ärenden
+- Giftinformationscentralen: [010 - 456 67 00](tel: 010 - 456 67 00) - vid ej brådskande ärenden
 
 ### Nummer på KTH:
 
-- Datasektionens Ordförande: 072 - 905 74 91 (Niklas Vatn)
-- Datasektionens Vice Ordförande: 070 - 534 41 62 (David Puustinen)
-- THS Ordförande: 08 - 790 98 84 (Charley Jönsson)
-- Kriskontakt på EECS-skolan: 08 - 790 99 99 (Nummer till krisgruppen)
-- Säkerhetschef på KTH: 070 - 342 38 10 (Roine Hammar)
+- Datasektionens Ordförande: [072 - 905 74 91](tel: 072 - 905 74 91) (Niklas Vatn)
+- Datasektionens Vice Ordförande: [070 - 534 41 62](tel: 070 - 534 41 62) (David Puustinen)
+- THS Ordförande: [08 - 790 98 84](tel: 08 - 790 98 84) (Charley Jönsson)
+- Kriskontakt på EECS-skolan: [08 - 790 99 99](tel: 08 - 790 99 99) (Nummer till krisgruppen)
+- Säkerhetschef på KTH: [070 - 342 38 10](tel: 070 - 342 38 10) (Roine Hammar)
 
 ### Adresser på KTH:
 
@@ -53,8 +53,8 @@ Utrym lokalen enligt utrymningsplanen. Kan branden släckas själv, gör det, an
 **Vid brand, kontakta:**
 
 1. Evakuera lokalen genast, om branden kan släckas utan att någon utsätts för risk så gör det.
-2. Larma räddningstjänsten på 112 och uppge Osquars backe 21. Följ alltid larmoperatörens instruktioner i först hand, uppge explicit att ni ringer från KTH.
-3. Ring KTH:s larmnummer, 08-790 77 00
+2. Larma räddningstjänsten på [112](tel: 112) och uppge Osquars backe 21. Följ alltid larmoperatörens instruktioner i först hand, uppge explicit att ni ringer från KTH.
+3. Ring KTH:s larmnummer, [08-790 77 00](tel: 08-790 77 00)
 4. Kontakta Ordförande, om Ordförande inte svarar så lämna ett meddelande, skicka ett SMS och ring sedan Vice Ordförande.
 
 
@@ -71,13 +71,13 @@ I första hand att ingen kommer till skada och i andra hand att brottet förhind
 **Handling vid pågående inbrott:**
 
 1. Ta dig och andra ut ur lokalen.
-2. Kontakta Polisen, 112, samt ambulans om personskada uppkommit och uppge Osquars backe 21. Följ alltid deras instruktioner i första hand. Uppge att ni ringer från KTH.
-3. Kontakta KTH:s larmnummer, 08-790 77 00.
+2. Kontakta Polisen, [112](tel: 112), samt ambulans om personskada uppkommit och uppge Osquars backe 21. Följ alltid deras instruktioner i första hand. Uppge att ni ringer från KTH.
+3. Kontakta KTH:s larmnummer, [08-790 77 00](tel: 08-790 77 00).
 4. Kontakta Ordförande, om Ordförande inte svarar så lämna ett meddelande, skicka ett SMS och ring sedan Vice Ordförande.
 
 **Handling vid inträffat inbrott:**
 
-1. Kontakta KTHs larmnummer, 08-790 77 00. Fråga om du ska kontakta polisen.
+1. Kontakta KTHs larmnummer, [08-790 77 00](tel: 08-790 77 00). Fråga om du ska kontakta polisen.
 2. Kontakta Polisen, 114 14 och uppge Osquars backe 21. Om de påpekar att vi har egna väktare, säg att väktarna bad dig ringa.
 3. Kontakta Ordförande, om Ordförande inte svarar så lämna ett meddelande, skicka ett SMS och ring sedan Vice Ordförande.
 4. Underrätta Konglig lokalchef
@@ -99,8 +99,8 @@ Handla utifrån rubriken Kontakta. Om personen inte har familj i Stockholm, se t
 
 **Kontakta**:
 
-1. Sjukvård, 112. Uppge att ni ringer från KTH. Följ alltid deras instruktioner i första hand.
-2. KTHs larmnummer: 08-790 77 00
+1. Sjukvård, [112](tel: 112). Uppge att ni ringer från KTH. Följ alltid deras instruktioner i första hand.
+2. KTHs larmnummer: [08-790 77 00](tel: 08-790 77 00)
 3. Kontakta Ordförande, om Ordförande inte svarar så lämna ett meddelande, skicka ett SMS och ring sedan Vice Ordförande.
 
 ## Dödsfall
@@ -119,8 +119,8 @@ Handla utifrån rubriken Kontakta. Se till att kroppen hamnar på sjukhus och at
 
 **Kontakta:**
 
-1. Kontakta sjukvård genom 112. Uppge att ni ringer från KTH. Följ alltid deras instruktioner i första hand.
-2. KTH:s larmnummer: 08-790 77 00
+1. Kontakta sjukvård genom [112](tel: 112). Uppge att ni ringer från KTH. Följ alltid deras instruktioner i första hand.
+2. KTH:s larmnummer: [08-790 77 00](tel: 08-790 77 00)
 3. Kontakta Ordförande, om Ordförande inte svarar så lämna ett meddelande, skicka ett SMS och ring sedan Vice Ordförande.
 
 ## Hot och våld
@@ -135,9 +135,9 @@ Se till att alla är säkra, prioritera att få bort människor istället för a
 
 **Kontakta:**
 
-1. Tillkalla Polisen genom 112, samt ambulans om personskada uppkommit. Följ alltid deras instruktioner i första hand. Uppge att ni ringer från KTH.
-2. Ring KTHs larmnummer: 08-790 77 00
-3. Kontakta Ordförande, om Ordförande inte svarar så lämna ett meddelande, skicka ett SMS och ring sedan Vice Ordförande.
+1. Tillkalla Polisen genom [112](tel: 112), samt ambulans om personskada uppkommit. Följ alltid deras instruktioner i första hand. Uppge att ni ringer från KTH.
+2. Ring KTHs larmnummer: [08-790 77 00](tel: 08-790 77 00)
+3. Kontakta [Ordförande](tel: 072 - 905 74 91), om Ordförande inte svarar så lämna ett meddelande, skicka ett SMS och ring sedan Vice Ordförande.
 
 ## Övergrepp
 
@@ -145,7 +145,7 @@ Se till att alla är säkra, prioritera att få bort människor istället för a
 
 Någon har blivit utsatt för sexuella eller verbala trakasserier, ev. våld har förekommit.
 
-**Mål:**
+**Mål:**[112](tel: 112)
 
 Inblandade ska känna sig trygga. Ryktesspridning ska motverkas. Målet är inte att reda ut vad som hänt, utan det viktiga är att alla känner sig trygga.
 
@@ -158,7 +158,7 @@ Identifiera någon person i närheten som den utsatta är trygg med. Uppmuntra d
 Det är viktigt att respektera offrets önskan om vilka ska blandas in.
 
 - Tillkalla Polisen genom 112, samt ambulans om personskada uppkommit. Följ alltid deras instruktioner i första hand. Uppge att ni ringer från KTH.
-- KTHs larmnummer: 08-790 77 00
+- KTHs larmnummer: [08-790 77 00](tel: 08-790 77 00)
 - Sektionsordförande
 - Valfri person i styrelsen.
   - Individuella mailadresser hittas på [dfunkt.datasektionen.se](https://dfunkt.datasektionen.se/)
