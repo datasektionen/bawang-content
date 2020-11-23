@@ -78,7 +78,7 @@ I första hand att ingen kommer till skada och i andra hand att brottet förhind
 **Handling vid inträffat inbrott:**
 
 1. Kontakta KTHs larmnummer, [08-790 77 00](tel: 08-790 77 00). Fråga om du ska kontakta polisen.
-2. Kontakta Polisen, 114 14 och uppge Osquars backe 21. Om de påpekar att vi har egna väktare, säg att väktarna bad dig ringa.
+2. Kontakta Polisen, [114 14](tel: 114 14) och uppge Osquars backe 21. Om de påpekar att vi har egna väktare, säg att väktarna bad dig ringa.
 3. Kontakta Ordförande, om Ordförande inte svarar så lämna ett meddelande, skicka ett SMS och ring sedan Vice Ordförande.
 4. Underrätta Konglig lokalchef
 5. Polisanmälan upprättas av Ordförande i samråd med polisen
@@ -157,7 +157,7 @@ Identifiera någon person i närheten som den utsatta är trygg med. Uppmuntra d
 
 Det är viktigt att respektera offrets önskan om vilka ska blandas in.
 
-- Tillkalla Polisen genom 112, samt ambulans om personskada uppkommit. Följ alltid deras instruktioner i första hand. Uppge att ni ringer från KTH.
+- Tillkalla Polisen genom [112](tel: 112), samt ambulans om personskada uppkommit. Följ alltid deras instruktioner i första hand. Uppge att ni ringer från KTH.
 - KTHs larmnummer: [08-790 77 00](tel: 08-790 77 00)
 - Sektionsordförande
 - Valfri person i styrelsen.
