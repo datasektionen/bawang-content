@@ -17,7 +17,7 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-[Cristian Osorio Bretti](https://datasektionen.se/sektionen/hedersdelta#criob), Tricesimus Tertius
+<a href="criob"> Cristian Osorio Bretti </a>, Tricesimus Tertius
 
 </dd>
 </dl>
@@ -41,12 +41,12 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-[Jonas Dahl](#jonadahl), Untricesimus
+<a href="#jonadahl"> Jonas Dahl</a>, Untricesimus
 
 </dd>
 <dd>
 
-[Alexander Viklund](#viklu), Duotricesimus
+<a href="#viklu"> Alexander Viklund]</a>, Duotricesimus
 
 </dd>
 </dl>
