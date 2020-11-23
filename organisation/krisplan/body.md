@@ -4,7 +4,7 @@ Skillnaden mellan en kris och en olycka är hur grav händelsen är. En händels
 
 ### Nummer som är bra att ha:
 
-- 112: vid akuta ärenden
+- [112](tel: 112): vid akuta ärenden
 - KTHs Larmnummer: [08 - 790 77 00](tel: 08 - 790 77 00). Vid akut behov av väktare eller för att underrätta KTH:s säkerhetsavdelning.
 - KTHs Väktarstöd: [08 - 790 99 00](tel: 08 - 790 99 00). Vid mindre akuta ärenden då ni behöver komma i kontakt med väktare, du kommer uppmanas att lämna ditt nummer så kommer en väktare att kontakta dig.
 - Polisen: [114 14](tel: 114 14) - vid ej brådskande ärenden
@@ -137,7 +137,7 @@ Se till att alla är säkra, prioritera att få bort människor istället för a
 
 1. Tillkalla Polisen genom [112](tel: 112), samt ambulans om personskada uppkommit. Följ alltid deras instruktioner i första hand. Uppge att ni ringer från KTH.
 2. Ring KTHs larmnummer: [08-790 77 00](tel: 08-790 77 00)
-3. Kontakta [Ordförande](tel: 072 - 905 74 91), om Ordförande inte svarar så lämna ett meddelande, skicka ett SMS och ring sedan Vice Ordförande.
+3. Kontakta Ordförande, om Ordförande inte svarar så lämna ett meddelande, skicka ett SMS och ring sedan Vice Ordförande.
 
 ## Övergrepp
 
@@ -145,7 +145,7 @@ Se till att alla är säkra, prioritera att få bort människor istället för a
 
 Någon har blivit utsatt för sexuella eller verbala trakasserier, ev. våld har förekommit.
 
-**Mål:**[112](tel: 112)
+**Mål:**
 
 Inblandade ska känna sig trygga. Ryktesspridning ska motverkas. Målet är inte att reda ut vad som hänt, utan det viktiga är att alla känner sig trygga.
 
