@@ -1,11 +1,11 @@
 Hedersdeltat är Konglig Datasektionens finaste förtjänsttecken och delas
 ut till de personer som synnerligen förtjänstfullt verkat ideellt för
-sektionen. [Motiveringar](#motivering) för varje mottagare finnas att
+sektionen. Motiveringar(#motivering) för varje mottagare finnas att
 läsa längre ner på sidan.
 
 #Hedersdelta-nomineringar
 
-[Här](https://docs.google.com/forms/d/e/1FAIpQLSdkNjAdltq36f9UHgUZ1D0cG13BiBkE7tpR0_mU9DacAzCWfw/viewform?usp=sf_link) kan nomineringar till Hedersdeltat 2021 göras! Självklart
+Här(https://docs.google.com/forms/d/e/1FAIpQLSdkNjAdltq36f9UHgUZ1D0cG13BiBkE7tpR0_mU9DacAzCWfw/viewform?usp=sf_link) kan nomineringar till Hedersdeltat 2021 göras! Självklart
 går det även att maila D-rektoratet.
 
 # Innehavare av Hedersdeltat
@@ -46,11 +46,10 @@ går det även att maila D-rektoratet.
 </dd>
 <dd>
 
-<a href="#viklu"> Alexander Viklund]</a>, Duotricesimus
+<a href="#viklu"> Alexander Viklund</a>, Duotricesimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2017
 
@@ -59,21 +58,20 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-[Jesper Bränn](#jbrann), Tricesimus
+<a href="jbrann"> Jesper Bränn</a>, Tricesimus
 
 </dd>
 <dd>
 
-[Mattias Danielsson](#matdanie), Tricesimus
+<a href="matdanie"> Mattias Danielsson</a>, Tricesimus
 
 </dd>
 <dd>
 
-[Shayan Effati](#shayane), Tricesimus
+<a href="shayane"> Shayan Effati </a>, Tricesimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2016
 
@@ -82,16 +80,15 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-[Lovisa Runhem](#lrunhem), Tricesima
+<a href="lrunhem"> Lovisa Runhem </a>, Tricesima
 
 </dd>
 <dd>
 
-[Andreas Linn](#anlinn), Tricesimus
+<a href="anlinn">Andreas Linn </a>, Tricesimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2015
 
@@ -100,26 +97,25 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-[Jesper Bratt](#jbratt), Vicesimus Septus
+<a href="jbratt"> Jesper Bratt </a>, Vicesimus Septus
 
 </dd>
 <dd>
 
-[Niklas Bäckström](#nikbac), Vicesimus Septus
+<a href="nikbac"> Niklas Bäckström </a>, Vicesimus Septus
 
 </dd>
 <dd>
 
-[Peter Boström](#pbos), Vicesimus Sextus
+<a href="pbos">Peter Boström </a>, Vicesimus Sextus
 
 </dd>
 <dd>
 
-[Petter Djupfeldt](#petterdj), Vicesimus Septus
+<a href="petterdj">Petter Djupfeldt </a>, Vicesimus Septus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2014
 
@@ -128,26 +124,25 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-[Marie Alexander](#marieale), Duodetricesimus
+<a href="marieale">Marie Alexander </a>, Duodetricesimus
 
 </dd>
 <dd>
 
-[Emma Angermund](#eang), Vicesimus Sextus
+<a href="eang">Emma Angermund </a>, Vicesimus Sextus
 
 </dd>
 <dd>
 
-[Robert Welin Berger](#robertwb), Vicesimus Sextus
+<a href="robertwb">Robert Welin Berger </a>, Vicesimus Sextus
 
 </dd>
 <dd>
 
-[Frida Jansson](#fridajan), Vicesimus Septus
+<a href="fridajan">Frida Jansson </a>, Vicesimus Septus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2013
 
@@ -156,36 +151,35 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-[Alexander Solsmed](#solsmed), Vicesimus Septus
+<a href="solsmed">Alexander Solsmed </a>, Vicesimus Septus
 
 </dd>
 <dd>
 
-[Andreas Tarandi](#taran), Vicesimus Sextus
+<a href="taran">Andreas Tarandi </a>, Vicesimus Sextus
 
 </dd>
 <dd>
 
-[Johan Stjernberg](#stjer), Vicesimus Sextus
+<a href="stjer">Johan Stjernberg </a>, Vicesimus Sextus
 
 </dd>
 <dd>
 
-[Max Nordlund](#maxno), Duodetricesimus
+<a href="maxno">Max Nordlund </a>, Duodetricesimus
 
 </dd>
 <dd>
 
-[Michael Hjortholt](#michjo), Vicesimus Quintus
+<a href="michjo">Michael Hjortholt </a>, Vicesimus Quintus
 
 </dd>
 <dd>
 
-[Victor Koronen](#koronen), Vicesimus Septus
+<a href="koronen">Victor Koronen </a>, Vicesimus Septus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2012
 
@@ -194,16 +188,15 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-[Charlie Lindviken](#lindvi), Vicesimus Sextus
+<a href="lindvi">Charlie Lindviken </a>, Vicesimus Sextus
 
 </dd>
 <dd>
 
-[Andreas Falk](#andfal), Vicesimus Septus
+<a href="andfal">Andreas Falk </a>, Vicesimus Septus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2011
 
@@ -212,31 +205,30 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-[Jonas Sundberg](#josundb), Vicesimus Quartus
+<a href="josundb">Jonas Sundberg </a>, Vicesimus Quartus
 
 </dd>
 <dd>
 
-[Egil Antonsen](#egila), Vicesimus Quartus
+<a href="egila">Egil Antonsen </a>, Vicesimus Quartus
 
 </dd>
 <dd>
 
-[Martin Frost](#blame), Tertius Vicesimus
+<a href="blame">Martin Frost </a>, Tertius Vicesimus
 
 </dd>
 <dd>
 
-[Pärham Fazelzadeh Hashemi](#parhamfh), Vicesimus Quartus
+<a href="parhamfh">Pärham Fazelzadeh Hashemi </a>, Vicesimus Quartus
 
 </dd>
 <dd>
 
-[Tobias Svensson](#tosve), Vicesimus Quartus
+<a href="tosve">Tobias Svensson </a>, Vicesimus Quartus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2010
 
@@ -245,31 +237,30 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-[Mikael Gerdin](#mgerdin), Vicesimus Quartus
+<a href="mgerdin">Mikael Gerdin </a>, Vicesimus Quartus
 
 </dd>
 <dd>
 
-[Patrik Stenmark](#spatrik), Dovicesimus
+<a href="spatrik">Patrik Stenmark </a>, Dovicesimus
 
 </dd>
 <dd>
 
-[Joel Westberg](#joelwes), Tertius Vicesimus
+<a href="joelwes">Joel Westberg </a>, Tertius Vicesimus
 
 </dd>
 <dd>
 
-[Pontus Walter](#pwalter), Tertius Vicesimus
+<a href="pwalter">Pontus Walter </a>, Tertius Vicesimus
 
 </dd>
 <dd>
 
-[Per Almquist](#peralmq), Tertius Vicesimus
+<a href="peralmq">Per Almquist </a>, Tertius Vicesimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2009
 
@@ -302,7 +293,6 @@ Roger Ström, Unvicesimus
 </dd>
 </dl>
 
-
 ## Mottagare 2008
 
 <dl>
@@ -320,11 +310,10 @@ Frej Naimi-Akbar, Vicesimus
 </dd>
 <dd>
 
-Jon Karlfeldt (Larsson), Undevicesimus
+Jon Karlfeldt (Larsson) , Undevicesimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2007
 
@@ -353,7 +342,6 @@ Pehr Söderman, Unvicesimus
 </dd>
 </dl>
 
-
 ## Mottagare 2006
 
 <dl>
@@ -364,7 +352,6 @@ Henrik Fräsén, Vicesimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2005
 
@@ -380,7 +367,6 @@ Emil Stenström, Undevicesimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2004
 
@@ -405,7 +391,6 @@ Mark Peldius, Septus decimus
 </dd>
 </dl>
 
-
 ## Mottagare 2003
 
 <dl>
@@ -420,7 +405,6 @@ Tommie Gannert, Dodevicesimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2002
 
@@ -461,7 +445,6 @@ Niklas Persson, Quintus decimus
 </dd>
 </dl>
 
-
 ## Mottagare 2001
 
 <dl>
@@ -473,7 +456,6 @@ Daniel Westbom, Sigvard
 </dd>
 </dl>
 
-
 ## Mottagare 2000
 
 <dl>
@@ -484,7 +466,6 @@ Joakim Meldahl, Sigvard
 
 </dd>
 </dl>
-
 
 ## Mottagare 1999
 
@@ -509,7 +490,6 @@ Mikael Stralje, tertius decimus
 </dd>
 </dl>
 
-
 ## Mottagare 1998
 
 <dl>
@@ -528,7 +508,6 @@ Fredrik Sandberg, Docecimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 1997
 
@@ -549,7 +528,6 @@ Olof Lindholm, Dodecimus
 </dd>
 </dl>
 
-
 ## Mottagare 1996
 
 <dl>
@@ -568,7 +546,6 @@ Patrik Nilssom, Decimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 1995
 
@@ -592,7 +569,6 @@ Björn Sjöstrand, Oqtavus
 
 </dd>
 </dl>
-
 
 ## Mottagare 1992
 
@@ -621,7 +597,6 @@ Jan Garefelt, Oqtavus
 </dd>
 </dl>
 
-
 ## Mottagare 1991
 
 <dl>
@@ -644,7 +619,6 @@ Peter Nemeth, Quintus
 
 </dd>
 </dl>
-
 
 ## Mottagare 1990
 
@@ -677,7 +651,6 @@ Kristina Nedlich, Quarta
 </dd>
 </dl>
 
-
 ## Mottagare 1989
 
 <dl>
@@ -708,7 +681,6 @@ Erik Wåhlin, Tertius
 
 </dd>
 </dl>
-
 
 ## Mottagare 1988
 
@@ -766,15 +738,12 @@ Wolfram Meyer, Tertius
 ## Motiveringar till 2020 års mottagare
 
 #### Cristian Osorio Bretti <a name="criob"></a>
-Cristian Osorio Bretti har under sin tid på datasektionen skapat ett glädjefyllt, tryggt och inkluderande klimat. Cristian har varit en aktiv sektionsmedlem, bland annat anordnat sittningar och pubar med SpexM, varit storebror och studienämndsordförande. Som storebror år 2019 arbetade Cristian för mottagningpersonalens välmående och mycket gjordes för att minska stressen och öka sammanhållningen.
 
+Cristian Osorio Bretti har under sin tid på datasektionen skapat ett glädjefyllt, tryggt och inkluderande klimat. Cristian har varit en aktiv sektionsmedlem, bland annat anordnat sittningar och pubar med SpexM, varit storebror och studienämndsordförande. Som storebror år 2019 arbetade Cristian för mottagningpersonalens välmående och mycket gjordes för att minska stressen och öka sammanhållningen.
 
 Men det är inte bara i sin roll som storasyskon som Cristian har utmärkt sig, utan även genom sitt långvariga arbete inom utbildningspåverkan. Under året som studienämndens ordförande strukturerade han nämndens arbete genom att införa längre arbetsmöten och lunchmöten för varje årskurs 1-3 där man framför feedback och åsikter om utbildningen. Cristian har även bidragit med mycket engagemang och har framförallt framfört studenternas talan när EECS släppte sin rapport för utbildningsportfölj 2025. Tack vare hans påverkan behöll datateknikprogrammet många specialiseringskurser som annars skulle ha ersätts. Han var dessutom med i rekryteringsprocessen när en ny programansvarig för vårt program skulle tillsättas.
 
-
 För sitt ständiga arbete att göra vår sektion och utbildning bättre tilldelas därmed Cristian Osorio Bretti Hedersdeltat.
-
-
 
 ## Motiveringar till 2019 års mottagare
 
@@ -1112,7 +1081,7 @@ tilldelas härmed Johan Stjernberg hedersdeltat.
 
 #### Max Nordlund <a name="maxno"></a>
 
-*Max Nordlund* har sedan sin ankomst alltid arbetat för att Konglig
+_Max Nordlund_ har sedan sin ankomst alltid arbetat för att Konglig
 Datsektionen ska bli en bättre plats för alla. Han har med en skinande
 idealism och ett innerligt rättspatos alltid talat och arbetat för alla
 medlemmars välgång, rättvisa och gemenskap.
@@ -1144,7 +1113,7 @@ för dess medlemmar, tilldelas härmed Michael Hjortholt hedersdeltat.
 
 #### Victor Koronen <a name="koronen"></a>
 
-*Victor Koronen* har sedan han anlände till datasektionen engagerat sig
+_Victor Koronen_ har sedan han anlände till datasektionen engagerat sig
 i många av dess verksamheter. Han har målmedvetet och har med ett
 stadigt gott humör spritt mycket glädje omkring sig. Han har varit
 initiativrik, hårt arbetande och inte vart rädd för att kasta sig in i
@@ -1162,7 +1131,7 @@ sektionens namn tilldelas härmed Victor Koronen hedersdeltat.
 
 #### Charlie Lindviken <a name="lindvi"></a>
 
-*Charlie Lindviken* började direkt 2008 med att engagera sig i Konglig
+_Charlie Lindviken_ började direkt 2008 med att engagera sig i Konglig
 Datasektionen och dess klubbmästeri, DKM. Efter att ha varit med i DKM i
 två år blev han klubbmästare 2010. Detta räckte inte för honom. Som
 Dadda i Mottagningen 2009, Lillebror 2010 och Drifvare 2011 har han
@@ -1183,7 +1152,7 @@ utmärkelse, Hedersdeltat.
 
 #### Andreas Falk <a name="andfal"></a>
 
-*Andreas Falk* började 2009 på den stoltaste av sektioner på teknis,
+_Andreas Falk_ började 2009 på den stoltaste av sektioner på teknis,
 Konglig Datasektionen. Redan under våren 2010 tog han på sig posten som
 näringslivsansvarig där han gjorde ett ypperligt arbete. Därefter gick
 han vidare mot oanade höjder som ordförande 2011 för den stoltaste av
@@ -1207,7 +1176,7 @@ härmed Hedersdeltat.
 
 #### Jonas Sundberg <a name="josundb"></a>
 
-*Jonas Sundberg* har sedan sin ankomst på KTH inte varit rädd för att
+_Jonas Sundberg_ har sedan sin ankomst på KTH inte varit rädd för att
 engagera sig i sektionen och dess nyttonämnder. Han har ett långvarigt
 deltagande i ESCapo bakom sig och var själv Konglig Lokalchef under
 07/08. Under 2007 passade han även på att vara doquis i mottagningen.
@@ -1225,7 +1194,7 @@ tilldelas Jonas Sundberg ett hedersdelta.
 
 #### Egil Antonsen <a name="egila"></a>
 
-*Egil Antonsen* började sin långa väg av sektionsengagemang som Dadda
+_Egil Antonsen_ började sin långa väg av sektionsengagemang som Dadda
 under Mottagningen 2007. Den glada stämningen under nØllningen måste ha
 gett mersmak för under läsåret 2008/2009 var han med i DKM och sedan
 dess har denne smålänning inte varit densamme.
@@ -1266,7 +1235,7 @@ upp när webbprojekt behövs tilldelas härmed Martin Frost hedersdeltat.
 
 På KTH kan man plugga dagarna i ända om man så vill, men det finns
 mycket mer att göra här än så. Om någon tvivlar på detta kan man alltid
-fråga *Pärham Fazelzadeh Hashemi*. Under åren som gått sedan hans första
+fråga _Pärham Fazelzadeh Hashemi_. Under åren som gått sedan hans första
 stapplande steg på KTH 2006 har han hunnit med att föra sektionen och
 utbildningen flera steg framåt bl.a. genom sitt engagemang i styrelsen
 där han har suttit både som Vice Ordförande och Styrelseledamot för
@@ -1293,7 +1262,7 @@ Datasektionens hedersdelta.
 
 #### Tobias Svensson <a name="tosve"></a>
 
-*Tobias Svensson* är väldigt glad och framåt och med honom med finns det
+_Tobias Svensson_ är väldigt glad och framåt och med honom med finns det
 aldrig några problem, bara utmaningar. Han började sitt engagemang inom
 näringslivsgruppen för att 2008 ta sig an posten som
 näringslivsansvarig. Under sin tid på posten ordnade han med en av de
@@ -1324,7 +1293,7 @@ hedersdeltat.
 
 #### Joel Westberg <a name="joelwes"></a>
 
-*Joel Westberg* är medlem av Konglig Datasektionen sedan 2005, och har
+_Joel Westberg_ är medlem av Konglig Datasektionen sedan 2005, och har
 under sina år på sektionen hunnit med allt och lite till. 2007
 engagerade han sig i D-rektoratet som styrelseledamot för
 utbildningsfrågor. Och har sedan dess också varit en av sektionens
@@ -1344,7 +1313,7 @@ Mot denna bakgrund tilldelas Joel Westberg ett hedersdelta.
 
 #### Pontus Walter <a name="pwalter"></a>
 
-Under åren *Pontus Walter* varit medlem i Konglig Datasektionen har han
+Under åren _Pontus Walter_ varit medlem i Konglig Datasektionen har han
 varit engagerad i bland annat D-rektoratet, Mottagningen och
 Kårfullmäktige. Alla uppgifter han tagit på sig har han skött
 exemplariskt och helhjärtat.
@@ -1356,7 +1325,7 @@ hedersdeltat.
 
 Fråga inte vad sektionen kan göra för dig utan vad du kan göra för
 sektionen är ord man kan tro att denna person har fått höra någon gång.
-En av de första stora rollerna *Per Almquist* axlade var PR-Chef där han
+En av de första stora rollerna _Per Almquist_ axlade var PR-Chef där han
 bl.a. såg till att D-Dagen 2007 blev ett arrangemang att minnas.
 Engagemanget för näringslivet slutade inte där utan han har ständigt
 funnits med bakom kulisserna sedan han klev av posten.
