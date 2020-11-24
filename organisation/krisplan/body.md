@@ -30,7 +30,7 @@ Skillnaden mellan en kris och en olycka är hur grav händelsen är. En händels
 
 I META finns det två sjukvårdslådor, en stor samt en liten. Den lilla kan tas med när man har event som inte är i META, exempelvis Lådbilsquarnevalen eller Osqvik. Den stora lådan ska aldrig lämna META. Studerandeskyddsombud ansvar för inventering av den stora sjukvårdslådan.
 
-Det finns en hjärtstartare i META som hänger på väggen bredvid nödutgången, precis innan man kommer ut i hallen.Moderna hjärtstartare är så pass lättanvända så att ingen specifik träning behövs.
+Det finns en hjärtstartare i META som hänger på väggen bredvid nödutgången, precis innan man kommer ut i hallen. Moderna hjärtstartare är så pass lättanvända så att ingen specifik träning behövs.
 
 Har något gått sönder i META kan det rapporteras till sektionslokalsansvariga på
 
