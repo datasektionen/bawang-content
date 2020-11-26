@@ -17,7 +17,7 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-<a href="criob"> Cristian Osorio Bretti</a>, Tricesimus Tertius
+<a href="#criob"> Cristian Osorio Bretti</a>, Tricesimus Tertius
 
 </dd>
 </dl>
@@ -58,17 +58,17 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-<a href="jbrann"> Jesper Bränn</a>, Tricesimus
+<a href="#jbrann"> Jesper Bränn</a>, Tricesimus
 
 </dd>
 <dd>
 
-<a href="matdanie"> Mattias Danielsson</a>, Tricesimus
+<a href="#matdanie"> Mattias Danielsson</a>, Tricesimus
 
 </dd>
 <dd>
 
-<a href="shayane"> Shayan Effati</a>, Tricesimus
+<a href="#shayane"> Shayan Effati</a>, Tricesimus
 
 </dd>
 </dl>
@@ -80,12 +80,12 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-<a href="lrunhem"> Lovisa Runhem</a>, Tricesima
+<a href="#lrunhem"> Lovisa Runhem</a>, Tricesima
 
 </dd>
 <dd>
 
-<a href="anlinn">Andreas Linn</a>, Tricesimus
+<a href="#anlinn">Andreas Linn</a>, Tricesimus
 
 </dd>
 </dl>
@@ -97,22 +97,22 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-<a href="jbratt"> Jesper Bratt</a>, Vicesimus Septus
+<a href="#jbratt"> Jesper Bratt</a>, Vicesimus Septus
 
 </dd>
 <dd>
 
-<a href="nikbac"> Niklas Bäckström</a>, Vicesimus Septus
+<a href="#nikbac"> Niklas Bäckström</a>, Vicesimus Septus
 
 </dd>
 <dd>
 
-<a href="pbos">Peter Boström</a>, Vicesimus Sextus
+<a href="#pbos">Peter Boström</a>, Vicesimus Sextus
 
 </dd>
 <dd>
 
-<a href="petterdj">Petter Djupfeldt</a>, Vicesimus Septus
+<a href="#petterdj">Petter Djupfeldt</a>, Vicesimus Septus
 
 </dd>
 </dl>
@@ -124,22 +124,22 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-<a href="marieale">Marie Alexander</a>, Duodetricesimus
+<a href="#marieale">Marie Alexander</a>, Duodetricesimus
 
 </dd>
 <dd>
 
-<a href="eang">Emma Angermund</a>, Vicesimus Sextus
+<a href="#eang">Emma Angermund</a>, Vicesimus Sextus
 
 </dd>
 <dd>
 
-<a href="robertwb">Robert Welin Berger</a>, Vicesimus Sextus
+<a href="#robertwb">Robert Welin Berger</a>, Vicesimus Sextus
 
 </dd>
 <dd>
 
-<a href="fridajan">Frida Jansson</a>, Vicesimus Septus
+<a href="#fridajan">Frida Jansson</a>, Vicesimus Septus
 
 </dd>
 </dl>
@@ -151,32 +151,32 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-<a href="solsmed">Alexander Solsmed</a>, Vicesimus Septus
+<a href="#solsmed">Alexander Solsmed</a>, Vicesimus Septus
 
 </dd>
 <dd>
 
-<a href="taran">Andreas Tarandi</a>, Vicesimus Sextus
+<a href="#taran">Andreas Tarandi</a>, Vicesimus Sextus
 
 </dd>
 <dd>
 
-<a href="stjer">Johan Stjernberg</a>, Vicesimus Sextus
+<a href="#stjer">Johan Stjernberg</a>, Vicesimus Sextus
 
 </dd>
 <dd>
 
-<a href="maxno">Max Nordlund</a>, Duodetricesimus
+<a href="#maxno">Max Nordlund</a>, Duodetricesimus
 
 </dd>
 <dd>
 
-<a href="michjo">Michael Hjortholt</a>, Vicesimus Quintus
+<a href="#michjo">Michael Hjortholt</a>, Vicesimus Quintus
 
 </dd>
 <dd>
 
-<a href="koronen">Victor Koronen</a>, Vicesimus Septus
+<a href="#koronen">Victor Koronen</a>, Vicesimus Septus
 
 </dd>
 </dl>
@@ -188,12 +188,12 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-<a href="lindvi">Charlie Lindviken</a>, Vicesimus Sextus
+<a href="#lindvi">Charlie Lindviken</a>, Vicesimus Sextus
 
 </dd>
 <dd>
 
-<a href="andfal">Andreas Falk</a>, Vicesimus Septus
+<a href="#andfal">Andreas Falk</a>, Vicesimus Septus
 
 </dd>
 </dl>
@@ -205,27 +205,27 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-<a href="josundb">Jonas Sundberg</a>, Vicesimus Quartus
+<a href="#josundb">Jonas Sundberg</a>, Vicesimus Quartus
 
 </dd>
 <dd>
 
-<a href="egila">Egil Antonsen</a>, Vicesimus Quartus
+<a href="#egila">Egil Antonsen</a>, Vicesimus Quartus
 
 </dd>
 <dd>
 
-<a href="blame">Martin Frost</a>, Tertius Vicesimus
+<a href="#blame">Martin Frost</a>, Tertius Vicesimus
 
 </dd>
 <dd>
 
-<a href="parhamfh">Pärham Fazelzadeh Hashemi</a>, Vicesimus Quartus
+<a href="#parhamfh">Pärham Fazelzadeh Hashemi</a>, Vicesimus Quartus
 
 </dd>
 <dd>
 
-<a href="tosve">Tobias Svensson</a>, Vicesimus Quartus
+<a href="#tosve">Tobias Svensson</a>, Vicesimus Quartus
 
 </dd>
 </dl>
@@ -237,27 +237,27 @@ går det även att maila D-rektoratet.
 </dt>
 <dd>
 
-<a href="mgerdin">Mikael Gerdin</a>, Vicesimus Quartus
+<a href="#mgerdin">Mikael Gerdin</a>, Vicesimus Quartus
 
 </dd>
 <dd>
 
-<a href="spatrik">Patrik Stenmark</a>, Dovicesimus
+<a href="#spatrik">Patrik Stenmark</a>, Dovicesimus
 
 </dd>
 <dd>
 
-<a href="joelwes">Joel Westberg</a>, Tertius Vicesimus
+<a href="#joelwes">Joel Westberg</a>, Tertius Vicesimus
 
 </dd>
 <dd>
 
-<a href="pwalter">Pontus Walter</a>, Tertius Vicesimus
+<a href="#pwalter">Pontus Walter</a>, Tertius Vicesimus
 
 </dd>
 <dd>
 
-<a href="peralmq">Per Almquist</a>, Tertius Vicesimus
+<a href="#peralmq">Per Almquist</a>, Tertius Vicesimus
 
 </dd>
 </dl>
@@ -268,27 +268,27 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-Simon Habtemikael, Dovicesimus
+<a href="#simonhabtemikael">Simon Habtemikael</a>, Dovicesimus
 
 </dd>
 <dd>
 
-Per-Anders Legeryd, Dovicesimus
+<a href="#peranderslegeryd">Per-Anders Legeryd</a>, Dovicesimus
 
 </dd>
 <dd>
 
-Elin Rydberg, Vicesimus Quarta
+<a href="#elinrydberg">Elin Rydberg</a>, Vicesimus Quarta
 
 </dd>
 <dd>
 
-Simon Stenström, Tertius Vicesimus
+<a href="#simonstenstrom">Simon Stenström</a>, Tertius Vicesimus
 
 </dd>
 <dd>
 
-Roger Ström, Unvicesimus
+<a href="#rogerstrom">Roger Ström</a>, Unvicesimus
 
 </dd>
 </dl>
@@ -300,17 +300,17 @@ Roger Ström, Unvicesimus
 </dt>
 <dd>
 
-Mikael Auno, Dovicesimus
+<a href="#mikaelauno">Mikael Auno</a>, Dovicesimus
 
 </dd>
 <dd>
 
-Frej Naimi-Akbar, Vicesimus
+<a href="#frejnaimiakbar">Frej Naimi-Akbar</a>, Vicesimus
 
 </dd>
 <dd>
 
-Jon Karlfeldt (Larsson) , Undevicesimus
+<a href="#jonkarlfeldtlarsson">Jon Karlfeldt (Larsson)</a>, Undevicesimus
 
 </dd>
 </dl>
@@ -321,23 +321,23 @@ Jon Karlfeldt (Larsson) , Undevicesimus
 <dt>
 </dt>
 <dd>
-Eskil Andréen, Unvicesimus
+<a href="#eskilandreen">Eskil Andréen</a>, Unvicesimus
 
 </dd>
 <dd>
-Lorica Claesson, Tertius Vicesima
+<a href="#loricaclaesson">Lorica Claesson</a>, Tertius Vicesima
 
 </dd>
 <dd>
-Erik Edstam, Undevicesimus
+<a href="#erikedstam">Erik Edstam</a>, Undevicesimus
 
 </dd>
 <dd>
-Martin Nygren, Undevicesimus
+<a href="#martinnygren">Martin Nygren</a>, Undevicesimus
 
 </dd>
 <dd>
-Pehr Söderman, Unvicesimus
+<a href="#pehrsoderman">Pehr Söderman</a>, Unvicesimus
 
 </dd>
 </dl>
@@ -348,7 +348,7 @@ Pehr Söderman, Unvicesimus
 <dt>
 </dt>
 <dd>
-Henrik Fräsén, Vicesimus
+<a href="#henrikfrasen">Henrik Fräsén</a>, Vicesimus
 
 </dd>
 </dl>
@@ -359,11 +359,11 @@ Henrik Fräsén, Vicesimus
 <dt>
 </dt>
 <dd>
-Johan Björling, Undevicesimus
+<a href="#johanbjorling">Johan Björling</a>, Undevicesimus
 
 </dd>
 <dd>
-Emil Stenström, Undevicesimus
+<a href="#emilstenstrom">Emil Stenström</a>, Undevicesimus
 
 </dd>
 </dl>
@@ -374,19 +374,19 @@ Emil Stenström, Undevicesimus
 <dt>
 </dt>
 <dd>
-Martin Edquist, Septus decimus
+<a href="#martinedquist">Martin Edquist</a>, Septus decimus
 
 </dd>
 <dd>
-Magnus Hult, Dodevicesimus
+<a href="#magnushult">Magnus Hult</a>, Dodevicesimus
 
 </dd>
 <dd>
-Andreas Mattsson, Dodevicesimus
+<a href="#andreasmattsson">Andreas Mattsson</a>, Dodevicesimus
 
 </dd>
 <dd>
-Mark Peldius, Septus decimus
+<a href="#markpeldius">Mark Peldius</a>, Septus decimus
 
 </dd>
 </dl>
@@ -397,11 +397,11 @@ Mark Peldius, Septus decimus
 <dt>
 </dt>
 <dd>
-Robert Andersson, Sextus decimus
+<a href="#robertandersson">Robert Andersson</a>, Sextus decimus
 
 </dd>
 <dd>
-Tommie Gannert, Dodevicesimus
+<a href="#tommiegannert">Tommie Gannert</a>, Dodevicesimus
 
 </dd>
 </dl>
@@ -412,35 +412,35 @@ Tommie Gannert, Dodevicesimus
 <dt>
 </dt>
 <dd>
-Magnus Axell, Sigvard
+<a href="#magnusaxell">Magnus Axell</a>, Sigvard
 
 </dd>
 <dd>
-Pontus Axelsson, Dodecimus
+<a href="#pontusaxelsson">Pontus Axelsson</a>, Dodecimus
 
 </dd>
 <dd>
-Anna Eriksson, Sigvard
+<a href="#jonashogberg">Jonas Högberg</a>, tertius decimus
 
 </dd>
 <dd>
-Josefin Hallberg, Quinta decima
+<a href="#annaeriksson">Anna Eriksson</a>, Sigvard
 
 </dd>
 <dd>
-Jonas Högberg, tertius decimus
+<a href="#josefinhallberg">Josefin Hallberg</a>, Quinta decima
 
 </dd>
 <dd>
-Maria Kruse, Quinta decima
+<a href="#mariakruse">Maria Kruse</a>, Quinta decima
 
 </dd>
 <dd>
-Arvid Nilsson, Quintus decimus
+<a href="#arvidnilsson">Arvid Nilsson</a>, Quintus decimus
 
 </dd>
 <dd>
-Niklas Persson, Quintus decimus
+<a href="#niklaspersson">Niklas Persson</a>, Quintus decimus
 
 </dd>
 </dl>
@@ -451,7 +451,7 @@ Niklas Persson, Quintus decimus
 <dt>
 </dt>
 <dd>
-Daniel Westbom, Sigvard
+<a href="#danielwestbom">Daniel Westbom</a>, Sigvard
 
 </dd>
 </dl>
@@ -462,7 +462,7 @@ Daniel Westbom, Sigvard
 <dt>
 </dt>
 <dd>
-Joakim Meldahl, Sigvard
+<a href="#joakimmeldahl">Joakim Meldahl</a>, Sigvard
 
 </dd>
 </dl>
@@ -473,19 +473,19 @@ Joakim Meldahl, Sigvard
 <dt>
 </dt>
 <dd>
-Christer Gessler, dodecimus
+<a href="#christergessler">Christer Gessler</a>, dodecimus
 
 </dd>
 <dd>
-Patrick Grundler, dodecimus
+<a href="#patrickgrundler">Patrick Grundler</a>, dodecimus
 
 </dd>
 <dd>
-Helena Holmgren, dodecima
+<a href="#helenaholmgren">Helena Holmgren</a>, dodecima
 
 </dd>
 <dd>
-Mikael Stralje, tertius decimus
+<a href="#mikaelstralje">Mikael Stralje</a>, tertius decimus
 
 </dd>
 </dl>
@@ -496,15 +496,15 @@ Mikael Stralje, tertius decimus
 <dt>
 </dt>
 <dd>
-Niklas Lindholm, Dodecimus
+<a href="#niklaslindholm">Niklas Lindholm</a>, Dodecimus
 
 </dd>
 <dd>
-Martin Hansson, Dodecimus
+<a href="#martinhansson">Martin Hansson</a>, Dodecimus
 
 </dd>
 <dd>
-Fredrik Sandberg, Docecimus
+<a href="#fredriksandberg">Fredrik Sandberg</a>, Docecimus
 
 </dd>
 </dl>
@@ -515,15 +515,15 @@ Fredrik Sandberg, Docecimus
 <dt>
 </dt>
 <dd>
-Tomas Nilsson, Decimus
+<a href="#tomasnilsson">Tomas Nilsson</a>, Decimus
 
 </dd>
 <dd>
-Staffan Gustafsson, Undecimus
+<a href="#staffangustafsson">Staffan Gustafsson</a>, Undecimus
 
 </dd>
 <dd>
-Olof Lindholm, Dodecimus
+<a href="#oloflindholm">Olof Lindholm</a>, Dodecimus
 
 </dd>
 </dl>
@@ -534,15 +534,15 @@ Olof Lindholm, Dodecimus
 <dt>
 </dt>
 <dd>
-Tomas Nord, Decimus
+<a href="#tomasnord">Tomas Nord</a>, Decimus
 
 </dd>
 <dd>
-Stina Leijonhufvud, Decima
+<a href="#stinaleijonhufvud">Stina Leijonhufvud</a>, Decima
 
 </dd>
 <dd>
-Patrik Nilssom, Decimus
+<a href="#patriknilssom">Patrik Nilssom</a>, Decimus
 
 </dd>
 </dl>
@@ -553,22 +553,30 @@ Patrik Nilssom, Decimus
 <dt>
 </dt>
 <dd>
-Helena Englund, Nona
+<a href="#helenaenglund">Helena Englund</a>, Nona
 
 </dd>
 <dd>
-Johan Runnedahl, Nonus
+<a href="#johanrunnedahl">Johan Runnedahl</a>, Nonus
 
 </dd>
 <dd>
-John Berg, Nonus
+<a href="#johnberg">John Berg</a>, Nonus
 
 </dd>
 <dd>
-Björn Sjöstrand, Oqtavus
+<a href="#bjornsjostrand">Björn Sjöstrand</a>, Oqtavus
 
 </dd>
 </dl>
+
+## Mottagare 1994
+
+???
+
+## Mottagare 1993
+
+???
 
 ## Mottagare 1992
 
@@ -576,23 +584,23 @@ Björn Sjöstrand, Oqtavus
 <dt>
 </dt>
 <dd>
-Carl-Johan Graufelds, Sextus
+<a href="#carljohangraufelds">Carl-Johan Graufelds</a>, Sextus
 
 </dd>
 <dd>
-Eva Skoglund, Septa
+<a href="#evaskoglund">Eva Skoglund</a>, Septa
 
 </dd>
 <dd>
-Åke Järvklo, Tertius
+<a href="#akejarvklo">Åke Järvklo</a>, Tertius
 
 </dd>
 <dd>
-Lars Pechan, Sextus
+<a href="#larspechan">Lars Pechan</a>, Sextus
 
 </dd>
 <dd>
-Jan Garefelt, Oqtavus
+<a href="#jangarefelt">Jan Garefelt</a>, Oqtavus
 
 </dd>
 </dl>
@@ -603,19 +611,19 @@ Jan Garefelt, Oqtavus
 <dt>
 </dt>
 <dd>
-Johan Arvidsson, Quintus
+<a href="#johanarvidsson">Johan Arvidsson</a>, Quintus
 
 </dd>
 <dd>
-Magnus Hulthén, Quartus
+<a href="#magnushulthen">Magnus Hulthén</a>, Quartus
 
 </dd>
 <dd>
-Johan Wåhlin, Sextus
+<a href="#johanwahlin">Johan Wåhlin</a>, Sextus
 
 </dd>
 <dd>
-Peter Nemeth, Quintus
+<a href="#peternemeth">Peter Nemeth</a>, Quintus
 
 </dd>
 </dl>
@@ -626,27 +634,27 @@ Peter Nemeth, Quintus
 <dt>
 </dt>
 <dd>
-Thomas Bill, Tertius
+<a href="#thomasbill">Thomas Bill</a>, Tertius
 
 </dd>
 <dd>
-Peter Franzen, Sequndus
+<a href="#peterfranzen">Peter Franzen</a>, Sequndus
 
 </dd>
 <dd>
-Rudolf Hersén, Quartus
+<a href="#rudolfhersen">Rudolf Hersén</a>, Quartus
 
 </dd>
 <dd>
-Anne Laurell, Quarta
+<a href="#annelaurell">Anne Laurell</a>, Quarta
 
 </dd>
 <dd>
-Bertil Lundell, Quartus
+<a href="#bertillundell">Bertil Lundell</a>, Quartus
 
 </dd>
 <dd>
-Kristina Nedlich, Quarta
+<a href="#kristinanedlich">Kristina Nedlich</a>, Quarta
 
 </dd>
 </dl>
@@ -657,27 +665,27 @@ Kristina Nedlich, Quarta
 <dt>
 </dt>
 <dd>
-Robert Edin, Tertius
+<a href="#robertedin">Robert Edin</a>, Tertius
 
 </dd>
 <dd>
-Anette Gunnarsson, Tertius
+<a href="#anettegunnarsson">Anette Gunnarsson</a>, Tertius
 
 </dd>
 <dd>
-Väinö Hassinen, Quartus
+<a href="#vainohassinen">Väinö Hassinen</a>, Quartus
 
 </dd>
 <dd>
-Mats Hernvall, Sequndus
+<a href="#matshernvall">Mats Hernvall</a>, Sequndus
 
 </dd>
 <dd>
-Ari Sahlsten, Sequndus
+<a href="#arisahlsten">Ari Sahlsten</a>, Sequndus
 
 </dd>
 <dd>
-Erik Wåhlin, Tertius
+<a href="#erikwahlin">Erik Wåhlin</a>, Tertius
 
 </dd>
 </dl>
@@ -688,50 +696,51 @@ Erik Wåhlin, Tertius
 <dt>
 </dt>
 <dd>
-Patrik Anderson, Primus
+<a href="#patrikanderson">Patrik Anderson</a>, Primus
 
 </dd>
 <dd>
-Kjell Lundesten, Primus
+<a href="#kjelllundesten">Kjell Lundesten</a>, Primus
 
 </dd>
 <dd>
-Henrik Syk, Primus
+<a href="#henriksyk">Henrik Syk</a>, Primus
 
 </dd>
 <dd>
-Mia Agrell, Sequnda
+<a href="#miaagrell">Mia Agrell</a>, Sequnda
 
 </dd>
 <dd>
-Jerker Andersson, Sequndus
+<a href="#jerkerandersson">Jerker Andersson</a>, Sequndus
 
 </dd>
 <dd>
-Jesper Lundh, Sequndus
+<a href="#jesperlundh">Jesper Lundh</a>, Sequndus
 
 </dd>
 <dd>
-Johan Palmkvist, Sequndus
+<a href="#johanpalmkvist">Johan Palmkvist</a>, Sequndus
 
 </dd>
 <dd>
-Björn Gambäck, Tertius
+<a href="#bjorngamback">Björn Gambäck</a>, Tertius
 
 </dd>
 <dd>
-Hillevi Gavel, Tertia
+<a href="#hillevigavel">Hillevi Gavel</a>, Tertia
 
 </dd>
 <dd>
-Kai-Mikael Jää-Aro, Tertius
+<a href="#kaimikaeljaaaro">Kai-Mikael Jää-Aro</a>, Tertius
 
 </dd>
 <dd>
-Wolfram Meyer, Tertius
+<a href="#wolframmeyer">Wolfram Meyer</a>, Tertius
 
 </dd>
 </dl>
+
 ## Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
 ---------------------------------------------
 
@@ -1341,7 +1350,8 @@ Med denna motivering tilldelas Per Almquist ett hedersdelta.
 
 ## Motiveringar till 2009 års mottagare
 
-<p>
+#### Simon Habtemikael <a name="simonhabtemikael"></a>
+
 <em>Simon Habtemikael</em> har länge varit ett av sektionens mest
 välkända ansikten. Efter en försiktig start som dadda i mottagningen
 kastade Simon sig strax efter det rakt in i sektionsengagemanget, och
@@ -1351,8 +1361,6 @@ och Simon kom under nästa år att genomföra en mottagning som Halvbror
 och även räkna pengar som Kassör, för att året därefter ta steget fullt
 ut och axla manteln som Sektionsordförande.
 
-</p>
-<p>
 Allt detta till trots, är det kanske ändå inte för hans engagemang som
 Simon kommer att bli ihågkommen på sektionen. Många kommer att minnas
 Simon som den alltid lika glada, trevliga och ihärdigt skämtande killen
@@ -1360,8 +1368,8 @@ som precis alla verkar känna. Simon är inte bara vän till sektionen,
 utan dessutom hela sektionens vän, och för detta är han väl värd ett
 hedersdelta.
 
-</p>
-<p>
+#### Per-Anders Legeryd <a name="peranderslegeryd"></a>
+
 <em>Per-Anders Legeryd</em> har visat att det går bra att vara
 engagerad, aktiv och omtyckt i Konglig Datasektionen utan att ha på sig
 overall eller vara studentikos. Med sina åtskilliga uppdrag och poster
@@ -1373,8 +1381,8 @@ vår vilja där och till rätt person på köpet. Som tack för allt han gjort
 och åstadkommit, tilldelar D-rektoratet härmed Per-Anders det finaste av
 sektionens förtjänsttecken.
 
-</p>
-<p>
+#### Elin Rydberg <a name="elinrydberg"></a>
+
 <em>Elin Rydberg</em> har under sina förhållandevis få år på Teknis
 hunnit med en hel del. Efter att först ha engagerat sig i DKM och
 DataTjej blev Elin inlurad i D-rektoratet som sekreterare. Efter att ha
@@ -1385,8 +1393,6 @@ fick se sig besegrad av dBuggen, har hon underhållit sektionen på andra
 vis, bland annat som Drifvare, och under den gångna hösten som Konglig
 Indrif.
 
-</p>
-<p>
 Poster i all ära, men mycket av Elins engagemang och arbete för
 sektionens bästa har skett bakom kulisserna. Med ett ständigt vakande
 öga på sektionen, och med sektionens bästa i åtanke är Elin aldrig rädd
@@ -1394,8 +1400,8 @@ att dela med sig av sina åsikter till dem det berör. Med denna bild av
 Elin som bakgrund anser vi i D-rektoratet att hon har gjort sig väl
 förtjänt ett hedersdelta.
 
-</p>
-<p>
+#### Simon Stenströms <a name="simonstenstroms"></a>
+
 <em>Simon Stenströms</em> engagemang i sektionen började redan under
 hans allra första termin på KTH. Efter ett lyckat Daddetack valdes han
 snabbt valdes in i DKM, där han med åren kom att bli så väl Barmästare
@@ -1404,16 +1410,14 @@ Simon året därpå att överge piskan mot snuttefiltar och nappflaskor då
 han tjänstgjorde som Lillebror, och under det gångna året genomförde han
 även en mottagning som Storebror.
 
-</p>
-<p>
 Simons engagemang sträcker sig dock längre än enbart de poster han
 suttit på. Alltid med sektionens bästa i åtanke framför han alltid sina
 åsikter på sektionsmötet, och ser till att alla nya studenter blir väl
 bemötta år efter år. För dessa enastående insatser tilldelas Simon
 härmed ett Hedersdelta.
 
-</p>
-<p>
+#### Roger Ström <a name="rogerstrom"></a>
+
 <em>Roger Ström</em> har hunnit med mycket under sin tid på
 Datasektionen. Hans sektionsengagemang började redan vid späd ålder, då
 han gick med i DKM där han senare kom att tjänstgöra som kassör. Hans
@@ -1425,17 +1429,15 @@ då han exempelvis bevarat sektionens historia som Sektionshistoriker,
 betraktat sektionen i stort som Revisor, burit hönan fagt som Vice
 Fanbärare samt bevakat studiemiljön som ledamot i D-rektoratet.
 
-</p>
-<p>
 Med Rogers ihärdiga och långlivade engagemang som bakgrund anser vi i
 D-rektoratet att man med bred marginal kan säga att han synnerligen
 förtjänstfull verkat för sektionens väl, och är sålunda väl värd ett
 Hedersdelta.
 
-</p>
 ## Motiveringar till 2008 års mottagare
 
-<p>
+#### Mikael Auno <a name="mikaelauno"></a>
+
 <em>Mikael</em> är en riktig klippa. När man behöver hjälp med något så
 kan man vara säker på att han fixar det på ingen tid alls, det kan vara
 allt ifrån att man behöver en till dadda till att datas servrar är nere.
@@ -1443,8 +1445,8 @@ Mikael har engagerat sig i allt från mottagningen till att ha försvarat
 våra intressen i den där gruppen vars namn är så långt att ingen kommer
 ihåg det.
 
-</p>
-<p>
+#### Frej Naimi-Akbar <a name="frejnaimiakbar"></a>
+
 <em>Frej</em> var en doldis på sektionen tills han plötsligt blev
 indragen som sekreterare i Drektoratet. Han har sen dess axlat ansvaret
 som ordförande och burit fanan högt under diplomeringar, promoveringar
@@ -1452,8 +1454,8 @@ och Nobelmiddagen och även skrämt nollan som Konglig Jesus. I 3 års tid
 så representerade han vår älskade sektion i KF och gjorde ett ypperligt
 jobb under denna tid.
 
-</p>
-<p>
+#### Jon Karlfeldt (Larsson) <a name="jonkarlfeldtlarsson"></a>
+
 Finns det något <em>Jon</em> inte har gjort? Han har varit Ordförande
 för Studienämnden och Sektionen, suttit i Kårfullmäktige, engagerat sig
 i spexet, varit involverad i Redaqtionen, Mottagningen som ond, ond,
@@ -1461,10 +1463,10 @@ god, ond och avslutningsvis som Konglig Öfverdrif och säkert mycket,
 mycket mer. Hårt arbete ska belönas och det finns ingen bättre belöning
 än ett hedersdelta.
 
-</p>
 ## Motiveringar till 2007 års mottagare
 
-<p>
+#### Eskil Andréen <a name="eskilandreen"></a>
+
 <em>Eskil Andréen</em> har varit en riktig tillgång för sektionen. Han
 har varit aktiv medlem av Qulturnämnden, dadda i två mottagningar och
 har som Lillebror hjälpt till att planera och utföra en mottagning.
@@ -1476,8 +1478,8 @@ genom att dra igång en kontinuerlig festverksamhet. Efter sig lämnar
 Eskil öppnare och mer levande Klubbmästeri. Det är mot bakgrund av detta
 som han tilldelas Hederdeltat.
 
-</p>
-<p>
+#### Lorica Claesson <a name="loricaclaesson"></a>
+
 <em>Lorica Claesson</em> har inte gått den väg genom sektionsegagemang
 som så många andra har gjort, genom Mottagningen, Qulturnämnden eller
 DKM. Däremot har hon gjort en rejäl insats för sektionen som
@@ -1486,8 +1488,8 @@ projekt. Genom DataTjej2007 har hon satt Datasektionen på Sverigekartan
 och än en gång med bravur visat omvärlden att tjejer hör hemma på
 tekniska utbilningar. Denna prestation är väl värd ett Hedersdelta.
 
-</p>
-<p>
+#### Erik Edstam <a name="erikedstam"></a>
+
 <em>Erik</em> har under drygt fem års tid utgjort en stabil punkt i
 Datasektionens tillvaro, och få har väl engagerat sig så i medlemmarnas
 studiemiljö och sociala situation som han. Bakom sig har han ett
@@ -1502,8 +1504,8 @@ man alltid kunnat vända sig till, och han kommer säkerligen att bli
 saknad när han tar examen. För sitt långa och djupa engagemang i
 sektionen är han väl värd ett hedersdelta.
 
-</p>
-<p>
+#### Martin Nygren <a name="martinnygren"></a>
+
 <em>Martin</em> var länge en doldis på sektionen, men när han väl gjorde
 entré på engagemangsscenen så var det med buller och bång. Efter en
 försiktig start med att hålla talet till kvinnan på 2003 års vårbal så
@@ -1520,8 +1522,8 @@ engagera, att entusiasmera och att leda som sektionen och många av dess
 medlemmar har haft stor glädje av, och hans insatser är väl värda att
 premieras med ett hedersdelta.
 
-</p>
-<p>
+#### Pehr Söderman <a name="pehrsoderman"></a>
+
 <em>Pehr Söderman</em> har under flera år engagerat sig i sektionen inom
 olika områden. Med poster så som vice studerandeskyddsombud, dadda samt
 kassör inom mottagningen, har han gjort sig känd som en handlingskraftig
@@ -1532,10 +1534,10 @@ minnas av sektionen som den revisor som gav skäl för namnet och minnas
 som en revisor av dignitet. Med dessa meriter inom sektionen är han en
 välförtjänt bärare av Hedersdeltat.
 
-</p>
 ## Motiveringar till 2006 års mottagare
 
-<p>
+#### Henrik Fräsén <a name="henrikfrasen"></a>
+
 <i>Henrik</i> har ända från första början visat ett starkt engagemang
 för Datasektionen, och har en meritlista som få kan tävla med. Han
 började tidigt i IOR för att sedan utöka med PR-gruppen, en grupp han så
@@ -1550,12 +1552,20 @@ där han inte har haft ett formellt ansvar så har han varit närvarande
 och alltid bidragit med sitt engagemang, sina många idéer och inte minst
 sin humor. Han är i sanning en värdig mottagare av hedersdeltat.
 
-</p>
 ## Motiveringar till 2005 års mottagare
+
+#### Johan Björling <a name="johanbjorling"></a>
+
+Motivering borttappad.
+
+#### Emil Stenström <a name="emilstenstrom"></a>
+
+Motivering borttappad.
 
 ## Motiveringar till 2004 års mottagare
 
-<p>
+#### Martin Edquist <a name="martinedquist"></a>
+
 <em>Martin Edquist</em> är en riktig klippa när det gällar att få hårt
 jobb gjort. Han har tagit på sig kassörens något otacksamma arbetsbörda
 inte bara en, utan två gånger - för hela sektionen samt för dess
@@ -1565,16 +1575,14 @@ fungerar som det ska. Detta försökte han smita från 2003 genom att hoppa
 över till doqumenteriet, men sektionen tyckte att han var alldeles för
 duktig för att få slippa undan så lätt.
 
-</p>
-<p>
 Vidare har Martin inte bara tagit hand om sektionens tillgångar, utan
 ocksåarbetat med att göra dem större, i PR-gruppen. Han har även lockat
 sektionensmedlemmar till skratt som redaktör för dBuggen och försvarat
 allas vår hedersom bärare av sektionens stolta fana. Ja, Martins såväl
 breda som djupaengagemang har i sanning varit förtjänstfullt.
 
-</p>
-<p>
+#### Magnus Hult <a name="magnushult"></a>
+
 <em>Magnus Hult</em> är ännu ett sånt där sektionsvrak som tycks bli
 inblandadi allt möjligt som kommer i hans väg. Han har tjänstgjort i
 såväl PR-gruppensom Informationsorganet, men framför allt har han gjort
@@ -1585,16 +1593,14 @@ senaste som Barmästare. Som20-årsjubileets festchef ställde han till med
 hejdundrande kalas och som pappai höstens mottagning kommer han säkert
 se till att nØllan mår riktigt bra påfest efter fest.
 
-</p>
-<p>
 Men Magnus kan mer än bara partaja. Han kan också ha riktigt roligt -
 och framför allt se till att alla runt omkring honom har riktigt roligt.
 Få kan matcha det sinne för humor som Magnus gång på gång visat prov på,
 såväl i spexmanus som för intet ont anandes ESCapenhängare. Alla de
 glada stunder Magnus har skänkt oss förtjänar verkligen att belönas.
 
-</p>
-<p>
+#### Andreas Mattsson <a name="andreasmattsson"></a>
+
 <em>Andreas Mattsson</em> inledde sitt sektionsengagemang mycket tidigt.
 Undersina fyra år på sektionen har han hunnit sitta i kårfullmäktige i
 tre och etthalvt. I två år har han arbetat för en bättre studiemiljö för
@@ -1603,15 +1609,13 @@ studerandeskyddsombud. Under detgångna året har han slutligen tagit
 plats som ett av sektionens högsta höns,vice ordförande. Andreas har
 också under tre mottagningar varit en omtyckt ochhårt arbetande dadda.
 
-</p>
-<p>
 Sammanfattningsvis så har Andreas aldrig tvekat att lägga ner all den
 tid och energi som sektionen begärt av honom. Han har alltid funnits på
 plats och kommeratt lämna ett stort tomrum efter sig när han lämnar oss
 nästa år.
 
-</p>
-<p>
+#### Mark Peldius <a name="markpeldius"></a>
+
 <em>Mark Peldius</em> har under flera års tid varit djupt engagerad i
 åtskilligaför Datasektionen centrala verksamheter: PR-gruppen,
 Valberedningen,InformationsORganet och D-rektoratet. I styrelsen har han
@@ -1620,10 +1624,10 @@ krävande posterna, kassör ochordförande. Sammantaget gör Marks
 långvariga, breda och engagerade gärning förKonglig Datasektionen honom
 till en mycket välmeriterad mottagare av hedersdeltat.
 
-</p>
 ## Motiveringar till 2003 års mottagare
 
-<p>
+#### Robert Andersson <a name="robertandersson"></a>
+
 <em>Robert Andersson</em> har förtjänstfullt verkat på flera poster inom
 sektionen. Han har varit Sektionsordförande, vice Sektionsordförande och
 Studienämndsordförande. Förutom det har han varit aktiv inom flera
@@ -1631,8 +1635,8 @@ nämnder och representerat Datasektionen i Kårfullmäktige under flera år.
 Under sina år på sektionen har Robert alltid hittat tid för sektionen
 för att förbättra, förändra och profilera den på alla möjliga sätt.
 
-</p>
-<p>
+#### Tommie Gannert <a name="tommiegannert"></a>
+
 <em>Tommie Gannert</em> har under flera år nu glatt sektionens medlemmar
 med diverse upptåg och generellt beteende. Som doqumenterist förknippas
 han med STÖN, som ivrig ESCapenhängare har han infört lite (hud)färg i
@@ -1643,10 +1647,10 @@ leende dolt sig bakom tangentbordsslipsen och på ett rent magiskt sätt
 har han alltid löst de problem man bett om hjälp med. Slutsatsen är att
 en mer förtjänande mottagare av hedersdeltat får man leta efter.
 
-</p>
 ## Motiveringar till 2002 års mottagare
 
-<p>
+#### Magnus Axell <a name="magnusaxell"></a>
+
 <em>Magnus Axell</em> har sedan han började 96 varit en glad och
 engageradsektionsmedlem. Han har under sin tid på sektionen hunnit vara
 galen, headbangande DKMare, klubbmästare som fick ta över DKMs
@@ -1655,16 +1659,12 @@ uppgifter som att organisera skiftesgasquer, samt varit ekonomiskt
 ansvarig i andra sammanhang, som till exempel, mottagningen2001 och
 datakonferensen2001.
 
-</p>
-<p>
 Han har även ihärdigt verkat för sektionens externa relationer, som vi
 Datakonferensen i Lund 2000, som fanbärare 2000-2001, och vid
 andrastudentfestligheter runt om i landet. Under 1999-2000 var han
 viceordförandeför sektionen och som sådan engagerade han sig i diverse
 kårfrågor försektionens räkning.
 
-</p>
-<p>
 Magnus har alltid visat ett djupt engagemang för sektionsfrågor och
 ställt uppi urochskur med sin tid och sina åsikter, och diskuterat
 allehanda olika frågor.Det finns flera anledningar att förära Magnus
@@ -1672,8 +1672,8 @@ Axell ett hedersdelta, men denfrämsta måste vara den här sistnämnda; att
 han ständigt, och alltjämt, bidrarmed sig själv och sin tid, till
 sektionen och dess medlemmar, närhelst de behöver.
 
-</p>
-<p>
+#### Pontus Axelsson och Jonas Högberg <a name="pontusaxelsson"></a><a name="jonashogberg"></a>
+
 <em>Pontus Axelsson</em> och <em>Jonas Högberg</em> gladde oss på många
 sätt. Åt deras upptåg som drifvare har n0llan lett. När de roat
 D-osquarulda i flera spex har publiken skrattat sig helt perplex. Från
@@ -1684,41 +1684,33 @@ deras väldiga mod, ack nej, nu blev det fel och inte rätt, vi minns
 deras värme och varma sätt. Sätt på dem deltat och skåla i rött, ropa
 hurra och pussa dem blött.
 
-</p>
-<p>
+#### Anna Eriksson <a name="annaeriksson"></a>
+
 <em>Anna Eriksson</em> har genom åren återfallit som dadda och förfallit
 som hängare.
 
-</p>
-<p>
 Detta till trots har Anna för de flesta varit en genomjuste kompis som
 alltidställt upp i vått och torrt. Mest vått.
 
-</p>
-<p>
 Anna har synts och hörts, på gott och ont, men alltid fått D-Osquarulda
 påglatt humör. Och bakom kulisserna har hon slitit som en varg för att
 vi andraska få så kul som det bara går. Hon genomled till och med ett
 helt år som sektionens sekreterare. Med bravur.
 
-</p>
-<p>
 Annas främsta egenskap är dock att hon är en genuin Sigvard, kaxig och
-högljudd.MEN ALLTID med värme och glimten i ögat. Hennes närvaro i
+högljudd. MEN ALLTID med värme och glimten i ögat. Hennes närvaro i
 Escapen har många kalla vinterdagar höjt dess temperatur. Och säg den
 gasque eller pub då inte Anna varit med.
 
-</p>
-<p>
 Anna är en sann D-Osqulda, alltså en god vän och allas kamrat. Allas vår
 hedersprick.
 
-</p>
-<p>
+#### Josefin Hallberg <a name="josefinhallberg"></a>
+
 Josefin Hallberg Kommer Snart...
 
-</p>
-<p>
+#### Maria Kruse <a name="mariakruse"></a>
+
 <em>Maria Kruse</em> har alltsedan hösten 1997 varit en omåttligt aktiv
 sektionsmedlem. Hon har tagit hand om allt från småsaker som att
 administrera Quintus decimas årskursmärken, till att som ordförande för
@@ -1726,74 +1718,62 @@ Tjejkonferensen 2000 skapa en proffsig och genomtrevlig träff med
 landets kvinnliga och sektionens manliga dataloger. Hon har deltagit i
 DKMs alla upptåg *samtidigt* som hon till och med varit vice Konglig
 Lokalchef, tillika varit DKMs kassör ett år, samt sekreterare
-förStudieresan 2001.
+för Studieresan 2001.
 
-</p>
-<p>
 Ja, listan av hennes engagemang har visat sig växa exponentiellt med
 avseende på tiden,inget mer nämnt, men inget glömt.
 
-</p>
-<p>
 Vidare är Maria såväl återfallsdadda som återfallsdrifvare. Inte att
 förglömma alltannat hon såväl återfallit till och förfallit i.
 
-</p>
-<p>
 Denna mer än väl meriterande bakgrund förbleknar dock när dOsquarulda
 betraktarMarias alltid lika glada leende och genomvänliga person. Hon
 har för många intebara varit en studiekamrat, en trevlig festpolare och
 glad upptågsfixare, utanockså blivit en evig vän.
 
-</p>
-<p>
+#### Arvid Nilsson <a name="arvidnilsson"></a>
+
 <em>Arvid Nilsson</em>; Trots Arvids något blyga natur har han alltid
 funnitstillhands i Escapen. Att Arvid ett år var vice Konglig Lokalchef
 var ett alltigenomnaturligt val, Escapen är fortfarande Arvids andra
 hem.
 
-</p>
-<p>
 Såväl gamla dataloger som alldeles nya, ja tidvis även den vedervärdige
 n0llan,finner sig väl till mods i Arvids sällskap.
 
-</p>
-<p>
 Arvid belönas i första hand för sin genuina värme och charm. Men man får
 integlömma allt arbete han glatt slitit med till allas vår fördel.
 
-</p>
-<p>
-Niklas Persson har varit väldigt aktiv sedan han kom hit till
+#### Niklas Persson <a name="niklaspersson"></a>
+
+<em>Niklas Persson</em> har varit väldigt aktiv sedan han kom hit till
 Datasektionen.Han har både varit Dadda, PR-chef och Studs ordförande.
 
-</p>
-<p>
 Som medlem i PR-gruppen har jag haft nöjet att få arbeta under honom.
 Han jobbadehårt för Datasektionen. Det var under hans tid som PR-gruppen
 struktureradesvilket ledde till att D-dagen ökade från 13 till 40
 företag. En stor bedrift!
 
-</p>
 ## Motiveringar till 2001 års mottagare
 
-<p>
+#### Daniel Westbom <a name="danielwestbom"></a>
+
 <em>Daniel Westbom</em> har varit dadda, Kongl lokalchef, Spexdireqtuer,
 dadda,Prylmånglare, Hederlige Stures efterträdare, Prylmånglare,
 Sektionshistoriker,Valberedningens ordförande, dadda, Hederlige Stures
 efterträdare, fixat15-årsjubileum, mamma, med mera. Han har dessutom
 gjort det bra.
 
-</p>
 ## Motiveringar till 2000 års mottagare
 
-<p>
-<em>Joakim Meldahl</em>
+#### Joakim Meldahl <a name="joakimmeldahl"></a>
 
-</p>
+Motivering borttappad.
+
 ## Motiveringar till 1999 års mottagare
 
-<p>
+#### Christer Gessler <a name="christergessler"></a>
+
 <em>Christer Gessler</em> har i tre år representerat Datasektionen
 ikårfullmäktige - två år som oberoende KF-ledamot och ett år som
 Studienämndensordförande, SNO. I fullmäktige såväl som på sektionen har
@@ -1801,15 +1781,13 @@ han med engagemangtagit ställning och argumenterat i relevanta frågor.
 Han har dessutom underhela sin studietid deltagit i ESCapo, varav ett år
 som vice lokalchef; han haräven varit med i dadderiet ett år.
 
-</p>
-<p>
+#### Patrick Grundler <a name="patrickgrundler"></a>
+
 <em>Patrick Grundler</em> har stor del i sektionens numera ekonomiska
 välståndefter många års arbete i PR-gruppen, bland annat som PR-chef.
 Han är dessutomgrav återfallsdadda med bland annat ett förflutet som
 Storebror. Och vad voreen databanquette utan ett förkör i Patricks regi.
 
-</p>
-<p>
 Han är multipeldadda som blev Storebror på gamla dar, men kanske mest
 känd somPR-mannen nummer ett på sektionen. Patrick har gjort enormt
 mycket för sektionen,känner vid det här laget hela personalen på Martin
@@ -1818,8 +1796,8 @@ alla år varit en toppenkompis.(Vi tackar för införandet av den nya
 måttenheten Grundler. Nu vet alla ifortsättningen hur mycket man måste
 dricka för att få en backbot.)
 
-</p>
-<p>
+#### Helena Holmgren <a name="helenaholmgren"></a>
+
 <em>Helena Holmgren</em> är flerfallig vallare av n0llan och
 sektionensförsta Storasyster. Första Chefsåsnan i D-rektoratet,
 ordförande förDatas Damer och uppstyrare av sektionens seniorverksamhet.
@@ -1828,25 +1806,23 @@ positivt humör. Härborde det kanske stå något pinsamt att bevara till
 eftervärlden, men vi harinte hittat en enda liten sak. En bedrift bara
 det!
 
-</p>
-<p>
 För att med ständigt gott humör haft ett genom åren stort engagemang
 isektionen. Från Chefsåsna via vice ordförande, där hon gjorde ett
 rejältryck med seniorverksamheten, till att efter fyra år i dadderiet
 slå tillmed att bli sektionens första Storasyster.
 
-</p>
-<p>
+#### Mikael Stralje <a name="mikaelstralje"></a>
+
 <em>Mikael Stralje</em> har under alla sina tre år i dadderiet varit
 enpositiv kraft med full (obs! ordvits) kontroll. Som PR-chef har han
 säkratsektionens finanser och han har varit en engagerad ordförande för
 sektionen.Kort och gott, Mikael har gjort mycket för sektionen, men ändå
 aldrig dragitsig för att höja glaset till en skål.
 
-</p>
 ## Motiveringar till 1998 års mottagare
 
-<p>
+#### Niklas Lindholm <a name="niklaslindholm"></a>
+
 <em>Niklas Lindholm</em> har under sin tid på Teknis så som mycket
 fåandra lagt ner ett stort engagemang och en mycket stor arbetsinsats
 försektionen och dess medlemmar. Trots att han har bidragit stort till
@@ -1856,8 +1832,8 @@ datasektionenunder de senaste fyra åren är det inte denna kvantitet som
 sig har bragts i hamn påett utomordentligt bra sätt. Mer än hos någon
 annan har man kunnat lita påatt ett påbörjat arbete verkligen slutförs.
 
-</p>
-<p>
+#### Martin Hansson <a name="martinhansson"></a>
+
 <em>Martin Hansson</em> har varit engagerad i mycket av Sektionens
 verksamhet,bland annat som klubbmästare. Under denna tid har han lagt
 ner både tid ochsjäl på att legalisera sektionens svartpubar. Han har
@@ -1865,18 +1841,32 @@ med framgång bråkat medkommunen och miljövårdsförvaltningen och sett
 till att Datasektionen tillsammansmed Flygsektionen är de första
 sektionerna på Campus med utskänkningstillstånd.
 
-</p>
-<p>
+#### Fredrik Sandberg <a name="fredriksandberg"></a>
+
 <em>Fredrik Sandberg</em> har under hela sin tid på KTH lagt ner väldigt
 myckettid på Datasektionen. Både som prylmånglare, lokalchef, dadda och
 ordförandeoch alltid på ett glatt och trevligt sätt. Fredrik är en av de
 som verkligenslitit för att göra ESCapen till en av campus trevligaste
 sektionslokaler,vilket den idag är.
 
-</p>
+## Motiveringar till 1997 års mottagare
+
+#### Tomas Nilsson <a name="tomasnilsson"></a>
+
+Motivering borttappad.
+
+#### Staffan Gustafsson <a name="staffangustafsson"></a>
+
+Motivering borttappad.
+
+#### Olof Lindholm <a name="oloflindholm"></a>
+
+Motivering borttappad.
+
 ## Motiveringar till 1996 års mottagare
 
-<p>
+#### Tomas Nord <a name="tomasnord"></a>
+
 <em>Tomas Nord</em> har envetet och oförtröttligt engagerat sig i de
 flestadelar av sektionen. Han är mångfaldig ESCapist, dadda och spexare.
 Tomas äräven fd sektionskassör, PR-gruppsmedlem och reseledare för
@@ -1884,8 +1874,8 @@ Studieresan 1996.Alla dessa meriter talar för det faktum att Tomas inte
 bara gör sitt och tackarför sig, utan istället oförtröttligt fortsätter
 sitt engagemang.
 
-</p>
-<p>
+#### Stina Leijonhufvud <a name="stinaleijonhufvud"></a>
+
 <em>Stina Leijonhufvud</em> har sedan hon började på Data engagerat sig
 enormti sektionen. Nämnas kan engagemang som Sektionens Ordförande,
 PR-chef, DKM:are,Dadda, Faster, Fanbärare, Sångledare och Studieresans
@@ -1893,200 +1883,209 @@ Ordförande, ja listan kangöras lång. Stina genomför alltid sina uppdrag
 på ett ansvarsfullt och positivtsätt. Hon tvekar aldrig att lägga ner
 sin tid på sektionen.
 
-</p>
-<p>
+#### Patrik Nilsson <a name="patriknilsson"></a>
+
 <em>Patrik Nilsson</em> har under sin tid som Kongl Lokalchef åter byggt
 uppvår sektionslokal. Utan Patriks slit och kämpande skulle inte ESCapen
 ha varitvad den är idag. Patrik har dessutom som mångfaldig dadda
 mottagit n0llan medglädje och entusiasm.
 
-</p>
 ## Motiveringar till 1995 års mottagare
 
-<p>
+#### Helena Englund <a name="helenaenglund"></a>
+
 <em>Helena Englund</em> har engagerat sig i sektionen bla som kassör
 ochIOR. Hon har dessutom startat kören Cerise Siren, där hon även
 varkörledare under många år. På sektionsmötena har Helena varit en
 aktivdeltagare. Hon har inte bara debatterat och kommit med idéer
 tillförbättringar utan även drivit igenom sina idéer.
 
-</p>
-<p>
+#### Johan Runnedahl <a name="johanrunnedahl"></a>
+
 <em>Johan Runnedahl</em> har varit mycket engagerad i sektionens
 verksamhet.Han har varit en outtröttlig idéspruta till hur vi kan
 förbättra vår sektion,och har dessutom orkat genomföra sina idéer. Han
 har också under året fåttPR-gruppen att fungera, och därigenom etablerat
 kontakter mellanDatasektionen och näringslivet.
 
-</p>
-<p>
+#### John Berg <a name="johnberg"></a>
+
 <em>John Berg</em> har under sina år på KTH gjort oerhört mycket på
 sektionen.Trots att han inte valts till några tunga sektionsposter har
 han ändå valt attengagera sig i de flesta delarna av sektionens
 verksamhet. John har alltidutfört det han åtagit sig på ett klanderfritt
 sätt. Det bör också nämnas attdet var John som gjorde vår fina sångbok.
 
-</p>
-<p>
+#### Björn Sjöstrand <a name="bjornsjostrand"></a>
+
 <em>Björn Sjöstrand</em> har verkat för sektionen på ett sätt som kanske
 intesynts så mycket utåt. Han har varit redaktionsmedlem i Dbuggen, samt
 betyttoerhört mycket för att få mottagningen att fungera på ett mycket
 bättre sättän tidigare. Dessutom har Björn alltid granskat och
 debatterat sektionensverksamhet på ett kritiskt och positivt sätt.
 
-</p>
+## Motiveringar till 1994 års mottagare
+
+???
+
+## Motiveringar till 1993 års mottagare
+
+???
+
 ## Motiveringar till 1992 års mottagare
 
-<p>
+#### Carl-Johan Graufelds <a name="carljohangraufelds"></a>
+
 <em>Carl-Johan Graufelds</em> har som multipel-dadda och storebror
 variten bidragande orsak till nollningens höga klass. Han har som
 sekreterarevarit lika ordentlig som han har varit trevlig mot sina
 medteknologer.Förutom att ha varit en sekreterare att lita på har han
 också själv variten föredömlig medteknolog.
 
-</p>
-<p>
+#### Eva Skoglund <a name="evaskoglund"></a>
+
 <em>Eva Skoglund</em> har som SNO byggt upp ett stort och väl
 fungerandekontaktnät. Hon har också varit en föredömlig SkRep samt
 vallat stackarsnollan.
 
-</p>
-<p>
+#### Åke Järvklo <a name="akejarvklo"></a>
+
 <em>Åke Järvklo</em> har under många år lagt ner ett stort intresse
 påalla de stora och små frågor som berör vår sektion. Han har även
 genomsitt arbete i DKM sett till att D-teknologen fått sitt ölbehov
 täckt.
 
-</p>
 ## Motiveringar till 1991 års mottagare
 
-<p>
+#### Magnus Hulthén <a name="magnushulthen"></a>
+
 <em>Magnus Hulthén</em> har format delar av sektionens kulturella aura
 och har fungerat somkunskapsbas gentemot sina sektionskamrater. Hans
 obegränsade engagamang i sektionsarbetet,med ett antal tunga poster
 bakom sig, är ett föredöme för kommande D-teknologer.
 
-</p>
-<p>
+#### Johan Arvidsson <a name="johanarvidsson"></a>
+
 <em>Johan Arvidsson</em> har idogt kämpat för sektionens bästa och själv
 tagitinitiativet och medverkat i att saker och ting har blivit utförda.
 Han haräven varit en av stöttepelarna för Dadderiverksamheten 1989 och
 1990, där hanhade full kontroll över läget.
 
-</p>
-<p>
+#### Johan Wåhlin <a name="johanwahlin"></a>
+
 <em>Johan Wåhlin</em> hann knappt komma in på Datatekniklinjen förrän
 han satteigång med att lägga ner ofantligt mycket tid på en uppsjö olika
 aktiviteter somgynnat sektionen. Som medlem i 5-års jubiléumskommitéen,
 Chefredaqteur -89, ArmuD-90 och en rad andra arbeten har vi sett honom
 fara omkring som en "glad" skottspole.
 
-</p>
-<p>
+#### Peter Nemeth <a name="peternemeth"></a>
+
 <em>Peter Nemeth</em> har under en längre tid slitit med att förmedla
 och tatill vara D-teknologernas studierelaterade intressen, och har
 byggt en grundför studienämnden. Som representant i UFND, aktiv i
 mottagningen och inte minstSNO-89 har han varit varit till stor hjälp
 för sina sektionskamrater.
 
-</p>
 ## Motiveringar till 1990 års mottagare
 
-<p>
+#### Thomas Bill <a name="thomasbill"></a>
+
 <em>Thomas Bill</em> har med sin personlighet bidragit till att ge
 sektionenett gott anseende i vida kretsar. Han har bland annat figurerat
 i mottagningen,diverse nämnder och institutionsstyrelser samt sist men
 inte minst kämpat försektionens sak på kåren, bland annat som SUO 1988.
 
-</p>
-<p>
+#### Peter Franzén <a name="peterfranzen"></a>
+
 <em>Peter Franzéns</em> värv inom såväl drifveriet som dBuggen gör sig
 än idaggällande. Han har på ett förtjänstfullt sätt fullgjort alla sina
 åtaganden varavförutom ovan nämnda även D-Rektoratsarbetet kan nämnas.
 
-</p>
-<p>
+#### Rudolf Hersén <a name="rudolfhersen"></a>
+
 <em>Rudolf Hersén</em> är en tålig slitvarg som uträttat ett rejält
 arbete.Såsom aktiv i DKM och mottagningen har han starkt bidragit till
 att öka trivselnför sektionens medlemmar.
 
-</p>
-<p>
+#### Anne Laurell <a name="annelaurell"></a>
+
 Genom sitt tålmodiga slit på olika sektionsposter har <em>Anne
 Laurell</em>uträttat mycket som kommit Datasektionens medlemmar till
 nytta.
 
-</p>
-<p>
+#### Bertil Lundell <a name="bertillundell"></a>
+
 <em>Bertil Lundell</em> har bidragit till att Datasektionens
 mottagninglyckats bibehålla sitt rykte som världens kanske bästa
 mottagning.Därutöver har hans profil funnits till beskådande på ett otal
 poster påsektionen, alla skötta på ett föredömligt sätt.
 
-</p>
-<p>
+#### Kristina Nedlich <a name="kristinanedlich"></a>
+
 <em>Kristina Nedlich</em> har inte bara varit aktiv i mottagningenutan
 också i egenskap av SVL hjälpt vilsekomna D-teknologer intrassladei
 teknis byråkratiska värld. Hon har även varit en av krafterna
 bakomjubiléet 1988, och dessutom under stundom förevisat hur en
 mästarinnahäfver en pilsner.
 
-</p>
 ## Motiveringar till 1989 års mottagare
 
-<p>
+#### Erik Wåhlin <a name="erikwahlin"></a>
+
 <em>Erik Wåhlin</em> är en idéspruta som med sin personlighet harverkat
 för sektionen. På de poster som han har haft, allt ifrånT.Ö.N.T till
 ARMU, så har hans humor och idérikedom varit tillgagn för hela
 sektionen.
 
-</p>
-<p>
+#### Anette Gunnarsson <a name="anettegunnarsson"></a>
+
 <em>Anette Gunnarsson</em> har som sektionens "ständige sekreterare"och
 sedemera vice.ordförande varit ett ansikte utåt. Hon har varitaktiv på
-sektionen
+sektionen.
+
 ## Motiveringar till 1988 års mottagare
 
-#### Patrik Anderson
+#### Patrik Anderson <a name="patrikanderson"></a>
 
-Patrik Anderson har varit en drivande kraft i arbetet att skapa sektionsanda och dito traditioner. Han har dessutom i sin egenskap av Kongl. lokalchef ordnat två stycken sektionslokaler att sektionen.
+<em>Patrik Anderson</em> har varit en drivande kraft i arbetet att skapa sektionsanda och dito traditioner. Han har dessutom i sin egenskap av Kongl. lokalchef ordnat två stycken sektionslokaler att sektionen.
 
-#### Kjell Lundesten
+#### Kjell Lundesten <a name="kjelllundesten"></a>
 
-Kjell Lundesten har på ett förtjänstfullt sätt startat och format Datasektionens klubbmästeri. Denna livskraftiga nämnd har sedan dess glatt sektiones medlemmar med ett otal olika engagemang, varav dagens vårbal är ett bra exempel.
+<em>Kjell Lundesten</em> har på ett förtjänstfullt sätt startat och format Datasektionens klubbmästeri. Denna livskraftiga nämnd har sedan dess glatt sektiones medlemmar med ett otal olika engagemang, varav dagens vårbal är ett bra exempel.
 
-#### Henrik Syk
+#### Henrik Syk <a name="henriksyk"></a>
 
-Vi som varit närvarande vid andra sammanhang än undervisning vet alla vilket enormt arbete Henrik Syk har lagt ner på sektionen.
+Vi som varit närvarande vid andra sammanhang än undervisning vet alla vilket enormt arbete <em>Henrik Syk</em> har lagt ner på sektionen.
 
-#### Mia Agrell
+#### Mia Agrell <a name="miaagrell"></a>
 
-Mia Agrell har genom sitt idoga arbete inom nämnder och styrelser och i sin egenskap av både SNO och SVL på ett genuint sätt fört fram de tankar och åsikter som finns förankrade hos Datasektionens medlemmar. Hon är dessutom innehavare av en Harley Davidson i sektionens färg.
+<em>Mia Agrell</em> har genom sitt idoga arbete inom nämnder och styrelser och i sin egenskap av både SNO och SVL på ett genuint sätt fört fram de tankar och åsikter som finns förankrade hos Datasektionens medlemmar. Hon är dessutom innehavare av en Harley Davidson i sektionens färg.
 
-#### Jerker Andersson
+#### Jerker Andersson <a name="jerkerandersson"></a>
 
-Jerker Andersson har genom ett idogt arbete bl. a. som initiativtagare till Datasektionens särskilda kommité och organiasatör av Quarnevalens grillparty 1987 bidragit till att ge Datasektionen ett gott anseende i stora kretsar.
+<em>Jerker Andersson</em> har genom ett idogt arbete bl. a. som initiativtagare till Datasektionens särskilda kommité och organiasatör av Quarnevalens grillparty 1987 bidragit till att ge Datasektionen ett gott anseende i stora kretsar.
 
-#### Jesper Lundh
+#### Jesper Lundh <a name="jesperlundh"></a>
 
-Jesper Lundh har förtjänstfullt verkat på flera poster inom sektionen och har på dessa genom sitt engagemang bidragit till att skapa Datasektionen ett ansikte utåt.
+<em>Jesper Lundh</em> har förtjänstfullt verkat på flera poster inom sektionen och har på dessa genom sitt engagemang bidragit till att skapa Datasektionen ett ansikte utåt.
 
-#### Johan Palmkvist
+#### Johan Palmkvist <a name="johanpalmkvist"></a>
 
-Med initiativkraft och framförsikt samlade Johan Palmkvist den skara av kulturellt och humoristiskt begåvade teknologer som skapade sektionstidningen D-buggen, vilken snabbt blev en av de bättre publikationerna som står att finna på KTH.
+Med initiativkraft och framförsikt samlade <em>Johan Palmkvist</em> den skara av kulturellt och humoristiskt begåvade teknologer som skapade sektionstidningen D-buggen, vilken snabbt blev en av de bättre publikationerna som står att finna på KTH.
 
-#### Björn Gambäck
+#### Björn Gambäck <a name="bjorngamback"></a>
 
-Björn Gambäck har aktivt verkat inom många av sektionens nämnder. Han har dessutom med engagemang och uthållighet fört fram Datasektionens sak i bl.a. Studienämnden, UFND, Kårstyrelsen och kårfullmäktige.
+<em>Björn Gambäck</em> har aktivt verkat inom många av sektionens nämnder. Han har dessutom med engagemang och uthållighet fört fram Datasektionens sak i bl.a. Studienämnden, UFND, Kårstyrelsen och kårfullmäktige.
 
-#### Hillevi Gavel
+#### Hillevi Gavel <a name="hillevigavel"></a>
 
-Genom sitt dagliga arbete och med gott humör strävar Hillevi Gavel efter att skapa en trivsam miljö för sektionens medlemmar, vilket är ett enormt arbete i det tysta.
+Genom sitt dagliga arbete och med gott humör strävar <em>Hillevi Gavel</em> efter att skapa en trivsam miljö för sektionens medlemmar, vilket är ett enormt arbete i det tysta.
 
-#### Kai-Mikael Jää-Aro
+#### Kai-Mikael Jää-Aro <a name="kaimikaeljaaaro"></a>
 
-Kai-Mikael Jää-Aro har det otacksamma värvet att utskänka de förnödenheter en teknolog kräver för sin dagliga kunskapsinhämtning. Detta har han gjort med en flit och entuiasm som har gått långt över förväntan och behov.
+<em>Kai-Mikael Jää-Aro</em> har det otacksamma värvet att utskänka de förnödenheter en teknolog kräver för sin dagliga kunskapsinhämtning. Detta har han gjort med en flit och entuiasm som har gått långt över förväntan och behov.
 
-#### Wolfram Meyer
+#### Wolfram Meyer <a name="wolframmeyer"></a>
 
-Wolfram Meyer har med sitt lätttillgängliga sätt och sin personlighet satt en egen profil på de poster han har innehaft på sektionen. Trots att det har hänt att andra engagemang har blivit lidande har han alltid haft tid och ork för sektionsarbete.
+<em>Wolfram Meyer</em> har med sitt lätttillgängliga sätt och sin personlighet satt en egen profil på de poster han har innehaft på sektionen. Trots att det har hänt att andra engagemang har blivit lidande har han alltid haft tid och ork för sektionsarbete.
