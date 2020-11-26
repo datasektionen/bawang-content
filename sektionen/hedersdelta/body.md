@@ -542,7 +542,7 @@ går det även att maila D-rektoratet.
 
 </dd>
 <dd>
-<a href="#patriknilssom">Patrik Nilssom</a>, Decimus
+<a href="#patriknilsson">Patrik Nilsson</a>, Decimus
 
 </dd>
 </dl>
@@ -953,7 +953,7 @@ hedersdeltat.
 
 ## Motiveringar till 2014 års mottagare
 
-#### Marie Alexander <a name="mariale"></a>
+#### Marie Alexander <a name="marieale"></a>
 
 Marie Alexander har sedan hon anlände ständigt befunnit sig i framkanten
 som ett vänligt ansikte som alltid sprider positiv stämning kring sig.
@@ -1400,7 +1400,7 @@ att dela med sig av sina åsikter till dem det berör. Med denna bild av
 Elin som bakgrund anser vi i D-rektoratet att hon har gjort sig väl
 förtjänt ett hedersdelta.
 
-#### Simon Stenströms <a name="simonstenstroms"></a>
+#### Simon Stenström <a name="simonstenstrom"></a>
 
 <em>Simon Stenströms</em> engagemang i sektionen började redan under
 hans allra första termin på KTH. Efter ett lyckat Daddetack valdes han
@@ -1955,6 +1955,14 @@ påalla de stora och små frågor som berör vår sektion. Han har även
 genomsitt arbete i DKM sett till att D-teknologen fått sitt ölbehov
 täckt.
 
+#### Lars Pechan <a name="larspechan"></a>
+
+Motivering borttappad.
+
+#### Jan Garefelt <a name="jangarefelt"></a>
+
+Motivering borttappad.
+
 ## Motiveringar till 1991 års mottagare
 
 #### Magnus Hulthén <a name="magnushulthen"></a>
@@ -2031,6 +2039,28 @@ mästarinnahäfver en pilsner.
 
 ## Motiveringar till 1989 års mottagare
 
+#### Robert Edin <a name="robertedin"></a>
+
+Motivering borttappad.
+
+#### Anette Gunnarsson <a name="anettegunnarsson"></a>
+
+<em>Anette Gunnarsson</em> har som sektionens "ständige sekreterare"och
+sedemera vice.ordförande varit ett ansikte utåt. Hon har varitaktiv på
+sektionen.
+
+#### Väinö Hassinen <a name="vainohassinen"></a>
+
+Motivering borttappad.
+
+#### Mats Hernvall <a name="matshernvall"></a>
+
+Motivering borttappad.
+
+#### Ari Sahlsten <a name="arisahlsten"></a>
+
+Motivering borttappad.
+
 #### Erik Wåhlin <a name="erikwahlin"></a>
 
 <em>Erik Wåhlin</em> är en idéspruta som med sin personlighet harverkat
@@ -2038,11 +2068,6 @@ för sektionen. På de poster som han har haft, allt ifrånT.Ö.N.T till
 ARMU, så har hans humor och idérikedom varit tillgagn för hela
 sektionen.
 
-#### Anette Gunnarsson <a name="anettegunnarsson"></a>
-
-<em>Anette Gunnarsson</em> har som sektionens "ständige sekreterare"och
-sedemera vice.ordförande varit ett ansikte utåt. Hon har varitaktiv på
-sektionen.
 
 ## Motiveringar till 1988 års mottagare
 
