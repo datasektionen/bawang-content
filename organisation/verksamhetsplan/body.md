@@ -1,6 +1,7 @@
 Verksamhetsplan
 ===============
 
+-   [Verksamhetsplan 2021](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2021.pdf)
 -   [Verksamhetsplan 2020](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2020.pdf)
 -   [Verksamhetsplan 2019](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2019)
 -   [Verksamhetsplan 2018](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2018.pdf)
