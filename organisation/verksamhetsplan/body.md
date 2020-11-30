@@ -25,3 +25,4 @@ Verksamhetsplan för projekt
 -   [Vårbalen 2021](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2021)
 -   [dForum 2021](https://static.datasektionen.se/verksamhetsplaner/vp_dforum_2021)
 -   [Studs 2021](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2021)
+-   [METAspexet 2021](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_21.pdf)
