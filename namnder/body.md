@@ -25,6 +25,8 @@ Project pride
 
 Hello World
 
+dForum 2021
+
 ## Tidigare nämnder och föreningar på Datasektionen
 
 Spexmästeriet: Var ansvarigt för att skapa nya spex på sektionen. Lades ner på Budget-SM 2013.
