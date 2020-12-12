@@ -345,6 +345,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 10/12 [Hasta-la-Windows-Vista-DM beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/hasta_la_windows_vista_dm_2020)
 
+29/9 [Ett Zoom-DM-innan-Budget-SM](https://static.datasektionen.se/protokoll/ett_zoom_dm_innan_budget_sm_2020)
+
 10/9 [Kan-man-vara-på-campus?-DM](https://static.datasektionen.se/protokoll/kan_man_vara_pa_campus_dm_2020)
 
 7/5 [Ett Digitalt-DM-innan-Val-SM](https://static.datasektionen.se/protokoll/ett_digitalt_dm_innan_val_sm_2020)
