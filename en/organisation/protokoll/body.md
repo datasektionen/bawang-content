@@ -7,6 +7,8 @@ please reach out to [secretary](sekr@d.kth.se).
 
 ###2020
 
+26/11, 1/12 [Glögg-SM decision protocol](https://static.datasektionen.se/beslutsprotokoll/glogg_sm_2020)
+
 19/5 [Val-SM](https://static.datasektionen.se/protokoll/val_sm_2020)
 
 26/3 [Revisions-SM](https://static.datasektionen.se/protokoll/revisions_sm_2020)
@@ -340,6 +342,10 @@ please reach out to [secretary](sekr@d.kth.se).
 ## D-rektoratsmöten, DM
 
 ###2020
+
+10/12 [Hasta-la-Windows-Vista-DM decision protocol](https://static.datasektionen.se/beslutsprotokoll/hasta_la_windows_vista_dm_2020)
+
+29/9 [Ett Zoom-DM-innan-Budget-SM](https://static.datasektionen.se/protokoll/ett_zoom_dm_innan_budget_sm_2020)
 
 10/9 [Kan-man-vara-på-campus?-DM](https://static.datasektionen.se/protokoll/kan_man_vara_pa_campus_dm_2020)
 
