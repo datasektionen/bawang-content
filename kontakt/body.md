@@ -14,7 +14,7 @@ Johan Luhr<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
 
 **Arbetsmarknadsdagsansvariga**<br />
-Andreas Wallström & Julia Byström <br />
+Adam Sjöberg <br />
 E-post: [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)<br />
 
 
@@ -39,9 +39,9 @@ D-rektoratet, på adressen [drek@d.kth.se](mailto:drek@d.kth.se). Du kan
 även kontakta Datasektionens Ordförande direkt:
 
 **Ordförande**<br />
-Niklas Vatn<br />
+Johan Hamredahl<br />
 E-post: [ordf@d.kth.se](mailto:ordf@d.kth.se)<br />
-[+46 72 905 74 91](tel: +46 72 905 74 91)
+<!---[+46 72 905 74 91](tel: +46 72 905 74 91) --->
 
 ## Sektionsinformation
 
