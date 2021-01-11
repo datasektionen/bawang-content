@@ -41,7 +41,7 @@ D-rektoratet, på adressen [drek@d.kth.se](mailto:drek@d.kth.se). Du kan
 **Ordförande**<br />
 Johan Hamredahl<br />
 E-post: [ordf@d.kth.se](mailto:ordf@d.kth.se)<br />
-<!---[+46 72 905 74 91](tel: +46 72 905 74 91) --->
+[+46 73 042 74 36](tel: +46 73 042 74 36)
 
 ## Sektionsinformation
 
