@@ -5,6 +5,10 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ## Sektionsmöten, SM
 
+###2021
+
+22/1 [Ett-fortfarande-Zoom-DM beslutsprotokoll](https://static.datasektionen.se/protokoll/beslutsprotokoll_ett_fortfarande_zoom_dm_2021)
+
 ###2020
 
 26/11, 1/12 [Glögg-SM beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/glogg_sm_2020)
