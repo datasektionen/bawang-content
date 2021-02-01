@@ -1,9 +1,6 @@
-# OBS
-Vi håller på att ändra lite hosting här på sidan så budgetar kommer upp så snart vi fixat det! Ifall du är nyfiken på någon budget så kontakta då drek@d.kth.se
-
-
 Datasektionens budget
 =====================
+
 ##Budget 2021
 - [Google Drive](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDp494XQDJ2CsbtNV_GHeQM0H1clfZ6O3w7cbVvB1YCU9Dnf7kurAImfaaMxPgNA/pubhtml)
 
