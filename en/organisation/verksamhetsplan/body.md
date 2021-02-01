@@ -1,7 +1,8 @@
 # Operational Plans
 
-**Unfortunately the protocls are only available in Swedish**
+**Unfortunately the protocols are only available in Swedish**
 
+- [Operational Plan 2021](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2021.pdf)
 - [Operational Plan 2020](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2020.pdf)
 - [Operational Plan 2019](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2019)
 - [Operational Plan 2018](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2018.pdf)
@@ -13,12 +14,13 @@
 
 Operational Plans for Projects
 ---------------------------
-
+- [dJulkalendern 2020](https://static.datasektionen.se/verksamhetsplaner/vp_djulkalendern_2020_v2.pdf)
 - [Project Pride](https://static.datasektionen.se/verksamhetsplaner/vp_project_pride_2019)
-- [dÅre 2020](https://static.datasektionen.se/verksamhetsplaner/vp_dare_2020.pdf)
+- [dÅre 2021](https://static.datasektionen.se/verksamhetsplaner/vp_dare_2021.pdf)
 - [METAspexet 2020](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_1920.pdf)
 - [Studs 2020](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2020)
-- [dJubileet](http://static.datasektionen.se/verksamhetsplaner/vp_djubileet_2018.pdf)
-- [Vårbalen 2020](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2020)
 - [Hello World](https://static.datasektionen.se/verksamhetsplaner/vp_hello_world)
+- [Vårbalen 2021](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2021)
+- [dForum 2021](https://static.datasektionen.se/verksamhetsplaner/vp_dforum_2021)
 - [Studs 2021](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2021)
+- [METAspexet 2021](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_21.pdf)
