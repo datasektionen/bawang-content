@@ -19,8 +19,6 @@ Verksamhetsplan för projekt
 -   [dÅre 2021](https://static.datasektionen.se/verksamhetsplaner/vp_dare_2021.pdf)
 -   [METAspexet 2020](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_1920.pdf)
 -   [Studs 2020](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2020)
--   [dJubileet](http://static.datasektionen.se/verksamhetsplaner/vp_djubileet_2018.pdf)
--   [Vårbalen 2020](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2020)
 -   [Hello World](https://static.datasektionen.se/verksamhetsplaner/vp_hello_world)
 -   [Vårbalen 2021](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2021)
 -   [dForum 2021](https://static.datasektionen.se/verksamhetsplaner/vp_dforum_2021)
