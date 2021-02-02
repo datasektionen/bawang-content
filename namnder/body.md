@@ -21,11 +21,24 @@ Project pride
 
 ## Projekt på Datasektionen
 
-[dJubileet](http://djubileet.se)
+dÅre 2021
 
-Hello World
+Studs 2020
 
-dForum 2021
+Studs 2021
+
+METAspexet 2020
+
+METAspexet 2021
+
+Vårbalen 2021
+
+dJulkalendern 2020
+
+DForum 2021
+
+Hello World 2020
+
 
 ## Tidigare nämnder och föreningar på Datasektionen
 
