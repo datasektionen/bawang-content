@@ -11,7 +11,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2020
 
-26/11, 1/12 [Glögg-SM beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/glogg_sm_2020)
+26/11, 1/12 [Glögg-SM](https://static.datasektionen.se/protokoll/glogg_sm_2020)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/glogg_sm_2020))
 
 19/5 [Val-SM](https://static.datasektionen.se/protokoll/val_sm_2020)
 
@@ -351,11 +351,17 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2020
 
-10/12 [Hasta-la-Windows-Vista-DM beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/hasta_la_windows_vista_dm_2020)
+10/12 [Hasta-la-Windows-Vista-DM](https://static.datasektionen.se/protokoll/hasta_la_windows_vista_dm_2020) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/hasta_la_windows_vista_dm_2020))
+
+17/11 [ett DM-innan-Glögg-SM](https://static.datasektionen.se/protokoll/ett_dm_innan_glogg_sm_2020)
+
+22/10 [ett hem-ligt-DM](https://static.datasektionen.se/protokoll/ett_hem_ligt_dm_2020)
 
 29/9 [Ett Zoom-DM-innan-Budget-SM](https://static.datasektionen.se/protokoll/ett_zoom_dm_innan_budget_sm_2020)
 
 10/9 [Kan-man-vara-på-campus?-DM](https://static.datasektionen.se/protokoll/kan_man_vara_pa_campus_dm_2020)
+
+10/9 [Ett Projektavslut-DM](https://static.datasektionen.se/protokoll/ett_projektavslut_dm_2020)
 
 7/5 [Ett Digitalt-DM-innan-Val-SM](https://static.datasektionen.se/protokoll/ett_digitalt_dm_innan_val_sm_2020)
 
