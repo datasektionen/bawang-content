@@ -11,7 +11,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2020
 
-26/11, 1/12 [Glögg-SM](https://static.datasektionen.se/protokoll/glogg_sm_2020)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/glogg_sm_2020))
+26/11, 1/12 [Glögg-SM](https://static.datasektionen.se/protokoll/glogg_sm_2020) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/glogg_sm_2020))
 
 19/5 [Val-SM](https://static.datasektionen.se/protokoll/val_sm_2020)
 
