@@ -7,11 +7,11 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2021
 
-26/1 [Extra-SM beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2021)
+26/1 Extra-SM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/extra_sm_2021))([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2021))
 
 ###2020
 
-26/11, 1/12 Glögg-SM ([diskussion](https://static.datasektionen.se/protokoll/glogg_sm_2020)) ([beslut](https://static.datasektionen.se/beslutsprotokoll/glogg_sm_2020))
+26/11, 1/12 Glögg-SM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/glogg_sm_2020)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/glogg_sm_2020))
 
 19/5 [Val-SM](https://static.datasektionen.se/protokoll/val_sm_2020)
 
@@ -351,7 +351,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2020
 
-10/12 Hasta-la-Windows-Vista-DM ([diskussion](https://static.datasektionen.se/protokoll/hasta_la_windows_vista_dm_2020)) ([beslut](https://static.datasektionen.se/beslutsprotokoll/hasta_la_windows_vista_dm_2020))
+10/12 Hasta-la-Windows-Vista-DM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/hasta_la_windows_vista_dm_2020)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/hasta_la_windows_vista_dm_2020))
 
 17/11 [ett DM-innan-Glögg-SM](https://static.datasektionen.se/protokoll/ett_dm_innan_glogg_sm_2020)
 
