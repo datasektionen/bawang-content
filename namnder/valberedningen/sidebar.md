@@ -1,5 +1,5 @@
 ## Kontakt
 
 #### Valberedningens ordförande
-Emilia Rosenqvist     
+Herman Karlsson     
 [valberedning@d.kth.se](mailto:valberedning@d.kth.se)

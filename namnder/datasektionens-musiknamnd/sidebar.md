@@ -1,8 +1,7 @@
 ## Kontakt
 
 #### Ärkedemon  
-Luciano Zapata Sanchez  
-Olle Hovmark   
+Dennis Johansson
 [arkedemon@d.kth.se](mailto:arkedemon@d.kth.se)
 
 
