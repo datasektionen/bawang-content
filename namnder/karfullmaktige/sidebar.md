@@ -4,7 +4,6 @@ Maila oss om du undrar över något om Kårfullmäktige, eller om du har försla
 
 Kårfullmäktigeledamöter: <br>
 Gábor Nagy: [d-kf@d.kth.se](d-kf@d.kth.se) <br>
-Emilia Jakobson Stålhane: [d-kf@d.kth.se](d-kf@d.kth.se) <br>
 Matteus Berg: [d-kf@d.kth.se](d-kf@d.kth.se) 
 
 Kårfullmäktigesuppleanter:  <br>
