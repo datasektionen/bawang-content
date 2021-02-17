@@ -7,7 +7,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2021
 
-26/1 Extra-SM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/extra_sm_2021))([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2021))
+26/1 Extra-SM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/extra_sm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2021))
 
 ###2020
 
@@ -347,7 +347,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2021
 
-22/1 [Ett-fortfarande-Zoom-DM beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/ett_fortfarande_zoom_dm_2021)
+22/1 Ett-fortfarande-Zoom-DM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/ett_fortfarande_zoom_dm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/ett_fortfarande_zoom_dm_2021))
 
 ###2020
 
