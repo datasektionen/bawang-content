@@ -347,6 +347,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2021
 
+18/2 DM-innan-Revisions-SM ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2021))
+
 22/1 Ett-fortfarande-Zoom-DM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/ett_fortfarande_zoom_dm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/ett_fortfarande_zoom_dm_2021))
 
 ###2020
