@@ -17,7 +17,7 @@ dÅre
 
 [dJulkalendern](https://djul.datasektionen.se/)
 
-Project pride
+Project Pride
 
 ## Projekt på Datasektionen
 
@@ -37,7 +37,7 @@ dJulkalendern 2020
 
 DForum 2021
 
-Hello World 2020
+Project Pride 2021
 
 
 ## Tidigare nämnder och föreningar på Datasektionen
