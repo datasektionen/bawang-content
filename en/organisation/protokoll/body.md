@@ -9,7 +9,7 @@ please reach out to [secretary](sekr@d.kth.se).
 
 02/03, 04/03 Revisions-SM ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/revisions_sm_2021))
 
-26/1 [Extra-SM beslutsprotokoll](https://static.datasektionen.se/protokoll/beslutsprotokoll_extra_sm_2021)
+26/1 Extra-SM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/extra_sm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2021))
 
 ###2020
 
