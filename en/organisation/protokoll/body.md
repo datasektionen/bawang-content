@@ -1,4 +1,4 @@
-Proctols from each Chapter and D-directorate Meeting are uploaded here. If you have any questions about a protocol,
+Protocols from each Chapter and D-directorate Meeting are uploaded here. If you have any questions about a protocol,
 please reach out to [secretary](sekr@d.kth.se).
 
 **Unfortunately the protocls are only available in Swedish**
@@ -6,6 +6,8 @@ please reach out to [secretary](sekr@d.kth.se).
 ## Chapter Meetings, SM
 
 ###2021
+
+02/03, 04/03 Revisions-SM ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/revisions_sm_2021))
 
 26/1 [Extra-SM beslutsprotokoll](https://static.datasektionen.se/protokoll/beslutsprotokoll_extra_sm_2021)
 
@@ -347,7 +349,9 @@ please reach out to [secretary](sekr@d.kth.se).
 
 ###2021
 
-22/1 [Ett-fortfarande-Zoom-DM beslutsprotokoll](https://static.datasektionen.se/protokoll/beslutsprotokoll_ett_fortfarande_zoom_dm_2021)
+18/2 DM-innan-Revisions-SM ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2021))
+
+22/1 Ett-fortfarande-Zoom-DM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/ett_fortfarande_zoom_dm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/ett_fortfarande_zoom_dm_2021))
 
 ###2020
 
