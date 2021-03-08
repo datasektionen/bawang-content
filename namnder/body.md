@@ -39,6 +39,8 @@ DForum 2021
 
 Project Pride 2021
 
+Vårbalken 2021
+
 
 ## Tidigare nämnder och föreningar på Datasektionen
 
