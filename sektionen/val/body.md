@@ -1,6 +1,6 @@
 # Aktuella val
 
-Val sker genom [sektionens valsystem](https://val.datasektionen.se) som du når via [val.datasektionen.se](https://val.datasektionen.se). Urnval till Sektionsordförande och Vice sektionsordförande görs på [durn.datasektionen.se](https://durn.datasektionen.se).
+Val sker genom [sektionens valsystem](https://val.datasektionen.se) som du når via [val.datasektionen.se](https://val.datasektionen.se). Urnval till Sektionsordförande, Vice sektionsordförande och Kassör görs på [durn.datasektionen.se](https://durn.datasektionen.se).
 
 Om du har några frågor, maila [valberedning@d.kth.se](mailto:valberedning@d.kth.se).
 
