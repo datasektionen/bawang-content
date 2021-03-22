@@ -24,3 +24,8 @@ Verksamhetsplan för projekt
 - [Studs 2021](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2021)
 - [METAspexet 2021](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_21.pdf)
 - [Vårbalken 2021](https://static.datasektionen.se/verksamhetsplaner/vp_varbalken_2021)
+
+
+Förslag till nästa års verkamhetsplan
+---------------------------------------------
+[Förslagsformulär](https://docs.google.com/forms/d/e/1FAIpQLSd67YT0g__uTZHC83H-HX2b34KpPEWwHM6y364wc1DGF2gKPA/viewform?usp=sf_link)
