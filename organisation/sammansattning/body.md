@@ -1,7 +1,7 @@
 Sammansättning
 --------------
 
-D-rektoratet består av sju ledamöter. Dessa arbetar tillsammans i
+D-rektoratet består av åtta ledamöter. Dessa arbetar tillsammans i
 styrelsen men fungerar också som samordnande kontakt för funktionärer
 och nämnder på Konglig Datasektionen.
 
@@ -48,11 +48,17 @@ Kassören håller helt enkelt reda på sektionens ekonomiska bit. Det
 gäller deklarationer, fakturor och naturligtvis bokföringen. Kassören
 och sektionsordföranden är de som har firmateckningsrätt för sektionen.
 
+## Vice kassör
+
+Vice kassör arbetar tillsammans med kassören med sektionens ekonomi och finns
+som extra stöd i ekonomiska frågor och arbetar naturligtvis även med bokföring.
+
 ## Sekreterare
 
-Sekreteraren är ansvarig för att protokoll skrivs, undertecknas,
-justeras och arkiveras. Sekreteraren ansvarar också för att brev delas
-ut till rätt personer. Även allmän formalia är sekreterarens uppgift.
+Sekreteraren är ansvarig för styrdokument, handlingar, protokoll och annan
+formalia på sektionen.
+Den ser till att protokoll skrivs, justeras, undertecknas och arkiveras.
+Sekreteraren ansvarar också för att brev delas ut till rätt personer.
 
 
 __Kontaktfunktionärer__

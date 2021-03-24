@@ -27,7 +27,7 @@ Sektionen har en bred verksamhet som våra medlemmar kan ta del av. Verksamheten
 
 ### Styrelsen
 
-Styrelsen är de personer som har utsett att utföra besluten som fattas av sektionsmötet och förvalta sektionen mellan dessa möten. Styrelsen är därmed ansvarig inför alla medlemmar att besluten följs och att sektioner följer sina stadgar och reglementet. Datasektionens styrelse består av ordförande, vice ordförande, kassör, sekreterare och tre ledamöter. Styrelsen leder även funktionärerna genom att stötta dem i deras verksamhet och jobba med långsiktiga satsningar.
+Styrelsen är de personer som har utsett att utföra besluten som fattas av sektionsmötet och förvalta sektionen mellan dessa möten. Styrelsen är därmed ansvarig inför alla medlemmar att besluten följs och att sektioner följer sina stadgar och reglementet. Datasektionens styrelse består av ordförande, vice ordförande, kassör, vice kassör, sekreterare och tre ledamöter. Styrelsen leder även funktionärerna genom att stötta dem i deras verksamhet och jobba med långsiktiga satsningar.
 
 [Läs mer om styrelsens olika poster.](/organisation/sammansattning)
 

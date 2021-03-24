@@ -13,8 +13,8 @@ Skillnaden mellan en kris och en olycka är hur grav händelsen är. En händels
 
 ### Nummer på KTH:
 
-- Datasektionens Ordförande: [072 - 905 74 91](tel: 072 - 905 74 91) (Niklas Vatn)
-- Datasektionens Vice Ordförande: [070 - 534 41 62](tel: 070 - 534 41 62) (David Puustinen)
+- Datasektionens Ordförande: [073 - 042 74 36](tel: 073 - 042 74 36) (Johan Hamredahl)
+- Datasektionens Vice Ordförande: [076 - 077 33 43](tel: 076 - 077 33 43) (William Nilsson)
 - THS Ordförande: [08 - 790 98 84](tel: 08 - 790 98 84) (Charley Jönsson)
 - Kriskontakt på EECS-skolan: [08 - 790 99 99](tel: 08 - 790 99 99) (Nummer till krisgruppen)
 - Säkerhetschef på KTH: [070 - 342 38 10](tel: 070 - 342 38 10) (Roine Hammar)

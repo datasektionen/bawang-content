@@ -8,7 +8,7 @@
 Tekniskt sett får vem som helst ha en fest, men för att ordna fest på
 Data så måste du vara medlem på Datasektionen. Dessutom måste du ha en
 lokal, ett festtillstånd och en utbildad ansvarig för tillställningen.
-Behöver du hjälp så kan du maila Drektoratet på drek@d.kth.se!
+Behöver du hjälp så kan du maila D-rektoratet på drek@d.kth.se!
 
 #### Måste jag vara medlem i Datasektionen för att få göra saker?
 
@@ -22,7 +22,7 @@ bokas/hyras av sektionernas styrelser, nämnder och funktionärer, såväl
 som av organ inom THS, kårföreningar och andra sektioner. Men ta kontakt
 med den nämnd du anser hör ihop med den aktivitet du vill ha så kan dom
 förhoppningsvis hjälpa dig. Är du inte säker på vem du ska prata med,
-kontakta Drektoratet!
+kontakta D-rektoratet!
 
 #### Men, jag gillar inte META (yeah, right) och skulle vilja vara någon annanstans. Finns det inget annat för mig?
 
@@ -33,7 +33,7 @@ kårmedlem (och därför också sektionsmedlem) så gör du det billigare (typ
 halva priset). Gör du det via din sektion så får du göra det ännu
 billigare (fast pris för varje lokal). För att göra lokalbokningen
 kontaktar du THS Programgrupp, bestående av Nymble Klubbmästeri, RN
-Eventteknik, Platoon DJ’s och Filmnämnden.
+Eventteknik, Platoon DJ’s.
 
 #### Men hallå? Måste jag ha alkohol med om jag ska anordna någonting?
 
