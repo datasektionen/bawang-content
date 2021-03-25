@@ -1,19 +1,19 @@
 Protocols from each Chapter and D-directorate Meeting are uploaded here. If you have any questions about a protocol,
-please reach out to [secretary](sekr@d.kth.se).
+please reach out to [secretary](mailto:sekr@d.kth.se).
 
-**Unfortunately the protocls are only available in Swedish**
+**Unfortunately the protocols are only available in Swedish**
 
 ## Chapter Meetings, SM
 
 ###2021
 
-02/03, 04/03 Revisions-SM ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/revisions_sm_2021))
+02/03, 04/03 Revisions-SM ([action minutes](https://static.datasektionen.se/beslutsprotokoll/revisions_sm_2021))
 
-26/1 Extra-SM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/extra_sm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2021))
+26/1 Extra-SM ([discussion minutes](https://static.datasektionen.se/protokoll/extra_sm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2021))
 
 ###2020
 
-26/11, 1/12 [Glögg-SM](https://static.datasektionen.se/protokoll/glogg_sm_2020) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/glogg_sm_2020))
+26/11, 1/12 [Glögg-SM](https://static.datasektionen.se/protokoll/glogg_sm_2020) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/glogg_sm_2020))
 
 19/5 [Val-SM](https://static.datasektionen.se/protokoll/val_sm_2020)
 
@@ -349,13 +349,13 @@ please reach out to [secretary](sekr@d.kth.se).
 
 ###2021
 
-18/2 DM-innan-Revisions-SM ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2021))
+18/2 DM-innan-Revisions-SM ([decision minutes](https://static.datasektionen.se/protokoll/dm_innan_revisions_sm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2021))
 
-22/1 Ett-fortfarande-Zoom-DM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/ett_fortfarande_zoom_dm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/ett_fortfarande_zoom_dm_2021))
+22/1 Ett-fortfarande-Zoom-DM ([discussion minutes](https://static.datasektionen.se/protokoll/ett_fortfarande_zoom_dm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/ett_fortfarande_zoom_dm_2021))
 
 ###2020
 
-10/12 [Hasta-la-Windows-Vista-DM](https://static.datasektionen.se/protokoll/hasta_la_windows_vista_dm_2020) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/hasta_la_windows_vista_dm_2020))
+10/12 [Hasta-la-Windows-Vista-DM](https://static.datasektionen.se/protokoll/hasta_la_windows_vista_dm_2020) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/hasta_la_windows_vista_dm_2020))
 
 17/11 [ett DM-innan-Glögg-SM](https://static.datasektionen.se/protokoll/ett_dm_innan_glogg_sm_2020)
 
