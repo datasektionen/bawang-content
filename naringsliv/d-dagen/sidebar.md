@@ -5,4 +5,4 @@
 * Tidig oktober
 * KTH, Campus Valhallavägen
 * Mässans öppettider: 10.00 – 16.00
-* E-post: [d-dagen.sales@d.kth.se](mailto:d-dagen.sales@d.kth.se)
+* E-post: [projectmanager@ddagen.se](mailto:projectmanager@ddagen.se)
