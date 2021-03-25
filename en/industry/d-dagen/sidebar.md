@@ -5,4 +5,4 @@
 * Beginning of October
 * KTH, Campus Valhallavägen
 * The fair's opening hours: 10.00 – 16.00
-* E-mail: [d-dagen.sales@d.kth.se](mailto:d-dagen.sales@d.kth.se)
+* E-mail: [projectmanager@ddagen.se](mailto:projectmanager@ddagen.se)
