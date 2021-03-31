@@ -35,83 +35,160 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ## Medlemmar  
 
-<img align="right" src="http://dkm.io/images/20-21/george.JPG">  
+<img align="right" src="http://dkm.io/images/20-21/george2.png">  
 
 ### George Bassilious  
 #### Klubbmästare  
 **Favoritdrink:** Peroni (plz sponsra)  
-**Gillar:** TikTok  
+**Gillar:** Christmas Trap  
 **Ogillar:** Pöbeln  
-**Specialitet:** Vara den sista som lämnar festen  
+**Specialitet:** Göra pesto  
 **Citat:**
-_Det är en gamble, spela med mig och du antingen vinner eller förlorar._  
-  
-<img align="right" src="http://dkm.io/images/20-21/bror.JPG">  
+_Jag har 100% känsel i rumpan bror, om någon blåser där så vet jag._  
+
+<img align="right" src="http://dkm.io/images/20-21/bror2.png">  
 
 ### Bror Sjövald  
 #### Vice Klubbmästare  
-**Favoritdrink:** White Russian  
-**Gillar:** OPEN-tjack  
-**Ogillar:** Att ha ont i vänstra hjärnhalvan  
-**Specialitet:** Skapa feng shui i sig själv  
+**Favoritdrink:** Mimosa  
+**Gillar:** Kate Bush - Babooshka  
+**Ogillar:** Stela interaktioner i realityserier  
+**Specialitet:** WAP  
 **Citat:**
-_Kloroform hjälper mig inte ur det här._  
-  
-<img align="right" src="http://dkm.io/images/20-21/lotta.JPG">  
+_Jag är skärd._  
+
+<img align="right" src="http://dkm.io/images/20-21/lotta2.png">  
 
 ### Lotta Johnsson  
 #### Ekonomimästare  
 **Favoritdrink:** Big Wave  
-**Gillar:** Be My Lover - La Bouche  
-**Ogillar:** När testosteronnivån är låg  
-**Specialitet:** Lyfta folk på fyllan  
+**Gillar:** Beerpong  
+**Ogillar:** Förlust  
+**Specialitet:** Ramla  
 **Citat:**
-_Jag är inte full, jag är bara baktung._  
-  
-<img align="right" src="http://dkm.io/images/20-21/p3.JPG">  
-  
+_Vem fan tror du att du är som åker runt med en jävla kastrull på huvudet!?!_  
+
+<img align="right" src="http://dkm.io/images/20-21/p3.png">  
+
 ### Samuel Peetre  
 #### Barmästare  
-**Favoritdrink:** Spritis finaste rödvin  
-**Gillar:** Franska  
+**Favoritdrink:** Tequila  
+**Gillar:** Drömmen om att bli gravid  
 **Ogillar:** Att bli hög på laminering  
-**Specialitet:** Estetiska moves på dansgolvet  
+**Specialitet:** Få barn att somna med sitt snusande  
 **Citat:**
-_Jag är Shawn Mendes nedknarkade tvillingbror._  
-  
-<img align="right" src="http://dkm.io/images/20-21/jennifer.JPG">  
-  
+_Efter ändtarmen så slutar människan._  
+
+<img align="right" src="http://dkm.io/images/20-21/jennifer2.png">  
+
 ### Jennifer Larsson  
 #### Barmästare  
-**Favoritdrink:** Nånting IPA  
+**Favoritdrink:** Hemmagjord punsch  
 **Gillar:** Att ragga utan resultat  
-**Ogillar:** För mycket pengar på kontot  
+**Ogillar:** Att inte hitta tjack-kanalen  
 **Specialitet:** Power positions  
 **Citat:**
-_Det där var mindre än 70 klunkar men mer än 70 klunkar sprit._  
-  
-<img align="right" src="http://dkm.io/images/20-21/grace.JPG">  
-  
+_Jag får inte plats i några huvuden för jag har så jävla big brain._  
+
+<img align="right" src="http://dkm.io/images/20-21/grace2.png">  
+
 ### Grace Kaliff  
 #### Festmästare  
-**Favoritdrink:** The turtles are bleeding (patent pending)  
-**Gillar:** Ultimate Werewolf Legacy  
+**Favoritdrink:** Tillfälligt sortiment  
+**Gillar:** Att gräva i musikvärldens mörkaste gångar  
 **Ogillar:** När lägenheten luktar som META efter en pub  
-**Specialitet:** Djupa, filosofiska snapchat-vloggar  
+**Specialitet:** Sexa till det sexigt på beerpong  
 **Citat:**
-_Om man vill vinna på beerpong måste man sexa till det sexigt._  
-  
+_Vi drar in dem med undulater, sen säljer vi dom fascism._  
+
 <img align="right" src="http://dkm.io/images/20-21/maria.JPG">  
-  
+
 ### Maria-Elena Pettersson  
 #### Infomästare  
-**Favoritdrink:** Pink Gin  
+**Favoritdrink:** Redbullvodka  
 **Gillar:** Att ta över DJ-båset när ingen ber om det  
 **Ogillar:** Olena bebisar  
-**Specialitet:** Viral på alla sociala medier  
+**Specialitet:** Göra dumma tobaks- och nikotinbet  
 **Citat:**
-_Jag behöver inte bli rik, jag är asiat!_  
- 
+_Ariana Grande och ägg? De går ju hand i hand._  
+
+<img align="right" src="http://dkm.io/images/20-21/oscar.png">  
+
+### Oscar Knowles  
+#### BeyoncéKnatten  
+**Favoritdrink:** Ugången Göteborgs-öl  
+**Gillar:** Steve  
+**Ogillar:** Barn som äter mat  
+**Specialitet:** Crab-dance  
+**Citat:**
+_Vissa jag inte ens känner kallar mig Beyoncé._  
+
+<img align="right" src="http://dkm.io/images/20-21/norma.png">  
+
+### Norma Cueto Celis  
+#### ExtraKnatten  
+**Favoritdrink:** Kopparberg Päroncider X-Strong  
+**Gillar:** Basket  
+**Ogillar:** Allt som är kefft  
+**Specialitet:** Singstar High School Musical Edition  
+**Citat:**
+_X-Strong equals X-Hype._  
+
+<img align="right" src="http://dkm.io/images/20-21/henrik.jpg">  
+
+### Henrik Åkesson  
+#### Muskelknatten  
+**Favoritdrink:** Japansk Whiskey  
+**Gillar:** Pizzasallad på pizzan  
+**Ogillar:** Linas matkasse  
+**Specialitet:** DKM's hästtjej  
+**Citat:**
+_Han tog mig backstage och vi jämförde våra sniglar._  
+
+<img align="right" src="http://dkm.io/images/20-21/elissa.png">  
+
+### Elissa Arias Sosa   
+#### TejpKnatten    
+**Favoritdrink:** Questionable energidryck med mintu    
+**Gillar:** Skumma drinkkombinationer
+**Ogillar:** Att inte ha en dialekt  
+**Specialitet:** Tiktok-danser  
+**Citat:**
+_Maskeringstejp är inte samma som silvertejp, woops fel tejp…_  
+
+<img align="right" src="http://dkm.io/images/20-21/casper.png">  
+
+### Casper Reuterlöv  
+#### VaxKnatten  
+**Favoritdrink:** O/O Narangi IPA  
+**Gillar:** Skånska  
+**Ogillar:** Stockholmska  
+**Specialitet:** Prata småländska  
+**Citat:**
+_Jag trodde enkronan var värd 2._  
+
+<img align="right" src="http://dkm.io/images/20-21/lucas.png">  
+
+### Lucas Dow
+#### KändisKnatten    
+**Favoritdrink:** San Lucas Sling  
+**Gillar:** Spaghetti med smör  
+**Ogillar:** Creepers  
+**Specialitet:** TV-kändis  
+**Citat:**
+_Det är bara nummer._ (Yikes)  
+
+<img align="right" src="http://dkm.io/images/20-21/alva.png">  
+
+### Alva Välimäki
+#### AbbaKnatten  
+**Favoritdrink:** Baileys med timjan  
+**Gillar:** Melodifestivalen  
+**Ogillar:** Passiva scrunchies  
+**Specialitet:** Utklassa på Geoguessr  
+**Citat:**
+_Är det någon mer som vill tacka mig???..._  
+
 
 ## Cliff
 
