@@ -90,7 +90,7 @@ _Efter ändtarmen så slutar människan._
 **Citat:**
 _Jag får inte plats i några huvuden för jag har så jävla big brain._  
 
-<img align="right" src="http://dkm.io/images/20-21/grace2.png">  
+<img align="right" src="http://dkm.io/images/20-21/grace.png">  
 
 ### Grace Kaliff  
 #### Festmästare  
