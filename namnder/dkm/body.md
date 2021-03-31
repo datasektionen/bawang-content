@@ -137,7 +137,7 @@ _X-Strong equals X-Hype._
 <img align="right" src="http://dkm.io/images/20-21/henrik.jpg">  
 
 ### Henrik Åkesson  
-#### Muskelknatten  
+#### MuskelKnatten  
 **Favoritdrink:** Japansk Whiskey  
 **Gillar:** Pizzasallad på pizzan  
 **Ogillar:** Linas matkasse  
@@ -150,7 +150,7 @@ _Han tog mig backstage och vi jämförde våra sniglar._
 ### Elissa Arias Sosa   
 #### TejpKnatten    
 **Favoritdrink:** Questionable energidryck med mintu    
-**Gillar:** Skumma drinkkombinationer
+**Gillar:** Skumma drinkkombinationer  
 **Ogillar:** Att inte ha en dialekt  
 **Specialitet:** Tiktok-danser  
 **Citat:**
