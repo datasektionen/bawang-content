@@ -349,6 +349,8 @@ please reach out to [secretary](mailto:sekr@d.kth.se).
 
 ###2021
 
+30/3 A-towards-brighter-times-DM ([action minutes](https://static.datasektionen.se/beslutsprotokoll/ett_mot_ljusare_tider_dm_2021))
+
 18/2 DM-innan-Revisions-SM ([decision minutes](https://static.datasektionen.se/protokoll/dm_innan_revisions_sm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2021))
 
 22/1 Ett-fortfarande-Zoom-DM ([discussion minutes](https://static.datasektionen.se/protokoll/ett_fortfarande_zoom_dm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/ett_fortfarande_zoom_dm_2021))

@@ -349,6 +349,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2021
 
+30/3 Ett-mot-ljusare-tider-DM ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/ett_mot_ljusare_tider_dm_2021))
+
 18/2 DM-innan-Revisions-SM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/dm_innan_revisions_sm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2021))
 
 22/1 Ett-fortfarande-Zoom-DM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/ett_fortfarande_zoom_dm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/ett_fortfarande_zoom_dm_2021))
