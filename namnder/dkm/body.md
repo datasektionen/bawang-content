@@ -99,7 +99,7 @@ _Jag får inte plats i några huvuden för jag har så jävla big brain._
 **Ogillar:** När lägenheten luktar som META efter en pub  
 **Specialitet:** Sexa till det sexigt på beerpong  
 **Citat:**
-_Vi drar in dem med undulater, sen säljer vi dom fascism._  
+_Grodor är Afrikas syrsor._  
 
 <img align="right" src="http://dkm.io/images/20-21/maria.JPG">  
 
