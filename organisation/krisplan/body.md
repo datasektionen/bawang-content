@@ -151,7 +151,7 @@ Svara inte på några frågor utan hänvisa till din sektionsstyrelse, de kan sv
 
 - Kontakta Ordförande, om Ordförande inte svarar så lämna ett meddelande, skicka ett SMS och ring sedan Vice Ordförande.
 
-## Nummer som är bra att ha
+## Viktiga nummer och adresser
 
 - [112](tel: 112): vid akuta ärenden
 - KTHs Larmnummer: [08 - 790 77 00](tel: 08 - 790 77 00). Vid akut behov av väktare eller för att underrätta KTH:s säkerhetsavdelning.
