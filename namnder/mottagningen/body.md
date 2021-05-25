@@ -8,7 +8,7 @@ Sektionen samlas sig till försvar. Piskbeprydda Västar, Vita Snuttefiltar, All
 ## Mottagningens grenar
 
 ###Det Kongliga Drifveriet
-<img alt="Drifveriet-logga" src="https://static.datasektionen.se/mottagningen/drifveriet.svg" style="float: right; width: 35%" />
+<img alt="Drifveriet-logga" src="https://dsekt-assets.s3-eu-west-1.amazonaws.com/mottagningen/drifveriet.svg" style="float: right; width: 35%" />
 
 _Det Kongliga Drifveriet är en gammal anrik institution som sedan urminnes tider kämpat för ljuset och sanningen._
 
@@ -35,7 +35,7 @@ De Högre Sfärernas jordiske företrädare är Konglig Öfverdrif, allsmäktig 
 “På ytan hård, innerst inne brutal”.
 
 ###Det Kongliga Dadderiet
-<img alt="Dadderiet-logga" src="https://static.datasektionen.se/mottagningen/dadderiet.svg" style="float: right; width: 35%" />
+<img alt="Dadderiet-logga" src="https://dsekt-assets.s3-eu-west-1.amazonaws.com/mottagningen/dadderiet.svg" style="float: right; width: 35%" />
 
 _Det Kongliga Dadderiet är nØllans vän i alla väder. Det finns alltid kramgoa daddan att ty sig till när vindarna viner runt knuten._
 
@@ -56,7 +56,7 @@ Du kommer att tillbringa mycket tid med dina Daddan den första tiden, så utnyt
 “På ytan mjuk, innerst inne kramgo!”
 
 ###Det Kongliga Doqumenteriet
-<img alt="Doqumenteriet-logga" src="https://static.datasektionen.se/mottagningen/doqumenteriet.png" style="float: right; width: 35%" />
+<img alt="Doqumenteriet-logga" src="https://dsekt-assets.s3-eu-west-1.amazonaws.com/mottagningen/doqumenteriet.png" style="float: right; width: 35%" />
 
 _Det Kongliga Doqumenteriet följer nØllan vart den än tar vägen. Överallt finns en chans att föreviga det där speciella ögonblicket._
 
@@ -77,7 +77,7 @@ Det har med tiden visat sig att det enda riktigt tillförlitliga sättet att gen
 Sammanfattningsvis kan nØllan alltså betrakta Doqumenteriet som nØllans vänner. Doqumenteriet kommer med ett leende på läpparna svara på nØllans frågor och vara med nØllan överallt. För att visa hur gärna nØllan vill vara Doqumenteriets vän kan nØllan inför den beredde fotografen se till att till exempel spexa eller göra bort sig. Det senare är troligen en av de få saker nØllan skulle kunna klara av alldeles på egen hand.
 
 ###Det Kongliga Quisineriet
-<img alt="Mammeriet-logga" src="https://static.datasektionen.se/mottagningen/mammeriet.svg" style="float: right; width: 35%" />
+<img alt="Mammeriet-logga" src="https://dsekt-assets.s3-eu-west-1.amazonaws.com/mottagningen/mammeriet.svg" style="float: right; width: 35%" />
 
 _Quisineriet ser till att nØllan mår bra och har roligt. Denna eminenta samling människor, de så kallade quisinerna, har huvudansvaret för att planera och genomföra alla stora fester under Mottagningen._
 
@@ -94,7 +94,7 @@ När Quisineriet inte lagar mat, handlar eller dricker kaffe, hälsar de gärna 
 Sammanfattningsvis är Quisineriet en vänlig skara som nØllan kan betraka som sina vänner. Quisinerna kommer göra allt för att svara på nØllans frågor och göra alla glada under varje fest. Livet sägs vara en fest, så man skulle kunna säga att Quisineriet gör allt för att göra alla glada, alltid. För att visa hur mycket nØllan vill vara vän med quisinerna får nØllan gärna komma och prata med Quisineriet under sittningar, luncher och alla andra tillfällen under Mottagningen. Varför inte tacka för den oftast så goda maten eller prata om vädret? Har du en ordvits på lager finns det inte en enda quisine som inte är idel öra.
 
 ###Det Kongliga Ekonomeriet
-<img alt="Ekonomeriet-logga" src="https://static.datasektionen.se/mottagningen/ekonomeriet.svg" style="float: right; width: 35%" />
+<img alt="Ekonomeriet-logga" src="https://dsekt-assets.s3-eu-west-1.amazonaws.com/mottagningen/ekonomeriet.svg" style="float: right; width: 35%" />
 
 _Ekonomeriet ser till så att cash alltid finns i mottagningen. Utan ekonomeristernas klirrande pengasäckar hade nØllan inte klarat sig länge._
 
