@@ -7,6 +7,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2021
 
+18/05, 20/05, 26/05 Val-SM ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/val_sm_2021))
+
 02/03, 04/03 Revisions-SM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/revisions_sm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/revisions_sm_2021))
 
 26/1 Extra-SM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/extra_sm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2021))
