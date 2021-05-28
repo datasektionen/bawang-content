@@ -353,6 +353,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2021
 
+27/5 ett-Bahamas-vacation-DM ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/ett_bahamas_vacation_dm_2021))
+
 06/5 DM-innan-Val-SM ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2021))
 
 30/3 Ett-mot-ljusare-tider-DM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/ett_mot_ljusare_tider_dm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/ett_mot_ljusare_tider_dm_2021))

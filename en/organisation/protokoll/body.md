@@ -351,6 +351,8 @@ please reach out to [secretary](mailto:sekr@d.kth.se).
 
 ###2021
 
+27/5 A-Bahamas-vacation-DM ([action minutes](https://static.datasektionen.se/beslutsprotokoll/ett_bahamas_vacation_dm_2021))
+
 06/5 DM-before-Election-Chapter-Meeting ([action minutes](https://static.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2021))
 
 30/3 A-towards-brighter-times-DM ([decision minutes](https://static.datasektionen.se/protokoll/ett_mot_ljusare_tider_dm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/ett_mot_ljusare_tider_dm_2021))
