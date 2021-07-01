@@ -21,25 +21,31 @@ Project Pride
 
 ## Projekt på Datasektionen
 
-dÅre 2021
+dÅre 2022
 
 Studs 2020
 
 Studs 2021
 
-METAspexet 2020
+Studs 2022
 
 METAspexet 2021
 
-Vårbalen 2021
+METAspexet 2022
+
+Vårbalen 2022
+
+Vårbalken 2021
 
 dJulkalendern 2020
+
+dJulkalendern 2021
 
 DForum 2021
 
 Project Pride 2021
 
-Vårbalken 2021
+Project rewind: Omtagningen
 
 
 ## Tidigare nämnder och föreningar på Datasektionen
