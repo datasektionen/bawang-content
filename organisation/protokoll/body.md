@@ -1,4 +1,5 @@
-# Protokoll
+Protokoll
+=========
 
 Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs upp på denna sida. Vid frågor angående protokoll, kontakta Datasektionens sekreterare.
 
