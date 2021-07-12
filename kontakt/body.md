@@ -14,8 +14,8 @@ Johan Luhr<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
 
 **Arbetsmarknadsdagsansvariga**<br />
-Adam Sjöberg <br />
-E-post: [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)<br />
+Adam Sjöberg & Erik Nordlöf<br />
+E-post: [projectmanager@ddagen.se](mailto:projectmanager@ddagen.se)<br />
 
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).

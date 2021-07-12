@@ -1,7 +1,9 @@
 ## Kontakt
 
-Maila oss gärna om du tycker att GEEK låter som något för dig, eller om du har förslag till oss!
+Om du skulle vilja veta mer om nämnden eller har något förslag så går det jättebra att skicka ett mejl eller komma på något av våra möten!
 
-[ofvermatrona@d.kth.se](mailto:ofvermatrona@d.kth.se).
+**Öfvermatrona,**<br/>
+[ofvermatrona@d.kth.se](mailto:ofvermatrona@d.kth.se). <br/>
+0764170096
 
 [Facebook](https://www.facebook.com/GEEK.GirlsAtDatasektionen)

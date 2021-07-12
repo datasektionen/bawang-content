@@ -7,6 +7,8 @@ please reach out to [secretary](mailto:sekr@d.kth.se).
 
 ###2021
 
+18/05, 20/05, 26/05 Val-SM ([action minutes](https://static.datasektionen.se/beslutsprotokoll/val_sm_2021))
+
 02/03, 04/03 Revisions-SM ([discussion minutes](https://static.datasektionen.se/protokoll/revisions_sm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/revisions_sm_2021))
 
 26/1 Extra-SM ([discussion minutes](https://static.datasektionen.se/protokoll/extra_sm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2021))
@@ -349,7 +351,11 @@ please reach out to [secretary](mailto:sekr@d.kth.se).
 
 ###2021
 
-30/3 A-towards-brighter-times-DM ([action minutes](https://static.datasektionen.se/beslutsprotokoll/ett_mot_ljusare_tider_dm_2021))
+27/5 A-Bahamas-vacation-DM ([action minutes](https://static.datasektionen.se/beslutsprotokoll/ett_bahamas_vacation_dm_2021))
+
+06/5 DM-before-Election-Chapter-Meeting ([action minutes](https://static.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2021))
+
+30/3 A-towards-brighter-times-DM ([decision minutes](https://static.datasektionen.se/protokoll/ett_mot_ljusare_tider_dm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/ett_mot_ljusare_tider_dm_2021))
 
 18/2 DM-innan-Revisions-SM ([decision minutes](https://static.datasektionen.se/protokoll/dm_innan_revisions_sm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2021))
 
