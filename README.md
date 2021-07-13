@@ -1,6 +1,10 @@
 # bawang-content
 Innehåll på datasektionen.se
 
+# Redigera innehåll
+
+Gör en PR pls, pusha inte direkt till master, jobbigare att reverta då :P
+
 ## Översätt - få en tshirt!
 
 *Egentligen* borde hela webbsidan vara tillgänglig på engelska, 
