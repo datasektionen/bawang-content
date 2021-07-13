@@ -36,19 +36,20 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 ## Medlemmar  
 
 
-### Baby Snot (Got back)    
+
+### Baby Snot (Got Back)  
 #### Klubbmästare  
-**Favoritdrink:** Hemmagjord punsch  
-**Gillar:** Att ragga utan resultat  
-**Ogillar:** Att inte hitta tjack-kanalen  
-**Specialitet:** Power positions  
+**Favoritdrink:** Peroni (plz sponsra)  
+**Gillar:** Christmas Trap  
+**Ogillar:** Pöbeln  
+**Specialitet:** Göra pesto  
 **Citat:**
-_Jag får inte plats i några huvuden för jag har så jävla big brain._ 
-  
+_Jag har 100% känsel i rumpan bror, om någon blåser där så vet jag._  
+
   
 
 ### Gut Milk?  
-#### Supportmästare  
+#### Supmästare  
 **Favoritdrink:** Mimosa  
 **Gillar:** Kate Bush - Babooshka  
 **Ogillar:** Stela interaktioner i realityserier  
@@ -59,7 +60,7 @@ _Jag är skärd._
   
 
 ### Winnie The Pong  
-#### Supportmästare  
+#### Supmästare  
 **Favoritdrink:** Big Wave  
 **Gillar:** Beerpong  
 **Ogillar:** Förlust  
@@ -70,7 +71,7 @@ _Vem fan tror du att du är som åker runt med en jävla kastrull på huvudet!?!
   
 
 ### Tetris Petris  
-#### Supportmästare  
+#### Supmästare  
 **Favoritdrink:** Tequila  
 **Gillar:** Drömmen om att bli gravid  
 **Ogillar:** Att bli hög på laminering  
@@ -80,19 +81,19 @@ _Efter ändtarmen så slutar människan._
 
   
 
-### Gigi Dabàs    
-#### Supportmästare  
-**Favoritdrink:** Peroni (plz sponsra)  
-**Gillar:** Christmas Trap  
-**Ogillar:** Pöbeln  
-**Specialitet:** Göra pesto  
+### Gigi Dabàs  
+#### Supmästare  
+**Favoritdrink:** Hemmagjord punsch  
+**Gillar:** Att ragga utan resultat  
+**Ogillar:** Att inte hitta tjack-kanalen  
+**Specialitet:** Power positions  
 **Citat:**
-_Jag har 100% känsel i rumpan bror, om någon blåser där så vet jag._ 
+_Jag får inte plats i några huvuden för jag har så jävla big brain._  
 
   
 
 ### Young Lean  
-#### Supportmästare  
+#### Supmästare  
 **Favoritdrink:** Tillfälligt sortiment  
 **Gillar:** Att gräva i musikvärldens mörkaste gångar  
 **Ogillar:** När lägenheten luktar som META efter en pub  
@@ -103,7 +104,7 @@ _Grodor är Afrikas syrsor._
   
 
 ### Boop  
-#### Supportmästare  
+#### Supmästare  
 **Favoritdrink:** Redbullvodka  
 **Gillar:** Att ta över DJ-båset när ingen ber om det  
 **Ogillar:** Olena bebisar  
