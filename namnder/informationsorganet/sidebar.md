@@ -1,7 +1,8 @@
 ## Kontakt
 
 #### Systemansvarig
-Gábor Nagy   
+Niklas Vatn
+Axel Elmarsson
 d-sys@d.kth.se
 
 #### IOR-slacken
