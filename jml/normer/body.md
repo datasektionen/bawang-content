@@ -1,4 +1,5 @@
-#Normer
+# Normer
+
 Normer är oskrivna regler om hur man _ska_ vara, leva och se ut.
 
 De kan vara kopplade till stereotyper och är då generellt dåliga, exempelvis att en tjej ska se ut på ett visst sätt bara för att hon är tjej eller att en person med en viss religion ska ha ett visst beteende, men även sådant som att stå till höger i rulltrappan eller att inte prata med mat i munnen är normer. Fallet med de andra två är inte egentligen något problem, eller kan till och med vara en fördel.
