@@ -1,6 +1,7 @@
 ## Kontakt
 
 #### Systemansvarig
+
 Niklas Vatn
 
 Axel Elmarsson
@@ -8,4 +9,5 @@ Axel Elmarsson
 d-sys@d.kth.se
 
 #### IOR-slacken
-URL: https://ior.slack.com
+
+URL: [https://ior.slack.com](https://ior.slack.com)
