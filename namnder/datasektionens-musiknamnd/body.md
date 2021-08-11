@@ -1,6 +1,6 @@
 # DEMON
 
-Datasektionens musiknämnd. Leds av nuvarande Ärkedemon Olle Hovmark.
+Datasektionens musiknämnd. Leds av Ärkedemon.
 
 ## För alla musikintresserade på Datasektionen KTH
 
