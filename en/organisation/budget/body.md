@@ -1,4 +1,4 @@
-# Datasektionens budget
+# The Computer Science Chapter's Budget
 
 **NOTE that** we are changing the hosting for the site. The protocols will be available as soon as that is done, if you need access contact drek@d.kth.se.
 
