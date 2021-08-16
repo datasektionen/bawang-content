@@ -1,14 +1,14 @@
-Protocols from each Chapter and D-directorate Meeting are uploaded here. If you have any questions about a protocol,
-please reach out to secretary.
+# Meeting Protocols
+
+Protocols from each Chapter and D-directorate Meeting are uploaded here. If you have any questions about a protocol, please reach out to secretary.
 
 **Unfortunately the protocols are only available in Swedish**
 
-#OBS
-We're changing the hosting for the site. The protocols will be available as soon as that is done, if you need access contact drek@d.kth.se.
+**NOTE that** we are changing the hosting for the site. The protocols will be available as soon as that is done, if you need access contact drek@d.kth.se.
 
 ## Chapter Meetings, SM
 
-###2021
+### 2021
 
 18/05, 20/05, 26/05 Val-SM
 
@@ -16,7 +16,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 26/1 Extra-SM
 
-###2020
+### 2020
 
 26/11, 1/12 Glögg-SM
 
@@ -26,7 +26,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 28/1 Extra-SM
 
-###2019
+### 2019
 
 28/11 Glögg-SM
 
@@ -38,7 +38,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 24/1 Extra-SM
 
-###2018
+### 2018
 
 29/11 Glögg-SM
 
@@ -50,7 +50,8 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 22/1 Extra-SM
 
-###2017
+### 2017
+
 27/11 Glögg-SM
 
 17/10 Budget-SM
@@ -59,7 +60,8 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 28/3 Revisions-SM
 
-###2016
+### 2016
+
 1/12 Glögg-SM
 
 17/10 Budget-SM
@@ -70,7 +72,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 2/2 Extra-SM
 
-###2015
+### 2015
 
 7/12 Glögg-SM
 
@@ -82,7 +84,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 29/1 Extra-SM
 
-###2014
+### 2014
 
 1/12 Glögg-SM
 
@@ -94,7 +96,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 27/1 Extra-SM
 
-###2013
+### 2013
 
 12/12 Glögg-SM
 
@@ -106,7 +108,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 11/2 Revisions-SM
 
-###2012
+### 2012
 
 4/12 Glögg-SM
 
@@ -116,7 +118,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 22/3 Revisions-SM
 
-###2011
+### 2011
 
 21/11 Glögg-SM
 
@@ -126,7 +128,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 29/3 Revisions-SM
 
-###2010
+### 2010
 
 02/12 Glögg-SM
 
@@ -140,7 +142,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 15/2 Extra-SM
 
-###2009
+### 2009
 
 8/12 Glögg-SM
 
@@ -152,7 +154,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 24/3 Revisions-SM
 
-###2008
+### 2008
 
 9/12 Glögg-SM
 
@@ -160,17 +162,17 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 13/3 Budget-SM
 
-###2007
+### 2007
 
 11/12 Glögg-SM
 
 11/10 Revisions-SM
 
-###2006
+### 2006
 
 10/10 Revisions-SM
 
-###2005
+### 2005
 
 7/12 Glögg-SM
 
@@ -184,7 +186,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 22/2 Budget-SM
 
-###2004
+### 2004
 
 8/12 Glögg-SM
 
@@ -198,7 +200,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 23/2 Extra-SM
 
-###2003
+### 2003
 
 8/12 Glögg-SM
 
@@ -208,7 +210,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 25/2 Extra-SM
 
-###2002
+### 2002
 
 11/12 Glögg-SM
 
@@ -220,7 +222,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 21/3 Budget-SM
 
-###2001
+### 2001
 
 5/12 Glögg-SM
 
@@ -230,7 +232,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 22/2 Extra-SM
 
-###2000
+### 2000
 
 6/12 Glögg-SM
 
@@ -242,7 +244,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 24/2 Budget-SM
 
-###1999
+### 1999
 
 2/12 Glögg-SM
 
@@ -250,7 +252,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 17/9 Extra Kaffe-SM
 
-###1998
+### 1998
 
 2/12 SM
 
@@ -260,7 +262,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 11/3 SM
 
-###1997
+### 1997
 
 2/12 SM
 
@@ -274,7 +276,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 20/2 SM
 
-###1996
+### 1996
 
 3/12 SM
 
@@ -286,7 +288,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 27/2 SM
 
-###1995
+### 1995
 
 4/12 SM
 
@@ -298,13 +300,13 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 16/2 SM
 
-###1994
+### 1994
 
 8/12 SM
 
 18/10 SM
 
-###1993
+### 1993
 
 16/9 SM
 
@@ -314,7 +316,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 22/2 SM
 
-###1992
+### 1992
 
 10/12 SM
 
@@ -328,7 +330,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 26/3 SM
 
-###1991
+### 1991
 
 12/12 SM
 
@@ -340,7 +342,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 21/3 SM
 
-###1990
+### 1990
 
 12/12 SM
 
@@ -352,7 +354,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 ## D-directorate meetings, DM
 
-###2021
+### 2021
 
 27/5 A-Bahamas-vacation-DM (action minutes
 
@@ -364,7 +366,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 22/1 Ett-fortfarande-Zoom-DM (discussion minutes
 
-###2020
+### 2020
 
 10/12 Hasta-la-Windows-Vista-DM
 
@@ -388,7 +390,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 23/1 Årtiondets första-DM
 
-###2019
+### 2019
 
 9/12 Ett Vettigt-DM
 
@@ -412,7 +414,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 29/1 Ett Regerings-DM
 
-###2018
+### 2018
 
 6/12 Ett Flygande-DM
 
@@ -438,7 +440,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 17/1 Ett Godtyckligt-DM
 
-###2017
+### 2017
 
 12/12 The-Last-DM
 
@@ -458,7 +460,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 31/1 Ett-Nytt-Hopp-DM
 
-###2016
+### 2016
 
 18/12 4:e-advents-mys-DM
 
@@ -482,7 +484,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 26/1 Uppstarts-DM
 
-###2015
+### 2015
 
 15/12 Samboendeavtals-DM
 
@@ -506,7 +508,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 26/1 Protokoll
 
-###2014
+### 2014
 
 11/12 Protokoll
 
@@ -522,7 +524,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 27/2 Protokoll
 
-###2013
+### 2013
 
 3/12 Protokoll
 
@@ -542,7 +544,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 31/1 Protokoll
 
-###2012
+### 2012
 
 21/11 Protokoll
 
@@ -554,7 +556,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 27/2 Protokoll
 
-###2011
+### 2011
 
 08/11 Protokoll
 
@@ -572,7 +574,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 08/02 Protokoll
 
-###2010
+### 2010
 
 28/10 Protokoll
 
@@ -584,17 +586,17 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 12/03 Protokoll
 
-###2009
+### 2009
 
 1/12 Protokoll
 
 27/10 Protokoll
 
-###2007
+### 2007
 
 10/09 Protokoll
 
-###2006
+### 2006
 
 13/12 Protokoll
 
@@ -604,7 +606,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 25/09 Protokoll
 
-###2005
+### 2005
 
 17/05 Protokoll
 
@@ -616,7 +618,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 20/01 Protokoll
 
-###2004
+### 2004
 
 02/12 Protokoll
 
@@ -636,7 +638,7 @@ We're changing the hosting for the site. The protocols will be available as soon
 
 24/01 Protokoll
 
-###2003
+### 2003
 
 11/11 Protokoll
 
