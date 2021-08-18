@@ -1,17 +1,17 @@
-# Business relations
+# Business Relations
 
 Do you want to come in contact with computer science students?
-The Computer Science Chapter's industry group actively works for an increased 
+The Computer Science Chapter's Business Relations Group actively works for an increased
 cooperation beetween computer science students and the industry. We will help
 you arrange events in order for students to come in contact with your company
 and to give them a glimpse of their future working life.
 
-We offer many ways for you to contact students: lunch lectures, advertisment, 
-using the Computer Science Chapter's job board, etc. We will also gladly discuss 
-any new ideas with you. Looking for a more traditional approach? Take a look at 
+We offer many ways for you to contact students: lunch lectures, advertisment,
+using the Computer Science Chapter's job board, etc. We will also gladly discuss
+any new ideas with you. Looking for a more traditional approach? Take a look at
 our traditional events, listed below.
 
-Please feel free to contact us within the industry group by mail or phone
+Please feel free to contact us within the Business Relations Group by mail or phone
 for more information.
 
 ## Pub
@@ -25,25 +25,18 @@ desired. We stand for staff and will help you with advertisement.
 ## Lunch lecture
 
 Lunch lectures are often very appreciated by students. You will hold a
-presentation during lunch (12:15-13:00) in front of around 60 students.
+presentation during lunch (12:15-13:00) in front of around 100 students.
 Students will receive a simple lunch before the presentation, sponsored
-by you. The contents of the lecture is completely up to you and, if 
+by you. The contents of the lecture is completely up to you and, if
 desired, the food too. You can, for instance, present your company, projects or
 trainee programmes.
 
 ## Poster advertisement
 
-We print and place posters in the Computer Science Chapter's chapter hall,
+We print and place posters in our chapter hall,
 META, shared by computer science and media technology students. We also
 place posters in areas with high concentrations of computer science students,
 such as computer halls.
-
-## dJobb
-
-Are you looking for creative, skilled and inquisitive computer science students
-for thesis projects or employment? Then the Computer Science Chapter's job
-board, [dJobb](http://djobb.se), is perfect for you. By placing a post on
-dJobb, you are guaranteed to reach lots of job-seeking computer science students.
 
 ## Advertisement
 
