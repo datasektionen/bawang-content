@@ -1,8 +1,8 @@
 # Begreppslista
 
-**Jämlikhet**: Att alla individer är av lika mycket värde; att de är av samma status och förtjänar lika mycket respekt.
+**Jämlikhet**: Att alla individer, som medmänniskor, är av lika mycket värde och förtjänar medmänsklighet. Jämlikhet i samhället innebär lika möjligheter men också lika skyldigheter.
 
-**Mångfald**: Variation av egenskaper och bakgrund hos individer i en grupp. Kan delas in i primär och sekundär. Den primära mångfalden är sådant som är till stor del statiskt genom livet och som du mer eller mindre föds till, alltså de 7 diskrimineringsgrunderna (se Diskriminering). Den sekundära mångfalden är allt annat som gör dig till du, exempelvis ekonomisk situation, yrkesroll, familjesituation.
+**Mångfald**: Variation av egenskaper och bakgrund hos individer i en grupp. Kan delas in i **primär** och **sekundär**. Den primära mångfalden är sådant som är till stor del statiskt genom livet och som du mer eller mindre föds till, alltså de 7 diskrimineringsgrunderna (se Diskriminering). Den sekundära mångfalden är allt annat som gör dig till du, exempelvis ekonomisk situation, yrkesroll, familjesituation.
 
 **Lika villkor**: Att alla personer ska ha samma möjligheter oavsett sina förutsättningar.
 
