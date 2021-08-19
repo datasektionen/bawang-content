@@ -10,4 +10,4 @@ Det finns flera olika samarbetsmöjligheter både innan, under och efter Mottagn
 
 ## Kontakta oss
 
-Mottagningens ledningsgrupp består av åtta personer. Vi nås enklast via e-post på [titel@d.kth.se](mailto:titel@d.kth.se). Är ni intresserade av att sponsra Mottagningen bokar vi gärna in ett möte för att berätta mer och bolla idéer!
+Mottagningens ledningsgrupp består av fem personer. Vi nås enklast via e-post på [titel@d.kth.se](mailto:titel@d.kth.se). Är ni intresserade av att sponsra Mottagningen bokar vi gärna in ett möte för att berätta mer och bolla idéer!
