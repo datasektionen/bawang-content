@@ -6,20 +6,18 @@ Näringslivsgruppen har hand om sektionens kontakter med företag. Oavsett
 anledning är du alltid välkommen att kontakta oss:
 
 **Näringslivsgruppen**<br />
-**För företag**   
+**För företag**
 E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
 **Näringslivsansvarig**<br />
-Johan Luhr<br />
+Klara Folke<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
 
 **Arbetsmarknadsdagsansvariga**<br />
 Adam Sjöberg & Erik Nordlöf<br />
 E-post: [projectmanager@ddagen.se](mailto:projectmanager@ddagen.se)<br />
 
-
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
-
 
 ## Allmänt
 
@@ -28,7 +26,6 @@ För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 **Kommunikatör**<br />
 Adam Sjöberg<br />
 E-post: [info@d.kth.se](mailto:info@d.kth.se)<br />
-
 
 Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Datasektionens Informationsorgan, IOR, på adressen [ior@d.kth.se](mailto:ior@d.kth.se).
 
