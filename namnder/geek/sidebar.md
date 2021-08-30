@@ -4,6 +4,6 @@ Om du skulle vilja veta mer om nämnden eller har något förslag så går det j
 
 **Öfvermatrona,**<br/>
 [ofvermatrona@d.kth.se](mailto:ofvermatrona@d.kth.se). <br/>
-0764170096
+
 
 [Facebook](https://www.facebook.com/GEEK.GirlsAtDatasektionen)
