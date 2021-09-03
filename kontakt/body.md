@@ -24,7 +24,7 @@ Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivss
 För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 
 **Kommunikatör**<br />
-Adam Sjöberg<br />
+Noah Hopkins<br />
 E-post: [info@d.kth.se](mailto:info@d.kth.se)<br />
 
 Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Datasektionens Informationsorgan, IOR, på adressen [ior@d.kth.se](mailto:ior@d.kth.se).
