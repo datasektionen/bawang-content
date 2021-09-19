@@ -35,20 +35,21 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ## Medlemmar  
 
+<img align="right" src="http://dkm.io/images/20-21/george2.png">  
 
-### Baby Snot (Got back)    
+### George Bassilious  
 #### Klubbmästare  
-**Favoritdrink:** Hemmagjord punsch  
-**Gillar:** Att ragga utan resultat  
-**Ogillar:** Att inte hitta tjack-kanalen  
-**Specialitet:** Power positions  
+**Favoritdrink:** Peroni (plz sponsra)  
+**Gillar:** Christmas Trap  
+**Ogillar:** Pöbeln  
+**Specialitet:** Göra pesto  
 **Citat:**
-_Jag får inte plats i några huvuden för jag har så jävla big brain._ 
-  
-  
+_Jag har 100% känsel i rumpan bror, om någon blåser där så vet jag._  
 
-### Gut Milk?  
-#### Supportmästare  
+<img align="right" src="http://dkm.io/images/20-21/bror2.png">  
+
+### Bror Sjövald  
+#### Vice Klubbmästare  
 **Favoritdrink:** Mimosa  
 **Gillar:** Kate Bush - Babooshka  
 **Ogillar:** Stela interaktioner i realityserier  
@@ -56,10 +57,10 @@ _Jag får inte plats i några huvuden för jag har så jävla big brain._
 **Citat:**
 _Jag är skärd._  
 
-  
+<img align="right" src="http://dkm.io/images/20-21/lotta2.png">  
 
-### Winnie The Pong  
-#### Supportmästare  
+### Lotta Johnsson  
+#### Ekonomimästare  
 **Favoritdrink:** Big Wave  
 **Gillar:** Beerpong  
 **Ogillar:** Förlust  
@@ -67,10 +68,10 @@ _Jag är skärd._
 **Citat:**
 _Vem fan tror du att du är som åker runt med en jävla kastrull på huvudet!?!_  
 
-  
+<img align="right" src="http://dkm.io/images/20-21/p3.png">  
 
-### Tetris Petris  
-#### Supportmästare  
+### Samuel Peetre  
+#### Barmästare  
 **Favoritdrink:** Tequila  
 **Gillar:** Drömmen om att bli gravid  
 **Ogillar:** Att bli hög på laminering  
@@ -78,21 +79,21 @@ _Vem fan tror du att du är som åker runt med en jävla kastrull på huvudet!?!
 **Citat:**
 _Efter ändtarmen så slutar människan._  
 
-  
+<img align="right" src="http://dkm.io/images/20-21/jennifer2.png">  
 
-### Gigi Dabàs    
-#### Supportmästare  
-**Favoritdrink:** Peroni (plz sponsra)  
-**Gillar:** Christmas Trap  
-**Ogillar:** Pöbeln  
-**Specialitet:** Göra pesto  
+### Jennifer Larsson  
+#### Barmästare  
+**Favoritdrink:** Hemmagjord punsch  
+**Gillar:** Att ragga utan resultat  
+**Ogillar:** Att inte hitta tjack-kanalen  
+**Specialitet:** Power positions  
 **Citat:**
-_Jag har 100% känsel i rumpan bror, om någon blåser där så vet jag._ 
+_Jag får inte plats i några huvuden för jag har så jävla big brain._  
 
-  
+<img align="right" src="http://dkm.io/images/20-21/grace.png">  
 
-### Young Lean  
-#### Supportmästare  
+### Grace Kaliff  
+#### Festmästare  
 **Favoritdrink:** Tillfälligt sortiment  
 **Gillar:** Att gräva i musikvärldens mörkaste gångar  
 **Ogillar:** När lägenheten luktar som META efter en pub  
@@ -100,10 +101,10 @@ _Jag har 100% känsel i rumpan bror, om någon blåser där så vet jag._
 **Citat:**
 _Grodor är Afrikas syrsor._  
 
-  
+<img align="right" src="http://dkm.io/images/20-21/maria.JPG">  
 
-### Boop  
-#### Supportmästare  
+### Maria-Elena Pettersson  
+#### Infomästare  
 **Favoritdrink:** Redbullvodka  
 **Gillar:** Att ta över DJ-båset när ingen ber om det  
 **Ogillar:** Olena bebisar  
@@ -111,10 +112,10 @@ _Grodor är Afrikas syrsor._
 **Citat:**
 _Ariana Grande och ägg? De går ju hand i hand._  
 
-  
+<img align="right" src="http://dkm.io/images/20-21/oscar.png">  
 
-### Svetlana Kusht  
-#### Pubmästare  
+### Oscar Knowles  
+#### BeyoncéKnatten  
 **Favoritdrink:** Ugången Göteborgs-öl  
 **Gillar:** Steve  
 **Ogillar:** Barn som äter mat  
@@ -122,10 +123,10 @@ _Ariana Grande och ägg? De går ju hand i hand._
 **Citat:**
 _Vissa jag inte ens känner kallar mig Beyoncé._  
 
-  
+<img align="right" src="http://dkm.io/images/20-21/norma.png">  
 
-### Kjell Kobe  
-#### Pubmästare  
+### Norma Cueto Celis  
+#### ExtraKnatten  
 **Favoritdrink:** Kopparberg Päroncider X-Strong  
 **Gillar:** Basket  
 **Ogillar:** Allt som är kefft  
@@ -133,10 +134,10 @@ _Vissa jag inte ens känner kallar mig Beyoncé._
 **Citat:**
 _X-Strong equals X-Hype._  
 
-  
+<img align="right" src="http://dkm.io/images/20-21/henrik.jpg">  
 
-### Hoody Brest  
-#### Pubmästare  
+### Henrik Åkesson  
+#### MuskelKnatten  
 **Favoritdrink:** Japansk Whiskey  
 **Gillar:** Pizzasallad på pizzan  
 **Ogillar:** Linas matkasse  
@@ -144,10 +145,10 @@ _X-Strong equals X-Hype._
 **Citat:**
 _Han tog mig backstage och vi jämförde våra sniglar._  
 
-  
+<img align="right" src="http://dkm.io/images/20-21/elissa.png">  
 
-### Lil' Cutie   
-#### Pubmästare    
+### Elissa Arias Sosa   
+#### TejpKnatten    
 **Favoritdrink:** Questionable energidryck med mintu    
 **Gillar:** Skumma drinkkombinationer  
 **Ogillar:** Att inte ha en dialekt  
@@ -155,10 +156,10 @@ _Han tog mig backstage och vi jämförde våra sniglar._
 **Citat:**
 _Maskeringstejp är inte samma som silvertejp, woops fel tejp…_  
 
-  
+<img align="right" src="http://dkm.io/images/20-21/casper.png">  
 
-### Son af Steffe  
-#### Pubmästare  
+### Casper Reuterlöv  
+#### VaxKnatten  
 **Favoritdrink:** O/O Narangi IPA  
 **Gillar:** Skånska  
 **Ogillar:** Stockholmska  
@@ -166,10 +167,10 @@ _Maskeringstejp är inte samma som silvertejp, woops fel tejp…_
 **Citat:**
 _Jag trodde enkronan var värd 2._  
 
-  
+<img align="right" src="http://dkm.io/images/20-21/lucas.png">  
 
-### Plex  
-#### Pubmästare    
+### Lucas Dow
+#### KändisKnatten    
 **Favoritdrink:** San Lucas Sling  
 **Gillar:** Spaghetti med smör  
 **Ogillar:** Creepers  
@@ -177,10 +178,10 @@ _Jag trodde enkronan var värd 2._
 **Citat:**
 _Det är bara nummer._ (Yikes)  
 
-  
+<img align="right" src="http://dkm.io/images/20-21/alva.png">  
 
-### Sim  
-#### Pubmästare  
+### Alva Välimäki
+#### AbbaKnatten  
 **Favoritdrink:** Baileys med timjan  
 **Gillar:** Melodifestivalen  
 **Ogillar:** Passiva scrunchies  
@@ -195,7 +196,7 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 
 ### Cliff -20
 
-* __Johnny Metheus__
+* __Melvin Lundqvist__
   * Klubbmästare
   * _Den som snackar skit om Alpha-johnny har ingen morgondag!_
 * __Magnus Lindahl__
@@ -204,10 +205,10 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Vilma Jalava__
   * Ekonomimästare
   * _Om jag inte flyger full, flyger jag fel._
-* __ZapZap Bitch__
+* __Luciano Zapata__
   * Ekonomimästare
   * _Varannan vatten är ju också varannan alk._
-* __McRädisa__
+* __Isabel Redtzer__
   * Barmästare
   * _Jag kan inte dricka med näsan!_
 * __Amanda Krohn__
