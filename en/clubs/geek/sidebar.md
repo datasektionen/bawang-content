@@ -1,8 +1,12 @@
 ## Kontakt
 
-Maila oss gärna om du tycker att GEEK låter som något för dig, eller om du har förslag till oss!
+Send us an email or follow us on facebook if you find us interesting or would like to know more!
 
-Öfvermatrona, Eskil Queseth: ofvermatrona@d.kth.se
+Öfvermatrona, 
+
+Amanda Hallstedt
+
+ofvermatrona@d.kth.se
 
 [Facebook](https://www.facebook.com/kongligostrogennamnden)
 
