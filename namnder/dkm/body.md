@@ -22,7 +22,7 @@ Efter tentaperioderna behöver man slappna av och ta en paus en kort stund innan
 Utöver onsdagspubarna har vi även ett par större event:
 
 - **Reclaim**, direkt efter mottagningen, en fet fest för att fira att DKM tar tillbaka spritförrådet.
-- **DPR**, någon gång under hösten, en fest som vi håller tillsammans med våra vänner i ClubWästeriet, med nytt tema varje år!
+- **PPP**, någon gång under hösten, en fest som vi håller tillsammans med våra vänner i ClubWästeriet, med nytt tema varje år!
 - **dJulmiddagen**, strax innan jul, där ni får chansen att äta ett riktigt fett julbord tillsammans med era vänner på sektionen.
 - **Plums**, någon gång under vintern, vi fixar ett helt badhus med fullt serveringstillstånd och slänger in 300 glada gäster.
 
@@ -31,164 +31,163 @@ Utöver onsdagspubarna har vi även ett par större event:
 
 För att få mer info om events och annat kan det vara en fördel att kika in och följa vår Facebooksida!
 
-[![Facebook logo](http://dkm.io/images/FB-logo.png)](https://www.facebook.com/datasklubbmasteri)
+[![Facebook logo](https://s3.eu-central-1.amazonaws.com/dkm.io/images/FB-logo.png)](https://www.facebook.com/datasklubbmasteri)
 
 ## Medlemmar  
 
-<img align="right" src="http://dkm.io/images/20-21/george2.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/jennifer.png">  
 
-### George Bassilious  
-#### Klubbmästare  
-**Favoritdrink:** Peroni (plz sponsra)  
-**Gillar:** Christmas Trap  
-**Ogillar:** Pöbeln  
-**Specialitet:** Göra pesto  
+### Jennifer Larsson
+#### Klubbmäsare  
+**Favoritdrink:** Inte carlsberg   
+**Gillar:** Skapa och sabba relationer  
+**Ogillar:** Footfetisch i ögat  
+**Specialitet:** Visa tänderna  
 **Citat:**
-_Jag har 100% känsel i rumpan bror, om någon blåser där så vet jag._  
+_Om det är något som jag är bra på så är det applådera._  
 
-<img align="right" src="http://dkm.io/images/20-21/bror2.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/alva.png">  
 
-### Bror Sjövald  
+### Alva Välimäki 
 #### Vice Klubbmästare  
-**Favoritdrink:** Mimosa  
-**Gillar:** Kate Bush - Babooshka  
-**Ogillar:** Stela interaktioner i realityserier  
-**Specialitet:** WAP  
+**Favoritdrink:** Ey thats a big wave bro  
+**Gillar:** ABBA (inte normala nivåer)  
+**Ogillar:** Complex men  
+**Specialitet:** ÄEFULLLLLLLLLLLLLLLLLL  
 **Citat:**
-_Jag är skärd._  
+_Jennifer har inte announceat det än men jag ör den egentliga klubbm._  
 
-<img align="right" src="http://dkm.io/images/20-21/lotta2.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/oscar.png">  
 
-### Lotta Johnsson  
+### Oscar Knowles
 #### Ekonomimästare  
-**Favoritdrink:** Big Wave  
-**Gillar:** Beerpong  
-**Ogillar:** Förlust  
-**Specialitet:** Ramla  
+**Favoritdrink:** Utången Göteborgs-öl   
+**Gillar:** Alla sorters bollar  
+**Ogillar:** P3 som äter skagen efter 22  
+**Specialitet:** Känner alla  
 **Citat:**
-_Vem fan tror du att du är som åker runt med en jävla kastrull på huvudet!?!_  
+_Jag har bett andra människor lukta på mitt svett och dom ba JA!_  
 
-<img align="right" src="http://dkm.io/images/20-21/p3.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/norma.png">  
 
-### Samuel Peetre  
+### Norma Cueto
+#### Ekonomimästare  
+**Favoritdrink:** Kopparberg Päroncider X-Strong   
+**Gillar:** Clas Ohlsson    
+**Ogillar:** Kjell  
+**Specialitet:** Quick Mafs  
+**Citat:**
+_X-Strong = X-Hype._  
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/elissa.png">  
+
+### Elissa Arias Sosa  
 #### Barmästare  
-**Favoritdrink:** Tequila  
-**Gillar:** Drömmen om att bli gravid  
-**Ogillar:** Att bli hög på laminering  
-**Specialitet:** Få barn att somna med sitt snusande  
+**Favoritdrink:** Shot utan prutt  
+**Gillar:** Perfekt smink på snapchat stories  
+**Ogillar:** Fel tejp  
+**Specialitet:** Gräddfil  
 **Citat:**
-_Efter ändtarmen så slutar människan._  
+_Maskeringstejp är inte samma som silvertejp ,wooops fel tejp..._  
 
-<img align="right" src="http://dkm.io/images/20-21/jennifer2.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/casper.png">  
 
-### Jennifer Larsson  
+### Casper Reuterlöv
 #### Barmästare  
-**Favoritdrink:** Hemmagjord punsch  
-**Gillar:** Att ragga utan resultat  
-**Ogillar:** Att inte hitta tjack-kanalen  
-**Specialitet:** Power positions  
+**Favoritdrink:** Whiskey på flaska  
+**Gillar:** Words...  
+**Ogillar:** Att enkronan är värd två  
+**Specialitet:** Coola föräldrar  
 **Citat:**
-_Jag får inte plats i några huvuden för jag har så jävla big brain._  
+_När jag blir klubbm..._  
 
-<img align="right" src="http://dkm.io/images/20-21/grace.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/henrik.png">  
 
-### Grace Kaliff  
+### Henrik Åkesson
 #### Festmästare  
-**Favoritdrink:** Tillfälligt sortiment  
-**Gillar:** Att gräva i musikvärldens mörkaste gångar  
-**Ogillar:** När lägenheten luktar som META efter en pub  
-**Specialitet:** Sexa till det sexigt på beerpong  
-**Citat:**
-_Grodor är Afrikas syrsor._  
-
-<img align="right" src="http://dkm.io/images/20-21/maria.JPG">  
-
-### Maria-Elena Pettersson  
-#### Infomästare  
-**Favoritdrink:** Redbullvodka  
-**Gillar:** Att ta över DJ-båset när ingen ber om det  
-**Ogillar:** Olena bebisar  
-**Specialitet:** Göra dumma tobaks- och nikotinbet  
-**Citat:**
-_Ariana Grande och ägg? De går ju hand i hand._  
-
-<img align="right" src="http://dkm.io/images/20-21/oscar.png">  
-
-### Oscar Knowles  
-#### BeyoncéKnatten  
-**Favoritdrink:** Ugången Göteborgs-öl  
-**Gillar:** Steve  
-**Ogillar:** Barn som äter mat  
-**Specialitet:** Crab-dance  
-**Citat:**
-_Vissa jag inte ens känner kallar mig Beyoncé._  
-
-<img align="right" src="http://dkm.io/images/20-21/norma.png">  
-
-### Norma Cueto Celis  
-#### ExtraKnatten  
-**Favoritdrink:** Kopparberg Päroncider X-Strong  
-**Gillar:** Basket  
-**Ogillar:** Allt som är kefft  
-**Specialitet:** Singstar High School Musical Edition  
-**Citat:**
-_X-Strong equals X-Hype._  
-
-<img align="right" src="http://dkm.io/images/20-21/henrik.jpg">  
-
-### Henrik Åkesson  
-#### MuskelKnatten  
 **Favoritdrink:** Japansk Whiskey  
-**Gillar:** Pizzasallad på pizzan  
-**Ogillar:** Linas matkasse  
-**Specialitet:** DKM's hästtjej  
+**Gillar:** Personer utan hud  
+**Ogillar:** Icke-hästar  
+**Specialitet:** Bli ägd av linas matkasse  
 **Citat:**
-_Han tog mig backstage och vi jämförde våra sniglar._  
+_Shush shush shush... Elefant._  
 
-<img align="right" src="http://dkm.io/images/20-21/elissa.png">  
-
-### Elissa Arias Sosa   
-#### TejpKnatten    
-**Favoritdrink:** Questionable energidryck med mintu    
-**Gillar:** Skumma drinkkombinationer  
-**Ogillar:** Att inte ha en dialekt  
-**Specialitet:** Tiktok-danser  
-**Citat:**
-_Maskeringstejp är inte samma som silvertejp, woops fel tejp…_  
-
-<img align="right" src="http://dkm.io/images/20-21/casper.png">  
-
-### Casper Reuterlöv  
-#### VaxKnatten  
-**Favoritdrink:** O/O Narangi IPA  
-**Gillar:** Skånska  
-**Ogillar:** Stockholmska  
-**Specialitet:** Prata småländska  
-**Citat:**
-_Jag trodde enkronan var värd 2._  
-
-<img align="right" src="http://dkm.io/images/20-21/lucas.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/lucas.png">  
 
 ### Lucas Dow
-#### KändisKnatten    
-**Favoritdrink:** San Lucas Sling  
-**Gillar:** Spaghetti med smör  
-**Ogillar:** Creepers  
-**Specialitet:** TV-kändis  
+#### Infomästare  
+**Favoritdrink:** Rå Pimm's  
+**Gillar:** SPIIIIIIICYYYYYYYYYYYYY  
+**Ogillar:** Cola  
+**Specialitet:** Vara en complex man  
 **Citat:**
-_Det är bara nummer._ (Yikes)  
+_Jag säger inte så många citat för att jag är en rimlig person._  
 
-<img align="right" src="http://dkm.io/images/20-21/alva.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/bror.png">  
 
-### Alva Välimäki
-#### AbbaKnatten  
-**Favoritdrink:** Baileys med timjan  
-**Gillar:** Melodifestivalen  
-**Ogillar:** Passiva scrunchies  
-**Specialitet:** Utklassa på Geoguessr  
+### Bror Sebastian Sjövlad
+#### Supportmästare  
+**Favoritdrink:** Mjölk  
+**Gillar:** Bond-brudar  
+**Ogillar:** Bli tappad  
+**Specialitet:** Mjölk-ASMR  
 **Citat:**
-_Är det någon mer som vill tacka mig???..._  
+_Jag visste inte att man kunde kallsupa från ett glas._  
 
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/lotta.png">  
+
+### Lotta Johnsson 
+#### Supportmästare  
+**Favoritdrink:** plOms... i en Big Wave  
+**Gillar:** Oändlig SAUCE!  
+**Ogillar:** Att folk har hår  
+**Specialitet:** Fortfarande att Ramla  
+**Citat:**
+_Jag kanske är Jesus_  
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/samuel.png">  
+
+### Samuel Peetre 
+#### Supportmästare  
+**Favoritdrink:** Cider är gott men hit med en ÖL  
+**Gillar:** Sitta på odefinerad plats  
+**Ogillar:** Borttappat snus  
+**Specialitet:** Franska  
+**Citat:**
+_Nu såg jag någon som var gravid och jag blev så sugen på att bära barn_  
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/maria.png"> 
+
+### Maria-Elena Pettersson  
+#### Supportmästare  
+**Favoritdrink:** Vetevodka  
+**Gillar:** Endless swiping på Tiktok  
+**Ogillar:** Att inte vara sötast  
+**Specialitet:** "Men asså oj"  
+**Citat:**
+_P3 P3 kom hit jag vill ta en bild! Inte med dig._  
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/grace.png"> 
+
+### Grace Kaliff
+#### Supportmästare  
+**Favoritdrink:** Godtycklig Kombucha  
+**Gillar:** Törsten i strupen  
+**Ogillar:** Att fånga bönor  
+**Specialitet:** Kombucha-reviews  
+**Citat:**
+_Salt på handen, törst i strupen….. Jag är redo_  
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/george.png"> 
+
+### George Bassilious 
+#### Supportmästare  
+**Favoritdrink:** Peroni (basic)  
+**Gillar:** Avvakta sina ögon  
+**Ogillar:** Att bli ersatt av maskiner  
+**Specialitet:** Göra Pesto (legendarisk)  
+**Citat:**
+_På min tid hade vi inte ens saxar_  
 
 ## Cliff
 
