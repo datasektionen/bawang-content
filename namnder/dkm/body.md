@@ -44,7 +44,7 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 **Ogillar:** Footfetisch i ögat  
 **Specialitet:** Visa tänderna  
 **Citat:**
-_Om det är något som jag är bra på så är det applådera._  
+_Om det är något som jag är bra på så är det bara att applådera._  
 
 <img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/alva.png">  
 
@@ -55,7 +55,7 @@ _Om det är något som jag är bra på så är det applådera._
 **Ogillar:** Complex men  
 **Specialitet:** ÄEFULLLLLLLLLLLLLLLLLL  
 **Citat:**
-_Jennifer har inte announceat det än men jag ör den egentliga klubbm._  
+_Jennifer har inte announceat det än men jag är den egentliga klubbm._  
 
 <img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/oscar.png">  
 
@@ -128,7 +128,7 @@ _Jag säger inte så många citat för att jag är en rimlig person._
 ### Bror Sebastian Sjövlad
 #### Supportmästare  
 **Favoritdrink:** Mjölk  
-**Gillar:** Bond-brudar  
+**Gillar:** Bond-brudar eller Bond-brudar  
 **Ogillar:** Bli tappad  
 **Specialitet:** Mjölk-ASMR  
 **Citat:**
@@ -187,7 +187,7 @@ _Salt på handen, törst i strupen….. Jag är redo_
 **Ogillar:** Att bli ersatt av maskiner  
 **Specialitet:** Göra Pesto (legendarisk)  
 **Citat:**
-_På min tid hade vi inte ens saxar_  
+_På min tid hade vi inte ens [insert godtycklig sak]_  
 
 ## Cliff
 
