@@ -156,42 +156,20 @@ _Jag kanske är Jesus_
 **Citat:**
 _Nu såg jag någon som var gravid och jag blev så sugen på att bära barn_  
 
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/maria.png"> 
-
-### Maria-Elena Pettersson  
-#### Supportmästare  
-**Favoritdrink:** Vetevodka  
-**Gillar:** Endless swiping på Tiktok  
-**Ogillar:** Att inte vara sötast  
-**Specialitet:** "Men asså oj"  
-**Citat:**
-_P3 P3 kom hit jag vill ta en bild! Inte med dig._  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/grace.png"> 
-
-### Grace Kaliff
-#### Supportmästare  
-**Favoritdrink:** Godtycklig Kombucha  
-**Gillar:** Törsten i strupen  
-**Ogillar:** Att fånga bönor  
-**Specialitet:** Kombucha-reviews  
-**Citat:**
-_Salt på handen, törst i strupen….. Jag är redo_  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/george.png"> 
-
-### George Bassilious 
-#### Supportmästare  
-**Favoritdrink:** Peroni (basic)  
-**Gillar:** Avvakta sina ögon  
-**Ogillar:** Att bli ersatt av maskiner  
-**Specialitet:** Göra Pesto (legendarisk)  
-**Citat:**
-_På min tid hade vi inte ens [insert godtycklig sak]_  
-
 ## Cliff
 
 Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför de kallas för Cliff? Fråga närmsta Cliff!
+
+### Cliff -21  
+* __George Bassilious__
+  * Klubbmästare
+  * _På min tid hade vi inte ens..._
+* __Grace Kaliff__
+  * Festmästare
+  * _Om man vill vinna på beerpong måste man sexa till det sexigt._
+* __Maria-Elena Pettersson__
+  * Infomästare
+  * _Absolut det är lent, men bebisar är lena._
 
 ### Cliff -20
 
