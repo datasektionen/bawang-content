@@ -3,13 +3,14 @@
 #### METAdorerna
 [metadorerna@d.kth.se](mailto:metadorerna@d.kth.se)
 #### Konglig Lokalchef (D)
-August Jönsson     
+August Jönsson</br>
 [lokalchef@d.kth.se](mailto:lokalchef@d.kth.se)
 
 #### Sektionslokalsansvarig (Media)
-Andreas Wingqvist  
+Andreas Wingqvist </br>
 [sektionslokal@media.kth.se](mailto:sektionslokal@media.kth.se)
 
+## Länkar
 * [Lokalbokning / Chapter-house booking](https://datasektionen.se/sektionen/lokalbokning)
 
 * [Inköpsförslag till META](https://goo.gl/forms/xc7Ndq0wogKmR0rd2)
