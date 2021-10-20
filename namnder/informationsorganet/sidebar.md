@@ -1,12 +1,10 @@
 ## Kontakt
 
-#### Systemansvarig
+#### Systemansvariga
 
-Niklas Vatn
-
-Axel Elmarsson
-
-d-sys@d.kth.se
+Niklas Vatn </br>
+Axel Elmarsson </br>
+[d-sys@d.kth.se](mailto:d-sys@d.kth.se)
 
 #### IOR-slacken
 
