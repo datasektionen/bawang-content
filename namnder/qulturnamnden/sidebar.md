@@ -4,6 +4,5 @@
 
 #### Qulturattaché
 
-Tobias Hansson
-
+Arvid Eriksson
 [qulturattache@d.kth.se](mailto:qulturattache@d.kth.se)
