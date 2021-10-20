@@ -8,5 +8,5 @@ För att gå med i Baknämnden, fyll i detta [formulär](https://forms.gle/YFBZR
 
 #### Bakis
 
-Tim Jonsson <br>
+Tim Jonsson</br>
 [bakis@d.kth.se](mailto:bakis@d.kth.se)
