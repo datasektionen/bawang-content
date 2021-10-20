@@ -1,91 +1,95 @@
-# Studienämnden
+# The Study Board
 
-## I sin korthet
+## In Short
 
-Tveka aldrig att kontakta Studienämnden om du har en åsikt eller fråga!
-Du är givetvis alltid välkommen på studienämndsmötena (se [nyhetssidan](/nyheter) för datum).
+Never hesitate in contacting the Study Board if you have an opinion or question!
+You are always welcome to participate in our meetings (take a look at [news](/nyheter) for dates).
 
-Studienämnden hjälper till med att föra vidare studenternas åsikter till lärare eller berörda parter på CSC för att förbättra utbildningen. Har du något du vill säga till om kan du antingen kontakta oss i Studienämnden eller komma på ett Studienämndsmöte. Vi svarar även på studenters frågor om studierna alternativt hjälper till att ta reda på vem man kan kontakta för att få svar.
+The Study Board supplies the students' opinions to teachers or individuals of concern at CSC in order to improve the CS education. If you have any thoughts regarding your education you can contact us via mail or come to our meetings. We are also responsible for answering your questions about the education, or redirecting you to someone who knows more.
  
-"Vi är här för dig" - Kontakta oss eller kom på ett Studienämndsmöte.
+*We are here for you* - Reach out to us or join us at our next meeting.
 
-## Kontakt
+## Contact
 
-Kontakta oss om du har frågor om eller kommentarer kring studierna eller studiemiljön.
+Contact us if you have questions or opinions regarding the education or the studying environment.
 
-### Studier
+### Studies
 
-Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Beroende på vilket år du går ska du höra av dig till din årskursrepresentant eller masterstudent!
+Are your lectures incomprehensible? Are there too few opportunities to present your work? Or do you want someone to act as a middle-man between you and the school? Rest assured, we have got your back! Depending on what year you are in, you can always contact your designated year representative or master representative!
 
-År 1 - Maximiliam och Jesper: [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
+Year 1 - Emil [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
 
-År 2 - Elsa och Magnus: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
+Year 2 - Kei and Hannah: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
 
-År 3 - Sara och Daniel: [ake-3@d.kth.se](mailto:ake-3@d.kth.se)
+Year 3 - Jesper and Maximilian: [ake-3@d.kth.se](mailto:ake-3@d.kth.se)
 
-Master - Felix: [master@d.kth.se](mailto:master@d.kth.se)
+Master - Sara, Kitty, Elsa: [master@d.kth.se](mailto:master@d.kth.se)
 
 
-### Studiemiljö
+### Studying environment
 
-Kalla salar? Oergonomiska stolar? Är det för hög ljudnivå? Kontakta SSO om du har en åsikt!
+Cold lecture halls? Unergonomic chairs? Is there too much noise? Contact our SSO if you have an opinion!
 SSO: [sso@d.kth.se](mailto:sso@d.kth.se)
 
-### Övriga frågor
+### Other questions
 
-Kontakta Studienämndens ordförande om du har någon annan fråga: [sno@d.kth.se](mailto:sno@d.kth.se)
+Contact the president of the study board if you have an opinion: [sno@d.kth.se](mailto:sno@d.kth.se)
 
-## Om studienämnden
+## About the Board
 
-Datasektionen har, precis som alla andra sektioner, en studienämnd som arbetar med studiebevakning. Studienämndens huvudsakliga syfte är att bevaka och förbättra utbildningskvaliteten och studiemiljön för sektionens medlemmar på såväl kort som lång sikt.
-För dig innebär det att vi för vidare din åsikt till lärare eller berörda parter på CSC. Du kan komma i kontakt med oss genom mailadresserna ovan eller genom att delta på ett studienämndsmöte. Varje möte meddelas på [nyhetssidan](/nyheter).
+Like every Chapter at KTH, the CS-Chapter has a Study Board which works with monitoring the education at CSC. The main purpose of the Board is to assess and improve education quality as well as studying environment in both the short and long term.
+For you, this means that we will give your feedback to teachers and other officials at CSC. You can reach us either via mail or by coming to our meetings. All meetings are announced at the [news page](/nyheter).
 
-Vi svarar även på studenters frågor om studierna alternativt hjälper till att ta reda på vem man kan kontakta för att få svar.
+We also answer your questions regarding your studies at kth or redirect you to a more knowledgeable party.
 
-## Vi i studienämnden
+## We, the Study Board
 
-Om oss i vår korthet
+About us, in short
 
-* Årskursrepresentanter - Kontakta om du har synpunkter på kurserna du läser
-* Studerandeskyddsombud - Kontakta om det är för kallt eller oergonomiska stolar
-* Studienämndens ordförande - Ser till att studienämnden lever
-* Programansvarig student - Arbetar långsiktigt för programmets och kursers utveckling
-* Styrelseledamot för utbildningsfrågor - Har helthetsuppfattningen om utbildningen
-* Övriga intresserade studenter
+* Year representatives & Master representatives - Contact us about your courses 
+* Student Safety Representative (SSO) - Contact me about unergonomic chairs and cold lecture halls 
+* Study Board President (SNO) - Looks after the Study Board and makes sure it does not ***die***
+* Programme responsible student (PAS) - Works for improvement of the programme and the courses in the long term.
+* Chapter Board Representative for Education (DUF) - Has the large scale picture of the education
+* Other interested students
 
-### Årskursrepresentanter
-Årskursrepresentanter är studenter som representerar sin årskurs gentemot både studenterna och lärarna. De fungerar som en röst för de som inte själva vill ta kontakt med lärarna. Har du synpunkter gällande kurser, lärare eller liknande så finns din årskursrepresentant där för att hjälpa dig.
+### Year representatives & Master representatives
+The Year and Master representatives are students who represent their year in relation to both students and teachers. Functionally, they are a voice for students in situations where the students don't want to or cannot communicate with the teacers. Should you have opinions about the courses, teachers or related subjects, your Year representative has got you covered.
 
-### Studerandeskyddsombud
-Studerandeskyddsombudet verkar för en bättre studiemiljö under dina studier här på KTH. Studiemiljön är då såväl den fysiska som den psykosociala. Tveka inte på att höra av dig!
+### Student Safety Representative 
+The Student Safety Representative (SSO) works for a better studying environment at KTH, both the physical as well as the psychosocial environment. Don't hesitate to contact your SSO!
 
-### Studienämndens ordförande
-Studienämndens ordförande (SNO) leder arbetet i Studienämnden samt inom studiebevakning i allmänhet. SNO är en förtroendevald funktionärspost i Datasektionen och reglementet säger att SNO ska
+### Study Board President
+The Study Board President (SNO) leads the Board work and the education monitorin in general. The SNO is a representative elect, and is thus bound by the chapter regulations to
 
-* verka för att alla sektionsmedlemmar är representerade i Studienämnden
-* samla in synpunkter och förslag på förbättringar från sektionsmedlemmarna och föra dessa vidare till ansvariga parter
-* verka för att nå ut med varför Studienämnden finns och hur man som student kan påverka sin utbildning via oss
-* ansvara för att arbetet bevaras och dokumenteras så att framtida medlemmar kan följa upp det
+* work to represent all students 
+* gather thoughts and opinions regarding the programme from chapter members and convey these to reponsible parties at KTH
+* work with outreach, informing students why the board exists and how you can influence the school through us 
+* be responsible for gathering and documenting information regarding the work of the Board som it can be reviewed and reused by the chapter at a later point
  
-SNO är intresserad av studenternas åsikter om både utbildningen och Studienämnden, för att kunna utföra det arbete som reglementet sägen. Dessutom kanske just du kan hjälpa oss att ta reda på om vi arbetar med rätt saker i studierelaterade frågor.
+The SNO is interested in the students' opinions both regarding the education and the Board itself, to be able to complete the work mentioned in the relgement. Maybe you could help us work with the right education-related problems.
 
-### Programansvarig student
-Programansvarig student (PAS) arbetar tillsammans med Studienämndens ordförande för att förbättra utbildningens kvalitet. PAS ansvarar huvudsakligen för kontakten till lärare samt utbildningsansvariga på CSC-skolan, och arbetar i allmänhet med det mer långsiktiga fokuset i Studienämnden.
+### Programme responsible student
+The Programme responsible student (PAS) works together with SNO to improve education quality. The PAS is mainly responsible for contact with teachers and other personel at the CSC-school, and generally works with the long-term work within the Study Board.
 
-### Styrelseledamot för utbildningsfrågor
-Styrelseledamot för utbildningsfrågor (D-UF) verkar för en bättre utbildningskvalitet på sektionen. Tanken är att D-UF ska ha en total bild över utbildningen. Vidare ansvarar ledamoten, D-UF, för kontakten mellan styrelsen och Studienämndens ordförande/Programansvarig student.
+PAS: Hannah [pas@d.kth.se](mailto:pas@d.kth.se)
 
-### Övriga intresserade studenter
-Studienämnden är en öppen nämnd, vilket innebär att alla sektionsmedlemmar som vill får engagera sig i nämnden. För mer information, kontakta Studienämndens ordförande.
+### Chapter Board Representative for Education
+The Chapter Board Representative for Education (D-UF) works for a better studying environment at KTH. The D-UF has the larger picture of the education. The D-UF is also the communication link between the Chapter Board (D-Rek) and the SNO and PAS.
 
-## Verksamhet
-Enligt sektionens reglemente är den huvudsakliga verksamheten att
+D-UF: Daniel [d-uf@d.kth.se](mailto:d-uf@d.kth.se)
 
-* Inhämta teknologernas åsikter om studiesituationen och med dessa som utgångspunkt arbeta för att förbättra kvaliteten på utbildningen
-* Utvärdera information och beslut från KTH:s organ
-* Bevaka och söka förbättra den fysiska och psykosociala studiemiljön
+### Other interested students
+The Study Board is an open club, meaning that any chapter member is allowed to participate. For additional information, contact the President of the Board.
 
-### Studienämndsmöten
-Studienämndsmöten hålls minst en gång per period. Mötena är öppna för samtliga intresserade sektionsmedlemmar. Man kan alltid ta upp studierelaterade frågor eller Studienämndens verksamhet. Annars diskuterar vi aktuella problem i kurser, och funktionärerna berättar vad de gjort sedan föregående möte.
+## Operations
+According to the chapter regulations, the Study Board is supposed to
 
-Tidigare mötesprotokoll hittas [här](https://drive.google.com/drive/folders/0B5oC_KdJBCU7amRQb3RFb3VQbzg)
+* Gather the opinions of chapter members regarding the studying situation at KTH and use these to improve the education
+* Review information and decisions from the management of KTH
+* Monitor and improve the physical and psychosocial studying environment at KTH
+
+### Board Meetings
+The study board meetings are held at least once per period. The meetings are open to all chapter members, and one can always bring up education related questions or the Board operations. Otherwise, we discuss current problems in the education, and the board officials give reports on what they have been doing since the last meeting.
+
+Earlier meeting protocols can be found [here](https://drive.google.com/drive/folders/0B5oC_KdJBCU7amRQb3RFb3VQbzg)
