@@ -2,5 +2,5 @@
 
 #### Prylmånglaren
 
-Erik Nordlöf
+Erik Nordlöf</br>
 [prylis@d.kth.se](mailto:prylis@d.kth.se)

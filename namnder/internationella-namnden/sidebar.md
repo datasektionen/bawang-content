@@ -2,5 +2,5 @@
 
 #### Internationell studentkoordinator
 
-*(Vakant)*
+*(Vakant)*</br>
 [isc@d.kth.se](mailto:isc@d.kth.se)

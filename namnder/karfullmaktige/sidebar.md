@@ -4,14 +4,14 @@ Maila oss om du undrar över något om Kårfullmäktige, eller om du har försla
 
 #### Kårfullmäktigeledamöter
 
-Douglas Fischer
-David Puustinen
-Johan Hamredahl
-Joaquin Bonino Quintana
+Douglas Fischer</br>
+David Puustinen</br>
+Johan Hamredahl</br>
+Joaquin Bonino Quintana</br>
 [d-kf@d.kth.se](mailto:d-kf@d.kth.se)
 #### Kårfullmäktigesuppleanter
 
-Jakob Carlsson
+Jakob Carlsson</br>
 [d-kf+supp@d.kth.se](mailto:d-kf+supp@d.kth.se)
 
 ## Länkar

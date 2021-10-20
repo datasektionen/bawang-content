@@ -4,5 +4,5 @@
 
 #### Qulturattaché
 
-Arvid Eriksson
+Arvid Eriksson</br>
 [qulturattache@d.kth.se](mailto:qulturattache@d.kth.se)

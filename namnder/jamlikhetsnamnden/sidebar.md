@@ -2,6 +2,6 @@
 
 #### Jämlikhetsnämndens ordförande
 
-Ebba Bråtman
-Amanda Berg
+Ebba Bråtman</br>
+Amanda Berg</br>
 [jamlikordf@d.kth.se](mailto:jamlikordf@d.kth.se)
