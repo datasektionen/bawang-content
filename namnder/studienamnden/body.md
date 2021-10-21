@@ -17,7 +17,7 @@ Kontakta oss om du har frågor om eller kommentarer kring studierna eller studie
 
 Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Beroende på vilket år du går ska du höra av dig till din årskursrepresentant eller masterstudent!
 
-År 1 - Ej tillsatt ännu
+År 1 - Emil [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
 
 År 2 - Kei och Hannah: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
 
@@ -58,6 +58,8 @@ Om oss i vår korthet
 
 ### Studerandeskyddsombud
 Studerandeskyddsombudet verkar för en bättre studiemiljö under dina studier här på KTH. Studiemiljön är då såväl den fysiska som den psykosociala. Tveka inte på att höra av dig!
+
+SSO: Jesper [sso@d.kth.se](mailto:sso@d.kth.se)
 
 ### Studienämndens ordförande
 Studienämndens ordförande (SNO) leder arbetet i Studienämnden samt inom studiebevakning i allmänhet. SNO är en förtroendevald funktionärspost i Datasektionen och reglementet säger att SNO ska
