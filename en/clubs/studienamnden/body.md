@@ -38,7 +38,7 @@ Contact the president of the study board if you have an opinion: [sno@d.kth.se](
 ## About the Board
 
 Like every Chapter at KTH, the CS-Chapter has a Study Board which works with monitoring the education at CSC. The main purpose of the Board is to assess and improve education quality as well as studying environment in both the short and long term.
-For you, this means that we will give your feedback to teachers and other officials at CSC. You can reach us either via mail or by coming to our meetings. All meetings are announced at the [news page](/nyheter).
+For you, this means that we will give your feedback to teachers and other officials at CSC. You can reach us either via mail or by coming to our meetings. All meetings are announced at the [news page](/en/news).
 
 We also answer your questions regarding your studies at kth or redirect you to a more knowledgeable party.
 
