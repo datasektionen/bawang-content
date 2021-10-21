@@ -3,7 +3,7 @@
 ## In Short
 
 Never hesitate in contacting the Study Board if you have an opinion or question!
-You are always welcome to participate in our meetings (take a look at [news](/nyheter) for dates).
+You are always welcome to participate in our meetings (take a look at [news](/en/news) for dates).
 
 The Study Board supplies the students' opinions to teachers or individuals of concern at CSC in order to improve the CS education. If you have any thoughts regarding your education you can contact us via mail or come to our meetings. We are also responsible for answering your questions about the education, or redirecting you to someone who knows more.
  
