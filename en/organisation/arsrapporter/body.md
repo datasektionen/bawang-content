@@ -1,4 +1,6 @@
-# Årsrapporter
+# Annual Reports
+
+Unfortunately, the Annual Reports are only available in Swedish.
 
 ## 2020
 
