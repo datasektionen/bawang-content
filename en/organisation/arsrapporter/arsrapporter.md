@@ -1,5 +1,34 @@
-Årsrapporter
-============
+# Annual Reports
+
+## 2020
+
+- [Verksamhetsberättelse 2020](https://static.datasektionen.se/arsrapporter/verksamhetsberattelse_2020.pdf)
+- [Verksamhetsavstämning 2020](https://static.datasektionen.se/arsrapporter/verksamhetsavstamning_2020.pdf)
+- [Ekonomisk berättelse 2020](https://static.datasektionen.se/arsrapporter/ekonomisk_berattelse_2020.pdf)
+
+## 2019
+
+- [Verksamhetsberättelse 2019](https://static.datasektionen.se/arsrapporter/verksamhetsberattels_2019)
+- [Verksamhetsavstämning 2019](https://static.datasektionen.se/arsrapporter/verksamhetsavstamning_2019)
+- [Bokslut 2019](https://static.datasektionen.se/arsrapporter/ekonomisk_berattelse_2019)
+
+## 2018
+
+- [Verksamhetsberättelse 2018](https://static.datasektionen.se/arsrapporter/verksamhetsberattelse_2018)
+- [Verksamhetsavstämning 2018](https://static.datasektionen.se/arsrapporter/verksamhetsavstamning_2018)
+- [Bokslut 2018](https://static.datasektionen.se/arsrapporter/bokslut_2018)
+
+## 2017
+
+- [Verksamhetsberättelse 2017](https://static.datasektionen.se/arsrapporter/verksamhetsberattelse_2017.pdf)
+- [Verksamhetsavstämning 2017](https://static.datasektionen.se/arsrapporter/verksamhetsavstamning_2017.pdf)
+- [Bokslut 2017](https://static.datasektionen.se/arsrapporter/bokslut_2017.pdf)
+
+## 2016
+
+- [Verksamhetsberättelse 2016](https://static.datasektionen.se/arsrapporter/verksamhetsberattelse_2016.pdf)
+- [Verksamhetsavstämning 2016](https://static.datasektionen.se/arsrapporter/verksamhetsavstamning_2016.pdf)
+- [Ekonomisk berättelse, bokslut, balansrapport och resultatrapport 2016](https://static.datasektionen.se/arsrapporter/bokslut_2016.pdf)
 
 ## 2015
 -   [Verksamhetsberättelse 2015](https://static.datasektionen.se/arsrapporter/verksamhetsbera_ttelse_2015_1_.pdf)
