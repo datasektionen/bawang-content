@@ -49,7 +49,7 @@ Ni får välja ert årskursmärke på en Onsdagspub den 7 december. Först komme
 
 ## Ovveguide
 
-Som medlemmar i prlylmångleriet är vi *såklart* experter på Ovvekultur, och ska nu göra vårt bästa för att lära alla er andra också.
+Som medlemmar i prylmångleriet är vi *såklart* experter på Ovvekultur, och ska nu göra vårt bästa för att lära alla er andra också.
 
 För medlemmar i sektionen är det viktigaste plagget i garderoben såklart Ovven. Ovven pryds av märken och används på gasquer och andra studentevent som inte har en specifik klädkod. Ovven blir snabbt det dyraste plagget i din garderob när du samlar alla märken, så var rädd om den!
 
@@ -63,10 +63,11 @@ Följande beskriver hur vi på datasektionen brukar göra med våra Ovvar. Andra
 
 Ovven får endast tvättas om bäraren är i Ovven. Det innebär att du måste bada eller duscha i din Ovve! Prylmångleriet anordnar varje år på våren eventet Plask, där vi tillsammans badar i våra Ovvar. Du får inte sy märken som täcker ryggens sigill (alltså deltat med en krans runt). Det finns många studenter som bär ovve, därför bör du sy ditt namn eller smeknamn längs framsidan på Ovvens högra ben, detta kallas för ditt Ovvenamn.
 Enligt tradition sätter vi vissa märken på specifika ställen:
-* KTH-märket ska sitta på vänster axel
-* Datasektionens märke ska sitta över hjärtat
-* Årskursmärket ska sitta på motsatt sida i samma höjd som sektionsmärket
-* NØllemärken sitter i en vertikal rad på vänster ben där det tidigaste eventet sitter längst ner och nØllegasquemärket högst upp
+
+- KTH-märket ska sitta på vänster axel
+- Datasektionens märke ska sitta över hjärtat
+- Årskursmärket ska sitta på motsatt sida i samma höjd som sektionsmärket
+- NØllemärken sitter i en vertikal rad på vänster ben där det tidigaste eventet sitter längst ner och nØllegasquemärket högst upp
 
 Dataloger brukar ha Ovven nedcabbad vid användning. Det innebär att man enbart använder benen av Ovven och har ärmarna knutna runt midjan eller låter ärmarna hänga löst vid sidan av Ovven. Rykten säger att en ärm på Ovven får plats med ett helt flak i sig...
 
