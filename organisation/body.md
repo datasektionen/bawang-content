@@ -21,7 +21,7 @@ Sektionsmötet, förkortat SM, är sektionens högsta beslutande organ. Det kan 
 DM är sektionens styrelsemöten. Alla sektionsmedlemmar har närvarorätt och yttranderätt men det är bara styrelsen som kan rösta. Funktionärer och medlemmar är varmt välkomna men förväntas inte komma om det inte är någon speciellt intressant punkt på dagordningen.
 
 ## Verksamhet
-<img src="https://static.datasektionen.se/organisation/karta-2017-01-31.jpg" style="width:100%;"  />
+<img src="https://dsekt-assets.s3.amazonaws.com/organisation/karta-2017-01-31.jpg" style="width:100%;"  />
 
 Sektionen har en bred verksamhet som våra medlemmar kan ta del av. Verksamheten leds av styrelsen och genomförs av våra förtroendevalda funktionärer och nämnder. Varje funktionär är ansvarig för en specifik del av verksamheten och vi har nämnder för de större verksamhetsområdena.
 
