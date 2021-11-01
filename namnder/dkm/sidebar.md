@@ -11,4 +11,4 @@ Sortiment och annat bar-relaterat?</br>
 
 ## Ansökan till DKM
 
-Vi brukar vanligtvis ta in nya medlemmar på hösten. Ansökan för DKM 20/21 har stängt!
+Vi brukar vanligtvis ta in nya medlemmar på hösten. Ansökan för DKM 21/22 har stängt!
