@@ -11,8 +11,6 @@ dÅre
 
 [METAspexet](http://metaspexet.se)
 
-[D-Dagen](https://d-dagen.se/)
-
 [Vårbalen](https://www.facebook.com/dvarbalen/?fref=tag)
 
 [dJulkalendern](https://djul.datasektionen.se/)
