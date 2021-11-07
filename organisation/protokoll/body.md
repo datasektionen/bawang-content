@@ -355,7 +355,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2021
 
-29/10 DM-innan-Budget-SM ([beslutsprotokoll](yoggi.datasektionen.se/beslutsprotokoll/dm_innan_budget_sm_2021))
+29/10 DM-innan-Budget-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_budget_sm_2021))
 
 6/10 Ett-lättat-DM ([beslutsprotokoll](yoggi.datasektionen.se/beslutsprotokoll/ett_lattat_dm_2021))
 
