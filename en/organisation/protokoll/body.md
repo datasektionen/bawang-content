@@ -351,7 +351,7 @@ please reach out to [secretary](mailto:sekr@d.kth.se).
 
 ###2021
 
-29/10 DM-before-Budget-CM ([action minutes](yoggi.datasektionen.se/beslutsprotokoll/dm_innan_budget_sm_2021))
+29/10 DM-before-Budget-CM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_budget_sm_2021))
 
 6/10 An-eased-DM ([action minutes](yoggi.datasektionen.se/beslutsprotokoll/ett_lattat_dm_2021))
 
