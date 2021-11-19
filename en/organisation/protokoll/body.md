@@ -7,6 +7,10 @@ please reach out to [secretary](mailto:sekr@d.kth.se).
 
 ###2021
 
+9/11 Budget-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/budget_sm_2021))
+
+29/05 Extra-SM 2 ([action minutes](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2_2021))
+
 18/05, 20/05, 26/05 Val-SM ([action minutes](https://static.datasektionen.se/beslutsprotokoll/val_sm_2021))
 
 02/03, 04/03 Revisions-SM ([discussion minutes](https://static.datasektionen.se/protokoll/revisions_sm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/revisions_sm_2021))
