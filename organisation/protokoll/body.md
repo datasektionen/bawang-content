@@ -1,13 +1,11 @@
 Protokoll
 =========
 
-Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs upp på denna sida. Vid frågor angående protokoll, kontakta Datasektionens [sekreterare](mailto:sekr@d.kth.se).
+Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs upp på denna sida. Vid frågor angående protokoll, kontakta Datasektionens sekreterare.
 
 ## Sektionsmöten, SM
 
 ###2021
-
-9/11 Budget-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/budget_sm_2021))
 
 29/05 Extra-SM 2 ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2_2021))
 
