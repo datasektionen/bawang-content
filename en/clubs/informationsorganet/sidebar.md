@@ -1,8 +1,11 @@
 ## Contact
 
-#### Systems responsible
-Gábor Nagy 
-d-sys@d.kth.se
+#### Head of IT
 
-#### The IOR Slack
-URL: https://ior.slack.com
+Niklas Vatn </br>
+Axel Elmarsson </br>
+[d-sys@d.kth.se](mailto:d-sys@d.kth.se)
+
+#### Slack
+
+[https://ior.slack.com](https://ior.slack.com)
