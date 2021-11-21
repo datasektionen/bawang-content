@@ -1,1 +1,1 @@
-[I want access to Datasektionen's GitHub](dsekt.se/github-access)
+[I want access to Datasektionen's GitHub](https://dsekt.se/github-access)
