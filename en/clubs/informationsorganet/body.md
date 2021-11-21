@@ -1,1 +1,1 @@
-Crash & Bränn, där saker kraschar och/eller brinner!
+[I want access to Datasektionen's GitHub](dsekt.se/github-access)
