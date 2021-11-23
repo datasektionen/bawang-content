@@ -61,7 +61,7 @@ _Jennifer har inte announceat det än men jag är den egentliga klubbm._
 
 ### Oscar Knowles
 #### Ekonomimästare  
-**Favoritdrink:** Utången Göteborgs-öl   
+**Favoritdrink:** Utgången Göteborgs-öl   
 **Gillar:** Alla sorters bollar  
 **Ogillar:** P3 som äter skagen efter 22  
 **Specialitet:** Känner alla  
@@ -165,13 +165,13 @@ _Nu såg jag någon som var gravid och jag blev så sugen på att bära barn_
 **Ogillar:** 🤮  
 **Specialitet:** Studsa   
 **Citat:**
-_Vem FAAAN ska skål?_  
+_Vem FAAAN sa skål?_  
 
 <img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/filip.png">  
 
 ### Flip Teglund
 #### Hov1Knatte  
-**Favoritdrink:** Godtycklig dryck ut plunta  
+**Favoritdrink:** Godtycklig dryck ur plunta  
 **Gillar:**  Tentakler  
 **Ogillar:** Folk som snor hans tentakler!  
 **Specialitet:** Diska grönsaker med Tom  
