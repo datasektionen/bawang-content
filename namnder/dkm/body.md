@@ -46,7 +46,7 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 **Citat:**
 _Om det är något som jag är bra på så är det bara att applådera._  
 
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/alva.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/alva1.png">  
 
 ### Alva Välimäki 
 #### Vice Klubbmästare  
@@ -94,7 +94,7 @@ _Maskeringstejp är inte samma som silvertejp ,wooops fel tejp..._
 
 ### Casper Reuterlöv
 #### Barmästare  
-**Favoritdrink:** Whiskey på flaska  
+**Favoritdrink:** 24 flaskor malibu   
 **Gillar:** Words...  
 **Ogillar:** Att enkronan är värd två  
 **Specialitet:** Coola föräldrar  
@@ -155,6 +155,83 @@ _Jag kanske är Jesus_
 **Specialitet:** Franska  
 **Citat:**
 _Nu såg jag någon som var gravid och jag blev så sugen på att bära barn_  
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/maja.png">  
+
+### Maja Larsson 
+#### StudsKnatte  
+**Favoritdrink:** Ingången Göteborgs-öl  
+**Gillar:** Icke-skål  
+**Ogillar:** 🤮  
+**Specialitet:** Studsa   
+**Citat:**
+_Vem FAAAN ska skål?_  
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/filip.png">  
+
+### Flip Teglund
+#### Hov1Knatte  
+**Favoritdrink:** Godtycklig dryck ut plunta  
+**Gillar:**  Tentakler  
+**Ogillar:** Folk som snor hans tentakler!  
+**Specialitet:** Diska grönsaker med Tom  
+**Citat:**
+_Jag är Hov1, MANNEN!_  
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/alva.png">  
+
+### Alva Sundström
+#### AlfaKnatte  
+**Favoritdrink:** Norrlands ("säkert" - Alva)   
+**Gillar:** Stekta kanelbullar?  
+**Ogillar:** Sitt namn  
+**Specialitet:** Vertikala Masken  
+**Citat:**
+_Im A SNAKE... sssssssss_  
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/olivia.png">  
+
+### Olivia Aronsson
+#### PensionärKnatte 
+**Favoritdrink:** Gröna JÄGAREN (akta dig)   
+**Gillar:** Se random saker  
+**Ogillar:**  Se random saker   
+**Specialitet:** Skräddarsydda lösningar  
+**Citat:**
+_Jag måste hålla händera i schack_  
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/tom.png">  
+
+### Tom Rehnström
+#### FnatteKnatte  
+**Favoritdrink:** Morotsbaileys  
+**Gillar:**  Att ha TRE kanter (måste vara tre)  
+**Ogillar:**  Oveganska Grönsaker   
+**Specialitet:** Karateéee  
+**Citat:** 
+_Jag åt en halv sen blev jag sprutad._  
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/sara.png">  
+
+### Sara Strandberg
+#### KnatteKnatte
+**Favoritdrink:** GT (jag frågade)  
+**Gillar:** Bananer  
+**Ogillar:** När bananer är kycklingar  
+**Specialitet:** Bob Ross  
+**Citat:**
+_Jag bara är jesus, ASSÅ!_  
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/markus.png">  
+
+### Markus Videfors
+#### TjatteKnatte
+**Favoritdrink:** Markus mustiga mix  
+**Gillar:** Vara zzznabb  
+**Ogillar:** Låga tak  
+**Specialitet:** Operaröst  
+**Citat:**
+_Man ser en gris… Nån säger pussa…_ 
 
 ## Cliff
 
