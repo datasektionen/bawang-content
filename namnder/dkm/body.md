@@ -38,7 +38,7 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 <img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/jennifer.png">  
 
 ### Jennifer Larsson
-#### Klubbmäsare  
+#### Klubbmästare  
 **Favoritdrink:** Inte carlsberg   
 **Gillar:** Skapa och sabba relationer  
 **Ogillar:** Footfetisch i ögat  
