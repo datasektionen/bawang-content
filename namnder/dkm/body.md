@@ -46,7 +46,7 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 **Citat:**
 _Om det är något som jag är bra på så är det bara att applådera._  
 
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/alva1.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/alva.png">  
 
 ### Alva Välimäki 
 #### Vice Klubbmästare  
@@ -178,7 +178,7 @@ _Vem FAAAN ska skål?_
 **Citat:**
 _Jag är Hov1, MANNEN!_  
 
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/alva.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/alva-knatte.png">  
 
 ### Alva Sundström
 #### AlfaKnatte  
