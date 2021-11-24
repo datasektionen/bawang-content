@@ -2,7 +2,7 @@
 Innehåll på https://datasektionen.se
 
 # Hur fungerar vår hemsida? 🤔
-Vår hemsida består av tre delar: [bawang](https://github.com/datasektionen/bawang), [taitain](https://github.com/datasektionen/taitan) och [bawang-content](https://github.com/datasektionen/bawang-content).
+Vår hemsida består av tre delar: [bawang](https://github.com/datasektionen/bawang), [taitan](https://github.com/datasektionen/taitan) och [bawang-content](https://github.com/datasektionen/bawang-content).
 
 ### bawang-content
 Detta repo. Här skrivs allt innehåll i Markdown.
