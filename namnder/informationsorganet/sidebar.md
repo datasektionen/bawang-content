@@ -12,5 +12,7 @@ Axel Elmarsson </br>
 
 #### Github
 
-[Datasektionens Github](https://dsekt.se/github-link-website)
+[Datasektionens Github-organisation](https://dsekt.se/github-link-website)
+
+
 [Jag vill ha access till Datasektionens GitHub](https://dsekt.se/github-access)

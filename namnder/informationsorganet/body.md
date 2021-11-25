@@ -16,7 +16,7 @@ Här har listar vi några system som tidigare studenter har byggt och sen dess a
 ### Nuvarande projekt (uppdaterad november 2021)
 
 Budget HD: Vårt nuvrande budgetsystem har sina problem och därför har utvecklingen av ett nytt, bättre (förhoppningsvis) system påbörjats, i HD.
-dUrn 2.0: Vårt nuvarande system för urnval (se [reglementets 3.12.7](https://styrdokument.datasektionen.se/reglemente#3-12-6-sekretess)för mer information) behöver göras om lite grann. Systemet byggs om i Go och är tänkt att vara klart till urnvalen vid Glögg-SM 2021.
+dUrn 2.0: Vårt nuvarande system för urnval (se [reglementets 3.12.7](https://styrdokument.datasektionen.se/reglemente#3-12-6-sekretess) för mer information) behöver göras om lite grann. Systemet byggs om i Go och är tänkt att vara klart till urnvalen vid Glögg-SM 2021.
 
 ## Engagera dig i nämnden
 
