@@ -9,3 +9,8 @@ Axel Elmarsson </br>
 #### Slack
 
 [https://ior.slack.com](https://ior.slack.com)
+
+#### Github
+
+Our [Github](https://dsekt.se/github-link-website) organisation.
+[I want access to Datasektionen's GitHub](https://dsekt.se/github-access)
