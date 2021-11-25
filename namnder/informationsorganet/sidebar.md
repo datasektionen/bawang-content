@@ -8,4 +8,9 @@ Axel Elmarsson </br>
 
 #### IOR-slacken
 
-URL: [https://ior.slack.com](https://ior.slack.com)
+[https://ior.slack.com](https://ior.slack.com)
+
+#### Github
+
+[Datasektionens Github](https://dsekt.se/github-link-website)
+[Jag vill ha access till Datasektionens GitHub](https://dsekt.se/github-access)
