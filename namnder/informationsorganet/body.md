@@ -9,14 +9,28 @@ Sektionens system finns på vår [Github](https://dsekt.se/github-link-website),
 ### Urval av systemen
 
 Här har listar vi några system som tidigare studenter har byggt och sen dess använts flitigt:
-[Cashflow](https://cashflow.datasektionen.se) är nog vårt mest använda system. Här kan du registrera utlägg som du gjort för sektionen och så betalar Kassör (eller annan ansvarig) så snart som möjligt ut pengarna till dig. Smidigt, va??
-[Mentometer](https://mentometer.datasektionen.se) används för att hålla vissa val under sektionsmöten (SM).
-[aaallt](https://aaallt.datasektionen.se/) är kanske inte vårt mest spännade system, men här kan du klicka dig vidare till nästan alla andra system sektionen har.
+<ul>
+  <li>
+    [Cashflow](https://cashflow.datasektionen.se) är nog vårt mest använda system. Här kan du registrera utlägg som du gjort för sektionen och så betalar Kassör (eller annan ansvarig) så snart som möjligt ut pengarna till dig. Smidigt, va??
+  </li>
+  <li>
+    [Mentometer](https://mentometer.datasektionen.se) används för att hålla vissa val under sektionsmöten (SM).
+  </li>
+  <li>
+    [aaallt](https://aaallt.datasektionen.se/) är kanske inte vårt mest spännade system, men här kan du klicka dig vidare till nästan alla andra system sektionen har.
+  </li>
+</ul>
 
 ### Nuvarande projekt (uppdaterad november 2021)
 
-Budget HD: Vårt nuvrande budgetsystem har sina problem och därför har utvecklingen av ett nytt, bättre (förhoppningsvis) system påbörjats, i HD.
-dUrn 2.0: Vårt nuvarande system för urnval (se [reglementets 3.12.7](https://styrdokument.datasektionen.se/reglemente#3-12-6-sekretess) för mer information) behöver göras om lite grann. Systemet byggs om i Go och är tänkt att vara klart till urnvalen vid Glögg-SM 2021.
+<ul>
+  <li>
+    Budget HD: Vårt nuvrande budgetsystem har sina problem och därför har utvecklingen av ett nytt, bättre (förhoppningsvis) system påbörjats, i HD.
+  </li>
+  <li>
+    dUrn 2.0: Vårt nuvarande system för urnval (se [reglementets 3.12.7](https://styrdokument.datasektionen.se/reglemente#3-12-6-sekretess)för mer information) behöver göras om lite grann. Systemet byggs om i Go och är tänkt att vara klart till urnvalen vid Glögg-SM 2021.
+  </li>
+</ul>
 
 ## Engagera dig i nämnden
 
