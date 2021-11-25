@@ -4,7 +4,7 @@ We are happy that you found IOR's page. We are also known as the _Donkeys_, whic
 
 ## The Chapter’s systems
 
-The chapter’s systems are available on our [Github](https://dsekt.se/github-link-website), if you want access to see or edit something, you can request access through this [form](https://dsekt.se.github-access).
+The chapter’s systems are available on our [Github](https://dsekt.se/github-link-website), if you want access to see or edit something, you can request access through this [form](https://dsekt.se/github-access).
 
 ### Selection of systems
 
