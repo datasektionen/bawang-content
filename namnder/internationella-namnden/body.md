@@ -12,7 +12,7 @@ Genom engagemang i nämnden kan organisatörer samla timmar mot de 0.2 bonuspoä
 
 Är du intresserad av att gå med i nämnden kan du ansöka om medlemskap i organisatörgruppen: [Facebookgrupp](https://www.facebook.com/groups/2151534464869750/)
 
-Gilla gärna nämndens facebooksida för att få uppdateringar om gruppens evenemang: [Facebooksida]((https://www.facebook.com/METAInternationalGroup/?eid=ARDdqkLUe2uRu9PZyhqSOZSHFii_V4D0Pyur3l29_TbwBwnJdzM-PPi6HzHEvk_GjVNlp7DBRUWzpQBj)
+Gilla gärna nämndens facebooksida för att få uppdateringar om gruppens evenemang: [Facebooksida](https://www.facebook.com/METAInternationalGroup/?eid=ARDdqkLUe2uRu9PZyhqSOZSHFii_V4D0Pyur3l29_TbwBwnJdzM-PPi6HzHEvk_GjVNlp7DBRUWzpQBj)
 
 ---
 
@@ -28,4 +28,4 @@ By helping out in the group organizers can collect hours to count toward their 0
 
 If you are interested in joining the group as an organizer, then apply for membership in the organizers' group: [Facebook group](https://www.facebook.com/groups/2151534464869750/)
 
-Also, feel free to like the group's facebook page in order to receive news of the group's activities: [Facebook page]((https://www.facebook.com/METAInternationalGroup/?eid=ARDdqkLUe2uRu9PZyhqSOZSHFii_V4D0Pyur3l29_TbwBwnJdzM-PPi6HzHEvk_GjVNlp7DBRUWzpQBj)
+Also, feel free to like the group's facebook page in order to receive news of the group's activities: [Facebook page](https://www.facebook.com/METAInternationalGroup/?eid=ARDdqkLUe2uRu9PZyhqSOZSHFii_V4D0Pyur3l29_TbwBwnJdzM-PPi6HzHEvk_GjVNlp7DBRUWzpQBj)
