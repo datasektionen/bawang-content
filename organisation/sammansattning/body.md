@@ -21,6 +21,8 @@ __Kontaktfunktionärer__
 
 * Revisorer
 
+Ordförande är nåbar på ordf@d.kth.se
+
 ## Vice sektionsordförande
 
 Vice ordförandens viktigaste roll är att assistera och avlasta
@@ -42,16 +44,22 @@ __Kontaktfunktionärer__
 
 * Projektledare för Sångboksgruppen
 
+Vice ordförande är nåbar på vordf@d.kth.se
+
 ## Kassör
 
 Kassören håller helt enkelt reda på sektionens ekonomiska bit. Det
 gäller deklarationer, fakturor och naturligtvis bokföringen. Kassören
 och sektionsordföranden är de som har firmateckningsrätt för sektionen.
 
+Kassör är nåbar på kassor@d.kth.se
+
 ## Vice kassör
 
 Vice kassör arbetar tillsammans med kassören med sektionens ekonomi och finns
 som extra stöd i ekonomiska frågor och arbetar naturligtvis även med bokföring.
+
+Vice kassör är nåbar på vkassor@d.kth.se
 
 ## Sekreterare
 
@@ -67,6 +75,7 @@ __Kontaktfunktionärer__
 
 * Kårfullmäktigeledamöter
 
+Sekreterare är nåbar på sekr@d.kth.se
 
 ## Ledamot för utbildningsfrågor
 
@@ -88,6 +97,7 @@ __Kontaktfunktionärer__
 
 * Studerandeskyddsombud
 
+Ledamot för utbildningsfrågor är nåbar på d-uf@d.kth.se
 
 ## Ledamot för studiesociala frågor
 
@@ -106,7 +116,6 @@ på sektionen
 
 Det är viktigt att framhärda att miljö innefattar såväl den fysiska som
 den psykosociala miljön.
-
 
 __Kontaktfunktionärer__
 
@@ -138,6 +147,7 @@ __Kontaktfunktionärer__
 
 * D-Fest
 
+Ledamot för studiesociala frågor är nåbar på d-ssf@d.kth.se
 
 ## Ledamot för näringsliv och kommunikation
 
@@ -168,3 +178,5 @@ __Kontaktfunktionärer__
 * Sektionshistoriker
 
 * Chefredaqtör
+
+Ledamot för näringsliv och kommunikation frågor är nåbar på d-nok@d.kth.se
