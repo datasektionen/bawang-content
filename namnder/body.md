@@ -45,6 +45,10 @@ Project Pride 2021
 
 Project rewind: Omtagningen
 
+Project Pride 2022
+
+Jubileum 2023
+
 
 ## Tidigare nämnder och föreningar på Datasektionen
 
