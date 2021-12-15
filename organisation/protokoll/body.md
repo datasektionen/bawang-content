@@ -7,6 +7,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2021
 
+7/12, 14/12 Glögg-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/glogg_sm_2021))
+
 9/11 Budget-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/budget_sm_2021))
 
 29/05 Extra-SM 2 ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2_2021))

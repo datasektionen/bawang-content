@@ -7,6 +7,8 @@ please reach out to [secretary](mailto:sekr@d.kth.se).
 
 ###2021
 
+7/12, 14/12 Glögg-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/glogg_sm_2021))
+
 9/11 Budget-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/budget_sm_2021))
 
 29/05 Extra-SM 2 ([action minutes](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2_2021))
