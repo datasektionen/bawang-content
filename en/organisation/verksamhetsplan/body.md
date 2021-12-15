@@ -17,12 +17,10 @@ Operational Plans for Projects
 
 - [dJulkalendern 2020](https://static.datasektionen.se/verksamhetsplaner/vp_djulkalendern_2020_v2.pdf)
 - [Project Pride](https://static.datasektionen.se/verksamhetsplaner/vp_project_pride_2019)
-- [dÅre 2021](https://static.datasektionen.se/verksamhetsplaner/vp_dare_2021.pdf)
-- [METAspexet 2020](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_1920.pdf)
 - [Studs 2020](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2020)
-- [Vårbalen 2021](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2021)
 - [dForum 2021](https://static.datasektionen.se/verksamhetsplaner/vp_dforum_2021)
 - [Studs 2021](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2021)
 - [METAspexet 2021](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_21.pdf)
 - [Vårbalken 2021](https://static.datasektionen.se/verksamhetsplaner/vp_varbalken_2021)
-
+- [METAspexet 2022](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_22)
+- [Vårbalen 2022](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2022)
