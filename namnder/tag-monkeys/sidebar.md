@@ -4,6 +4,6 @@ Behöver du hjälp eller har frågor kring grafisk design, tveka inte att kontak
 
 #### Datas Art Director, DAD
 
-*(Vakant)*</br>
+Jessica Gorwat
 [dad@d.kth.se](mailto:dad@d.kth.se)
 
