@@ -357,6 +357,8 @@ please reach out to [secretary](mailto:sekr@d.kth.se).
 
 ###2021
 
+16/12 Was-It-Not-Just-CM-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/var_det_inte_nyss_sm_dm_2021))
+
 25/11 DM-before-Mulled-Wine-CM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_glogg_sm_2021))
 
 29/10 DM-before-Budget-CM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_budget_sm_2021))
