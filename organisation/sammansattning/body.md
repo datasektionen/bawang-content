@@ -179,4 +179,4 @@ __Kontaktfunktionärer__
 
 * Chefredaqtör
 
-Ledamot för näringsliv och kommunikation frågor är nåbar på d-nok@d.kth.se
+Ledamot för näringsliv och kommunikation är nåbar på d-nok@d.kth.se
