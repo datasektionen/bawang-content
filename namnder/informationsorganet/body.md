@@ -28,7 +28,7 @@ Här har listar vi några system som tidigare studenter har byggt och sen dess a
     Budget HD: Vårt nuvarande budgetsystem har sina problem och därför har utvecklingen av ett nytt, bättre (förhoppningsvis) system påbörjats, i HD.
   </li>
   <li>
-    dUrn 2.0: Vårt nuvarande system för urnval (se [reglementets 3.12.7](https://styrdokument.datasektionen.se/reglemente#3-12-7-Urnval) för mer information) behöver göras om lite grann. Systemet byggs om med en backend i Go och frontend i react.
+    dUrn 2.0: Vårt nuvarande system för urnval (se [reglementets 3.12.7](https://styrdokument.datasektionen.se/reglemente#3-12-6-sekretess) för mer information) behöver göras om lite grann. Systemet byggs om med en backend i Go och frontend i React.
   </li>
 </ul>
 
