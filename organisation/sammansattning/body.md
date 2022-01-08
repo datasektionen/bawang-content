@@ -21,7 +21,9 @@ __Kontaktfunktionärer__
 
 * Revisorer
 
-Ordförande är nåbar på ordf@d.kth.se
+__Kontakt__
+
+Ordförande är nåbar på [ordf@d.kth.se](mailto:ordf@d.kth.se)
 
 ## Vice sektionsordförande
 
@@ -44,7 +46,9 @@ __Kontaktfunktionärer__
 
 * Projektledare för Sångboksgruppen
 
-Vice ordförande är nåbar på vordf@d.kth.se
+__Kontakt__
+
+Vice ordförande är nåbar på [vordf@d.kth.se](mailto:vordf@d.kth.se)
 
 ## Kassör
 
@@ -52,14 +56,18 @@ Kassören håller helt enkelt reda på sektionens ekonomiska bit. Det
 gäller deklarationer, fakturor och naturligtvis bokföringen. Kassören
 och sektionsordföranden är de som har firmateckningsrätt för sektionen.
 
-Kassör är nåbar på kassor@d.kth.se
+__Kontakt__
+
+Kassör är nåbar på [kassor@d.kth.se](mailto:kassor@d.kth.se)
 
 ## Vice kassör
 
 Vice kassör arbetar tillsammans med kassören med sektionens ekonomi och finns
 som extra stöd i ekonomiska frågor och arbetar naturligtvis även med bokföring.
 
-Vice kassör är nåbar på vkassor@d.kth.se
+__Kontakt__
+
+Vice kassör är nåbar på [vkassor@d.kth.se](mailto:vkassor@d.kth.se)
 
 ## Sekreterare
 
@@ -75,7 +83,9 @@ __Kontaktfunktionärer__
 
 * Kårfullmäktigeledamöter
 
-Sekreterare är nåbar på sekr@d.kth.se
+__Kontakt__
+
+Sekreterare är nåbar på [sekr@d.kth.se](mailto:sekr@d.kth.se)
 
 ## Ledamot för utbildningsfrågor
 
@@ -97,7 +107,9 @@ __Kontaktfunktionärer__
 
 * Studerandeskyddsombud
 
-Ledamot för utbildningsfrågor är nåbar på d-uf@d.kth.se
+__Kontakt__
+
+Ledamot för utbildningsfrågor är nåbar på [d-uf@d.kth.se](mailto:d-uf@d.kth.se)
 
 ## Ledamot för studiesociala frågor
 
@@ -147,7 +159,9 @@ __Kontaktfunktionärer__
 
 * D-Fest
 
-Ledamot för studiesociala frågor är nåbar på d-ssf@d.kth.se
+__Kontakt__
+
+Ledamot för studiesociala frågor är nåbar på [d-ssf@d.kth.se](mailto:d-ssf@d.kth.se)
 
 ## Ledamot för näringsliv och kommunikation
 
@@ -179,4 +193,6 @@ __Kontaktfunktionärer__
 
 * Chefredaqtör
 
-Ledamot för näringsliv och kommunikation är nåbar på d-nok@d.kth.se
+__Kontakt__
+
+Ledamot för näringsliv och kommunikation är nåbar på [d-nok@d.kth.se](mailto:d-nok@d.kth.se)
