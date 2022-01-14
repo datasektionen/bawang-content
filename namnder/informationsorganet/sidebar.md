@@ -6,6 +6,10 @@ Niklas Vatn </br>
 Axel Elmarsson </br>
 [d-sys@d.kth.se](mailto:d-sys@d.kth.se)
 
+#### Systemgrupp
+
+[ior@d.kth.se](mailto:ior@d.kth.se)
+
 #### IOR-slacken
 
 [https://ior.slack.com](https://ior.slack.com)
