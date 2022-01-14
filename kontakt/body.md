@@ -36,9 +36,9 @@ D-rektoratet, på adressen [drek@d.kth.se](mailto:drek@d.kth.se). Du kan
 även kontakta Datasektionens Ordförande direkt:
 
 **Ordförande**<br />
-Johan Hamredahl<br />
+David Puustinen<br />
 E-post: [ordf@d.kth.se](mailto:ordf@d.kth.se)<br />
-[+46 73 042 74 36](tel: +46 73 042 74 36)
+[+46 70 534 41 62](tel: +46 70 534 41 62)
 
 ## Sektionsinformation
 
