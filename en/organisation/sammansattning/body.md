@@ -39,6 +39,9 @@ The Tresurer is responsible for the most things related to economics.
 This includes declarations, bills, payments, and accounting. The treasurer
 is an authorized signatory for the chapter.
 
+## Vice Treasurer
+The vice treasurer assists the threasuerer with most things related to economics.
+
 ## The Secretary
 
 The Secretary is responsible for documenting D-directorate and Chapter Meetings
