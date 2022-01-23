@@ -27,7 +27,7 @@ För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 Noah Hopkins<br />
 E-post: [info@d.kth.se](mailto:info@d.kth.se)<br />
 
-Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Datasektionens Informationsorgan, IOR, på adressen [ior@d.kth.se](mailto:ior@d.kth.se).
+Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Systemansvarig på [d-sys@d.kth.se](mailto:d-sys@d.kth.se) eller Datasektionens Informationsorgan, IOR, på adressen [ior@d.kth.se](mailto:ior@d.kth.se).
 
 ## Styrelsen
 
