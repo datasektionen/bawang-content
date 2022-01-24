@@ -9,6 +9,18 @@ läsa längre ner på sidan.
 går det även att maila D-rektoratet.
 
 # Innehavare av Hedersdeltat
+## Mottagare 2021
+
+<dl>
+<dt>
+</dt>
+<dd>
+<a href="#jesla"> Jesper Larsson </a>, Tricesimus Tertius
+</dd>
+<dd>
+<a href="#gabna"> Gàbor Nagy </a>, Tricesimus Tertius
+</dd>
+</dl>
 
 ## Mottagare 2020
 
