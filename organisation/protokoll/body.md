@@ -5,6 +5,10 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ## Sektionsmöten, SM
 
+##2022
+
+27/01 Extra-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/extra_sm_2022_jan))
+
 ###2021
 
 7/12, 14/12 Glögg-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/glogg_sm_2021))
