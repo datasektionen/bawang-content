@@ -2,11 +2,22 @@ The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It i
 
 # Nominations to the Honorary Delta
 
-Nominations to the Honorary Delta 2021 are made in this [form](https://docs.google.com/forms/d/e/1FAIpQLSdkNjAdltq36f9UHgUZ1D0cG13BiBkE7tpR0_mU9DacAzCWfw/viewform?usp=sf_link)! You can also make nominations by emailing the [d-Directorate](mailto:drek@d.kth.se) (the board of the chapter).
+Nominations to the Honorary Delta 2022 are made in this [form](https://docs.google.com/forms/d/e/1FAIpQLScZ0E0wqSuxDtRSt0z4eFycrAJdGEqVbpkB821_YvnXfM1mCQ/viewform)! You can also make nominations by emailing the [d-Directorate](mailto:drek@d.kth.se) (the board of the chapter).
 
 
 
 #Innehavare av Hedersdeltat
+
+## Mottagare 2020
+
+<dl>
+<dt>
+</dt>
+<dd>
+Cristian Osorio Bretti, Tricesimus Tertius
+
+</dd>
+</dl>
 
 ## Mottagare 2019
 
