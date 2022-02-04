@@ -17,7 +17,7 @@ Kontakta oss om du har frågor om eller kommentarer kring studierna eller studie
 
 Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Beroende på vilket år du går ska du höra av dig till din årskursrepresentant eller masterstudent!
 
-År 1 - Emil [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
+År 1 - Emil och Mary [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
 
 År 2 - Kei och Hannah: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
 
@@ -29,7 +29,7 @@ Master - Sara, Kitty, Elsa: [master@d.kth.se](mailto:master@d.kth.se)
 ### Studiemiljö
 
 Kalla salar? Oergonomiska stolar? Är det för hög ljudnivå? Kontakta SSO om du har en åsikt!
-SSO: Jesper [sso@d.kth.se](mailto:sso@d.kth.se)
+SSO: Emil [sso@d.kth.se](mailto:sso@d.kth.se)
 
 ### Övriga frågor
 
@@ -74,7 +74,7 @@ SNO är intresserad av studenternas åsikter om både utbildningen och Studienä
 ### Programansvarig student
 Programansvarig student (PAS) arbetar tillsammans med Studienämndens ordförande för att förbättra utbildningens kvalitet. PAS ansvarar huvudsakligen för kontakten till lärare samt utbildningsansvariga på EECS-skolan, och arbetar i allmänhet med det mer långsiktiga fokuset i Studienämnden.
 
-PAS: Hannah [pas@d.kth.se](mailto:pas@d.kth.se)
+PAS: Abhinav [pas@d.kth.se](mailto:pas@d.kth.se)
 
 ### Styrelseledamot för utbildningsfrågor
 Styrelseledamot för utbildningsfrågor (D-UF) verkar för en bättre utbildningskvalitet på sektionen. Tanken är att D-UF ska ha en total bild över utbildningen. Vidare ansvarar ledamoten, D-UF, för kontakten mellan styrelsen och Studienämndens ordförande/Programansvarig student.

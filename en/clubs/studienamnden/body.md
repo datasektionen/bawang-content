@@ -17,7 +17,7 @@ Contact us if you have questions or opinions regarding the education or the stud
 
 Are your lectures incomprehensible? Are there too few opportunities to present your work? Or do you want someone to act as a middle-man between you and the school? Rest assured, we have got your back! Depending on what year you are in, you can always contact your designated year representative or master representative!
 
-Year 1 - Emil [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
+Year 1 - Emil and Mary [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
 
 Year 2 - Kei and Hannah: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
 
@@ -29,7 +29,7 @@ Master - Sara, Kitty, Elsa: [master@d.kth.se](mailto:master@d.kth.se)
 ### Studying environment
 
 Cold lecture halls? Unergonomic chairs? Is there too much noise? Contact our SSO if you have an opinion!
-SSO: [sso@d.kth.se](mailto:sso@d.kth.se)
+SSO: Emil [sso@d.kth.se](mailto:sso@d.kth.se)
 
 ### Other questions
 
@@ -72,7 +72,7 @@ The SNO is interested in the students' opinions both regarding the education and
 ### Programme responsible student
 The Programme responsible student (PAS) works together with SNO to improve education quality. The PAS is mainly responsible for contact with teachers and other personel at the CSC-school, and generally works with the long-term work within the Study Board.
 
-PAS: Hannah [pas@d.kth.se](mailto:pas@d.kth.se)
+PAS: Abhinav [pas@d.kth.se](mailto:pas@d.kth.se)
 
 ### Chapter Board Representative for Education
 The Chapter Board Representative for Education (D-UF) works for a better studying environment at KTH. The D-UF has the larger picture of the education. The D-UF is also the communication link between the Chapter Board (D-Rek) and the SNO and PAS.
