@@ -14,7 +14,7 @@ Klara Folke<br />
 E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
 
 **Arbetsmarknadsdagsansvariga**<br />
-Adam Sjöberg & Erik Nordlöf<br />
+Kevin Wenström & Carl Chemnitz<br />
 E-post: [projectmanager@ddagen.se](mailto:projectmanager@ddagen.se)<br />
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
