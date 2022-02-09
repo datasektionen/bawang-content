@@ -2,4 +2,4 @@
 
 Kårfullmäktige - din påverkan mot kåren.
 
-Mer info: [THS hemsida] (http://ths.kth.se/om-ths/styrdokument-och-moteshandlingar/)
+Mer info finns på [THS hemsida.](https://ths.kth.se/sv/general/about-ths/union-council)
