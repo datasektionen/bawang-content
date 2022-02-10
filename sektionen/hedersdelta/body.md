@@ -21,6 +21,7 @@ går det även att maila D-rektoratet.
 <a href="#gabna"> Gábor Nagy </a>, Tricesimus Tertius
 </dd>
 </dl>
+
 ## Mottagare 2020
 
 <dl>
