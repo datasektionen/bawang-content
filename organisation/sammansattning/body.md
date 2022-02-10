@@ -5,7 +5,7 @@ D-rektoratet består av åtta ledamöter. Dessa arbetar tillsammans i
 styrelsen men fungerar också som samordnande kontakt för funktionärer
 och nämnder på Konglig Datasektionen.
 
-## Sektionsordförande
+## Sektionsordförande - David Puustinen
 
 Sektionens ordförande leder D-rektoratets arbete. Ordföranden ansvarar
 även för kontakten med THS och andra sektioner.
@@ -25,7 +25,7 @@ __Kontakt__
 
 Ordförande är nåbar på [ordf@d.kth.se](mailto:ordf@d.kth.se)
 
-## Vice sektionsordförande
+## Vice sektionsordförande - Pontus Söderlund
 
 Vice ordförandens viktigaste roll är att assistera och avlasta
 ordförande för att säkerställa att denna inte överarbetar sig. I detta
@@ -50,7 +50,7 @@ __Kontakt__
 
 Vice ordförande är nåbar på [vordf@d.kth.se](mailto:vordf@d.kth.se)
 
-## Kassör
+## Kassör - Fabian Andréasson
 
 Kassören håller helt enkelt reda på sektionens ekonomiska bit. Det
 gäller deklarationer, fakturor och naturligtvis bokföringen. Kassören
@@ -60,7 +60,7 @@ __Kontakt__
 
 Kassör är nåbar på [kassor@d.kth.se](mailto:kassor@d.kth.se)
 
-## Vice kassör
+## Vice kassör - [Sökes](https://val.datasektionen.se/)
 
 Vice kassör arbetar tillsammans med kassören med sektionens ekonomi och finns
 som extra stöd i ekonomiska frågor och arbetar naturligtvis även med bokföring.
@@ -69,7 +69,7 @@ __Kontakt__
 
 Vice kassör är nåbar på [vkassor@d.kth.se](mailto:vkassor@d.kth.se)
 
-## Sekreterare
+## Sekreterare -  [Sökes](https://val.datasektionen.se/)
 
 Sekreteraren är ansvarig för styrdokument, handlingar, protokoll och annan
 formalia på sektionen.
@@ -87,7 +87,7 @@ __Kontakt__
 
 Sekreterare är nåbar på [sekr@d.kth.se](mailto:sekr@d.kth.se)
 
-## Ledamot för utbildningsfrågor
+## Ledamot för utbildningsfrågor - Daniel Grünler
 
 Det löpande arbetet med utbildningsfrågor sköts av Studienämnden. Deras
 kontaktperson i styrelsen ser till att arbetet inte stannar av. Ibland
@@ -111,7 +111,7 @@ __Kontakt__
 
 Ledamot för utbildningsfrågor är nåbar på [d-uf@d.kth.se](mailto:d-uf@d.kth.se)
 
-## Ledamot för studiesociala frågor
+## Ledamot för studiesociala frågor - Malin Svenberg
 
 Har frågor som rör medlemmarnas psykiska
 och fysiska miljö som ansvarsområde. Arbetar med att utveckla
@@ -163,7 +163,7 @@ __Kontakt__
 
 Ledamot för studiesociala frågor är nåbar på [d-ssf@d.kth.se](mailto:d-ssf@d.kth.se)
 
-## Ledamot för näringsliv och kommunikation
+## Ledamot för näringsliv och kommunikation - Marcus Nordstedt
 
 Arbetar med och för i styrelsen de frågor
 som rör näringsliv och kommunikation, samt är kontaktperson för
