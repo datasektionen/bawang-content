@@ -18,7 +18,7 @@ går det även att maila D-rektoratet.
 <a href="#jesla"> Jesper Larsson </a>, Tricesimus Tertius
 </dd>
 <dd>
-<a href="#gabna"> Gàbor Nagy </a>, Tricesimus Tertius
+<a href="#gabna"> Gábor Nagy </a>, Tricesimus Tertius
 </dd>
 </dl>
 
@@ -755,6 +755,21 @@ går det även att maila D-rektoratet.
 
 ## Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
 ---------------------------------------------
+## Motiveringar till 2021 års mottagare
+
+#### Jesper Larsson <a name="jesla"></a>
+Jesper Larsson har med värme varit en pelare för många av sektionens medlemmar. Med ett öppet sinne och glädjefyllt leende har denna kandidat sett till att alla känner sig välkomna. I diskussioner har kandidaten visat ett lugn och tålamod som skapat en miljö där alla kan känna att deras åsikter tas i åtanke och på allvar.
+
+Under sin tid på sektionen har Jesper engagerat sig inom många olika delar av organisationen. Jespers karriär inom sektionen började som Valberedningens ordförande, där han var med och skapade kritiska system som Valberedningen fortfarande använder idag. Jesper har utöver detta varit med och utvecklat system för sektionens mottagning, programvara som underlättar för nyantagna studenter att ha koll på mottagningens aktiviteter. Vidare startade Jesper projektet Hello World, ett projekt vars syfte var att knyta kontakten med andra liknande föreningar. Även om omvärldsläget bromsade projektets avtryck så har Jesper sett till så att projektets vision återupptas när omständigheterna tillåter det. 
+
+För sina bedrifter och konstanta närvaro i sektionen tilldelas därmed Jesper Larsson 
+#### Gábor Nagy <a name="gabna"></a>
+Gábor Nagy har med stort tålamod och visdom hjälpt många dataloger i sektionslivet och fått många att känna sig mer bekväma med hjälp av humor och gott humör även i främmande situationer. Gábor har även lagt ned mycket av sin tid för att sektionen ska vara så varm och välkomnande som möjligt genom sitt engagemang i bland annat mottagningen och METAspexet. 
+
+Gábor har också arbetat för sektionen genom olika ansvarsposter, bland annat posten som revisor samt engagemang inom styrelsen. Gábor har även arbetat outtröttligt med sektionens system för att ge våra gamla system den kärlek de behöver samt utvecklat nya system som underlättar för våra medlemmar. Detta engagemang fortsatte sedan med posten som systemansvarig där Gábor skapade interna poster inom informationsorganet vilket har skapat bättre rutiner för underhållningen av våra system samt gett möjligheter för omstruktureringar i de system som har haft problem. 
+
+För hans outtröttliga engagemang och kärlek till sektionen tilldelas därmed Gábor Nagy Hedersdeltat.
+
 
 ## Motiveringar till 2020 års mottagare
 
