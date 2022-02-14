@@ -363,7 +363,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2022
 
-10/2 Ett-Olympiskt-DM ([beslutsprotokoll][https://yoggi.datasektionen.se/beslutsprotokoll/ett_olympiskt_dm_2022])
+10/2 Ett-Olympiskt-DM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_olympiskt_dm_2022))
 
 ###2021
 
