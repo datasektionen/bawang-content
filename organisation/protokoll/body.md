@@ -5,7 +5,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ## Sektionsmöten, SM
 
-##2022
+###2022
 
 27/01 Extra-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/extra_sm_2022_jan))
 
@@ -360,6 +360,10 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 29/3 [SM](https://static.datasektionen.se/protokoll/sm900329.html)
 
 ## D-rektoratsmöten, DM
+
+###2022
+
+10/2 Ett-Olympiskt-DM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_olympiskt_dm_2022))
 
 ###2021
 
