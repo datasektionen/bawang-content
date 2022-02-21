@@ -11,10 +11,10 @@ Datasektionens budget
 - [Google Drive](https://drive.google.com/file/d/1b08k0NLBgetpaAbS0YUMFwRuQk8fVIUE/view?usp=sharing)
 
 ##Budget 2019
-- [Google Drive](https://docs.google.com/spreadsheets/d/1X-ArVGgDm6DNXWi4Ncw7DYdIManGOgwNGyatVbL1nW0/edit?usp=sharing)
+- [Google Drive](https://docs.google.com/spreadsheets/d/e/2PACX-1vSySwZZEh-uHYoAdBbx-linXJSF228v34y8MvVW-zS4PFNVPvSmX-JJ1hNraqZsRtEf0HB0mr1UjrWe/pubhtml)
 
 ##Budget 2018
-- [Google Drive](https://docs.google.com/spreadsheets/d/1mO3umP7TLSBR-ctFFI2-hjGOjAgHcHG3NoSZTXtFmlo/edit?usp=sharing)
+- [Google Drive](https://docs.google.com/spreadsheets/d/e/2PACX-1vTjRiqAAclPFLvHJK6cBouGIeb6Z-ugf-qL5iI6KI-aarSAlf4S5lzOQvGGL4X_OrhMgYdmYIq17w_P/pubhtml)
 
 ##Budget 2017
 - [Google Drive](https://docs.google.com/spreadsheets/d/1znd4J03DlmoXIi18eLF6bc3Zz2F-kUdgVBFDZHc1SUQ/edit?usp=sharing)
