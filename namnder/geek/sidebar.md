@@ -7,4 +7,4 @@ Amanda Hallstedt<br/>
 [ofvermatrona@d.kth.se](mailto:ofvermatrona@d.kth.se). <br/>
 0764170096
 
-[Facebook](https://www.facebook.com/GEEK.GirlsAtDatasektionen)
+[Facebook](https://www.facebook.com/KTHGEEK)
