@@ -6,11 +6,11 @@
 
 **Lika villkor**: Att alla personer ska ha samma möjligheter oavsett sina förutsättningar.
 
-**THS JML-policy**: De riktlinjer för JML som gäller all verksamhet inom THS (däribland Datasektionen). Den finns att läsa i sin helhet HÄR.
+**THS JML-policy**: De riktlinjer för JML som gäller all verksamhet inom THS (däribland Datasektionen). Den finns att läsa i sin helhet [HÄR](http://mit-kth.se/wp-content/uploads/2017/01/THS-JML-policy_reviderad.pdf).
 
-**Sektionens Jämlikhetspolicy**: En förlängning av THS JML-policy som specificerar hur vi på sektionen tillämpar policyn och hur vi själva arbetar med JML. Den finns att läsa HÄR.
+**Sektionens Jämlikhetspolicy**: En förlängning av THS JML-policy som specificerar hur vi på sektionen tillämpar policyn och hur vi själva arbetar med JML. Den finns att läsa [HÄR](https://styrdokument.datasektionen.se/jamlikhetspolicy).
 
-**KTHs rutiner för anmälan och utredning**: De rutiner för att ta emot anmälan och/eller utreda ärenden inom Diskriminering, trakasserier, sexuella trakasserier och kränkande särbehandling som KTH tillämpar. De finns att läsa HÄR.
+**KTHs rutiner för anmälan och utredning**: De rutiner för att ta emot anmälan och/eller utreda ärenden inom Diskriminering, trakasserier, sexuella trakasserier och kränkande särbehandling som KTH tillämpar. De finns att läsa [HÄR](https://www.kth.se/polopoly_fs/1.738428.1631190895!/Riktlinjen%20Rutiner%20vid%20anm%C3%A4lan%20utredning%20och%20%C3%A5tg%C3%A4rder%20vid%20diskriminering%20trakasserier%20sexuella%20trakasserier%20%2020180830pdf.pdf).
 
 **Likabehandling**: Att alla personer behandlas på samma villkor
 
