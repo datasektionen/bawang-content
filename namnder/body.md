@@ -45,6 +45,8 @@ Project Pride 2022
 
 Jubileum 2023
 
+Spelsylt
+
 
 ## Tidigare nämnder och föreningar på Datasektionen
 
