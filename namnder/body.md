@@ -31,8 +31,6 @@ METAspexet 2022
 
 Vårbalen 2022
 
-Vårbalken 2021
-
 dJulkalendern 2021
 
 DForum 2021
