@@ -45,6 +45,10 @@ Project Pride 2022
 
 Jubileum 2023
 
+Project <Placeholder>
+
+Magenta
+
 
 ## Tidigare nämnder och föreningar på Datasektionen
 
