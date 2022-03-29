@@ -53,8 +53,8 @@ Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig s
 
 Valspråk: Ensam är stark. Tillsammans är vi bara många.
 
-    Isabel Redtzer, Tricesimus Sextus
-    Joar Rutqvist, Tricesimus Quartus
+    Isabel Redtzer, Tricesimus Sextus 2021
+    Joar Rutqvist, Tricesimus Quartus 2020
     Mikael Forsmark, Duotricesimus 2019
     Josefin Nilsson, Tricesimus Tertia 2018
     Shapour Jahanshahi, Untricesimus 2017
@@ -98,8 +98,8 @@ Medlemskap i Storasyskon Emeritus-orden tilldelas de Storasyskon som förtjänst
 
 Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
    
-    Agnes Forsberg, Tricesimus Quintus
-    Lisa Håkanson Krantz, Tricesimus Quartus
+    Agnes Forsberg, Tricesimus Quintus 2021
+    Lisa Håkanson Krantz, Tricesimus Quartus 2020
     Emil Lindblom, Duotricesimus 2019
     Cristian Osorio Bretti, Tricesimus Tertius 2018
     Jonas Dahl, Untricesimus 2017
@@ -137,7 +137,7 @@ Medlemskap i Kassör Emeritus-orden tilldelas de Kassörer på Datasektionen som
 
 Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
 
-    William Nilsson, Tricesimus Sextus
+    William Nilsson, Tricesimus Sextus 2020
     Gustav Ung, Tricesimus Quartus 2018
     Andreas Magnedal Holmgren, Tricesimus Quartus 2017
     Alexander Viklund, Duotricesimus 2016
@@ -155,6 +155,7 @@ Ordenstecknet för Ordförande Emeritus består av en störtad femuddig stjärna
 
 Valspråk: Det är faktiskt vi som bestämmer.
 
+    Ävelin Pantigoso, Tricesimus Quartus 2019
     Victor Sellstedt, Tricesimus Quartus 2018
     Alexander Viklund, Duotricesimus 2017
     Henrik Johansson, Untricesimus 2016
