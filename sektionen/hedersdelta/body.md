@@ -5,7 +5,7 @@ läsa längre ner på sidan.
 
 #Hedersdelta-nomineringar
 
-[Här](https://docs.google.com/forms/d/e/1FAIpQLScZ0E0wqSuxDtRSt0z4eFycrAJdGEqVbpkB821_YvnXfM1mCQ/viewform?usp=sf_link) kan nomineringar till Hedersdeltat 2022 göras! Självklart
+[Här](https://forms.gle/gazggFuoRrHc6uMMA) kan nomineringar till Hedersdeltat 2023 göras! Självklart
 går det även att maila D-rektoratet.
 
 # Innehavare av Hedersdeltat
