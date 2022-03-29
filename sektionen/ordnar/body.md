@@ -7,8 +7,8 @@ Som bevis på medlemskap i någon av Datasektionens fem ordnar bärs respektive 
 Medlemskap i Klubbmästare Emeritus-orden tilldelas de klubbmästare på Datasektionen som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
-   
-   George Bassilious, Tricesimus Quintus 2020/2021
+
+    George Bassilious, Tricesimus Quintus 2020/2021
     Melvin Lundqvist, Tricesimus Quintus 2019/2020
     Felix Andersson, Tricesimus Quartus 2018/2019
     Pontus Broberg, Tricesimus Tertius 2017/2018
@@ -137,6 +137,7 @@ Medlemskap i Kassör Emeritus-orden tilldelas de Kassörer på Datasektionen som
 
 Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
 
+    William Nilsson, Tricesimus Sextus
     Gustav Ung, Tricesimus Quartus 2018
     Andreas Magnedal Holmgren, Tricesimus Quartus 2017
     Alexander Viklund, Duotricesimus 2016
