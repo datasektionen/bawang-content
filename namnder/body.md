@@ -45,8 +45,11 @@ Project Pride 2022
 
 Jubileum 2023
 
-Spelsylt
+Project <Placeholder>
 
+Magenta
+
+Spelsylt
 
 ## Tidigare nämnder och föreningar på Datasektionen
 
