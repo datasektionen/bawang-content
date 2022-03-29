@@ -1,5 +1,18 @@
-# GEEK - Girls: Empowered, Encouraged, Knowledgable
+# GEEK
 
-“Nämndens syfte är att främja tjejers och icke-binäras intressen på Datasektionen.”
+GEEK är, namnet till trots, inte en till spelnämnd. GEEK är en nämnd vars egentliga syfte är att främja kvinnor och ickebinära på Datasektionen, som i övrigt är i det närmsta översvämmad av män. Vi vill helt enkelt skapa ett utrymme som gör det lättare för kvinnor och ickebinära att träffa andra kvinnor och ickebinära på sektionen! Vi anordnar sittningar, pubar och andra roliga event som primärt riktar sig till kvinnor och ickebinära. Om du vill veta mer så kan du följa oss på Facebook och Instagram, eller konatakta oss med hjälp av infomrationen här bredvid!
 
-Trots Datasektionens så få men ack så underbara tjejer (och icke-binära) finns ett ljus i tunneln: GEEK är nämnden som hjälper oss på data att nätverka med varandra! Denna nämnd på Datasektionen kommer anordna trevliga event som middagar under året. Någon gång under hösten kommer det dessutom hållas en tjejgasque! Låter det som något för dig? För att hålla dig uppdaterad kan du gilla vår Facebook-sida! Självklart kommer uppdateringar även på Datasektionens hemsida.
+Och nej, vi hatar faktiskt inte *alla* män.
+
+<br>
+
+**GEEK 21/22**
+
+Amanda Hallstedt *- Öfvermatrona* <br />
+Amanda Krohn <br />
+Josefina Häkkinen <br />
+Julia Wang <br />
+Klara Sandström <br />
+
+<br> <br>
+*GEEK har tidigare varit en akronym som stått för Girls: Empowered, Encouraged, Knowledgeable. Då namnet inte längre representerar det vi står för iochmed att det exkluderar en stor del av vår målgrupp har vi valt att inte längre aktivt använda detta i vår verksamhet.*
