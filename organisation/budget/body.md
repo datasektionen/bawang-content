@@ -2,7 +2,7 @@ Datasektionens budget
 =====================
 
 ##Budget 2022
-- [Google Drive](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrHo_QgSXeoqjQf0sK6tzLIABpRiYyMV58uB03kSBhgPpd0aYR8jXgnTyyKyzaMg/pubhtml)
+- [Google Drive](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYFXgACJTugGnrrJuXgqKNuOBqdFuCuuJ3-fnVoDij3iA9bTeq_OcvepStgv193VPflGbFxryvSsP4/pubhtml)
 
 ##Budget 2021
 - [Google Drive](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDp494XQDJ2CsbtNV_GHeQM0H1clfZ6O3w7cbVvB1YCU9Dnf7kurAImfaaMxPgNA/pubhtml)
