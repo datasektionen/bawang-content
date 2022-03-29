@@ -8,11 +8,11 @@ Och nej, vi hatar faktiskt inte *alla* män.
 
 **GEEK 21/22**
 
-Amanda Hallstedt *- Öfvermatrona* \
-Amanda Krohn \
-Josefina Häkkinen \
-Julia Wang \
-Klara Sandström
+Amanda Hallstedt *- Öfvermatrona* <br />
+Amanda Krohn <br />
+Josefina Häkkinen <br />
+Julia Wang <br />
+Klara Sandström <br />
 
 <br> <br>
 *GEEK har tidigare varit en akronym som stått för Girls: Empowered, Encouraged, Knowledgeable. Då namnet inte längre representerar det vi står för iochmed att det exkluderar en stor del av vår målgrupp har vi valt att inte längre aktivt använda detta i vår verksamhet.*
