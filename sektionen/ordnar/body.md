@@ -97,7 +97,9 @@ Valspråk: Ensam är stark. Tillsammans är vi bara många.
 Medlemskap i Storasyskon Emeritus-orden tilldelas de Storasyskon som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
-
+   
+    Agnes Forsberg, Tricesimus Quintus
+    Lisa Håkanson Krantz, Tricesimus Quartus
     Emil Lindblom, Duotricesimus 2019
     Cristian Osorio Bretti, Tricesimus Tertius 2018
     Jonas Dahl, Untricesimus 2017
