@@ -49,6 +49,7 @@ Project <Placeholder>
 
 Magenta
 
+Spelsylt
 
 ## Tidigare nämnder och föreningar på Datasektionen
 
