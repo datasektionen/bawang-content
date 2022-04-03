@@ -7,7 +7,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2022
 
-27/01 Revisions-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/revisions_sm_2022))
+24/03 Revisions-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/revisions_sm_2022))
 
 27/01 Extra-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/diskussionsprotokoll_extrasm_22_jan)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/extra_sm_2022_jan))
 
