@@ -5,6 +5,12 @@ please reach out to [secretary](mailto:sekr@d.kth.se).
 
 ## Chapter Meetings, SM
 
+###2022
+
+24/03 Revisions-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/revisions_sm_2022))
+
+27/01 Extra-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/diskussionsprotokoll_extrasm_22_jan)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/extra_sm_2022_jan))
+
 ###2021
 
 7/12, 14/12 Glögg-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/glogg_sm_2021))
