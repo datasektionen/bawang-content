@@ -1,5 +1,5 @@
 Protocols from each Chapter and D-directorate Meeting are uploaded here. If you have any questions about a protocol,
-please reach out to [secretary](mailto:sekr@d.kth.se).
+please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 **Unfortunately the protocols are only available in Swedish**
 
@@ -360,6 +360,13 @@ please reach out to [secretary](mailto:sekr@d.kth.se).
 29/3 [SM](https://static.datasektionen.se/protokoll/sm900329.html)
 
 ## D-directorate meetings, DM
+
+###2022
+15/3 DM-innan-Revisions-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2022))
+
+24/2 Ett-Spontant-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_spontant_dm_2022))
+
+10/2 Ett-Olympiskt-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_olympiskt_dm_2022))
 
 ###2021
 
