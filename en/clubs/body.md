@@ -60,6 +60,10 @@ Hello World
 
 Spelsylt (Game Jam)
 
+Project &lt;Placeholder&gt;
+
+Magenta
+
 ## How to start a project
 To start a project, there has to be an interest on the part of the chapter since we'll be using the chapter's money.
 So you have to get a motion passed at an SM.

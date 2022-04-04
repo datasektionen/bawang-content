@@ -43,7 +43,7 @@ Project Pride 2022
 
 Jubileum 2023
 
-Project <Placeholder>
+Project &lt;Placeholder&gt;
 
 Magenta
 
