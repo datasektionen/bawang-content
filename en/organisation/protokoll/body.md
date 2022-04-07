@@ -362,11 +362,13 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 ## D-directorate meetings, DM
 
 ###2022
-15/3 DM-innan-Revisions-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2022))
+6/4 DM-after-Revision-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/dm_efter_revisions_sm_2022))
 
-24/2 Ett-Spontant-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_spontant_dm_2022))
+15/3 DM-before-Revision-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2022))
 
-10/2 Ett-Olympiskt-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_olympiskt_dm_2022))
+24/2 A-Spontanious-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_spontant_dm_2022))
+
+10/2 An-Olympic-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_olympiskt_dm_2022))
 
 ###2021
 
@@ -378,7 +380,7 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 6/10 An-eased-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_lattat_dm_2021))
 
-21/9 A-PC-DM
+21/9 A-PC-DM 
 
 27/5 A-Bahamas-vacation-DM ([action minutes](https://static.datasektionen.se/beslutsprotokoll/ett_bahamas_vacation_dm_2021))
 
