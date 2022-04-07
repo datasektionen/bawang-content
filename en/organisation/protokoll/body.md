@@ -362,6 +362,8 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 ## D-directorate meetings, DM
 
 ###2022
+06/04 DM-after-Revision-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/dm_efter_revisions_sm_2022))
+
 15/3 DM-before-Revision-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2022))
 
 24/2 A-Spontanious-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_spontant_dm_2022))
