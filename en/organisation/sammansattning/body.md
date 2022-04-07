@@ -6,7 +6,7 @@ They are the Chairman, Vice Chairman, Treasurer, secretary, and three more board
 for educational issues, student welfare, and business relations. Together they arrange Chapter Meetings, make sure
 the decisions at chapter meetings are executed, coordinate different parts of the chapter, and make strategic and long term plans.
 
-Each boardmember is the contact person in the board for some of out elected volunteers.
+Each board member is the contact person in the board for some of out elected volunteers.
 
 ## The Chairman
 
@@ -24,7 +24,7 @@ __Contact Person to__
 ## Vice Chairman
 The Vice Chairmans primary role is to assist the Chairman and make sure
 that the every board members workload is reasonable and that they are feeling well.
-In the case that the Chariman can't fulfill his obligations the Vice Chairman will
+In the case that the Chairman can't fulfill his obligations the Vice Chairman will
 assume the role as acting Chairman.
 
 The Vice Chairman does many tasks that aren't related to any other board member or function in the chapter.
@@ -35,12 +35,12 @@ __Contact Person to__
 
 ## The Treasurer
 
-The Tresurer is responsible for the most things related to economics.
+The Treasurer is responsible for the most things related to economics.
 This includes declarations, bills, payments, and accounting. The treasurer
 is an authorized signatory for the chapter.
 
 ## Vice Treasurer
-The vice treasurer assists the threasuerer with most things related to economics.
+The vice treasurer assists the treasurer with most things related to economics.
 
 ## The Secretary
 
@@ -63,9 +63,9 @@ __Contact person to__
 
 * Programansvarig student
 
-* The Chariman of the Study Council
+* The Chairman of the Study Council
 
-* The Chariman of the Equality Commitee
+* The Chairman of the Equality Committee
 
 * International student coordinator
 
@@ -111,8 +111,8 @@ __Contact person to__
 
 ## Board member of business relations
 
-Works with business related question and our projects and commitess related to this area.
-Is also responsible for internal communications and that imporant information is avaiable to our members.
+Works with business related question and our projects and committees related to this area.
+Is also responsible for internal communications and that important information is available to our members.
 
 
 __Contact person to__
