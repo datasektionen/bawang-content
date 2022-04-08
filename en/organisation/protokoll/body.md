@@ -21,7 +21,7 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 18/5, 20/5, 26/5 Val-SM ([action minutes](https://static.datasektionen.se/beslutsprotokoll/val_sm_2021))
 
-2/3, 04/3 Revisions-SM ([discussion minutes](https://static.datasektionen.se/protokoll/revisions_sm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/revisions_sm_2021))
+2/3, 4/3 Revisions-SM ([discussion minutes](https://static.datasektionen.se/protokoll/revisions_sm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/revisions_sm_2021))
 
 26/1 Extra-SM ([discussion minutes](https://static.datasektionen.se/protokoll/extra_sm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2021))
 
