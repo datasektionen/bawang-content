@@ -50,10 +50,10 @@ is an authorized signatory for the chapter.
 
 __Contact__
 
-The Vice Treasurer can be reached at [kassor@d.kth.se](mailto:kassor@d.kth.se).
+The Treasurer can be reached at [kassor@d.kth.se](mailto:kassor@d.kth.se).
 
 ## Vice Treasurer - Felix Murnion
-The vice treasurer assists the treasurer with most things related to economics.
+The Vice Treasurer assists the treasurer with most things related to economics.
 
 __Contact__
 
@@ -74,6 +74,7 @@ __Contact person to__
 __Contact__
 
 The Secretary can be reached at [sekr@d.kth.se](mailto:sekr@d.kth.se).
+
 ## Board member of Educational Issues - Daniel Grünler
 
 This board member works closely with the study council and works as a
