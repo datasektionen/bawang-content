@@ -45,7 +45,7 @@ The Vice Chairman can be reached at [vordf@d.kth.se](mailto:vordf@d.kth.se).
 ## The Treasurer - Fabian Andréasson
 
 The Treasurer is responsible for the most things related to economics.
-This includes declarations, bills, payments, and accounting. The treasurer
+This includes declarations, bills, payments, and accounting. The Treasurer
 is an authorized signatory for the chapter.
 
 __Contact__
@@ -53,7 +53,7 @@ __Contact__
 The Treasurer can be reached at [kassor@d.kth.se](mailto:kassor@d.kth.se).
 
 ## Vice Treasurer - Felix Murnion
-The Vice Treasurer assists the treasurer with most things related to economics.
+The Vice Treasurer assists the Treasurer with most things related to economics.
 
 __Contact__
 
@@ -75,7 +75,7 @@ __Contact__
 
 The Secretary can be reached at [sekr@d.kth.se](mailto:sekr@d.kth.se).
 
-## Board member of Educational Issues - Daniel Grünler
+## Board Member of Educational Issues - Daniel Grünler
 
 This board member works closely with the study council and works as a
 link between them and the board.
@@ -88,15 +88,15 @@ __Contact person to__
 
 * The Chairman of the Equality Committee
 
-* International student coordinator
+* International Student Coordinator
 
-* Student safety officer
+* Student Safety Officer
 
 __Contact__
 
-The Board member of Educational Issues can be reached at [d-uf@d.kth.se](mailto:d-uf@d.kth.se).
+The Board Member of Educational Issues can be reached at [d-uf@d.kth.se](mailto:d-uf@d.kth.se).
 
-## Board member of Student issues - Malin Svenberg
+## Board member of Student Issues - Malin Svenberg
 
 Works with question regarding the well being of our members, working environment, and
 social events.
@@ -106,13 +106,13 @@ __Contact person to__
 
 * Head of the Bar
 
-* Chapter Sports leader
+* Chapter Sports Leader
 
 * Ljud- och ljusansvarig
 
-* Chief of halls
+* Chief of Halls
 
-* Cultural attaché
+* Cultural Attaché
 
 * Prylis
 
@@ -135,9 +135,9 @@ __Contact person to__
 
 __Contact__
 
-The Board member of Student issues can be reached at [d-ssf@d.kth.se](mailto:d-ssf@d.kth.se).
+The Board member of Student Issues can be reached at [d-ssf@d.kth.se](mailto:d-ssf@d.kth.se).
 
-## Board member of business relations - Marcus Nordstedt
+## Board Member of Business Relations - Marcus Nordstedt
 
 Works with business related question and our projects and committees related to this area.
 Is also responsible for internal communications and that important information is available to our members.
@@ -147,19 +147,19 @@ __Contact person to__
 
 * Project Leaders for STUDS
 
-* Chapter systems officer
+* Chapter Systems Officer
 
-* Communications officer
+* Communications Officer
 
 * Head of Business Relations
 
 * D-dagenansvarig
 
-* Chapter business fair officer
+* Chapter Business Fair Officer (D-Dagen)
 
-* Chief editor
+* Chief Editor
 
 __Contact__
 
-The Board member of Student issues can be reached at [d-nok@d.kth.se](mailto:d-nok@d.kth.se)
+The Board member of Student Issues can be reached at [d-nok@d.kth.se](mailto:d-nok@d.kth.se)
 .
