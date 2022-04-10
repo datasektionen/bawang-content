@@ -153,8 +153,6 @@ __Contact person to__
 
 * Head of Business Relations
 
-* D-dagenansvarig
-
 * Chapter Business Fair Officer (D-Dagen)
 
 * Chief Editor
