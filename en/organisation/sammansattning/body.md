@@ -75,7 +75,7 @@ __Contact__
 
 The Secretary can be reached at [sekr@d.kth.se](mailto:sekr@d.kth.se).
 
-## Board Member of Educational Issues - Daniel Grünler
+## Board Member of Educational Affairs - Daniel Grünler
 
 This board member works closely with the study council and works as a
 link between them and the board.
@@ -94,7 +94,7 @@ __Contact person to__
 
 __Contact__
 
-The Board Member of Educational Issues can be reached at [d-uf@d.kth.se](mailto:d-uf@d.kth.se).
+The Board Member of Educational Affairs can be reached at [d-uf@d.kth.se](mailto:d-uf@d.kth.se).
 
 ## Board member of Student Issues - Malin Svenberg
 
@@ -159,5 +159,5 @@ __Contact person to__
 
 __Contact__
 
-The Board member of Student Issues can be reached at [d-nok@d.kth.se](mailto:d-nok@d.kth.se)
+The Board member of Business Relations can be reached at [d-nok@d.kth.se](mailto:d-nok@d.kth.se)
 .
