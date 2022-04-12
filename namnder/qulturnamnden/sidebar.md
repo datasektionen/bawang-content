@@ -7,7 +7,7 @@
 Arvid Eriksson</br>
 [qulturattache@d.kth.se](mailto:qulturattache@d.kth.se)
 
-#### Qulturnämnds­ordförande (Media)
+#### Qulturnämndsordförande (Media)
 
-Alex Modee</br>
+Simon Berglund</br>
 [qulturnamnden@medieteknik.com](mailto:qulturnamnden@medieteknik.com)
