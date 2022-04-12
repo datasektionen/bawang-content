@@ -3,12 +3,27 @@ ut till de personer som synnerligen förtjänstfullt verkat ideellt för
 sektionen. Motiveringar(#motivering) för varje mottagare finnas att
 läsa längre ner på sidan.
 
-#Hedersdelta-nomineringar
+# Hedersdelta-nomineringar
 
-[Här](https://docs.google.com/forms/d/e/1FAIpQLScZ0E0wqSuxDtRSt0z4eFycrAJdGEqVbpkB821_YvnXfM1mCQ/viewform?usp=sf_link) kan nomineringar till Hedersdeltat 2022 göras! Självklart
+[Här](https://forms.gle/gazggFuoRrHc6uMMA) kan nomineringar till Hedersdeltat 2023 göras! Självklart
 går det även att maila D-rektoratet.
 
 # Innehavare av Hedersdeltat
+## Mottagare 2022
+<dl>
+  <dt></dt>
+  <dd>
+    <a href="#doufi"> Douglas Fischer </a>, Tricesimus Quintus
+  </dd>
+  <dd>
+    <a href="#axeel"> Axel Elmarsson </a>, Tricesimus Quintus
+  </dd>
+  <dd>
+   <a href="#sarvi"> Sara Videfors </a>, Tricesimus Quintus
+  </dd>
+</dl>
+  
+  
 ## Mottagare 2021
 
 <dl>
@@ -754,7 +769,33 @@ går det även att maila D-rektoratet.
 </dl>
 
 ## Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
+  
 ---------------------------------------------
+## Motiveringar till 2022 års mottagare
+  
+  #### Axel Elmarsson <a name="axeel"></a>
+Axel Elmarsson har sedan sin första dag på sektionen bistått med ett glatt uttryck och inbjudande sätt. Genom att outtröttligt engagera sig i många aktiviteter har han blivit ett välkänt ansikte för sektionens medlemmar.
+
+Axels insatser för sektionen är mångfacetterade, han har länge varit med i METAdorerna och METAspexet;  han är även en flerårig medlem av vårbalsarmén. Hans största  bedrifter är dock inom sina funktionärsposter där han började sin karriär som Sektionshistoriker, en post som han var med och återupplivade. På posten har han sett till att synliggöra sektionens historia för alla medlemmar: genom sitt gedigna arbete på posten har gamla märken dokumenterats och relevanta skeenden placerats in på en tillgänglig tidslinje. Han har även tagit på sig Alumnsystemet vilket möjliggör en kontinuerlig kontakt med alumnerna. Utöver det har han sett till att vidareutveckla IORs arbete och varit mycket tillgänglig för sektionens medlemmar när systemen inte har fungerat som de ska. Axel har gjort mycket för sektionen, utan att sätta sig själv i rampljuset.
+
+För sina system och sitt långvariga engagemang i sektionen tilldelas därmed Axel Elmarsson Hedersdeltat.
+  
+  #### Douglas Fischer<a name="doufi"></a>
+Douglas Fischer har genom sitt outtröttliga arbete utvecklat sektionen från sin första dag på campus. Genom en högre närvaro på såväl D-rektorats- som sektionsmöten än sittande styrelser har han jobbat otroligt hårt för att förbättra sektionen.
+
+Douglas har engagerat sig inom många delar av den studiesociala biten av sektionen genom sitt arbete som dFunkt och inom nämnder. Med inte mindre än 17 dFunk-mandat på sitt CV, där två år som valberedare och lokalchef sticker ut, har han alltid funnits där för sektionen . Han har även fått sektionens förtroende som såväl fanbärare som jubileumsmarskalk. Utöver sitt funktionärsarbete har Douglas även startat flertalet projekt som bidragit till en ökad gemenskap,  bland annat Project Rewind som kickstartade sektionslivet efter en lång och dyster pandemi. 
+
+För sitt brinnande engagemang och sin oändliga passion för sektionen tilldelas därmed Douglas Fischer Hedersdeltat.
+
+  #### Sara Videfors<a name="sarvi"></a>
+Sara Videfors har genom sin otroliga vänlighet, medmänsklighet och till synes oändliga energi jobbat för att sektionen ska vara en plats för alla att trivas och engagera sig. Hennes engagemang sträcker sig över hela sektionen från det studiesociala till studiebevakning. 
+
+Inom METAspexet har hon alltid funnits där och varit en mycket drivande kraft. Hon ställde även upp för METAspexet när ingen annan gjorde det och höll spexet vid liv en pandemi till trots. Hon har dessutom återuppväckt kör-traditionen inom sektionen. Utöver detta har hennes engagemang och vänlighet under flera år lyst upp mottagningen såväl för personal och de nyantagna.  
+
+Sara har dessutom under hela sin tid värnat om sina medstudenters utbildning genom Studienämnden, under pandemin utvecklade hon Studienämndens arbete som SNO samt deltog i diskussionerna kring utbildningen under pandemin samt dess framtid.
+
+För sin positiva utstrålning och sina insatser å sektionens studenters vägnar tilldelas därmed Sara Videfors Hedersdeltat.
+
 ## Motiveringar till 2021 års mottagare
 
 #### Jesper Larsson <a name="jesla"></a>
