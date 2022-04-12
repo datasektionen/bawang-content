@@ -60,7 +60,7 @@ __Kontakt__
 
 Kassör är nåbar på [kassor@d.kth.se](mailto:kassor@d.kth.se)
 
-## Vice kassör - [Sökes](https://val.datasektionen.se/)
+## Vice kassör - Felix Murnion
 
 Vice kassör arbetar tillsammans med kassören med sektionens ekonomi och finns
 som extra stöd i ekonomiska frågor och arbetar naturligtvis även med bokföring.
@@ -69,7 +69,7 @@ __Kontakt__
 
 Vice kassör är nåbar på [vkassor@d.kth.se](mailto:vkassor@d.kth.se)
 
-## Sekreterare -  [Sökes](https://val.datasektionen.se/)
+## Sekreterare - Herman Karlsson
 
 Sekreteraren är ansvarig för styrdokument, handlingar, protokoll och annan
 formalia på sektionen.
