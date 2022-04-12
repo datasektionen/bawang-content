@@ -21,3 +21,6 @@ Texten som skrivs här kommer synas i bodyn.
 4. Formattering
 1. Notera att numret på punkten inte gör någon skillnad.
 8. Ett till exempel
+
+
+ This is how you embed links: [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
