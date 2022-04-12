@@ -9,3 +9,4 @@ This text will be visible in the sidebar.
 - Markdown
 - For
 - Formatting
+- Another item in the list

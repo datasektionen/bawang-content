@@ -9,3 +9,4 @@ Texten som skrivs här kommer synas i sidebaren.
 - Markdown
 - För
 - Formattering
+- En förändring
