@@ -46,16 +46,6 @@ Cristian Osorio Bretti, Tricesimus Tertius
 
 </dd>
 </dl>
-## Mottagare 2020
-
-<dl>
-<dt>
-</dt>
-<dd>
-Cristian Osorio Bretti, Tricesimus Tertius
-
-</dd>
-</dl>
 
 ## Mottagare 2019
 
