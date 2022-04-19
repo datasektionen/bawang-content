@@ -362,7 +362,7 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 ## D-directorate meetings, DM
 
 ###2022
-6/4 DM-after-Revision-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/dm_efter_revisions_sm_2022))
+6/4 DM-after-Revision-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/dm_efter_revisions_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_efter_revisions_sm_2022))
 
 15/3 DM-before-Revision-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2022))
 
@@ -386,15 +386,15 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 6/5 DM-before-Election-CM ([action minutes](https://static.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2021))
 
-30/3 A-towards-brighter-times-DM ([decision minutes](https://static.datasektionen.se/protokoll/ett_mot_ljusare_tider_dm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/ett_mot_ljusare_tider_dm_2021))
+30/3 A-towards-brighter-times-DM ([discussion minutes](https://static.datasektionen.se/protokoll/ett_mot_ljusare_tider_dm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/ett_mot_ljusare_tider_dm_2021))
 
-18/2 DM-innan-Revisions-SM ([decision minutes](https://static.datasektionen.se/protokoll/dm_innan_revisions_sm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2021))
+18/2 DM-innan-Revisions-SM ([discussion minutes](https://static.datasektionen.se/protokoll/dm_innan_revisions_sm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2021))
 
 22/1 Ett-fortfarande-Zoom-DM ([discussion minutes](https://static.datasektionen.se/protokoll/ett_fortfarande_zoom_dm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/ett_fortfarande_zoom_dm_2021))
 
 ###2020
 
-10/12 [Hasta-la-Windows-Vista-DM](https://static.datasektionen.se/protokoll/hasta_la_windows_vista_dm_2020) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/hasta_la_windows_vista_dm_2020))
+10/12 Hasta-la-Windows-Vista-DM ([discussion minutes](https://static.datasektionen.se/protokoll/hasta_la_windows_vista_dm_2020)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/hasta_la_windows_vista_dm_2020))
 
 17/11 [ett DM-innan-Glögg-SM](https://static.datasektionen.se/protokoll/ett_dm_innan_glogg_sm_2020)
 
