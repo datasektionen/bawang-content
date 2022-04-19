@@ -16,13 +16,13 @@ DKM is Datas Klubbmästeri (Pub organizers at the computer science chapter of KT
 
 Every Wednesday we open the doors to META (Osquars backe 21) and give you the chance to relax and enjoy alcoholic or alcohol free beverages ranging from beer and cider to freshly made cocktails. The pub opens 17:17 and usually is open until we or the guests has had enough. Take the chance to take a break from all the studying and let loose on the dance floor! 
 
-After the exam period you might want to relax that little bit extra. How fitting that DKM arranges an Exam Pub (a.k.a Tentapub), which typically takes place on the first saturday after the exam period. DKM arranges two per year and MKM (Medias Klubbmästeri) arranges the other two. These events are attract a lot of people since lots of other pubs around campus are open at the time, so be here in time! 
+After the exam period you might want to relax that little bit extra. How fitting that DKM arranges an Exam Pub (a.k.a Tentapub), which typically takes place on the first Saturday after the exam period. DKM arranges two per year and MKM (Medias Klubbmästeri) arranges the other two. These events are attract a lot of people since lots of other pubs around campus are open at the time, so be here in time! 
 
 In addition to the Wednesday pubs, we also have a couple of major events:
 
 - **Reclaim**, directly after the student reception (mottagningen), we arrange a big party to celebrate that the keys to our liquor storage room are back in DKMs hands.
-- **PPP**, sometime under the spring, we arrange a party together with ClubWästeriet (CLW) with a new, unique theme, every year!
-- **dJulmiddagen**, just before christmas, we arrange a nice dinner with traditional swedish julbord!
+- **PPP**, sometime during the spring, we arrange a party together with ClubWästeriet (CLW) with a new, unique theme, every year!
+- **dJulmiddagen**, just before Christmas, we arrange a nice dinner with traditional Swedish julbord!
 - **Plums**, sometime during the winter, we throw a big party in a bath house, with a capacity of around 300 guests! 
 
 ## Facebook!
