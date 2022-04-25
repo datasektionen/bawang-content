@@ -1,6 +1,6 @@
 # Tag Monkeys
 
-Tag Monkeyss is an open club dedicated to creating opportunities for people to be creative.
+Tag Monkeys is an open club dedicated to creating opportunities for people to be creative.
 
 
 ## Events
