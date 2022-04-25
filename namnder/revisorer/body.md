@@ -1,4 +1,4 @@
-# Kårfullmäktige
+# Revisorer
 
 Revisorerna håller koll på styrelsen och tolkar styrdokument. 
 
