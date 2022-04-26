@@ -10,4 +10,4 @@ Event hålls sporadiskt under året, ofta tillsammans med Qulturnämnden i META 
 
 ## Gå med Tag Monkeys
 
-Vill du hjälpa TM att sätta färg på Data? Engagera dig själv i nämnden genom att gå med i Slack-kanalen #tagmonkeys i [META-slacken](meta-lokal.slack.com). Vill du bara chilla och skissa på en teckningskväll? Joina oss på våra events! Ingen föranmälning krävs, det är bara att dyka upp!
+Vill du hjälpa TM att sätta färg på Data? Engagera dig i nämnden genom att gå med i Slack-kanalen #tagmonkeys i [META-slacken](meta-lokal.slack.com). Vill du bara chilla och skissa på en teckningskväll? Joina oss på våra events! Ingen föranmälning krävs, det är bara att dyka upp!
