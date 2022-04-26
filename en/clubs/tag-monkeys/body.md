@@ -1,15 +1,13 @@
 # Tag Monkeys
 
-Tag Monkeys är den grafiska partitionen av [IOR – Informationsorganet](/en/clubs/informationsorganet) på datasektionen.
+Tag Monkeys is an open club dedicated to creating opportunities for people to be creative.
 
-## Vad gör vi?
 
-Datas ritapor designar event affischer, väskor, loggor, T-shirts, infolappar, diplom, medaljer, väggmålningar, uppdaterar D-funktavlan, fotograferar och mycket mer. TM hjälper övriga nämnder och sektionsmedlemmar att förse med material och ger råd. Vi lånar även ut Wacom tablets och ImagineFX i META.
+## Events
 
-## Teckningskvällar
+Events are held throughout the year, often at the same time as QNs events in META Tuesdays after 17. Events from the past include painting, pearler beads, making Christmas decorations, photography walks, working with clay and pumpkin carving. The club is managed by Datas Art Director (DAD). If you have ideas for events, give them a poke! Information about up coming events can be found on the chapters website, META-tv or at Tag Monkeys [Facebook page](https://www.facebook.com/pages/Tag-Monkeys/120626214692945?fref=ts).
 
-Varannan måndag håller TM teckningskvällar eller workshops. På teckningskvällarna brukar vi skissa, chilla och fika! Vi håller även i teckningskvällar med olika teman som origami, akvarell, tusch eller Photoshop-workshops, märkesworkshops med mera! 👍:a vår [Facebook-sida](https://www.facebook.com/pages/Tag-Monkeys/120626214692945?fref=ts) för att hålla utkik efter kommande events!
 
-## Gå med Tag Monkeys
+## Join Tag Monkeys
 
-Vill du hjälpa TM att sätta färg på Data? Engagera dig själv i nämnden genom att gå med i Slack-kanalen #tag-monkeys på [IOR:s Slack](ior.slack.com). Vill du bara chilla och skissa på en teckningskväll? Joina oss på våra events! Ingen föranmälning krävs, det är bara att dyka upp!
+Do you want to help TM make our chapter colourful? Join the Slack channel #tagmonkeys in [METAs Slack](meta-lokal.slack.com). Do you just want to hang out and be creative on events? No membership is needed, come join us whenever!
