@@ -4,8 +4,8 @@ The Computer Science Chapter is a nonprofit organisation that works for its
 members interest. We have by-laws and a board of directors – and a lot of documents. At first hand we follow the Swedish laws as a nonprofit organisation. We also follow to the KTH Student Union bylaws,
 rules and white paper.
 
-The Computer Science Chapter also have their own regulatory documents. To regulate our own activities we got our **[by-laws](https://styrdokument.datasektionen.se/stadgar)** and our volunteers
-**[rules](https://styrdokument.datasektionen.se/reglemente)**.
+The Computer Science Chapter also have their own regulatory documents. To regulate our own activities we got our [by-laws](https://styrdokument.datasektionen.se/stadgar) and our volunteers
+[rules](https://styrdokument.datasektionen.se/reglemente).
 [Our treasurer](https://dfunkt.datasektionen.se/position/id/9) is responsible for the chapter's economic routines - you will find them in the [Economic Policy](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument).
 
 The Computer Science Chapter are also proud proprietors of a permanent
@@ -26,7 +26,7 @@ member is allowed to attend and vote at the chapter meetings(SM).
 
 ### Clubs
 
-[Here is a picture describing our organization](https://static.datasektionen.se/organisation/karta-2017-01-31.jpg)
+[Here is a picture describing our organisation](https://static.datasektionen.se/organisation/karta-2017-01-31.jpg)
 
 A club is an organisational entity created for a specific purpose. One of our clubs monitors our study environment, another takes care of the sektionslokal, another arrange parties and so forth. Every club has a chairman that is elected at the SM. How to become member of a club varies from which club it is. Some clubs has a limit to how many members they bring in and some have
 interviews. If you want to know more a bout a certain club, you are welcome to contact the club's chairman! ([Here](dfunkt.datasektionen.se) are their contact information).
@@ -56,7 +56,7 @@ Elections for board members are made in the same way as for volunteers, except f
 
 ### Statutory Auditor
 
-The Statutory Auditor is the one that performs audit through verifying the bookkeeping, quorum and activity in an organization. The Computer Science Chapter's Auditor examines bookkeeping and meeting protocols every year to decide if the board has done their job properly.
+The Statutory Auditor is the one that performs audit through verifying the bookkeeping, quorum and activity in an organisation. The Computer Science Chapter's Auditor examines bookkeeping and meeting protocols every year to decide if the board has done their job properly.
 
 ### How are things decided?
 
