@@ -1,69 +1,55 @@
-# Prylmånglaren
+# Prylmånglariet
 
-Tjo bästis!
+What is Prylmångeriet actually?
 
-Välkommen till Prylmånglarens sida på Datasektionen. Om du inte redan vet vem jag är (du är fortfarande min bästis) heter jag Lisa Lund och är Prylis under 2015. Jag tar hand om sektionens märken, ovvar och andra otroligt balla grejer. Målet är att nästan exakt hela tiden anordna försäljningar, framför allt i __META__, men jag finns även på vissa evenemang och säljer relevanta prylar (så kallad Prylis-to-go). Försäljningar meddelas via hemsidan, facebook, och i desperata fall, via megafon i sektionslokalen. Om ni inte hittar mig och har ett sjukt akut behov av mina tjänster, skicka ett [mail](mailto:prylis@d.kth.se) eller ring eller smsa eller nåt på __076-213 33 96__.
+Well... Prylmångleriet is the club at the Computer Science chapter, lead by Prylmånglaren (also called Prylis). Prylmångleriet handles all from embroidered patches, boilersuits (Ovve) and all other type of merch for the chapter! Our work mainly consists of designing new patches and the sale of them but also design of the chapter's songbook. Contact Prylis by [mail](mailto:prylis@d.kth.se) if you have any project ideas that you want to realize or if you have any questions.
 
-Vill du se fler märken eller andra prylar hos Prylis och har en bra/dålig/helt okej idé? Peta på mig, fysiskt eller virtuellt, så kirrar vi det.
+So Prylmångleriet is where you go to style your Ovve. We usually sell these items outside of META every other Friday from 12.15 to 13.00 but contact us if you need something special and we might be able to arrange something. Follow prylmångleriet at [Facebook](https://www.facebook.com/dataprylis) for further information and updates of what we have in stock.
 
-Jättemånga kramar och kärlek <3
+## What do we have?
+Prylis has an abundant amount of fun merch, so stop by during our Friday sales and see what you want for yourself! We currently have everything from: patches, pins, cufflinks, songbooks, collegeshirt and Ovvar. But you have to see for yourself to get the full experience and idea of what we have.
 
-Prylis
+If you need to buy an Ovve or a collegeshirt, you might need to contact Prylis to see if your size is in stock but you always get the possibility to test your clothing before you buy them.
 
-## Prylis @ Facebook
+## Ovveguide
+Prylmångleriet are of course experts in everything Ovve-culture and in all kinds of patches. So if you want to learn more, join us or contact one of us if you have any questions.
 
-Prylmånglaren finns givetvis på [facebook](https://www.facebook.com/prylisdata). Ett sjukt bra sätt att få reda på vad som händer, som inte kräver mer än att du fortsätter besöka facebook sådär slentrianmässigt som du redan gör.
+For members in our chapter, the most important piece of clothing is the Ovve. You sew patches, modify pockets or add pins to it to display for all your fellow students at gasque or other events for students (without dress code). Take care of your Ovve, since it is so glorious and will soon become your most expensive piece of clothing.
 
-## Hur köper man märken?
+The Computer Science chapter has the most distinguished and honourable colour which is cerise, **not pink**. Other chapters might like to think that our Ovve is pink but they are wrong. Read about other chapters' [colours](https://en.wikipedia.org/wiki/List_of_student_boilersuit_colours_in_Sweden) to see where all of them come from.
 
-Precis som i en vanlig affär, men som bara är öppen på helt godtyckliga tider. Om du tycker att det har gått oförskämt länge sen det var öppet sist, peta på mig med ovannämnda petverktyg så öppnar jag butiken, dirr.
+This tradition of carrying Ovve started at KTH in the late 60's as an alternative to [b-frack](https://sv.wikipedia.org/wiki/B-frack). And the following chapter is an description over how we at our chapter handle our Ovve.
 
-## Vad finns hos Prylis?
+### Vett och etikett
+The Ovve is only allowed to be washed if the owner is in the Ovve, which means your only alternative is bathing or showering in your Ovve! Thus, Prylmångleriet holds an event at the start of Summer, every year, called Plask where we gather to bath in our Ovve in a local lake.
 
-Prylis har mycket grejer, väldigt mycket grejer, men här kan du se vad som fanns vid senaste inventeringen. I framtiden dyker det kanske även upp lite bilder här.
+Another rule is that you are not allowed to cover the seal with the chapter-delta on your back. There are a lot of students that carry Ovve so it might be beneficial to sew your nickname (or your name) on the front of your right leg. This is what we call Ovvenamn. Furthermore, according to tradition we sew a select patches on specific spots:
 
-[Inventory](https://docs.google.com/spreadsheet/pub?key=0AnjfL675gTJ1dDhWZ0ZadGtmWXJzRUFmbUJwa01XdGc&output=html&widget=true)
+- The KTH-patch should be on your left shoulder
+- The Computer Science chapter-patch should be over your heart
+- The patch which represents your specific year should sit on the opposite side of your chapter-patch
+- The patches from Mottagningen/the Reception should be arranged to be a vertical row on your left leg where the first event is on the bottom.
 
+The members of our chapter usually have the Ovve "nedcabbad" which means that we solely use the leggings part of the Ovve by having the arms tied around our waist or let them hang on the side. You can instead use these arms as additional pockets.
 
-## TJO ETTAN!
-## Vad är det här för fasoner, märken?
-## Ja, ni ska ju göra erat årskursmärke!!!
+### Traditions
+A tradition is to have Ovve during your fifth tenta/examination for one course. There are also more traditions if you have had more than five exams, like having a suit of armour on.
 
-Årskursmärket är ett märke som är unikt för er årskurs, det är bara ert och ni bestämmer hur det ska se ut! Det gör ni genom att spotta ut så många olika förslag att ni kräks, och sen kommer ni att få rösta på vilket förslag ni tycker är minst dåligt.
+Moreover, we have a tradition of exchanging parts of our Ovve with people of outer chapters but the rules for how to exchange specific parts might vary. The most popular being to exchange the legs, arms and collar of the Ovve. The usual "conditions" is being friends, being in a relation and exchanging bodily fluids, but a few people say it is completely free. So there is no reason to do anything you aren't comfortable with, make something fun out of it!
 
-## Tidigare märken
+Lastly of course is Ovveoskuld (literally Ovve virginity). There is a symbol of the supplier for our Ovve on the left leg pocket (JAC on our chapter) which Ovveoskulden refers to. To still have the symbol on your Ovve means to still have your Ovveoskuld. There has been traditions of taking others and gathering others Ovveoskuld and the only allowed way of removing others Ovveoskuld is by ripping them off with your teeth. So if you still have your Ovveoskuld then you are fully allowed to protect yourself if someone tries this.
 
-[Håååååååår](https://www.dropbox.com/sh/lj0v7gnd0ka6lm2/AAD476H0BQdIpU3OAo58pOIka?dl=0) är några märken från tidigare årskurser, bara så att ni vet hur otroligt lågt ribban ligger.
+### Ovve-tips
+Your Ovve usually has a lot of pockets, but if you need more space then the arm openings can be tied up to make two enormous arm pockets. Usual items you might want to carry are: towel, patches to exchange with others, sewing kit, barblade, shot glass, mug, tape and a textile marker. Having something to hang your items of is usually popular and modifications can make the Ovve even more stylish. Modifications might include making the legs detachable with zippers or modifying your pockets. 
 
-## Hur gör man dåååråååhhhh?!?
-## Men använd mallen bara
+Be careful, with items in your pockets as the Ovve will likely get wet!
 
-För att allting ska gå smidigt som smör finns det en ball mall (en ballmall?) att utgå ifrån. Den finns [här](https://www.dropbox.com/s/d50wfb3r95nglh4/%C3%85rskursm%C3%A4rke%20mall.svg?dl=0). Mallen öppnas bäst i Inkscape, använder ni något annat kan ni behöva böja om texten eller göra andra jobbigheter. Snälla använd Inkscape så slipper jag pilla.
+The best tip Prylmångleriet can give you is that you should sew your patches on properly. Otherwise your patches might fall of during all kinds of crazy events and parties. If you use good thread and sew them properly then this will happen less. Never use glue though since this will leave ugly marks on the Ovve and the patch.
 
-## Hur skickar man in dååå?
+### How do you find patches?
+The goal with your Ovve is to of course make it as nice as possible. So our tip is to fill the space with a lot of cool accessoaries and modifications to make your Ovve unique to you. The most common way of getting patches is participating in events, going to pubs (and getting the chapters' speciality drink), buying from us outside of META, exchanging with others or buying privately. There are a lot of sites and Facebook-groups where you might exchange or buy/sell patches privately.
 
-När du har gjort ett jävligt vasst (eller riktigt ovasst) märke ska du bara transportera det genom cyberrymden till mig! Det gör du genom att bifoga filen i ett sånt där ebrev (Snälla skicka inte vanliga brev) till [prylis@d.kth.se](mailto:prylis@d.kth.se). Sätt ämnesraden “Det Quartuaste årskursmärket evah”, så hamnar alla mail på samma ställe. Annars blir allting bara dåligt.
+I hope after all of this you find yourself a bit more wise in the ways of the Ovve and I hope to see you outside META one day!
 
-Om du har gjort märket i vektorformat (bra!!!), skicka in den filen. Annars funkar en snuskigt högupplöst jpg eller png.
-
-Skicka in ditt förslag senast 8 dec.
-
-## Texten
-
-Juste, du vet den där roliga texten som står på alla årskursmärken? Den ska __inte__ vara med i designen. Den kommer också bli framröstad samtidigt som märket. Du får gärna komma på nånting klyftigt som hör ihop med ditt märke, men det finns ingen garanti för att den texten vinner.
-
-## Tag Monkeys
-
-Har du en helt sjuk idé som bara måste bli verklighet, men du är inte riktigt grafikninjan som behövs? Snacka med [Tag Monkeys](https://www.facebook.com/pages/Tag-Monkeys/120626214692945) så hjälper dom dig fixa ett märke din mormor skulle vilja sy fast på koftan. Garanterat.
-
-Den __15 november__ kommer Tag Monkeys att ha en märkesworkshop där man kan lära sig om hur man gör märken med vektorgrafik. Jag kommer också vara där och svara på alla era frågor om hur man gör märken.
-
-## Men när ska vi rösta dååååh?
-
-Ni får välja ert årskursmärke på en Onsdagspub den 7 december. Först kommer ni att välja ett märke, sen får ni lägga fram förslag på en text och välja en sådan. På så sätt så kommer ni att få det bästa årskursmärket evah!
-
-## Just do it!
-
-Puss och kram
-
+See you <3,
 Prylis
