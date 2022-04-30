@@ -362,6 +362,9 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 ## D-directorate meetings, DM
 
 ###2022
+
+28/4 DM-before-Election-CM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2022))
+
 6/4 DM-after-Revision-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/dm_efter_revisions_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_efter_revisions_sm_2022))
 
 15/3 DM-before-Revision-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2022))
