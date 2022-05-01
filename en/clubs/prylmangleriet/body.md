@@ -2,7 +2,7 @@
 
 What is Prylmångeriet actually?
 
-Well... Prylmångleriet is the club at the Computer Science chapter, lead by Prylmånglaren (also called Prylis). Prylmångleriet handles all from embroidered patches, boilersuits (Ovve) and all other type of merch for the chapter! Our work mainly consists of designing new patches and the sale of them but also design of the chapter's songbook. Contact Prylis by [mail](mailto:prylis@d.kth.se) if you have any project ideas that you want to realize or if you have any questions.
+Well... Prylmångleriet is a club at the Computer Science chapter, lead by Prylmånglaren (also called Prylis). Prylmångleriet handles all from embroidered patches, boilersuits (Ovve) and all other type of merch for the chapter! Our work mainly consists of designing new patches and the sale of them but also designing the chapter's songbook. Contact Prylis by mail at [prylis@d.kth.se](mailto:prylis@d.kth.se) if you have any project ideas that you want to realize or if you have any questions.
 
 So Prylmångleriet is where you go to style your Ovve. We usually sell these items outside of META every other Friday from 12.15 to 13.00 but contact us if you need something special and we might be able to arrange something. Follow prylmångleriet at [Facebook](https://www.facebook.com/dataprylis) for further information and updates of what we have in stock.
 
