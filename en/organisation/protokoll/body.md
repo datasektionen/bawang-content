@@ -13,13 +13,13 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 ###2021
 
-7/12, 14/12 Glögg-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/glogg_sm_2021))
+7/12, 14/12 Glögg-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/glogg_sm_2021)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/glogg_sm_2021))
 
-9/11 Budget-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/budget_sm_2021))
+9/11 Budget-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/budget_sm_2021)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/budget_sm_2021))
 
-29/5 Extra-SM 2 ([action minutes](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2_2021))
+29/5 Extra-SM 2 ([discussion minutes](https://yoggi.datasektionen.se/protokoll/extra_sm_2_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2_2021))
 
-18/5, 20/5, 26/5 Val-SM ([action minutes](https://static.datasektionen.se/beslutsprotokoll/val_sm_2021))
+18/5, 20/5, 26/5 Val-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/val_sm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/val_sm_2021))
 
 2/3, 4/3 Revisions-SM ([discussion minutes](https://static.datasektionen.se/protokoll/revisions_sm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/revisions_sm_2021))
 
@@ -375,19 +375,19 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 ###2021
 
-16/12 Was-It-Not-Just-CM-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/var_det_inte_nyss_sm_dm_2021))
+16/12 Was-It-Not-Just-CM-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/var_det_inte_nyss_sm_dm_2021)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/var_det_inte_nyss_sm_dm_2021))
 
-25/11 DM-before-Mulled-Wine-CM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_glogg_sm_2021))
+25/11 DM-before-Mulled-Wine-CM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/dm_innan_glogg_sm_2021)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_glogg_sm_2021))
 
-29/10 DM-before-Budget-CM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_budget_sm_2021))
+29/10 DM-before-Budget-CM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/dm_innan_budget_sm_2021)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_budget_sm_2021))
 
-6/10 An-eased-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_lattat_dm_2021))
+6/10 An-eased-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_lattat_dm_2021)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_lattat_dm_2021))
 
-21/9 A-PC-DM 
+21/9 A-PC-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_pc_dm_2021))
 
-27/5 A-Bahamas-vacation-DM ([action minutes](https://static.datasektionen.se/beslutsprotokoll/ett_bahamas_vacation_dm_2021))
+27/5 A-Bahamas-vacation-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_bahamas_vacation_dm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/ett_bahamas_vacation_dm_2021))
 
-6/5 DM-before-Election-CM ([action minutes](https://static.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2021))
+6/5 DM-before-Election-CM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/dm_innan_val_sm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2021))
 
 30/3 A-towards-brighter-times-DM ([discussion minutes](https://static.datasektionen.se/protokoll/ett_mot_ljusare_tider_dm_2021)) ([action minutes](https://static.datasektionen.se/beslutsprotokoll/ett_mot_ljusare_tider_dm_2021))
 
