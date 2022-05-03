@@ -13,13 +13,13 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2021
 
-7/12, 14/12 Glögg-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/glogg_sm_2021))
+7/12, 14/12 Glögg-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/glogg_sm_2021)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/glogg_sm_2021))
 
-9/11 Budget-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/budget_sm_2021))
+9/11 Budget-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/budget_sm_2021)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/budget_sm_2021))
 
-29/5 Extra-SM 2 ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2_2021))
+29/5 Extra-SM 2 ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/extra_sm_2_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/extra_sm_2_2021))
 
-18/5, 20/5, 26/5 Val-SM ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/val_sm_2021))
+18/5, 20/5, 26/5 Val-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/val_sm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/val_sm_2021))
 
 2/3, 4/3 Revisions-SM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/revisions_sm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/revisions_sm_2021))
 
@@ -377,19 +377,19 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2021
 
-16/12 Var-det-inte-nyss-SM-DM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/var_det_inte_nyss_sm_dm_2021))
+16/12 Var-det-inte-nyss-SM-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/var_det_inte_nyss_sm_dm_2021)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/var_det_inte_nyss_sm_dm_2021))
 
-25/11 DM-innan-Glögg-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_glogg_sm_2021))
+25/11 DM-innan-Glögg-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/dm_innan_glogg_sm_2021)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_glogg_sm_2021))
 
-29/10 DM-innan-Budget-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_budget_sm_2021))
+29/10 DM-innan-Budget-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/dm_innan_budget_sm_2021)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_budget_sm_2021))
 
-6/10 Ett-lättat-DM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_lattat_dm_2021))
+6/10 Ett-lättat-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/ett_lattat_dm_2021)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_lattat_dm_2021))
 
-21/9 Ett-PC-DM
+21/9 Ett-PC-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/ett_pc_dm_2021))
 
-27/5 ett-Bahamas-vacation-DM ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/ett_bahamas_vacation_dm_2021))
+27/5 ett-Bahamas-vacation-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/ett_bahamas_vacation_dm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/ett_bahamas_vacation_dm_2021))
 
-6/5 DM-innan-Val-SM ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2021))
+6/5 DM-innan-Val-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/dm_innan_val_sm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2021))
 
 30/3 Ett-mot-ljusare-tider-DM ([diskussionsprotokoll](https://static.datasektionen.se/protokoll/ett_mot_ljusare_tider_dm_2021)) ([beslutsprotokoll](https://static.datasektionen.se/beslutsprotokoll/ett_mot_ljusare_tider_dm_2021))
 
