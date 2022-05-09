@@ -1,6 +1,6 @@
 # Anmälan och frågor
 
-Anmälningar och frågor som du vill lämna till Jämlikhetsnämndens ordförande görs helst genom formuläret (kommer inom kort).
+Anmälningar och frågor som du vill lämna till Jämlikhetsnämndens ordförande görs helst genom formuläret ([HÄR](https://jml.datasektionen.se/)).
 
 Om du väljer att vara anonym kommer vi självklart att respektera det. Däremot kan det vara så att vi behöver göra en anmälan till KTH om vi bedömer att det är nödvändigt. Om du valt att vara anonym kan den anmälan inte leda till några disciplinära åtgärder, men kan dock leda till förebyggande åtgärder såsom informationsspridning och seminarier. Om du vill att din anmälan ska kunna leda till mer direkta åtgärder och eventuella disciplinära åtgärder så kan du inte vara anonym.
 
