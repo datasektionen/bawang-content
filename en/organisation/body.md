@@ -16,7 +16,7 @@ Other policies we commit to are
 [Recruitment Policy](https://styrdokument.datasektionen.se/rekryteringspolicy),
 [d-Funk Policy](https://styrdokument.datasektionen.se/dfunkpolicy) and our
 [Information Distribution Guidelines](https://styrdokument.datasektionen.se/informationsspridningsguidelines).
-You can also find them listed on the right side of this page.
+You can also find them listed on the right side of this page. We also have a [Cohabitatation Agreement](https://static.datasektionen.se/organisation/samboendeavtal2022) regulating how the chapter hall META is shared between The Computer Science Chapter and the Chapter for Media Technology. 
 
 ### Members
 
