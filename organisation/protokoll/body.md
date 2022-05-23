@@ -367,6 +367,8 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2022
 
+23/5 Ett-Markoolio-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/markoolio_dm_2022))
+
 28/4 DM-innan-Val-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2022))
 
 6/4 DM-efter-Revisions-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/dm_efter_revisions_sm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/dm_efter_revisions_sm_2022))

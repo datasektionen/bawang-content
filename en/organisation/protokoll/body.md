@@ -366,7 +366,9 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 ###2022
 
-28/4 DM-before-Election-CM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2022))
+23/5 A-Markoolio-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/markoolio_dm_2022))
+
+28/4 DM-before-Election-CM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/dm_innan_val_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2022))
 
 6/4 DM-after-Revision-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/dm_efter_revisions_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_efter_revisions_sm_2022))
 
