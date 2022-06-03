@@ -23,7 +23,7 @@ __Kontaktfunktionärer__
 
 __Kontakt__
 
-Ordförande är nåbar på [ordf@d.kth.se](mailto:ordf@d.kth.se)
+Ordförande är nåbar på [ordf@datasektionen.se](mailto:ordf@datasektionen.se)
 
 ## Vice sektionsordförande - Pontus Söderlund
 
@@ -48,7 +48,7 @@ __Kontaktfunktionärer__
 
 __Kontakt__
 
-Vice ordförande är nåbar på [vordf@d.kth.se](mailto:vordf@d.kth.se)
+Vice ordförande är nåbar på [vordf@datasektionen.se](mailto:vordf@datasektionen.se)
 
 ## Kassör - Fabian Andréasson
 
@@ -58,7 +58,7 @@ och sektionsordföranden är de som har firmateckningsrätt för sektionen.
 
 __Kontakt__
 
-Kassör är nåbar på [kassor@d.kth.se](mailto:kassor@d.kth.se)
+Kassör är nåbar på [kassor@datasektionen.se](mailto:kassor@datasektionen.se)
 
 ## Vice kassör - Felix Murnion
 
@@ -67,7 +67,7 @@ som extra stöd i ekonomiska frågor och arbetar naturligtvis även med bokföri
 
 __Kontakt__
 
-Vice kassör är nåbar på [vkassor@d.kth.se](mailto:vkassor@d.kth.se)
+Vice kassör är nåbar på [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se)
 
 ## Sekreterare - Herman Karlsson
 
@@ -85,7 +85,7 @@ __Kontaktfunktionärer__
 
 __Kontakt__
 
-Sekreterare är nåbar på [sekr@d.kth.se](mailto:sekr@d.kth.se)
+Sekreterare är nåbar på [sekr@datasektionen.se](mailto:sekr@datasektionen.se)
 
 ## Ledamot för utbildningsfrågor - Daniel Grünler
 
@@ -109,7 +109,7 @@ __Kontaktfunktionärer__
 
 __Kontakt__
 
-Ledamot för utbildningsfrågor är nåbar på [d-uf@d.kth.se](mailto:d-uf@d.kth.se)
+Ledamot för utbildningsfrågor är nåbar på [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se)
 
 ## Ledamot för studiesociala frågor - Malin Svenberg
 
@@ -161,7 +161,7 @@ __Kontaktfunktionärer__
 
 __Kontakt__
 
-Ledamot för studiesociala frågor är nåbar på [d-ssf@d.kth.se](mailto:d-ssf@d.kth.se)
+Ledamot för studiesociala frågor är nåbar på [d-ssf@datasektionen.se](mailto:d-ssf@datasektionen.se)
 
 ## Ledamot för näringsliv och kommunikation - Marcus Nordstedt
 
@@ -195,4 +195,4 @@ __Kontaktfunktionärer__
 
 __Kontakt__
 
-Ledamot för näringsliv och kommunikation är nåbar på [d-nok@d.kth.se](mailto:d-nok@d.kth.se)
+Ledamot för näringsliv och kommunikation är nåbar på [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se)
