@@ -1,11 +1,11 @@
 ## Kontakta oss
 
-Vi som är ansvariga för Mottagningen kallas för Titel. Vill du kontakta oss kan du skicka ett mail till [titel@d.kth.se](mailto:titel@d.kth.se). Vill du kontakta en specifik person finns kontaktuppgifter nedan.
+Vi som är ansvariga för Mottagningen kallas för Titel. Vill du kontakta oss kan du skicka ett mail till [titel@datasektionen.se](mailto:titel@datasektionen.se). Vill du kontakta en specifik person finns kontaktuppgifter nedan.
 
 ### Det Kongliga Dadderiet 
 **Storebror**, <br />
 George Bassilious<br />
-[storebror@d.kth.se](mailto:storebror@d.kth.se)<br />
+[storasyskon@datasektionen.se](mailto:storasyskon@datasektionen.se)<br />
 070-757 53 81
 
 **Halvbror**, <br />

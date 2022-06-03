@@ -7,4 +7,4 @@ To join the baking committee, fill in this [form](https://forms.gle/XuBLY9kMRRHX
 #### Bakie
 
 Filip Ramslöv</br>
-[bakis@d.kth.se](mailto:bakis@d.kth.se)
+[bakis@datasektionen.se](mailto:bakis@datasektionen.se)

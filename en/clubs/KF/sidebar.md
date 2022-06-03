@@ -8,12 +8,12 @@ Douglas Fischer</br>
 David Puustinen</br>
 Johan Hamredahl</br>
 Joaquin Bonino Quintana</br>
-[d-kf@d.kth.se](mailto:d-kf@d.kth.se)
+[kf@datasektionen.se](mailto:kf@datasektionen.se)
 
 #### Supplementary members
 
 Jakob Carlsson</br>
-[d-kf+supp@d.kth.se](mailto:d-kf+supp@d.kth.se)
+[kf@datasektionen.se](mailto:kf@datasektionen.se)
 
 ## Links
 

@@ -7,7 +7,7 @@
 För att boka META använd bokningssystemet på 
 **[bokning.datasektionen.se](http://bokning.datasektionen.se)**. 
 Vid frågor kontakta Konglig Lokalchefer via mail,
-**[lokalbokning@d.kth.se](mailto:lokalbokning@d.kth.se)**. Mailen går
+**[lokalbokning@datasektionen.se](mailto:lokalbokning@datasektionen.se)**. Mailen går
 till både Konglig Lokalchef (Data) och Sektionslokalsansvarige (Media),
 men det kommer antagligen vara Lokalchef som svarar er.
 Regler som gäller vid bokning finns i [sektionens
@@ -36,7 +36,7 @@ gäller för bokningar på samma tid (t ex onsdag 10-12).
 To book META please use the booking system at 
 **[bokning.datasektionen.se](http://bokning.datasektionen.se)**. If you
 have any questions, please contact the chapter-house bosses by email,
-**[lokalbokning@d.kth.se](mailto:lokalbokning@d.kth.se)**. The email
+**[lokalbokning@datasektionen.se](mailto:lokalbokning@datasektionen.se)**. The email
 goes to both the representative from Computer Science but also the one
 from Media (but CS will most likely reply to you). You need to be a
 member of the chapter in order to book META. To get all the rules,

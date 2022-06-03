@@ -1,13 +1,13 @@
 ## Kontakta DKM
 Tveka inte på att kontakta oss!
 
-**Hela DKM:** [dkm@d.kth.se](mailto:dkm@d.kth.se)  
+**Hela DKM:** [dkm@datasektionen.se](mailto:dkm@datasektionen.se)  
 
 Klagomål, komplimanger, gåvor?</br>
-**Klubbmästare:**  [klubbm@d.kth.se](mailto:klubbm@d.kth.se)
+**Klubbmästare:**  [klubbm@datasektionen.se](mailto:klubbm@datasektionen.se)
 
 Sortiment och annat bar-relaterat?</br>
-**Barmästare:** [barm@d.kth.se](mailto:barm@d.kth.se)
+**Barmästare:** [barm@datasektionen.se](mailto:barm@d.kth.se)
 
 ## Ansökan till DKM
 

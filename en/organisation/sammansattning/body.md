@@ -23,7 +23,7 @@ __Contact Person to__
 
 __Contact__
 
-The Chairman can be reached at [ordf@d.kth.se](mailto:ordf@d.kth.se).
+The Chairman can be reached at [ordf@datasektionen.se](mailto:ordf@datasektionen.se).
 
 ## Vice Chairman - Pontus Söderlund
 The Vice Chairmans primary role is to assist the Chairman and make sure
@@ -40,7 +40,7 @@ __Contact Person to__
 
 __Contact__
 
-The Vice Chairman can be reached at [vordf@d.kth.se](mailto:vordf@d.kth.se).
+The Vice Chairman can be reached at [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
 
 ## The Treasurer - Fabian Andréasson
 
@@ -50,14 +50,14 @@ is an authorized signatory for the chapter.
 
 __Contact__
 
-The Treasurer can be reached at [kassor@d.kth.se](mailto:kassor@d.kth.se).
+The Treasurer can be reached at [kassor@datasektionen.se](mailto:kassor@datasektionen.se).
 
 ## Vice Treasurer - Felix Murnion
 The Vice Treasurer assists the Treasurer with most things related to economics.
 
 __Contact__
 
-The Vice Treasurer can be reached at [vkassor@d.kth.se](mailto:vkassor@d.kth.se).
+The Vice Treasurer can be reached at [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se).
 
 ## The Secretary - Herman Karlsson
 
@@ -73,7 +73,7 @@ __Contact person to__
 
 __Contact__
 
-The Secretary can be reached at [sekr@d.kth.se](mailto:sekr@d.kth.se).
+The Secretary can be reached at [sekreterare@datasektionen.se](mailto:sekreterare@datasektionen.se).
 
 ## Board Member of Educational Affairs - Daniel Grünler
 
@@ -94,7 +94,7 @@ __Contact person to__
 
 __Contact__
 
-The Board Member of Educational Affairs can be reached at [d-uf@d.kth.se](mailto:d-uf@d.kth.se).
+The Board Member of Educational Affairs can be reached at [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
 
 ## Board member of Student Issues - Malin Svenberg
 
@@ -135,7 +135,7 @@ __Contact person to__
 
 __Contact__
 
-The Board member of Student Issues can be reached at [d-ssf@d.kth.se](mailto:d-ssf@d.kth.se).
+The Board member of Student Issues can be reached at [d-ssf@datasektionen.se](mailto:d-ssf@datasektionen.se).
 
 ## Board Member of Business Relations - Marcus Nordstedt
 
@@ -159,5 +159,5 @@ __Contact person to__
 
 __Contact__
 
-The Board member of Business Relations can be reached at [d-nok@d.kth.se](mailto:d-nok@d.kth.se)
+The Board member of Business Relations can be reached at [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se)
 .

@@ -6,7 +6,7 @@ Send us an email or follow us on facebook if you find us interesting or would li
 
 Amanda Hallstedt
 
-ofvermatrona@d.kth.se
+[ofvermatrona@datasektionen.se](mailto:ofvermatrona@datasektionen.se)
 
 [Facebook](https://www.facebook.com/kongligostrogennamnden)
 

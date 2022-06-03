@@ -1,10 +1,10 @@
 ## Kontakta oss
 
-Vi som är ansvariga för mottagningen kallas för Titel. Vill du kontakta oss kan du skicka ett mail till [titel@d.kth.se](mailto:titel@d.kth.se). Vill du kontakta en specifik person finns kontaktuppgifter nedan.
+Vi som är ansvariga för mottagningen kallas för Titel. Vill du kontakta oss kan du skicka ett mail till [titel@datasektionen.se](mailto:titel@datasektionen.se). Vill du kontakta en specifik person finns kontaktuppgifter nedan.
 
 **Storasyster**, <br />
 Agnes Fosberg<br />
-[storasyster@d.kth.se](mailto:storasyster@d.kth.se)<br />
+[storasyskon@datasektionen.se](mailto:storasyster@datasektionen.se)<br />
 079-348 30 09
 
 **Lillasyster**, <br />
@@ -21,7 +21,7 @@ Oscar Bergström<br />
 
 **Samdoquise**, <br />
 Albin Winkelmann<br />
-[samdoquise@d.kth.se](mailto:samdoquise@d.kth.se)<br />
+[samdoquise@datasektionen.se](mailto:samdoquise@datasektionen.se)<br />
 072-523 30 03
 
 ### Det Kongliga Quisineriet

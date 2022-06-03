@@ -132,7 +132,7 @@ Det är viktigt att respektera offrets önskan om vilka ska blandas in.
 - Sektionsordförande
 - Valfri person i styrelsen.
   - Individuella mailadresser hittas på [dfunkt.datasektionen.se](https://dfunkt.datasektionen.se/)
-- Jämlikhetsnämndens Ordförande, [jamlikordf@d.kth.se](mailto:jamlikordf@d.kth.se)
+- Jämlikhetsnämndens Ordförande, [jno@datasektionen.se](mailto:jno@datasektionen.se)
 - För kontaktuppgifter till resurser på THS eller KTH, se sektionens JML-policy på [styrdokument.datasektionen.se](http://styrdokument.datasektionen.se).
 
 ## Risk för varumärkesskada

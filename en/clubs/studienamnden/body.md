@@ -29,11 +29,11 @@ Master - Sara, Kitty, Elsa: [master@d.kth.se](mailto:master@d.kth.se)
 ### Studying environment
 
 Cold lecture halls? Unergonomic chairs? Is there too much noise? Contact our SSO if you have an opinion!
-SSO: Emil [sso@d.kth.se](mailto:sso@d.kth.se)
+SSO: Emil [sso@datasektionen.se](mailto:sso@datasektionen.se)
 
 ### Other questions
 
-Contact the president of the study board if you have an opinion: [sno@d.kth.se](mailto:sno@d.kth.se)
+Contact the president of the study board if you have an opinion: [sno@datasektionen.se](mailto:sno@datasektionen.se)
 
 ## About the Board
 
@@ -72,12 +72,12 @@ The SNO is interested in the students' opinions both regarding the education and
 ### Programme responsible student
 The Programme responsible student (PAS) works together with SNO to improve education quality. The PAS is mainly responsible for contact with teachers and other personel at the CSC-school, and generally works with the long-term work within the Study Board.
 
-PAS: Abhinav [pas@d.kth.se](mailto:pas@d.kth.se)
+PAS: Abhinav [pas@datasektionen.se](mailto:pas@datasektionen.se)
 
 ### Chapter Board Representative for Education
 The Chapter Board Representative for Education (D-UF) works for a better studying environment at KTH. The D-UF has the larger picture of the education. The D-UF is also the communication link between the Chapter Board (D-Rek) and the SNO and PAS.
 
-D-UF: Daniel [d-uf@d.kth.se](mailto:d-uf@d.kth.se)
+D-UF: Daniel [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se)
 
 ### Other interested students
 The Study Board is an open club, meaning that any chapter member is allowed to participate. For additional information, contact the President of the Board.

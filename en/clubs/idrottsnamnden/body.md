@@ -53,7 +53,7 @@ The activities we will mainly exercise are the ones included in the THS Champion
 
 If you are eager to get involved with some other sport, please let me know, most things can be arranged!
 
-Are you interested in participating in any of these activities, join the [Facebook Group](https://www.facebook.com/groups/datafotboll/) or take direct contact to the Section Sports Leader via __idrott@d.kth.se__. You can also send requests for activities/events to this address. Another channel that the Sports Committee intends to use is the news section on __datasektionen.se__.
+Are you interested in participating in any of these activities, join the [Facebook Group](https://www.facebook.com/groups/datafotboll/) or take direct contact to the Section Sports Leader via __idrott@datasektionen.se__. You can also send requests for activities/events to this address. Another channel that the Sports Committee intends to use is the news section on __datasektionen.se__.
 
 ## THS Championship
 

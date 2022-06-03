@@ -6,7 +6,7 @@ Do you like tabletop games and/or other forms of Qulture? Contact us!
 
 Arvid Eriksson
 
-[qulturattache@d.kth.se](mailto:qulturattache@d.kth.se)
+[qulturattache@datasektionen.se](mailto:qulturattache@datasektionen.se)
 
 #### Qulturnämndsordförande (Media)
 

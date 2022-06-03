@@ -1,10 +1,10 @@
 ## Contact
 
 #### METAdorerna
-[metadorerna@d.kth.se](mailto:metadorerna@d.kth.se)
+[metadorerna@datasektionen.se](mailto:metadorerna@datasektionen.se)
 #### Konglig Lokalchef (D)
 Douglas Fischer
-[lokalchef@d.kth.se](mailto:lokalchef@d.kth.se)
+[lokalchef@datasektionen.se](mailto:lokalchef@datasektionen.se)
 
 #### Sektionslokalsansvarig (Media)
 Andreas Wingqvist  

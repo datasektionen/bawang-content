@@ -1,7 +1,7 @@
 ## Hur kan vi hjälpa er?
 
 
-Vill du veta mer om hur ni kan delta i mottagningen? [Kontakta ledningsgruppen](mailto:titel@d.kth.se)
+Vill du veta mer om hur ni kan delta i mottagningen? [Kontakta ledningsgruppen](mailto:titel@datasektionen.se)
 
 ## Näringslivsgruppen
 

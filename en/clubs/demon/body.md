@@ -4,7 +4,7 @@ The Computer Science Chapter's music committee. Lead by the Ärkedemon. This is 
 
 ## Stuff
 
-The chapter owns a few MIDI-synths, a digital drum set, an acoustic guitar, electric guitar, bass guitar, and a digital piano. Everything is free to borrow, so don't hesitate to try new stuff! Send an e-mail to [arkedemon@d.kth.se](mailto:arkedemon@d.kth.se) if you want to borrow something.
+The chapter owns a few MIDI-synths, a digital drum set, an acoustic guitar, electric guitar, bass guitar, and a digital piano. Everything is free to borrow, so don't hesitate to try new stuff! Send an e-mail to [arkedemon@datasektionen.se](mailto:arkedemon@datasektionen.se) if you want to borrow something.
 
 ## Rehearsal space
 

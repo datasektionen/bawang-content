@@ -39,7 +39,7 @@ in all the different courses and programmes. If you're experiencing problems
 with the faculty or a course, you should contact us!  The study council is
 open for all CS students, so anyone can come to our meetings.
 [Studienämnden](/en/clubs/studienamnden)
-[sno@d.kth.se](mailto:sno@d.kth.se)
+[sno@datasektionen.se](mailto:sno@datasektionen.se)
 
 Industry contact
 ------------------
@@ -117,7 +117,7 @@ International
 -----------------
 
 We have an international study coordinator who knows the most about the CS chapter's international
-projects. More information can be found [here](/en/clubs/internationellanamnden) or by sending an[email](isc@d.kth.se).
+projects. More information can be found [here](/en/clubs/internationellanamnden) or by sending an[email](isc@datasektionen.se).
 
 Study trip
 ----------
@@ -129,7 +129,7 @@ Overalls and patches
 
 _Prylmånglaren_ is the person at the CS chapter who makes sure to get
 all the, patches and merchandise, which are s big part of sedish student culture.
-They can be found in META and organize selling events semi-regularly. prylis@d.kth.se
+They can be found in META and organize selling events semi-regularly. prylis@datasektionen.se
 
 Ski-trip
 --------

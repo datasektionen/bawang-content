@@ -11,8 +11,8 @@ Vissa funktionärer på sektionen (D-UF, Ordförande, SSO) kommer att delges av 
 ## Andra möjliga kontaktvägar
 Förutom att kontakta JNO via det här formuläret finns de här möjliga kontaktvägarna för frågor eller anmälningar:
 
-- Du kan höra av dig till JNO direkt via [jamlikordf@d.kth.se](mailto:jamlikordf@d.kth.se), via valfritt socialt medium eller genom att hugga tag i JNO i Meta.
-- Du kan prata med sektionens SSO (Studerandeskyddsombud). Den personen har tystnadsplikt (såvida inte ni kommer överens om någonting annat) och finns på [sso@d.kth.se](mailto:sso@d.kth.se).
+- Du kan höra av dig till JNO direkt via [jno@datasektionen.se](mailto:jno@datasektionen.se), via valfritt socialt medium eller genom att hugga tag i JNO i Meta.
+- Du kan prata med sektionens SSO (Studerandeskyddsombud). Den personen har tystnadsplikt (såvida inte ni kommer överens om någonting annat) och finns på [sso@datasektionen.se](mailto:sso@datasektionen.se).
 - Du kan prata med Ledamot för utbildningsfrågor (D-UF) i sektionens styrelse. Den personen har ansvar för JML-frågor i styrelsen
 - Du kan prata med Studiesocialt ansvarig ([studiesocialt@ths.kth.se](mailto:studiesocialt@ths.kth.se)) eller med Studiemiljöansvarig ([studiemiljo@ths.kth.se](mailto:studiemiljo@ths.kth.se)) på THS
 - Du kan prata med studievägledningen ([svl-data@kth.se](mailto:svl-data@kth.se))
