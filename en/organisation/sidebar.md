@@ -52,9 +52,6 @@ Protocols from chapter meetings and D-directorate meetings.
 
 How am I allowed to use the Computer Science chapter's logo and where can I find it in print-friendly file format?
 
-#### [Hedersdelta](/en/chapter/hedersdelta)
-
-List of the people who have been awarded the The Honorary Delta.
 
 #### [Hedersmedlem](/en/chapter/hedersmedlem)
 

@@ -259,9 +259,6 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Vilma Jalava__
   * Ekonomimästare
   * _Om jag inte flyger full, flyger jag fel._
-* __Luciano Zapata__
-  * Ekonomimästare
-  * _Varannan vatten är ju också varannan alk._
 * __Isabel Redtzer__
   * Barmästare
   * _Jag kan inte dricka med näsan!_

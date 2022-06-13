@@ -517,7 +517,6 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 15/3 [DM-innan-Revisions-SM](https://static.datasektionen.se/protokoll/protokoll_dm-innan-rev-sm-v1.pdf)
 
-1/3 [Hedersdelta-DM](https://static.datasektionen.se/protokoll/hedersdelta_dm_protokoll.pdf)
 
 26/1 [Uppstarts-DM](https://static.datasektionen.se/protokoll/uppstartdm_protokoll2.pdf)
 
@@ -538,8 +537,6 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 27/4 [DM-innan-Val-SM](https://static.datasektionen.se/protokoll/dm_protokoll_20150427.pdf)
 
 30/3 [Projekt-DM](https://static.datasektionen.se/protokoll/dm_protokoll_20150330.pdf)
-
-23/2 [Hedersdelta-DM](https://static.datasektionen.se/protokoll/dm_protokoll_20150223.pdf)
 
 19/2 [DM-innan-Revisions-SM](https://static.datasektionen.se/protokoll/dm_protokoll_20150219.pdf)
 
