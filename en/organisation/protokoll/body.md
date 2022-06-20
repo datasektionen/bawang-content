@@ -7,7 +7,7 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 ###2022
 
-25/5 Extra-SM 2 ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/extra_sm_2022_maj))
+25/5 Extra-SM 2 ([discussion minutes](https://yoggi.datasektionen.se/protokoll/extra_sm_2022_maj)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/extra_sm_2022_maj))
 
 
 10/5, 12/5 Val-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/val_sm_2022))
