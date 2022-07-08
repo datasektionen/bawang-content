@@ -46,72 +46,72 @@ _Jag säger inte så många citat för att jag är en rimlig person._
 <img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/unknown.jpg">  
 
 #### Vice Klubbmästare  
-**Favoritdrink:** *Du tror du är smart va?*  
-**Gillar:** *Du tror du är smart va?*  
-**Ogillar:** *Du tror du är smart va?*    
-**Specialitet:** *Du tror du är smart va?*    
+**Favoritdrink:** *You think you're slick yeah?*  
+**Gillar:** *You think you're slick yeah?*  
+**Ogillar:** *You think you're slick yeah?*    
+**Specialitet:** *You think you're slick yeah?*    
 **Citat:**
-*Du tror du är smart va?*
+*You think you're slick yeah?*
 
 <img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/unknown.jpg">  
 
 #### Ekonomimästare  
-**Favoritdrink:** *Du tror du är smart va?*     
-**Gillar:** *Du tror du är smart va?*    
-**Ogillar:** *Du tror du är smart va?*    
-**Specialitet:** *Du tror du är smart va?*    
+**Favoritdrink:** *You think you're slick yeah?*     
+**Gillar:** *You think you're slick yeah?*    
+**Ogillar:** *You think you're slick yeah?*    
+**Specialitet:** *You think you're slick yeah?*    
 **Citat:**
-*Du tror du är smart va?*  
+*You think you're slick yeah?*  
 
 <img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/unknown.jpg">  
 
 #### Ekonomimästare  
-**Favoritdrink:** *Du tror du är smart va?*     
-**Gillar:** *Du tror du är smart va?*    
-**Ogillar:** *Du tror du är smart va?*    
-**Specialitet:** *Du tror du är smart va?*    
+**Favoritdrink:** *You think you're slick yeah?*     
+**Gillar:** *You think you're slick yeah?*    
+**Ogillar:** *You think you're slick yeah?*    
+**Specialitet:** *You think you're slick yeah?*    
 **Citat:**
-*Du tror du är smart va?*  
+*You think you're slick yeah?*  
 
 <img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/unknown.jpg">  
 
 #### Barmästare  
-**Favoritdrink:** *Du tror du är smart va?*     
-**Gillar:** *Du tror du är smart va?*    
-**Ogillar:** *Du tror du är smart va?*    
-**Specialitet:** *Du tror du är smart va?*    
+**Favoritdrink:** *You think you're slick yeah?*     
+**Gillar:** *You think you're slick yeah?*    
+**Ogillar:** *You think you're slick yeah?*    
+**Specialitet:** *You think you're slick yeah?*    
 **Citat:**
-*Du tror du är smart va?*  
+*You think you're slick yeah?*  
 
 <img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/unknown.jpg">  
 
 #### Barmästare  
-**Favoritdrink:** *Du tror du är smart va?*     
-**Gillar:** *Du tror du är smart va?*    
-**Ogillar:** *Du tror du är smart va?*    
-**Specialitet:** *Du tror du är smart va?*    
+**Favoritdrink:** *You think you're slick yeah?*     
+**Gillar:** *You think you're slick yeah?*    
+**Ogillar:** *You think you're slick yeah?*    
+**Specialitet:** *You think you're slick yeah?*    
 **Citat:**
-*Du tror du är smart va?*  
+*You think you're slick yeah?*  
 
 <img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/unknown.jpg">  
 
 #### Festmästare  
-**Favoritdrink:** *Du tror du är smart va?*     
-**Gillar:** *Du tror du är smart va?*    
-**Ogillar:** *Du tror du är smart va?*    
-**Specialitet:** *Du tror du är smart va?*    
+**Favoritdrink:** *You think you're slick yeah?*     
+**Gillar:** *You think you're slick yeah?*    
+**Ogillar:** *You think you're slick yeah?*    
+**Specialitet:** *You think you're slick yeah?*    
 **Citat:**
-*Du tror du är smart va?*  
+*You think you're slick yeah?*  
 
 <img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/unknown.jpg">  
 
 #### Infomästare  
-**Favoritdrink:** *Du tror du är smart va?*     
-**Gillar:** *Du tror du är smart va?*    
-**Ogillar:** *Du tror du är smart va?*    
-**Specialitet:** *Du tror du är smart va?*    
+**Favoritdrink:** *You think you're slick yeah?*     
+**Gillar:** *You think you're slick yeah?*    
+**Ogillar:** *You think you're slick yeah?*    
+**Specialitet:** *You think you're slick yeah?*    
 **Citat:**
-*Du tror du är smart va?*  
+*You think you're slick yeah?*  
 
 ## Cliff
 
