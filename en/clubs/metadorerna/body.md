@@ -8,10 +8,6 @@ Men naturligtvis anstränger vi oss mest för att ha trevligt! Har du några syn
 
 META är ju även en festlokal så i samarbete med DKM ser vi till att ölkylarna och basförstärkaren funkar. Det går även bra för sektionens nämnder att boka META för fester/aktiviteter.
 
-## Städskri - Måndagsstäd
-
-Det är vi som håller i måndagsstäden i Meta under året. Vi bjuder in nyantagna att hjälpa till och städa för att lära sig vart allt ligger i lokalen och hur sopphanteringen fungerar. Alla som hjälper till att städa 2 gånger får vara med på en väl påkostad fest i slutet av året. Städningen sker måndagar med start klockan 17:17 i nØllegrupperna och tar typ en timme efter skolan. Passar det inte att städa på den avsatta tiden kan man komma förbi en annan måndag eller dom avsedda extra städen mot slutet av terminen.
-
 #### Städ
 
 * 3/10: Alv & Big foot
