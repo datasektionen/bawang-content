@@ -44,6 +44,52 @@ The order's medal is a five-pointed silver star, with a cerise field, and a blac
     Jerker Andersson, Sequndus 1987
     Jesper Lundh, Sequndus 1986
     Kjell Lundesten, Primus 1985
+## Konglig Öfverdrif Emeritus
+
+Membership in The Konglig Öfverdrif Emeritus order is awarded to the Konglig Öfverdrifs at the chapter who have served an entire term.
+
+The order's medal is a five-pointed overthrown black star, with a cerise field strewn with a black delta.  The star is coated by a laurel wreath.
+
+Motto: Alone is strong. Together we are just many. 
+
+    Isabel Redtzer, Tricesimus Sextus 2021
+    Joar Rutqvist, Tricesimus Quartus 2020
+    Mikael Forsmark, Duotricesimus 2019
+    Josefin Nilsson, Tricesimus Tertia 2018
+    Shapour Jahanshahi, Untricesimus 2017
+    Hanna Nyblom, Tricesima 2016
+    Shayan Effati, Tricesimus 2015
+    Ida Vainionpää, Duodetricesima 2014
+    Jens Arvidsson, Vicesimus Septus 2013
+    Jacob Håkansson, Vicesimus Septus 2012
+    Michael Hjortholt, Vicesimus Quintus 2011
+    Pärham Fazelzadeh Hashemi, Vicesimus Quartus 2010
+    Johannes Edelstam, Tertius Vicesimus 2009
+    Roger Ström, Unvicesimus 2008
+    Jon Karlfeldt (Larsson), Undevicesimus 2007
+    Henrik Fräsén, Vicesimus 2006
+    Martin Nygren, Undevicesimus 2005
+    Sofia Demnert, Dodevicesimus 2004
+    Robert Danowsky, Undevicesimus 2003
+    Sara Englund, Quinta Decima 2002
+    Joakim Meldahl, Sigvard 2001
+    Henrik Hägerström, Sextus Decimus 2000
+    Magnus Hübner, Tertius Decimus 1999
+    Jonas Högberg, Tertius Decimus 1998
+    Pontus Axelsson, Dodecimus 1997
+    Tomas Elison, Undecimus 1996
+    Tomas Nilsson, Decimus 1995
+    Jörgen Blomberg, Septimus 1994
+    Björn Sjöstrand, Oqtavus 1993
+    Lasse Pechan, Sextus 1992
+    Björn Fransson, Sextus 1991
+    Magnus Hulthén, Quartus 1990
+    Erik Wåhlin, Tertius 1989
+    Bertil Lundell, Quartus 1988
+    Peter Franzén, Sequndus 1987
+    Patrik Anderson, Primus 1986
+    Juri Loosme, Sequndus 1985
+    Patrik Anderson, Primus 1984
 
 ## Storasyskon Emeritus
 
