@@ -39,7 +39,7 @@ De Högre Sfärernas jordiske företrädare är Konglig Öfverdrif, allsmäktig 
 
 _Det Kongliga Dadderiet är nØllans vän i alla väder. Det finns alltid kramgoa daddan att ty sig till när vindarna viner runt knuten._
 
-Det är tydligen så att nØllan blivit stor nog att inse att nØllan inte klarar sig utan livet på Teknis. Men det är inte så lätt att komma in i Livet på denna den förnämsta av tekniska högskolor, ty Livet består till en början av många hårda strapatser, samt i viss mån av en del matematik. Faror lurar på de mest oväntade av platser och tidpunkter från den stund nØllan beträder Teknis anrika mark. [Elaka examinatorer](http://us.imdb.com/Title?0036914) och [uråldriga demoner](https://www.astro.umd.edu/~miller/Cthulhu.gif) lurar överallt. Dessa är i sig förskräckliga och skulle både räcka och bli över, men här finns även något så skrämmande att nØllan inte kan föreställa sig det ens i sina värsta mardrömmar – Det Kongliga Drifveriet.
+Det är tydligen så att nØllan blivit stor nog att inse att nØllan inte klarar sig utan livet på Teknis. Men det är inte så lätt att komma in i Livet på denna den förnämsta av tekniska högskolor, ty Livet består till en början av många hårda strapatser, samt i viss mån av en del matematik. Faror lurar på de mest oväntade av platser och tidpunkter från den stund nØllan beträder Teknis anrika mark. [Elaka examinatorer](https://www.imdb.com/title/tt0036914/) och [uråldriga demoner](https://dsekt-assets.s3.amazonaws.com/mottagningen/Cthulhu.gif) lurar överallt. Dessa är i sig förskräckliga och skulle både räcka och bli över, men här finns även något så skrämmande att nØllan inte kan föreställa sig det ens i sina värsta mardrömmar – Det Kongliga Drifveriet.
 
 ####Räddningen
 
