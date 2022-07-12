@@ -9,10 +9,6 @@ anledning är du alltid välkommen att kontakta oss:
 **För företag**
 E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
-**Näringslivsansvarig**<br />
-Oscar Bergström<br />
-E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
-
 **Arbetsmarknadsdagsansvariga**<br />
 Kevin Wenström & Carl Chemnitz<br />
 E-post: [projectmanager@ddagen.se](mailto:projectmanager@ddagen.se)<br />
