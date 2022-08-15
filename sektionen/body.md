@@ -26,9 +26,9 @@ DESC - Datas E-Sports Community - anordnar spelkvällar för E-sportsentusiaster
 
 [Jämlikhetsnämnden](/namnder/jamlikhetsnamnden) gör allt för att alla ska känna sig trygga och lika välkomna på Konglig Datasektionen. Hit vänder du dig om du har frågor om trakasserier, diskriminering, eller om du utsatts för något otrevligt på sektionen.
 
-## Tjejer på data
+## Tjejer och ickebinära på data
 
-Trots Datasektionens så få men ack så underbara tjejer finns ett ljus i tunneln: [GEEK](/namnder/geek) är nämnden som hjälper tjejer på data att nätverka med varandra. De anordnar företagsevent och tjejgasquen.
+[Ada](/namnder/geek) är en nämnd som syftar till att främja kvinnor och ickebinäras intressen på sektionen, mindre formellt sagt helt enkelt göra det lättare att träffa andra kvinnor och ickebinära! Ada anordnar ett flertal olika aktiviteter under året, allt från sittningar till pluggstugor.
 
 ## Sektionslokal
 
