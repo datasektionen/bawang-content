@@ -49,6 +49,10 @@ world. We organize events together with interested companies, such as the yearly
 D-dagen CS job fair, company pubs, lunch lectures, and other events. We
 also help companies advertize jobs and sometimes organize something special.
 
+Women and nonbinary
+--------------------
+[Ada](/en/clubs/geek) is a club that wants to make it easier for women and nonbinary to meet other women and nonbinary in the chapter, and does so by hosting an array of different events throughout the year!
+
 META, our Chapter Hall
 -------------
 
