@@ -10,7 +10,7 @@ E-mail: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
 **Heads of D-Dagen**<br />
 Carl Chemnitz & Kevin Wenström<br />
-E-mail: [d-dagen@d.kth.se](mailto:d-dagen@d.kth.se)<br />
+E-mail: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
 Visit the [Industry page](en/industry) for more information.
 

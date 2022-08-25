@@ -11,7 +11,7 @@ E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
 **Arbetsmarknadsdagsansvariga**<br />
 Kevin Wenström & Carl Chemnitz<br />
-E-post: [projectmanager@ddagen.se](mailto:projectmanager@ddagen.se)<br />
+E-post: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
 
