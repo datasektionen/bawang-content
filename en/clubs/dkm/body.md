@@ -20,7 +20,7 @@ After the exam period you might want to relax that little bit extra. How fitting
 
 In addition to the Wednesday pubs, we also have a couple of major events:
 
-- **Reclaim**, directly after the student reception (mottagningen), we arrange a big party to celebrate that the keys to our liquor storage room are back in DKMs hands.
+- **Reclaim**,  a big party, what else is there?
 - **PPP**, sometime during the spring, we arrange a party together with ClubWästeriet (CLW) with a new, unique theme, every year!
 - **dJulmiddagen**, just before Christmas, we arrange a nice dinner with traditional Swedish julbord!
 - **Plums**, sometime during the winter, we throw a big party in a bath house, with a capacity of around 300 guests! 
@@ -33,203 +33,85 @@ To get more info about events and other things, it can be an good to look in and
 
 ## Members  
 
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/jennifer.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/unknown.jpg">  
 
-### Jennifer Larsson
 #### Klubbmästare  
-**Favoritdrink:** Inte carlsberg   
-**Gillar:** Skapa och sabba relationer  
-**Ogillar:** Footfetisch i ögat  
-**Specialitet:** Visa tänderna  
-**Citat:**
-_Om det är något som jag är bra på så är det bara att applådera._  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/alva.png">  
-
-### Alva Välimäki 
-#### Vice Klubbmästare  
-**Favoritdrink:** Ey thats a big wave bro  
-**Gillar:** ABBA (inte normala nivåer)  
-**Ogillar:** Complex men  
-**Specialitet:** ÄEFULLLLLLLLLLLLLLLLLL  
-**Citat:**
-_Jennifer har inte announceat det än men jag är den egentliga klubbm._  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/oscar.png">  
-
-### Oscar Knowles
-#### Ekonomimästare  
-**Favoritdrink:** Utgången Göteborgs-öl   
-**Gillar:** Alla sorters bollar  
-**Ogillar:** P3 som äter skagen efter 22  
-**Specialitet:** Känner alla  
-**Citat:**
-_Jag har bett andra människor lukta på mitt svett och dom ba JA!_  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/norma.png">  
-
-### Norma Cueto
-#### Ekonomimästare  
-**Favoritdrink:** Kopparberg Päroncider X-Strong   
-**Gillar:** Clas Ohlsson    
-**Ogillar:** Kjell  
-**Specialitet:** Quick Mafs  
-**Citat:**
-_X-Strong = X-Hype._  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/elissa.png">  
-
-### Elissa Arias Sosa  
-#### Barmästare  
-**Favoritdrink:** Shot utan prutt  
-**Gillar:** Perfekt smink på snapchat stories  
-**Ogillar:** Fel tejp  
-**Specialitet:** Gräddfil  
-**Citat:**
-_Maskeringstejp är inte samma som silvertejp ,wooops fel tejp..._  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/casper.png">  
-
-### Casper Reuterlöv
-#### Barmästare  
-**Favoritdrink:** 24 flaskor malibu   
-**Gillar:** Words...  
-**Ogillar:** Att enkronan är värd två  
-**Specialitet:** Coola föräldrar  
-**Citat:**
-_När jag blir klubbm..._  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/henrik.png">  
-
-### Henrik Åkesson
-#### Festmästare  
-**Favoritdrink:** Japansk Whiskey  
-**Gillar:** Personer utan hud  
-**Ogillar:** Icke-hästar  
-**Specialitet:** Bli ägd av linas matkasse  
-**Citat:**
-_Shush shush shush... Elefant._  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/lucas.png">  
-
-### Lucas Dow
-#### Infomästare  
 **Favoritdrink:** Rå Pimm's  
 **Gillar:** SPIIIIIIICYYYYYYYYYYYYY  
 **Ogillar:** Cola  
-**Specialitet:** Vara en complex man  
+**Specialitet:** Vara complex  
 **Citat:**
 _Jag säger inte så många citat för att jag är en rimlig person._  
 
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/bror.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/unknown.jpg">  
 
-### Bror Sebastian Sjövlad
-#### Supportmästare  
-**Favoritdrink:** Mjölk  
-**Gillar:** Bond-brudar eller Bond-brudar  
-**Ogillar:** Bli tappad  
-**Specialitet:** Mjölk-ASMR  
+#### Vice Klubbmästare  
+**Favoritdrink:** *You think you're slick yeah?*  
+**Gillar:** *You think you're slick yeah?*  
+**Ogillar:** *You think you're slick yeah?*    
+**Specialitet:** *You think you're slick yeah?*    
 **Citat:**
-_Jag visste inte att man kunde kallsupa från ett glas._  
+*You think you're slick yeah?*
 
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/lotta.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/unknown.jpg">  
 
-### Lotta Johnsson 
-#### Supportmästare  
-**Favoritdrink:** plOms... i en Big Wave  
-**Gillar:** Oändlig SAUCE!  
-**Ogillar:** Att folk har hår  
-**Specialitet:** Fortfarande att Ramla  
+#### Ekonomimästare  
+**Favoritdrink:** *You think you're slick yeah?*     
+**Gillar:** *You think you're slick yeah?*    
+**Ogillar:** *You think you're slick yeah?*    
+**Specialitet:** *You think you're slick yeah?*    
 **Citat:**
-_Jag kanske är Jesus_  
+*You think you're slick yeah?*  
 
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/samuel.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/unknown.jpg">  
 
-### Samuel Peetre 
-#### Supportmästare  
-**Favoritdrink:** Cider är gott men hit med en ÖL  
-**Gillar:** Sitta på odefinerad plats  
-**Ogillar:** Borttappat snus  
-**Specialitet:** Franska  
+#### Ekonomimästare  
+**Favoritdrink:** *You think you're slick yeah?*     
+**Gillar:** *You think you're slick yeah?*    
+**Ogillar:** *You think you're slick yeah?*    
+**Specialitet:** *You think you're slick yeah?*    
 **Citat:**
-_Nu såg jag någon som var gravid och jag blev så sugen på att bära barn_  
+*You think you're slick yeah?*  
 
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/maja.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/unknown.jpg">  
 
-### Maja Larsson 
-#### StudsKnatte  
-**Favoritdrink:** Ingången Göteborgs-öl  
-**Gillar:** Icke-skål  
-**Ogillar:** 🤮  
-**Specialitet:** Studsa   
+#### Barmästare  
+**Favoritdrink:** *You think you're slick yeah?*     
+**Gillar:** *You think you're slick yeah?*    
+**Ogillar:** *You think you're slick yeah?*    
+**Specialitet:** *You think you're slick yeah?*    
 **Citat:**
-_Vem FAAAN sa skål?_  
+*You think you're slick yeah?*  
 
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/filip.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/unknown.jpg">  
 
-### Flip Teglund
-#### Hov1Knatte  
-**Favoritdrink:** Godtycklig dryck ur plunta  
-**Gillar:**  Tentakler  
-**Ogillar:** Folk som snor hans tentakler!  
-**Specialitet:** Diska grönsaker med Tom  
+#### Barmästare  
+**Favoritdrink:** *You think you're slick yeah?*     
+**Gillar:** *You think you're slick yeah?*    
+**Ogillar:** *You think you're slick yeah?*    
+**Specialitet:** *You think you're slick yeah?*    
 **Citat:**
-_Jag är Hov1, MANNEN!_  
+*You think you're slick yeah?*  
 
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/alva-knatte.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/unknown.jpg">  
 
-### Alva Sundström
-#### AlfaKnatte  
-**Favoritdrink:** Norrlands ("säkert" - Alva)   
-**Gillar:** Stekta kanelbullar?  
-**Ogillar:** Sitt namn  
-**Specialitet:** Vertikala Masken  
+#### Festmästare  
+**Favoritdrink:** *You think you're slick yeah?*     
+**Gillar:** *You think you're slick yeah?*    
+**Ogillar:** *You think you're slick yeah?*    
+**Specialitet:** *You think you're slick yeah?*    
 **Citat:**
-_Im A SNAKE... sssssssss_  
+*You think you're slick yeah?*  
 
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/olivia.png">  
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/unknown.jpg">  
 
-### Olivia Aronsson
-#### PensionärKnatte 
-**Favoritdrink:** Gröna JÄGAREN (akta dig)   
-**Gillar:** Se random saker  
-**Ogillar:**  Se random saker   
-**Specialitet:** Skräddarsydda lösningar  
+#### Infomästare  
+**Favoritdrink:** *You think you're slick yeah?*     
+**Gillar:** *You think you're slick yeah?*    
+**Ogillar:** *You think you're slick yeah?*    
+**Specialitet:** *You think you're slick yeah?*    
 **Citat:**
-_Jag måste hålla händera i schack_  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/tom.png">  
-
-### Tom Rehnström
-#### FnatteKnatte  
-**Favoritdrink:** Morotsbaileys  
-**Gillar:**  Att ha TRE kanter (måste vara tre)  
-**Ogillar:**  Oveganska Grönsaker   
-**Specialitet:** Karateéee  
-**Citat:** 
-_Jag åt en halv sen blev jag sprutad._  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/sara.png">  
-
-### Sara Strandberg
-#### KnatteKnatte
-**Favoritdrink:** GT (jag frågade)  
-**Gillar:** Bananer  
-**Ogillar:** När bananer är kycklingar  
-**Specialitet:** Bob Ross  
-**Citat:**
-_Jag bara är jesus, ASSÅ!_  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/21-22/markus.png">  
-
-### Markus Videfors
-#### TjatteKnatte
-**Favoritdrink:** Markus mustiga mix  
-**Gillar:** Vara zzznabb  
-**Ogillar:** Låga tak  
-**Specialitet:** Operaröst  
-**Citat:**
-_Man ser en gris… Nån säger pussa…_ 
+*You think you're slick yeah?*  
 
 ## Cliff
 
@@ -257,9 +139,6 @@ Cliff is called those who after faithful service have chosen to leave DKM. Wonde
 * __Vilma Jalava__
   * Ekonomimästare
   * _Om jag inte flyger full, flyger jag fel._
-* __Luciano Zapata__
-  * Ekonomimästare
-  * _Varannan vatten är ju också varannan alk._
 * __Isabel Redtzer__
   * Barmästare
   * _Jag kan inte dricka med näsan!_

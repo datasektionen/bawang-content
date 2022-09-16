@@ -9,13 +9,15 @@ anledning är du alltid välkommen att kontakta oss:
 **För företag**
 E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
+
 **Näringslivsansvarig**<br />
 Klara Folke<br />
 E-post: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
+
 **Arbetsmarknadsdagsansvariga**<br />
 Kevin Wenström & Carl Chemnitz<br />
-E-post: [projectmanager@ddagen.se](mailto:projectmanager@ddagen.se)<br />
+E-post: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
 
