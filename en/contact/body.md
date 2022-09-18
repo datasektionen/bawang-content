@@ -8,6 +8,10 @@ The Business Relations Group handles the chapter's contacts with companies. You 
 **För företag**
 E-mail: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
+**Head of business relations**<br />
+Oscar Bergström<br />
+E-mail: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
+
 **Heads of D-Dagen**<br />
 Carl Chemnitz & Kevin Wenström<br />
 E-mail: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />

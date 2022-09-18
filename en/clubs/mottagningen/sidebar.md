@@ -1,28 +1,31 @@
-## Contact
-### Det Kongliga Dadderiet 
-**Storebror**, <br />
-George Bassilious<br />
-[storebror@d.kth.se](mailto:storebror@d.kth.se)<br />
-070-757 53 81
+## Kontakta oss
 
-**Halvbror**, <br />
-Oscar Knowles<br />
-[halvbror@d.kth.se](mailto:halvbror@d.kth.se)<br />
-073-529 07 97
+Vi som är ansvariga för mottagningen kallas för Titel. Vill du kontakta oss kan du skicka ett mail till [titel@d.kth.se](mailto:titel@d.kth.se). Vill du kontakta en specifik person finns kontaktuppgifter nedan.
+
+**Storasyster**, <br />
+Agnes Fosberg<br />
+[storasyster@d.kth.se](mailto:storasyster@d.kth.se)<br />
+079-348 30 09
+
+**Lillasyster**, <br />
+Emilia Rieschel<br />
+[lillasyster@d.kth.se](mailto:lillasyster@d.kth.se)<br />
+076-782 30 03
 
 **Lillebror**, <br />
-Ludwig Johansson<br />
-[lillebror@d.kth.se](mailto:lillebror@d.kth.se)<br /> 
-070-697 85 30
+Oscar Bergström<br />
+[lillebror@d.kth.se](mailto:lillebror@d.kth.se)<br />
+070-860 81 99
 
 ### Det Kongliga Doqumenteriet
+
 **Samdoquise**, <br />
-Amanda Hedlund<br />
+Albin Winkelmann<br />
 [samdoquise@d.kth.se](mailto:samdoquise@d.kth.se)<br />
-073-976 86 89
+072-523 30 03
 
 ### Det Kongliga Quisineriet
 **Storquisine**, <br />
-Ebba Bråtman<br />
+George Bassilious<br />
 [storquisine@d.kth.se](mailto:storquisine@d.kth.se)<br />
-076-192 70 22 
+070-757 53 81
