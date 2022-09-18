@@ -12,7 +12,7 @@ Sektionen har flera styrande dokument. De allra flesta hittar du på [styrdokume
 Medlemmar är alla som studerar vid ett av programmen som tillhör sektionen och betalat sin [medlemsavgift till THS](http://ths.kth.se/membership). Styrelsen är medlemmar, funktionärerna är medlemmar och även du är förhoppningsvis medlem! Alla medlemmar får delta i och rösta på sektionsmöten, ställa upp till val och komma in på våra pubar.
 
 ## Våra möten
-Sektionen har två former av formella möten: Sektionsmöten där alla medlemmar får rösta och tycka till samt Styrelsemöten där alla medlemmar är välkomna att delta och uttrycka sin åsikt men bara styrelsen får rösta.
+Sektionen har två former av formella möten: Sektionsmöten där alla medlemmar får rösta och tycka till samt Styrelsemöten där alla medlemmar är välkomna att delta och uttrycka sin åsikt men bara styrelsen får rösta. Alla mötesprotokoll hittar du under [protokoll](/organisation/protokoll).
 
 ### Sektionsmöte (SM)
 Sektionsmötet, förkortat SM, är sektionens högsta beslutande organ. Det kan liknas vid Datasektionens årsmöte, fast det finns flera varje år. Alla sektionsmedlemmar har yttranderätt och rösträtt på sektionsmötet. Det är på sektionsmötet som alla viktiga beslut som rör sektionen fattas. Det finns fyra fasta möten under året; Budget-SM, Glögg-SM, Revisions-SM och Val-SM. Utöver dessa kan Extra-SM anordnas.
