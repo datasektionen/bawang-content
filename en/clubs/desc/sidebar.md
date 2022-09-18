@@ -5,7 +5,7 @@ Do you want to contact the Desctop (head of DESC)? Send a mail to [desctopen@d.k
 #### Desctop
 
 Hugo Dettner Källander
-[desctopen@d.kth.se](mailto:desctopen@d.kth.se)
+[desctopen@d.kth.se](mailto:desctopen@datasektionen.se)
 
 ## Gå med i DESC
 
