@@ -1,11 +1,11 @@
 ## Kontakt
 
-Do you want to contact the Desctop (head of DESC)? Send a mail to [desctopen@d.kth.se](mailto:desctopen@d.kth.se). Otherwise you can write something in [the Discord server](https://discord.gg/xwjCxXkmFM) or make a post in [the Facebook group](https://www.facebook.com/groups/447431545372957/).
+Do you want to contact the Desctop (head of DESC)? Send a mail to [desctopen@datasektionen.se](mailto:desctopen@datasektionen.se). Otherwise you can write something in [the Discord server](https://discord.gg/xwjCxXkmFM) or make a post in [the Facebook group](https://www.facebook.com/groups/447431545372957/).
 
 #### Desctop
 
 Hugo Dettner Källander
-[desctopen@d.kth.se](mailto:desctopen@datasektionen.se)
+[desctopen@datasektionen.se](mailto:desctopen@datasektionen.se)
 
 ## Gå med i DESC
 
