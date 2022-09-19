@@ -23,7 +23,7 @@ Join our Discord server!
 
 <a href="https://discord.gg/xwjCxXkmFM">
     <img 
-         src="http://static.datasektionen.se/namnder/desc/discord-logo.png" 
+         src="https://dsekt-assets.s3.amazonaws.com/namnder/desc/discord-logo.png" 
          alt="DESCs Discordserver!"
          width="100"
     >
@@ -35,7 +35,7 @@ Join our Facebook group!
 
 <a href="https://www.facebook.com/groups/447431545372957">
     <img 
-         src="http://static.datasektionen.se/namnder/desc/facebook-logo.png" 
+         src="https://dsekt-assets.s3.amazonaws.com/namnder/desc/facebook-logo.png" 
          alt="DESCs Facebookgrupp!"
          width="100"
     >
