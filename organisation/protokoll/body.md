@@ -371,7 +371,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 20/9 Ett-Heidrundrande-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_heidrundrande_dm_2022))
 
-5/9 Ett-Ost-DM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_ost_dm_2022))
+5/9 Ett-Ost-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/ett_ost_dm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_ost_dm_2022))
 
 23/5 Ett-Markoolio-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/markoolio_dm_2022))
 

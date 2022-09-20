@@ -371,7 +371,7 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 20/9 Ett-Heidrundrande-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_heidrundrande_dm_2022))
 
-5/9 A-Cheese-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_ost_dm_2022))
+5/9 A-Cheese-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_ost_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_ost_dm_2022))
 
 23/5 A-Markoolio-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/markoolio_dm_2022))
 
