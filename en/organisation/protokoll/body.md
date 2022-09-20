@@ -13,7 +13,7 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 10/5, 12/5 Val-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/val_sm_2022))
 
 
-24/3 Revisions-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/revisions_sm_2022))
+24/3 Revisions-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/revisions_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/revisions_sm_2022))
 
 27/1 Extra-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/diskussionsprotokoll_extrasm_22_jan)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/extra_sm_2022_jan))
 
@@ -369,6 +369,10 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 ###2022
 
+20/9 Ett-Heidrundrande-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_heidrundrande_dm_2022))
+
+5/9 A-Cheese-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_ost_dm_2022))
+
 23/5 A-Markoolio-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/markoolio_dm_2022))
 
 28/4 DM-before-Election-CM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/dm_innan_val_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2022))
@@ -377,9 +381,9 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 15/3 DM-before-Revision-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2022))
 
-24/2 A-Spontanious-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_spontant_dm_2022))
+24/2 A-Spontanious-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_spontant_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_spontant_dm_2022))
 
-10/2 An-Olympic-DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_olympiskt_dm_2022))
+10/2 An-Olympic-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_olympiskt_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_olympiskt_dm_2022))
 
 ###2021
 

@@ -11,7 +11,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 10/5, 12/5 Val-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/val_sm_2022))
 
-24/3 Revisions-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/revisions_sm_2022))
+24/3 Revisions-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/revisions_sm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/revisions_sm_2022))
 
 27/1 Extra-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/diskussionsprotokoll_extrasm_22_jan)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/extra_sm_2022_jan))
 
@@ -369,6 +369,10 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2022
 
+20/9 Ett-Heidrundrande-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_heidrundrande_dm_2022))
+
+5/9 Ett-Ost-DM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_ost_dm_2022))
+
 23/5 Ett-Markoolio-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/markoolio_dm_2022))
 
 28/4 DM-innan-Val-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/dm_innan_val_sm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2022))
@@ -377,9 +381,9 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 15/3 DM-innan-Revisions-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2022))
 
-24/2 Ett-Spontant-DM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_spontant_dm_2022))
+24/2 Ett-Spontant-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/ett_spontant_dm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_spontant_dm_2022))
 
-10/2 Ett-Olympiskt-DM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_olympiskt_dm_2022))
+10/2 Ett-Olympiskt-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/ett_olympiskt_dm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_olympiskt_dm_2022))
 
 ###2021
 
