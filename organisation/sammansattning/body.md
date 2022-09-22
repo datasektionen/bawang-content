@@ -17,7 +17,7 @@ om vad som hänt under året.
 
 __Kontakt__
 
-Ordförande är nåbar på [ordf@datasektionen.se](mailto:ordf@datasektionen.se)
+Ordförande är nåbar på [ordf@datasektionen.se](mailto:ordf@datasektionen.se).
 
 __Kontaktfunktionärer__
 
@@ -40,13 +40,13 @@ ansvar för sektionens nycklar och accesser.
 
 __Kontakt__
 
-Vice ordförande är nåbar på [vordf@datasektionen.se](mailto:vordf@datasektionen.se)
+Vice ordförande är nåbar på [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
 
 __Kontaktfunktionärer__
 
 * Fanbärare
 
-* Alla projektledare
+* Ett antal projektledare
 
 ## Kassör - Fabian Andréasson
 
@@ -56,7 +56,7 @@ och sektionsordföranden är de som har firmateckningsrätt för sektionen.
 
 __Kontakt__
 
-Kassör är nåbar på [kassor@datasektionen.se](mailto:kassor@datasektionen.se)
+Kassör är nåbar på [kassor@datasektionen.se](mailto:kassor@datasektionen.se).
 
 ## Vice kassör - Felix Murnion
 
@@ -65,7 +65,7 @@ som extra stöd i ekonomiska frågor och arbetar naturligtvis även med bokföri
 
 __Kontakt__
 
-Vice kassör är nåbar på [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se)
+Vice kassör är nåbar på [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se).
 
 ## Sekreterare - Herman Karlsson
 
@@ -76,7 +76,7 @@ Sekreteraren ansvarar också för att brev delas ut till rätt personer.
 
 __Kontakt__
 
-Sekreterare är nåbar på [sekreterare@datasektionen.se](mailto:sekreterare@datasektionen.se)
+Sekreterare är nåbar på [sekreterare@datasektionen.se](mailto:sekreterare@datasektionen.se).
 
 __Kontaktfunktionärer__
 
@@ -96,7 +96,7 @@ håller.
 
 __Kontakt__
 
-Ledamot för utbildningsfrågor är nåbar på [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se)
+Ledamot för utbildningsfrågor är nåbar på [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
 
 __Kontaktfunktionärer__
 
@@ -110,6 +110,7 @@ __Kontaktfunktionärer__
 
 * Studerandeskyddsombud
 
+* Projektledare för Project pride
 
 ## Ledamot för studiesociala frågor - Malin Svenberg
 
@@ -131,7 +132,7 @@ den psykosociala miljön.
 
 __Kontakt__
 
-Ledamot för studiesociala frågor är nåbar på [d-ssf@datasektionen.se](mailto:d-ssf@datasektionen.se)
+Ledamot för studiesociala frågor är nåbar på [d-ssf@datasektionen.se](mailto:d-ssf@datasektionen.se).
 
 __Kontaktfunktionärer__
 
@@ -153,15 +154,25 @@ __Kontaktfunktionärer__
 
 * Ärkedemon
 
-* Öfvermatrona
+* Adas ordförande
 
 * Spexdireqteur
 
-* dÅre
+* Projektledare för dÅre
 
 * Bakis
 
 * D-Fest
+
+* Kingpin
+
+* Projektledare för Hello World
+
+* Tomtemor/-far
+
+* Körmästare
+
+* Sångansvarig
 
 ## Ledamot för näringsliv och kommunikation - Adam Sjöberg
 
@@ -177,11 +188,11 @@ som avser dessa områden. Dessa ansvarsområden inkluderar att:
 
 __Kontakt__
 
-Ledamot för näringsliv och kommunikation är nåbar på [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se)
+Ledamot för näringsliv och kommunikation är nåbar på [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se).
 
 __Kontaktfunktionärer__
 
-* StuDsprojektledare
+* Projektledare för Studs
 
 * Systemansvarig
 
@@ -189,9 +200,8 @@ __Kontaktfunktionärer__
 
 * Näringslivsansvarig
 
-* D-dagenansvarig
+* D-dagenansvariga
 
 * Sektionshistoriker
 
 * Chefredaqtör
-
