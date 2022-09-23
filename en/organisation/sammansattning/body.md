@@ -15,15 +15,15 @@ The Chairman and the Vice Chairman work in close cooperation to create a plan an
 
 In addition to this The Chairman is an authorized signatory for the chapter and handles alcohol related questions.
 
-__Contact Person to__
-
-* Head of Receptions
-
-* Auditors
-
 __Contact__
 
-The Chairman can be reached at [ordf@d.kth.se](mailto:ordf@d.kth.se).
+The Chairman can be reached at [ordf@datasektionen.se](mailto:ordf@datasektionen.se).
+
+__Contact Person to__
+
+* Head of Reception
+
+* Auditors
 
 ## Vice Chairman - Pontus Söderlund
 The Vice Chairmans primary role is to assist the Chairman and make sure
@@ -33,14 +33,16 @@ assume the role as acting Chairman.
 
 The Vice Chairman does many tasks that aren't related to any other board member or function in the chapter.
 
+__Contact__
+
+The Vice Chairman can be reached at [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
+
 __Contact Person to__
 
 * Standard-bearer
 
+* Various project leaders
 
-__Contact__
-
-The Vice Chairman can be reached at [vordf@d.kth.se](mailto:vordf@d.kth.se).
 
 ## The Treasurer - Fabian Andréasson
 
@@ -50,39 +52,44 @@ is an authorized signatory for the chapter.
 
 __Contact__
 
-The Treasurer can be reached at [kassor@d.kth.se](mailto:kassor@d.kth.se).
+The Treasurer can be reached at [kassor@datasektionen.se](mailto:kassor@datasektionen.se).
 
 ## Vice Treasurer - Felix Murnion
 The Vice Treasurer assists the Treasurer with most things related to economics.
 
 __Contact__
 
-The Vice Treasurer can be reached at [vkassor@d.kth.se](mailto:vkassor@d.kth.se).
+The Vice Treasurer can be reached at [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se).
 
 ## The Secretary - Herman Karlsson
 
 The Secretary is responsible for documenting D-directorate and Chapter Meetings
 and to write protocols and archive them.
 
+__Contact__
+
+The Secretary can be reached at [sekreterare@datasektionen.se](mailto:sekreterare@datasektionen.se).
+
 __Contact person to__
 
 * Nominations committee chairperson
 
+* Nominations committee members
+
 * Student union assembly delegates
 
-
-__Contact__
-
-The Secretary can be reached at [sekr@d.kth.se](mailto:sekr@d.kth.se).
-
-## Board Member of Educational Affairs - Daniel Grünler
+## Board Member of Educational Affairs - *Vacant*
 
 This board member works closely with the study council and works as a
 link between them and the board.
 
+__Contact__
+
+The Board Member of Educational Affairs can be reached at [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
+
 __Contact person to__
 
-* Programansvarig student
+* Program responsible student
 
 * The Chairman of the Study Council
 
@@ -92,15 +99,16 @@ __Contact person to__
 
 * Student Safety Officer
 
-__Contact__
-
-The Board Member of Educational Affairs can be reached at [d-uf@d.kth.se](mailto:d-uf@d.kth.se).
+* Project Leader for Project Pride
 
 ## Board member of Student Issues - Malin Svenberg
 
 Works with question regarding the well being of our members, working environment, and
 social events.
 
+__Contact__
+
+The Board member of Student Issues can be reached at [d-ssf@datasektionen.se](mailto:d-ssf@datasektionen.se).
 
 __Contact person to__
 
@@ -108,7 +116,7 @@ __Contact person to__
 
 * Chapter Sports Leader
 
-* Ljud- och ljusansvarig
+* Light and Sound responsible 
 
 * Chief of Halls
 
@@ -122,30 +130,39 @@ __Contact person to__
 
 * Ärkedemon
 
-* Head matron
+* Chair of Ada
 
 * Spexdireqteur
 
-* dÅre
+* Project leader of dÅre
 
 * Bakis
 
 * D-Fest
 
+* Kingpin
 
-__Contact__
+* Project Leader for Hello World
 
-The Board member of Student Issues can be reached at [d-ssf@d.kth.se](mailto:d-ssf@d.kth.se).
+* Father/Mother Christmas
 
-## Board Member of Business Relations - Marcus Nordstedt
+* Choir Master
+
+* Song Responsible Person
+
+
+## Board Member of Business Relations - Adam Sjöberg
 
 Works with business related question and our projects and committees related to this area.
 Is also responsible for internal communications and that important information is available to our members.
 
+__Contact__
+
+The Board member of Business Relations can be reached at [d-nok@d.kth.se](mailto:d-nok@d.kth.se).
 
 __Contact person to__
 
-* Project Leaders for STUDS
+* Project Leaders for Studs
 
 * Chapter Systems Officer
 
@@ -155,9 +172,6 @@ __Contact person to__
 
 * Chapter Business Fair Officer (D-Dagen)
 
+* Chapter Historian
+
 * Chief Editor
-
-__Contact__
-
-The Board member of Business Relations can be reached at [d-nok@d.kth.se](mailto:d-nok@d.kth.se)
-.

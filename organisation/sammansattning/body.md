@@ -15,15 +15,15 @@ uppgifter som inte direkt faller på någon annan funktionär. Ansvarar
 även för att det upprättas en verksamhetsberättelse varje år som talar
 om vad som hänt under året.
 
+__Kontakt__
+
+Ordförande är nåbar på [ordf@datasektionen.se](mailto:ordf@datasektionen.se).
+
 __Kontaktfunktionärer__
 
 * Mottagningsansvarig
 
 * Revisorer
-
-__Kontakt__
-
-Ordförande är nåbar på [ordf@d.kth.se](mailto:ordf@d.kth.se)
 
 ## Vice sektionsordförande - Pontus Söderlund
 
@@ -38,17 +38,15 @@ inte tillhör någon specifik D-rek'post eller hinns med av relevant
 styrelseledamot. Det kontinuerliga ansvaret utgörs mest av fika samt
 ansvar för sektionens nycklar och accesser.
 
+__Kontakt__
+
+Vice ordförande är nåbar på [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
+
 __Kontaktfunktionärer__
 
 * Fanbärare
 
-* Projektledare för Jubileet
-
-* Projektledare för Sångboksgruppen
-
-__Kontakt__
-
-Vice ordförande är nåbar på [vordf@d.kth.se](mailto:vordf@d.kth.se)
+* Ett antal projektledare
 
 ## Kassör - Fabian Andréasson
 
@@ -58,7 +56,7 @@ och sektionsordföranden är de som har firmateckningsrätt för sektionen.
 
 __Kontakt__
 
-Kassör är nåbar på [kassor@d.kth.se](mailto:kassor@d.kth.se)
+Kassör är nåbar på [kassor@datasektionen.se](mailto:kassor@datasektionen.se).
 
 ## Vice kassör - Felix Murnion
 
@@ -67,7 +65,7 @@ som extra stöd i ekonomiska frågor och arbetar naturligtvis även med bokföri
 
 __Kontakt__
 
-Vice kassör är nåbar på [vkassor@d.kth.se](mailto:vkassor@d.kth.se)
+Vice kassör är nåbar på [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se).
 
 ## Sekreterare - Herman Karlsson
 
@@ -76,24 +74,29 @@ formalia på sektionen.
 Den ser till att protokoll skrivs, justeras, undertecknas och arkiveras.
 Sekreteraren ansvarar också för att brev delas ut till rätt personer.
 
+__Kontakt__
+
+Sekreterare är nåbar på [sekreterare@datasektionen.se](mailto:sekreterare@datasektionen.se).
 
 __Kontaktfunktionärer__
 
 * Valberedningens ordförande
 
+* Valberedare
+
 * Kårfullmäktigeledamöter
 
-__Kontakt__
 
-Sekreterare är nåbar på [sekr@d.kth.se](mailto:sekr@d.kth.se)
-
-## Ledamot för utbildningsfrågor - Daniel Grünler
+## Ledamot för utbildningsfrågor - *Vakant*
 
 Det löpande arbetet med utbildningsfrågor sköts av Studienämnden. Deras
 kontaktperson i styrelsen ser till att arbetet inte stannar av. Ibland
 kan ledamoten till och med få representera på något utskottsmöte som KTH
 håller.
 
+__Kontakt__
+
+Ledamot för utbildningsfrågor är nåbar på [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
 
 __Kontaktfunktionärer__
 
@@ -107,9 +110,7 @@ __Kontaktfunktionärer__
 
 * Studerandeskyddsombud
 
-__Kontakt__
-
-Ledamot för utbildningsfrågor är nåbar på [d-uf@d.kth.se](mailto:d-uf@d.kth.se)
+* Projektledare för Project pride
 
 ## Ledamot för studiesociala frågor - Malin Svenberg
 
@@ -128,6 +129,10 @@ på sektionen
 
 Det är viktigt att framhärda att miljö innefattar såväl den fysiska som
 den psykosociala miljön.
+
+__Kontakt__
+
+Ledamot för studiesociala frågor är nåbar på [d-ssf@datasektionen.se](mailto:d-ssf@datasektionen.se).
 
 __Kontaktfunktionärer__
 
@@ -149,21 +154,27 @@ __Kontaktfunktionärer__
 
 * Ärkedemon
 
-* Öfvermatrona
+* Adas ordförande
 
 * Spexdireqteur
 
-* dÅre
+* Projektledare för dÅre
 
 * Bakis
 
 * D-Fest
 
-__Kontakt__
+* Kingpin
 
-Ledamot för studiesociala frågor är nåbar på [d-ssf@d.kth.se](mailto:d-ssf@d.kth.se)
+* Projektledare för Hello World
 
-## Ledamot för näringsliv och kommunikation - Marcus Nordstedt
+* Tomtemor/-far
+
+* Körmästare
+
+* Sångansvarig
+
+## Ledamot för näringsliv och kommunikation - Adam Sjöberg
 
 Arbetar med och för i styrelsen de frågor
 som rör näringsliv och kommunikation, samt är kontaktperson för
@@ -173,13 +184,15 @@ som avser dessa områden. Dessa ansvarsområden inkluderar att:
 * överblicka och verka för stärkandet av varumärket Datasektionen
 * strategiskt arbeta med utvecklingen av sektionens olika verktyg för intern och extern kommunikation tillsammans med berörda funktionärer
 * strategiskt arbeta med utvecklingen av sektionens näringslivsverksamhet
-* bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på
-sektionen
+* bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på sektionen
 
+__Kontakt__
+
+Ledamot för näringsliv och kommunikation är nåbar på [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se).
 
 __Kontaktfunktionärer__
 
-* StuDsprojektledare
+* Projektledare för Studs
 
 * Systemansvarig
 
@@ -187,12 +200,8 @@ __Kontaktfunktionärer__
 
 * Näringslivsansvarig
 
-* D-dagenansvarig
+* D-dagenansvariga
 
 * Sektionshistoriker
 
 * Chefredaqtör
-
-__Kontakt__
-
-Ledamot för näringsliv och kommunikation är nåbar på [d-nok@d.kth.se](mailto:d-nok@d.kth.se)
