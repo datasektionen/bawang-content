@@ -5,7 +5,7 @@
 Kevin Wenström<br>
 [valberedning-ordf@datasektionen.se](mailto:valberedning-ordf@datasektionen.se)
 
-**RE Valberedningen:**
+**Resterande Valberedare:**
 
 Melvin Jakobsson<br>
 Niklas Vatn<br>
