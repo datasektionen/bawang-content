@@ -42,4 +42,4 @@ Amanda Hedlund<br />
 **Storquisine**, <br />
 Ebba Bråtman<br />
 [storquisine@datasektionen.se](mailto:storquisine@datasektionen.se)<br />
-076-192 70 22
+076-192 70 22 
