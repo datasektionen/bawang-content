@@ -8,6 +8,7 @@ Membership of the Klubbmästare Emeritus order is awarded to Klubbmästare (head
 
 The order's medal is a five-pointed silver star, with a cerise field, and a black delta in the middle. The star is coated by a laurel wreath.
 
+    Jennifer Larsson, Tricesimus Septimus 2021/2022
     George Bassilious, Tricesimus Quintus 2020/2021
     Melvin Lundqvist, Tricesimus Quintus 2019/2020
     Felix Andersson, Tricesimus Quartus 2018/2019
