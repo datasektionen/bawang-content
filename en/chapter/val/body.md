@@ -2,7 +2,7 @@
 
 Elections are done through [the chapters election system](https://val.datasektionen.se). Ballot-box voting for Chapter president, vice president, and treasurer are done through [durn.datasektionen.se](https://durn.datasektionen.se).
 
-If you have any questions, email [valberedning@datasektionen.se](mailto:valberedning@datasektionen.se).
+If you have any questions, email [valberedare@datasektionen.se](mailto:valberedare@datasektionen.se).
 
 To read more in detail as well as nominate and answer nominations, visit [val.datasektionen.se](https://val.datasektionen.se).
 

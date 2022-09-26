@@ -46,13 +46,13 @@ att den ansvarige inte behöver ha STAD-utbildningen.
 Ja, generellt sätt är det bra att ha festanmälan vid arrangemang
 eftersom man då gör väktarna medvetna om att man är där och roar sig.
 Men är man fler än 20 så måste man ha en festanmälan (oavsett om man ska
-ha med alkohol eller ej). Prata med Sektionsordförande (ordf@datasektionen.se)
-eller Klubbmästare (klubbm@datasektionen.se) så hjälper de dig med detta (i alla
+ha med alkohol eller ej). Prata med Sektionsordförande ([ordf@datasektionen.se](mailto:ordf@datasektionen.se))
+eller Klubbmästare ([klubbm@datasektionen.se](mailto:klubbm@datasektionen.se)) så hjälper de dig med detta (i alla
 fall om du ska boka META).
 
 #### Hur får jag veta allt jag behöver om lokalen jag bokar?
 
-Prata med ansvarige uthyrare, t.ex Lokalchefen (lokalchef@datasektionen.se)
+Prata med ansvarige uthyrare, t.ex Lokalchefen ([lokalchef@datasektionen.se](mailto:lokalchef@datasektionen.se))
 ifall du hyr META.
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -89,7 +89,7 @@ Behöver du bara ett litet tillskott? Om det gäller en summa upp till
 För utdelning av summor mellan 2000 och 10 000 kr behöver d-Rektoratet
 ta ett styrelsebeslut. Detta görs på d-Rektoratsmöte (DM) och kallelsen
 till dessa går ut fem dagar innan mötet. Skicka ett mail till styrelsen
-(drek@datasektionen.se) där du motiverar din ansökan; därefter är du varmt
+([drek@datasektionen.se](mailto:drek@datasektionen.se)) där du motiverar din ansökan; därefter är du varmt
 välkommen att närvara på DM för att presentera din förfrågan och svara
 på frågor kring denna.
 
