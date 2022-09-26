@@ -1,7 +1,7 @@
 ## Contact
 
 #### Apply
-To join fill in this [form](https://forms.gle/3fiMLBqZUeAGma7c8)
+To join fill in this [form](https://forms.gle/gaT6EWE5QfaRqNGK9)
 
 #### Prylmånglaren
 

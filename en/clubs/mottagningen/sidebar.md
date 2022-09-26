@@ -14,11 +14,12 @@ Oscar Knowles<br />
 073-529 07 97
 
 **Lillebror**, <br />
-Ludwig Johansson<br />
-[lillebror@d.kth.se](mailto:lillebror@d.kth.se)<br /> 
-070-697 85 30
+Oscar Bergström<br />
+[lillebror@d.kth.se](mailto:lillebror@d.kth.se)<br />
+070-860 81 99
 
 ### Det Kongliga Doqumenteriet
+
 **Samdoquise**, <br />
 
 Amanda Hedlund<br />
@@ -27,6 +28,6 @@ Amanda Hedlund<br />
 
 ### Det Kongliga Quisineriet
 **Storquisine**, <br />
-Ebba Bråtman<br />
+George Bassilious<br />
 [storquisine@d.kth.se](mailto:storquisine@d.kth.se)<br />
-076-192 70 22 
+070-757 53 81

@@ -1,7 +1,7 @@
 ## Contact
 
 #### Ärkedemon
-Jakob Carlsson </br>
+David Peilitz</br>
 [arkedemon@datasektionen.se](mailto:arkedemon@datasektionen.se)
 
 ## Slack

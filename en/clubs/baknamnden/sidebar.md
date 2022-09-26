@@ -2,9 +2,9 @@
 
 #### Apply
 
-To join the baking committee, fill in this [form](https://forms.gle/XuBLY9kMRRHXRBZv6)
+To join the baking committee, fill in this [form](https://dsekt.se/baka).
 
-#### Bakie
+#### Baked
 
 Filip Ramslöv</br>
 [bakis@datasektionen.se](mailto:bakis@datasektionen.se)

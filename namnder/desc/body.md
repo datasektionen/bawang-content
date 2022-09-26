@@ -1,6 +1,6 @@
 # DESC
 
-DESC är Datasektionens E-Sports Community, och vi ansvarar för att stilla sektionensmedlemmarnas törst efter ett rikt utbud av e-sportsevenemang. Vi är en öppen nämnd; om du är sektionsmedlem och vill vara med i DESC, så är du med i DESC. DESC leds av Desctopen som utses på Val-SM varje år.
+DESC är Datasektionens E-Sports Community, och vi ansvarar för att stilla sektionensmedlemmarnas törst efter ett rikt utbud av gamingevenemang. Vi är en öppen nämnd; om du är sektionsmedlem och vill vara med i DESC, så är du med i DESC. DESC leds av Desctopen som utses på Val-SM varje år.
 
 ## Vad gör vi?
 
@@ -21,9 +21,9 @@ Förutom det hänger vi i Discordservern och chattar. Mycket lek och inget ansva
 
 Gå med i vår Discordserver!
 
-<a href="https://discord.gg/5JfmBdpRw4">
+<a href="https://discord.gg/xwjCxXkmFM">
     <img 
-         src="http://static.datasektionen.se/namnder/desc/discord-logo.png" 
+         src="https://dsekt-assets.s3.amazonaws.com/namnder/desc/discord-logo.png" 
          alt="DESCs Discordserver!"
          width="100"
     >
@@ -35,7 +35,7 @@ Gå med i vår Facebookgrupp!
 
 <a href="https://www.facebook.com/groups/447431545372957">
     <img 
-         src="http://static.datasektionen.se/namnder/desc/facebook-logo.png" 
+         src="https://dsekt-assets.s3.amazonaws.com/namnder/desc/facebook-logo.png" 
          alt="DESCs Facebookgrupp!"
          width="100"
     >

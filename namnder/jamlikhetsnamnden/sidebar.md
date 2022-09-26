@@ -2,6 +2,5 @@
 
 #### Jämlikhetsnämndens ordförande
 
-Ebba Bråtman</br>
-Amanda Berg</br>
+Laura Nilsson</br>
 [jno@datasektionen.se](mailto:jno@datasektionen.se)
