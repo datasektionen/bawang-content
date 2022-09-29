@@ -1,4 +1,4 @@
-## Kontakt
+## Contakt
 
 Contact us if you have any questions regarding the Chapter's regulatory documents or anything else that is related to the Chapter.
 
