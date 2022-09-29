@@ -11,4 +11,4 @@ Sortiment och annat bar-relaterat?</br>
 
 ## Ansökan till DKM
 
-Vi brukar vanligtvis ta in nya medlemmar på hösten. Ansökan för DKM 21/22 har stängt!
+Ansökan till DKM är öppen tills den 12e Oktober! Sök på DKM på [dkm.io/ansok](www.dkm.io/ansok)
