@@ -6,6 +6,6 @@ Kontakta oss om ni har några frågor kring sektionens styrdokument eller något
 
 Matteus Berg</br>
 Emilia Rosenqvist</br>
-[revisorer.d.kth.se](mailto:revisorer@d.kth.se)
+[revisorer.d.kth.se](mailto:revisorer@datasektionen.se)
 
 
