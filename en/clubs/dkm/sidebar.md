@@ -10,4 +10,4 @@ Assortment and other bar-related stuff?</br>
 **DKM Bar responsible (Barmästare):** [barm@d.kth.se](mailto:barm@d.kth.se)
 
 ## Apply to DKM
-We usually bring in new members in the fall. The application for DKM 21/22 is closed!
+Applications to DKM are open until the 12th of October! Apply at [dkm.io/ansok](www.dkm.io/ansok)!
