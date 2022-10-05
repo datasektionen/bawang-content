@@ -27,9 +27,9 @@ Utöver onsdagspubarna har vi även ett par större event:
 - **Plums**, någon gång under vintern, vi fixar ett helt badhus med fullt serveringstillstånd och slänger in 300 glada gäster.
 
 
-## Facebook!
+## Sociala medier!
 
-För att få mer info om events och annat kan det vara en fördel att kika in och följa vår Facebooksida!
+För att få mer info om events och annat kan det vara en fördel att kika in och följa vår Facebooksida samt våran Instagram!
 
 [![Facebook logo](https://s3.eu-central-1.amazonaws.com/dkm.io/images/FB-logo.png)](https://www.facebook.com/datasklubbmasteri)
 
@@ -42,20 +42,20 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 ### Lucas Dow
 #### Klubbmästare  
 **Favoritdrink:** Grekiskt lagunvatten
-**Gillar:** 
-**Ogillar:** När folk använder DEN bilden
+**Gillar:** Att vara gravid
+**Ogillar:** Simplex 
 **Specialitet:** Give that wolf a banana 
 **Citat:**
 _Hjälp mig skriva din egen undergång_
 
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/maj.JPG">  
+<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/maj.jpg">  
 
 ### Maja Larsson 
 #### Vice klubbmästare  
-**Favoritdrink:** 
-**Gillar:**
-**Ogillar:** 
-**Specialitet:**    
+**Favoritdrink:** Ingången Göteborgs-öl
+**Gillar:** korv
+**Ogillar:** stinky... 🤮
+**Specialitet:** euphoria-dansen
 **Citat:**
 _Det kom en jättestor finne å jag blev så jävla stressad_  
 
@@ -63,10 +63,10 @@ _Det kom en jättestor finne å jag blev så jävla stressad_
 
 ### Alva Sundström
 #### Ekonomimästare  
-**Favoritdrink:** 
-**Gillar:** 
-**Ogillar:** 
-**Specialitet:** Råka låta sarkastisk
+**Favoritdrink:** Norrlands ("säkert" - Alva)
+**Gillar:** Vlogs
+**Ogillar:** Att vara Alfa
+**Specialitet:** Vara en dinosaurie
 **Citat:**
 _Alfa hasn't said anything funny_  
 
@@ -74,10 +74,10 @@ _Alfa hasn't said anything funny_
 
 ### Sara Strandberg
 #### Ekonomimästare
-**Favoritdrink:** GT (jag frågade)  
+**Favoritdrink:** GT (jag frågade igen)
 **Gillar:** Att spy på förfesten  
-**Ogillar:** När bananer är kycklingar  
-**Specialitet:** Bob Ross  
+**Ogillar:**  Shaquille O'neal
+**Specialitet:** Att bli icead
 **Citat:**
 _Nej, jag är Sara_  
 
@@ -109,7 +109,7 @@ _Har du inte sett dem här spikarna på varje framsida asså_
 #### Festmästare 
 **Favoritdrink:** Fritt fall med bag-in-box
 **Gillar:** NSFW citat
-**Ogillar:** Kanibaler utanför tinder
+**Ogillar:** Se random saker
 **Specialitet:** Dj lil miss anarchy
 **Citat:**
 _Wow du har ögon_  
