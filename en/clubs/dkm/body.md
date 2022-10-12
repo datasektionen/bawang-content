@@ -10,7 +10,7 @@
  </style>
 
 # DKM
-DKM is Datas Klubbmästeri (Pub organizers at the computer science chapter of KTH). We ensure that everyone who studies computer science at KTH can have fun from time to time and socialize with others after school hours. We arrange parties, pubs and awesome events throughout the year! If you want to come in contact with us you can do so via: [dkm@d.kth.se](mailto:dkm@d.kth.se)!
+DKM is Datas Klubbmästeri (Pub organizers at the computer science chapter of KTH). We ensure that everyone who studies computer science at KTH can have fun from time to time and socialize with others after school hours. We arrange parties, pubs and awesome events throughout the year! If you want to come in contact with us you can do so via: [dkm@datasektionen.se](mailto:dkm@datasektionen.se)!
 
 ## What do we do?
 

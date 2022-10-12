@@ -13,7 +13,7 @@ kontaktvägar/event, men vi kommer gärna på nya idéer tillsammans med er.
 Hör gärna av er till oss inom näringslivsgruppen, via mail eller
 telefon, för mer information.
 ​
-> E-post foretag@d.kth.se
+> E-post foretag@datasektionen.se
 ​
 ## Pub
 ​

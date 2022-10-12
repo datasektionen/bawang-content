@@ -7,5 +7,3 @@ Contact us if you have any questions regarding the Chapter's regulatory document
 Matteus Berg</br>
 Emilia Rosenqvist</br>
 [revisorer@datasektionen.se](mailto:revisorer@datasektionen.se)
-
-

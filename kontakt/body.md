@@ -9,9 +9,11 @@ anledning är du alltid välkommen att kontakta oss:
 **För företag**
 E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
 
+
 **Näringslivsansvarig**<br />
 Klara Folke<br />
-E-post: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
+E-post: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
+
 
 **Arbetsmarknadsdagsansvariga**<br />
 Kevin Wenström & Carl Chemnitz<br />
@@ -25,19 +27,19 @@ För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 
 **Kommunikatör**<br />
 Noah Hopkins<br />
-E-post: [info@d.kth.se](mailto:info@d.kth.se)<br />
+E-post: [info@datasektionen.se](mailto:info@datasektionen.se)<br />
 
-Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Systemansvarig på [d-sys@d.kth.se](mailto:d-sys@d.kth.se) eller Datasektionens Informationsorgan, IOR, på adressen [ior@d.kth.se](mailto:ior@d.kth.se).
+Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Systemansvarig på [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se) eller Datasektionens Informationsorgan, IOR, på adressen [ior@d.kth.se](mailto:ior@d.kth.se).
 
 ## Styrelsen
 
 För frågor om sektionens organisation bör du kontakta Datasektionens styrelse,
-D-rektoratet, på adressen [drek@d.kth.se](mailto:drek@d.kth.se). Du kan
+D-rektoratet, på adressen [drek@datasektionen.se](mailto:drek@datasektionen.se). Du kan
 även kontakta Datasektionens Ordförande direkt:
 
 **Ordförande**<br />
 David Puustinen<br />
-E-post: [ordf@d.kth.se](mailto:ordf@d.kth.se)<br />
+E-post: [ordf@datasektionen.se](mailto:ordf@datasektionen.se)<br />
 [+46 70 534 41 62](tel: +46 70 534 41 62)
 
 ## Sektionsinformation

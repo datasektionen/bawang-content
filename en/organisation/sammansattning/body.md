@@ -43,6 +43,9 @@ __Contact Person to__
 
 * Various project leaders
 
+__Contact__
+
+The Vice Chairman can be reached at [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
 
 ## The Treasurer - Fabian Andréasson
 
@@ -149,7 +152,6 @@ __Contact person to__
 * Choir Master
 
 * Song Responsible Person
-
 
 ## Board Member of Business Relations - Adam Sjöberg
 

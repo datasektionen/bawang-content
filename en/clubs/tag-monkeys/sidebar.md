@@ -6,5 +6,4 @@ _Datas Art Director, DAD_
 
 Amanda Hedlund
 
-[dad@d.kth.se](mailto:dad@d.kth.se)
-
+[dad@datasektionen.se](mailto:dad@datasektionen.se)

@@ -6,7 +6,7 @@ Jo Prylis leder prylmångleriet, sektions nämnd som har hand om märken, Ovvar 
 
 Prylmångleriet är onekligen stället att vända dig till om du vill pimpa din Ovve bortom alla tänkbara gränser. Vanligtvis säljer prylmångleriet märken i META varannan fredag mellan 12:15 och 13:00, men det kan även förekomma försäljningar på events eller när någon godtycklig medlem av prylmångleriet känner att hen har för lite studier. 
 
-Om det är något du känner att du vill veta så ta jättegärna kontakt över mail prylis@d.kth.se eller på [facebook](https://www.facebook.com/dataprylis)!
+Om det är något du känner att du vill veta så ta jättegärna kontakt över mail [prylis@datasektionen.se](mailto:prylis@datasektionen.se) eller på [facebook](https://www.facebook.com/dataprylis)!
 
 ## Vad finns hos Prylis?
 

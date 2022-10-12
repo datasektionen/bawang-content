@@ -24,17 +24,17 @@ For general questions, contact our head of communications at:
 
 **Head of communications**<br />
 Adam Sjöberg<br />
-E-mail: [info@d.kth.se](mailto:info@d.kth.se)<br />
+E-mail: [info@datasektionen.se](mailto:info@datasektionen.se)<br />
 
 For questions regarding [datasektionen.se](/) or other systems handled by the chapter, contact the chapter's information committee at [ior@d.kth.se](mailto:ior@d.kth.se).
 
 ## The board
 
-For questions regarding the chapter's organisation, contact the board at [drek@d.kth.se](mailto:drek@d.kth.se). You can also contact the head of the chapter directly at:
+For questions regarding the chapter's organisation, contact the board at [drek@datasektionen.se](mailto:drek@datasektionen.se). You can also contact the head of the chapter directly at:
 
 **Head of the Computer Science Chapter**<br />
 David Puustinen<br />
-E-mail: [ordf@d.kth.se](mailto:ordf@d.kth.se)<br />
+E-mail: [ordf@datasektionen.se](mailto:ordf@datasektionen.se)<br />
 
 ## Chapter details
 

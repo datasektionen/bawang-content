@@ -3,4 +3,4 @@
 #### Körmästare
 
 Sara Videfors</br>
-[kormastare@d.kth.se](mailto:kormastare@d.kth.se)
+[kormastare@datasektionen.se](mailto:kormastare@datasektionen.se)

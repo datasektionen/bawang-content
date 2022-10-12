@@ -8,7 +8,7 @@
 Tekniskt sett får vem som helst ha en fest, men för att ordna fest på
 Data så måste du vara medlem på Datasektionen. Dessutom måste du ha en
 lokal, ett festtillstånd och en utbildad ansvarig för tillställningen.
-Behöver du hjälp så kan du maila D-rektoratet på drek@d.kth.se!
+Behöver du hjälp så kan du maila D-rektoratet på drek@datasektionen.se!
 
 #### Måste jag vara medlem i Datasektionen för att få göra saker?
 
@@ -46,13 +46,13 @@ att den ansvarige inte behöver ha STAD-utbildningen.
 Ja, generellt sätt är det bra att ha festanmälan vid arrangemang
 eftersom man då gör väktarna medvetna om att man är där och roar sig.
 Men är man fler än 20 så måste man ha en festanmälan (oavsett om man ska
-ha med alkohol eller ej). Prata med Sektionsordförande (ordf@d.kth.se)
-eller Klubbmästare (klubbm@d.kth.se) så hjälper de dig med detta (i alla
+ha med alkohol eller ej). Prata med Sektionsordförande ([ordf@datasektionen.se](mailto:ordf@datasektionen.se))
+eller Klubbmästare ([klubbm@datasektionen.se](mailto:klubbm@datasektionen.se)) så hjälper de dig med detta (i alla
 fall om du ska boka META).
 
 #### Hur får jag veta allt jag behöver om lokalen jag bokar?
 
-Prata med ansvarige uthyrare, t ex Lokalchefen (lokalchef@d.kth.se)
+Prata med ansvarige uthyrare, t.ex Lokalchefen ([lokalchef@datasektionen.se](mailto:lokalchef@datasektionen.se))
 ifall du hyr META.
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -89,7 +89,7 @@ Behöver du bara ett litet tillskott? Om det gäller en summa upp till
 För utdelning av summor mellan 2000 och 10 000 kr behöver d-Rektoratet
 ta ett styrelsebeslut. Detta görs på d-Rektoratsmöte (DM) och kallelsen
 till dessa går ut fem dagar innan mötet. Skicka ett mail till styrelsen
-(drek@d.kth.se) där du motiverar din ansökan; därefter är du varmt
+([drek@datasektionen.se](mailto:drek@datasektionen.se)) där du motiverar din ansökan; därefter är du varmt
 välkommen att närvara på DM för att presentera din förfrågan och svara
 på frågor kring denna.
 

@@ -1,10 +1,10 @@
 ## Contact DKM
 Don't hesitate to contact us!
 
-**Everyone @ DKM:** [dkm@d.kth.se](mailto:dkm@d.kth.se)  
+**Everyone @ DKM:** [dkm@datasektionen.se](mailto:dkm@datasektionen.se)  
 
 Complaints, compliments, gifts?</br>
-**DKM President (Klubbmästare):**  [klubbm@d.kth.se](mailto:klubbm@d.kth.se)
+**DKM President (Klubbmästare):**  [klubbm@datasektionen.se](mailto:klubbm@datasektionen.se)
 
 Assortment and other bar-related stuff?</br>
 **DKM Bar responsible (Barmästare):** [barm@d.kth.se](mailto:barm@d.kth.se)
