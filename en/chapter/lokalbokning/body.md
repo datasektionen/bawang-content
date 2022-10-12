@@ -3,7 +3,7 @@
 To book META please use the booking system at
 **[bokning.datasektionen.se](http://bokning.datasektionen.se)**. If you
 have any questions, please contact the chapter-house bosses by email,
-**[lokalbokning@datasektionen.se](mailto:lokalbokning@datasektionen.se)**. The email
+**[lokalbokning@d.kth.se](mailto:lokalbokning@d.kth.se)**. The email
 goes to both the representative from the Computer Science and Media chapter
 (but CS will most likely reply to you). You need to be a
 member of the chapter in order to book META. If you want to know all the rules,
