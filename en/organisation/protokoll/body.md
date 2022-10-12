@@ -7,6 +7,8 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 ###2022
 
+10/10, 11/10 Budget-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/budget_sm_2022))
+
 25/5 Extra-SM 2 ([discussion minutes](https://yoggi.datasektionen.se/protokoll/extra_sm_2022_maj)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/extra_sm_2022_maj))
 
 
