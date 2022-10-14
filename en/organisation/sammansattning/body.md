@@ -81,7 +81,7 @@ __Contact person to__
 
 * Student union assembly delegates
 
-## Board Member of Educational Affairs - *Vacant*
+## Board Member of Educational Affairs - Abhinav Sasikumar
 
 This board member works closely with the study council and works as a
 link between them and the board.

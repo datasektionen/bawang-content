@@ -87,7 +87,7 @@ __Kontaktfunktionärer__
 * Kårfullmäktigeledamöter
 
 
-## Ledamot för utbildningsfrågor - *Vakant*
+## Ledamot för utbildningsfrågor - Abhinav Sasikumar
 
 Det löpande arbetet med utbildningsfrågor sköts av Studienämnden. Deras
 kontaktperson i styrelsen ser till att arbetet inte stannar av. Ibland
