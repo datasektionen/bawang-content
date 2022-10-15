@@ -15,19 +15,26 @@ Verksamhetsplan
 Verksamhetsplan för projekt
 ---------------------------
 
-- [Project Pride](https://static.datasektionen.se/verksamhetsplaner/vp_project_pride_2021.pdf)
-- [dForum 2021](https://static.datasektionen.se/verksamhetsplaner/vp_dforum_2021)
 - [Studs 2021](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2021)
 - [METAspexet 2021](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_21.pdf)
-- [Vårbalken 2021](https://static.datasektionen.se/verksamhetsplaner/vp_varbalken_2021)
-- [dJulkalendern 2021](https://static.datasektionen.se/verksamhetsplaner/vp_djulkalendern_2021.pdf)
-- [Project Rewind](https://static.datasektionen.se/verksamhetsplaner/vp_project_rewind.pdf)
+- [dForum 2021](https://static.datasektionen.se/verksamhetsplaner/vp_dforum_2021)
+- [Project Pride 2021](https://static.datasektionen.se/verksamhetsplaner/vp_project_pride_2021.pdf)
 - [METAspexet 2022](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_22)
+- [dJulkalendern 2021](https://static.datasektionen.se/verksamhetsplaner/vp_djulkalendern_2021.pdf)
 - [Vårbalen 2022](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2022)
+- [Studs 2022](https://yoggi.datasektionen.se/verksamhetsplaner/vp_studs_2022.pdf)
 - [dÅre 2022](https://static.datasektionen.se/verksamhetsplaner/vp_dare_2022.pdf)
+- [Project Rewind](https://static.datasektionen.se/verksamhetsplaner/vp_project_rewind.pdf)
+- [Project Pride 2022](https://yoggi.datasektionen.se/verksamhetsplaner/vp_project_pride_2022.pdf)
 - [Spelsylt](https://static.datasektionen.se/verksamhetsplaner/vp_spelsylt.pdf)
-
-
+- [Magenta](https://yoggi.datasektionen.se/verksamhetsplaner/vp_magenta_2022.pdf)
+- [Project &lt;Placeholder&gt;](https://yoggi.datasektionen.se/verksamhetsplaner/vp_placeholder_2022.pdf)
+- [Vårbalen 2023](https://yoggi.datasektionen.se/verksamhetsplaner/vp_varbal_2023.pdf)
+- [METAspexet 2023](https://yoggi.datasektionen.se/verksamhetsplaner/vp_metaspexet_23.pdf)
+- [dÅre 2023](https://yoggi.datasektionen.se/verksamhetsplaner/vp_dare_2023.pdf)
+- [Studs 2023](https://yoggi.datasektionen.se/verksamhetsplaner/vp_studs_2023.pdf)
+- [dJulkalendern 2022](https://yoggi.datasektionen.se/verksamhetsplaner/vp_djulkalendern_2022.pdf)
+- [BAMM](https://yoggi.datasektionen.se/verksamhetsplaner/vp_bamm_2022.pdf)
 
 Förslag till nästa års verksamhetsplan
 ---------------------------------------------
