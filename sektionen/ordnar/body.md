@@ -8,6 +8,7 @@ Medlemskap i Klubbmästare Emeritus-orden tilldelas de klubbmästare på Datasek
 
 Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
 
+    Jennifer Larsson, Tricesimus Septimus 2021/2022
     George Bassilious, Tricesimus Quintus 2020/2021
     Melvin Lundqvist, Tricesimus Quintus 2019/2020
     Felix Andersson, Tricesimus Quartus 2018/2019
