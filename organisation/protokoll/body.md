@@ -372,9 +372,9 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2022
 
-27/9 Ett-Kaffe-DM-innan-Budget-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_kaffe_dm_innan_budget_sm_2022))
+27/9 Ett-Kaffe-DM-innan-Budget-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/ett_kaffe_dm_innan_budget_sm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_kaffe_dm_innan_budget_sm_2022))
 
-20/9 Ett-Heidrundrande-DM ([dikussionsprotokoll](https://yoggi.datasektionen.se/protokoll/ett_heidrundrande_dm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_heidrundrande_dm_2022))
+20/9 Ett-Heidrundrande-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/ett_heidrundrande_dm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_heidrundrande_dm_2022))
 
 5/9 Ett-Ost-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/ett_ost_dm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_ost_dm_2022))
 

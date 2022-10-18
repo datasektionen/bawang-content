@@ -371,7 +371,7 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 ###2022
 
-27/9 Ett-Kaffe-DM-innan-Budget-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_kaffe_dm_innan_budget_sm_2022))
+27/9 Ett-Kaffe-DM-innan-Budget-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_kaffe_dm_innan_budget_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_kaffe_dm_innan_budget_sm_2022))
 
 20/9 Ett-Heidrundrande-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_heidrundrande_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_heidrundrande_dm_2022))
 
