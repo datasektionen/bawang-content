@@ -3,11 +3,11 @@
 #### METAdorerna
 [metadorerna@d.kth.se](mailto:metadorerna@d.kth.se)
 #### Konglig Lokalchef (D)
-August Jönsson</br>
-[lokalchef@d.kth.se](mailto:lokalchef@d.kth.se)
+Fredrik Blomqvist</br>
+[lokalchef@d.kth.se](mailto:lokalchef@datasektionen.se)
 
 #### Sektionslokalsansvarig (Media)
-Andreas Wingqvist </br>
+Anton Yderberg</br>
 [sektionslokal@media.kth.se](mailto:sektionslokal@media.kth.se)
 
 ## Länkar
