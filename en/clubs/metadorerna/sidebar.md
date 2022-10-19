@@ -3,11 +3,11 @@
 #### METAdorerna
 [metadorerna@datasektionen.se](mailto:metadorerna@datasektionen.se)
 #### Konglig Lokalchef (D)
-Douglas Fischer
+Fredrik Blomqvist
 [lokalchef@datasektionen.se](mailto:lokalchef@datasektionen.se)
 
 #### Sektionslokalsansvarig (Media)
-Andreas Wingqvist  
+Anton Yderberg  
 [sektionslokal@media.kth.se](mailto:sektionslokal@media.kth.se)
 
 * [Chapter Hall booking](en/chapter/lokalbokning)
