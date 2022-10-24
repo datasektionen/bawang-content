@@ -39,10 +39,10 @@ To get more info about events and other things, it can be an good to look in and
 
 ### Lucas Dow
 #### Klubbmästare  
-**Favoritdrink:** Grekiskt lagunvatten
-**Gillar:** Att vara gravid
-**Ogillar:** Simplex 
-**Specialitet:** Give that wolf a banana 
+**Favoritdrink:** Grekiskt lagunvatten <br>
+**Gillar:** Att vara gravid <br>
+**Ogillar:** Simplex <br>
+**Specialitet:** Give that wolf a banana <br>
 **Citat:**
 _Hjälp mig skriva din egen undergång_
 
