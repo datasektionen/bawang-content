@@ -39,10 +39,10 @@ To get more info about events and other things, it can be an good to look in and
 
 ### Lucas Dow
 #### Klubbmästare  
-**Favoritdrink:** Grekiskt lagunvatten \
-**Gillar:** Att vara gravid \
-**Ogillar:** Simplex \
-**Specialitet:** Give that wolf a banana \
+**Favoritdrink:** Grekiskt lagunvatten
+**Gillar:** Att vara gravid
+**Ogillar:** Simplex 
+**Specialitet:** Give that wolf a banana 
 **Citat:**
 _Hjälp mig skriva din egen undergång_
 
@@ -50,10 +50,10 @@ _Hjälp mig skriva din egen undergång_
 
 ### Maja Larsson 
 #### Vice klubbmästare  
-**Favoritdrink:** Ingången Göteborgs-öl \
-**Gillar:** korv \
-**Ogillar:** stinky... 🤮 \
-**Specialitet:** euphoria-dansen \
+**Favoritdrink:** Ingången Göteborgs-öl <br>
+**Gillar:** korv <br>
+**Ogillar:** stinky... 🤮 <br>
+**Specialitet:** euphoria-dansen <br>
 **Citat:**
 _Det kom en jättestor finne å jag blev så jävla stressad_  
 
@@ -61,10 +61,10 @@ _Det kom en jättestor finne å jag blev så jävla stressad_
 
 ### Alva Sundström
 #### Ekonomimästare  
-**Favoritdrink:** Norrlands ("säkert" - Alva) \
-**Gillar:** Vlogs \
-**Ogillar:** Att vara Alfa \
-**Specialitet:** Vara en dinosaurie \
+**Favoritdrink:** Norrlands ("säkert" - Alva) <br>
+**Gillar:** Vlogs <br>
+**Ogillar:** Att vara Alfa <br>
+**Specialitet:** Vara en dinosaurie <br>
 **Citat:**
 _Alfa hasn't said anything funny_  
 
@@ -72,10 +72,10 @@ _Alfa hasn't said anything funny_
 
 ### Sara Strandberg
 #### Ekonomimästare
-**Favoritdrink:** GT (jag frågade igen) \
-**Gillar:** Att spy på förfesten \
-**Ogillar:**  Shaquille O'neal \
-**Specialitet:** Att bli icead \
+**Favoritdrink:** GT (jag frågade igen) <br>
+**Gillar:** Att spy på förfesten <br>
+**Ogillar:**  Shaquille O'neal <br>
+**Specialitet:** Att bli icead <br>
 **Citat:**
 _Nej, jag är Sara_  
 
@@ -83,10 +83,10 @@ _Nej, jag är Sara_
 
 ### Flip Teglund
 #### Barmästare  
-**Favoritdrink:** Baileys och Cola \
-**Gillar:** Att klara mer \
-**Ogillar:** När man inte klarar mer \
-**Specialitet:** Inte gurgla bäsk \
+**Favoritdrink:** Baileys och Cola <br>
+**Gillar:** Att klara mer <br>
+**Ogillar:** När man inte klarar mer <br>
+**Specialitet:** Inte gurgla bäsk <br>
 **Citat:**
 _JAG ÄR HANDEN, DU ÄR MUNNEN!_  
 
@@ -94,10 +94,10 @@ _JAG ÄR HANDEN, DU ÄR MUNNEN!_
 
 ### Markus Videfors
 #### Barmästare
-**Favoritdrink:** En SPIKEad drink \
-**Gillar:** Aerodynamik \
-**Ogillar:** Att ha hår \
-**Specialitet:** Att vara smackis mackis \
+**Favoritdrink:** En SPIKEad drink <br>
+**Gillar:** Aerodynamik <br>
+**Ogillar:** Att ha hår <br>
+**Specialitet:** Att vara smackis mackis <br>
 **Citat:**
 _Har du inte sett dem här spikarna på varje framsida asså_ 
 
@@ -105,10 +105,10 @@ _Har du inte sett dem här spikarna på varje framsida asså_
 
 ### Olivia Aronsson
 #### Festmästare 
-**Favoritdrink:** Fritt fall med bag-in-box \
-**Gillar:** NSFW citat \
-**Ogillar:** Se random saker \
-**Specialitet:** Dj lil miss anarchy \
+**Favoritdrink:** Fritt fall med bag-in-box <br>
+**Gillar:** NSFW citat <br>
+**Ogillar:** Se random saker <br>
+**Specialitet:** Dj lil miss anarchy <br>
 **Citat:**
 _Wow du har ögon_  
 
@@ -116,10 +116,10 @@ _Wow du har ögon_
 
 ### Tom Rehnström
 #### Infomästare  
-**Favoritdrink:** Mintuu & Blandsaft \
-**Gillar:**  Bröd \
-**Ogillar:**  När folk snackar skit om fiorelli \
-**Specialitet:** Ölhäfv \
+**Favoritdrink:** Mintuu & Blandsaft <br>
+**Gillar:**  Bröd <br>
+**Ogillar:**  När folk snackar skit om fiorelli <br>
+**Specialitet:** Ölhäfv <br>
 **Citat:** 
 _Shit in the milk_  
 
