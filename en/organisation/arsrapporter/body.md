@@ -2,6 +2,12 @@
 
 Unfortunately, the Annual Reports are only available in Swedish.
 
+## 2021
+
+- [Verksamhetsberättelse 2021](https://static.datasektionen.se/arsrapporter/verksamhetsberattelse_2021.pdf)
+- [Verksamhetsavstämning 2021](https://static.datasektionen.se/arsrapporter/verksamhetsavstamning_2021.pdf)
+- [Ekonomisk berättelse 2021](https://static.datasektionen.se/arsrapporter/ekonomisk_berattelse_2021.pdf)
+
 ## 2020
 
 - [Verksamhetsberättelse 2020](https://static.datasektionen.se/arsrapporter/verksamhetsberattelse_2020.pdf)
