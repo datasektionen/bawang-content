@@ -1,13 +1,13 @@
-# Jämlikhetsnämnden
+# Equality Committee
 
-Nämnden som gör allt för att alla ska känna sig trygga och välkomna på Konglig Datasektionen!
+The club that does everything to make students feel safe and welcome at the CS chapter!
 
-Om du upptäcker något som du tycker är fel eller särbehandlande är det med oss du ska prata. Det kan vara allt från att en lärare säger opassande saker på en föreläsning, till att en student är taskig mot en sektionskamrat.
+If you discover something that you think is wrong, offensive or discriminates against any person or group, you should talk to us. It can be anything from a teacher saying inappropriate things in a lecture, to a student being mean to another.
 
-Så om du upptäcker något som är kränkande för någon person eller grupp, [maila Jämlikhetsnämndens ordförande](mailto:jno@datasektionen.se) – eller om det är en allmän fråga som du vill lyfta till diskussion i nämnden kan du [maila Jämlikhetsnämndens maillista](mailto:jamlikhet@d.kth.se).
+In the first place, you can contact the committee by emailing [the head of the Equality Board](mailto:jno@datasektionen.se).
 
-Anmäl dig till Jämlikhetsnämndens maillista för att ta emot inbjudningar till nämndens möten etc, genom att fylla i detta formulär: [Anmälan](https://docs.google.com/forms/d/1_jXUk1pF4dCS-kWsv2FDjZYXZzuriaf4Qp_iGNzGIKE/viewform?usp=send_form)
+If you want to work on equality issues yourself, you are welcome to come to our meetings and to join our [discussion forum](https://www.facebook.com/groups/jmldiskussion/) We always post on our [Facebook page](https://www.facebook.com/jamlikhetsnamnden/) when we have meetings.
 
-Du kan även maila ordföranden på adressen ovan om du vill gå med i Jämlikhetsnämnden.
+You can also email the head of the committee if you want to join.
 
-Ingen fråga är för liten! Ta kontakt med oss!
+No question is too small! Contact us!
