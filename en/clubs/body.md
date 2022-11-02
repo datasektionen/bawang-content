@@ -58,6 +58,8 @@ DESC organizes gaming nights and other events for gaming enthusiasts in the chap
 
 Project Pride
 
+Vårbalen - The CS chapters spring ball
+
 ## Current projects
 
 dÅre 2022

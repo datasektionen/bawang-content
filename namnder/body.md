@@ -17,6 +17,8 @@ dÅre
 
 Project Pride
 
+Vårbalen
+
 ## Projekt på Datasektionen
 
 dÅre 2022
