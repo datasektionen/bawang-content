@@ -45,9 +45,11 @@ DForum 2021
 
 Project Pride 2021
 
-Project rewind: Omtagningen
-
 Project Pride 2022
+
+Project Pride 2023
+
+Project Rewind: Omtagningen
 
 Jubileum 2023
 
