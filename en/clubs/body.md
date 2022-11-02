@@ -46,7 +46,7 @@ DEMON are the music enthusiasts of the CS chapter. Meet to jam together!
 ###[DESC - Computer Science E-sports community](/en/clubs/desc)
 DESC organizes gaming nights and other events for gaming enthusiasts in the chapter.
 
-## Projects of the CS chapter
+## Recurring projects
 
 [dåre](http://dåre.se) - The chapters trip the the ski resort: Åre
 
@@ -54,15 +54,51 @@ DESC organizes gaming nights and other events for gaming enthusiasts in the chap
 
 [METAspexet](http://metaspexet.se) - The Spex shared between the CS chapter and the Media Technology Chapter - An interactive student musical theater.
 
-Vårbalen - The Chapter Spring ball.
+[dJulkalendern](https://djul.datasektionen.se/)
 
-Hello World
+Project Pride
 
-Spelsylt - A Game Jam for the Chapter
+Vårbalen - The CS chapters spring ball
+
+## Current projects
+
+dÅre 2022
+
+dÅre 2023
+
+Studs 2021
+
+Studs 2022
+
+Studs 2023
+
+METAspexet 2022
+
+METAspexet 2023
+
+Vårbalen 2022
+
+Vårbalen 2023
+
+dJulkalendern 2022
+
+DForum 2021
+
+Project Pride 2021
+
+Project Pride 2022
+
+Project Pride 2023
+
+Project Rewind: Omtagningen
+
+Jubileum 2023
 
 Project &lt;Placeholder&gt;
 
-Magenta - A large gasque for the girls and non-binary at KTH.
+Magenta
+
+BAMM
 
 ## How to start a project
 To start a project, there has to be an interest on the part of the chapter since we'll be using the chapter's money.
