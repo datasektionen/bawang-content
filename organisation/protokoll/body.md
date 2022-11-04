@@ -372,7 +372,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2022
 
-1/11 Ett-Batasco-DM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_batasco_dm_2022))
+1/11 Ett-Batasco-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/ett_batasco_dm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_batasco_dm_2022))
 
 27/9 Ett-Kaffe-DM-innan-Budget-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/ett_kaffe_dm_innan_budget_sm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_kaffe_dm_innan_budget_sm_2022))
 
