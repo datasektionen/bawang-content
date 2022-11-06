@@ -5,5 +5,5 @@
 - [Sektionens JML-policy](https://styrdokument.datasektionen.se/jamlikhetspolicy)
 - [KTH:s värdegrund](https://intra.kth.se/anstallning/pa-lika-villkor/kth-s-vardegrund-1.514479) 
 - [KTH:s vision](https://www.kth.se/om/equality/kth-s-vision-1.1138174)
-- [KTH:s uppförandekod för studenter](https://www.kth.se/student/studentliv/studentratt/uppforandekod-for-studenter-1.796562)
+- [KTH:s uppförandekod för studenter](https://www.kth.se/student/studier/rattigheter-och-skyldigheter/uppforandekod-1.796562)
 - [Formulär för Anmälningar och Frågor till JNO](https://jml.datasektionen.se/)
