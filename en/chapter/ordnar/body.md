@@ -53,6 +53,7 @@ The order's medal is a five-pointed overthrown black star, with a cerise field s
 
 Motto: Alone is strong. Together we are just many. 
 
+    Luciano Zapata, Tricesimus Sextus 2022
     Isabel Redtzer, Tricesimus Sextus 2021
     Joar Rutqvist, Tricesimus Quartus 2020
     Mikael Forsmark, Duotricesimus 2019
@@ -97,7 +98,8 @@ Motto: Alone is strong. Together we are just many.
 Membership of the Storasyskon Emeritus order is awarded to Storasyskon (head of Reception) at the chapter who have served an entire term.
 
 The order's medal is a five-pointed cerise star, with a silver field, and a black delta in the middle. The star is coated by a laurel wreath.
-
+    
+    George Bassilious, Tricesimus Quintus 2022
     Agnes Forsberg, Tricesimus Quintus 2021
     Lisa Håkanson Krantz, Tricesimus Quartus 2020
     Emil Lindblom, Duotricesimus 2019
@@ -137,6 +139,7 @@ Membership of the Kassör Emeritus order is awarded to treasurers at the chapter
 
 The order's medal is a five-pointed green star, with a black field, and a cerise delta in the middle. The star is coated by a golden laurel wreath.
 
+    Matteus Berg, Tricesimus Septimus 2021
     William Nilsson, Tricesimus Sextus 2020
     Gustav Ung, Tricesimus Quartus 2018
     Andreas Magnedal Holmgren, Tricesimus Quartus 2017
