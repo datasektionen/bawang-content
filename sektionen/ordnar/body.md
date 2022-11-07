@@ -54,6 +54,7 @@ Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig s
 
 Valspråk: Ensam är stark. Tillsammans är vi bara många.
 
+    Luciano Zapata, Tricesimus Sextus 2022
     Isabel Redtzer, Tricesimus Sextus 2021
     Joar Rutqvist, Tricesimus Quartus 2020
     Mikael Forsmark, Duotricesimus 2019
@@ -99,6 +100,7 @@ Medlemskap i Storasyskon Emeritus-orden tilldelas de Storasyskon som förtjänst
 
 Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
    
+    George Bassilious, Tricesimus Quintus 2021
     Agnes Forsberg, Tricesimus Quintus 2021
     Lisa Håkanson Krantz, Tricesimus Quartus 2020
     Emil Lindblom, Duotricesimus 2019
@@ -138,6 +140,7 @@ Medlemskap i Kassör Emeritus-orden tilldelas de Kassörer på Datasektionen som
 
 Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
 
+    Matteus Berg, Tricesimus Septimus 2021
     William Nilsson, Tricesimus Sextus 2020
     Gustav Ung, Tricesimus Quartus 2018
     Andreas Magnedal Holmgren, Tricesimus Quartus 2017
