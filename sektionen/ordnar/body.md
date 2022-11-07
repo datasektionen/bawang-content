@@ -100,7 +100,7 @@ Medlemskap i Storasyskon Emeritus-orden tilldelas de Storasyskon som förtjänst
 
 Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
    
-    George Bassilious, Tricesimus Quintus 2021
+    George Bassilious, Tricesimus Quintus 2022
     Agnes Forsberg, Tricesimus Quintus 2021
     Lisa Håkanson Krantz, Tricesimus Quartus 2020
     Emil Lindblom, Duotricesimus 2019
