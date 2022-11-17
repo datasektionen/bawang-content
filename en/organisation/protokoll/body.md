@@ -371,6 +371,8 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 ###2022
 
+16/11 Ett Kulturhistoriskt DM innan Glögg-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_kulturhistoriskt_dm_innan_glogg_sm_2022))
+
 1/11 Ett-Batasco-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_batasco_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_batasco_dm_2022))
 
 27/9 Ett-Kaffe-DM-innan-Budget-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_kaffe_dm_innan_budget_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_kaffe_dm_innan_budget_sm_2022))
