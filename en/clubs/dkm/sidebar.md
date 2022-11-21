@@ -7,7 +7,7 @@ Complaints, compliments, gifts?</br>
 **DKM President (Klubbmästare):**  [klubbm@datasektionen.se](mailto:klubbm@datasektionen.se)
 
 Assortment and other bar-related stuff?</br>
-**DKM Bar responsible (Barmästare):** [barm@d.kth.se](mailto:barm@datasektionen.se)
+**DKM Bar responsible (Barmästare):** [barm@datasektionen.se](mailto:barm@datasektionen.se)
 
 ## Apply to DKM
 
