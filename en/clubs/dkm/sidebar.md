@@ -11,4 +11,4 @@ Assortment and other bar-related stuff?</br>
 
 ## Apply to DKM
 
-Applications to DKM are currently not open. We usualy recruiting during the fall.
+Applications to DKM are currently not open. We are usually recruiting during early fall.
