@@ -7,8 +7,8 @@ Klagomål, komplimanger, gåvor?</br>
 **Klubbmästare:**  [klubbm@datasektionen.se](mailto:klubbm@datasektionen.se)
 
 Sortiment och annat bar-relaterat?</br>
-**Barmästare:** [barm@datasektionen.se](mailto:barm@d.kth.se)
+**Barmästare:** [barm@datasektionen.se](mailto:barm@datasektionen.se)
 
 ## Ansökan till DKM
 
-Ansökan till DKM är öppen tills den 12e Oktober! Sök på DKM på [dkm.io/ansok](www.dkm.io/ansok)
+Ansökan till DKM är inte öppen för tillfället. Vi brukar rekrytera under tidig höst.
