@@ -7,7 +7,8 @@ Complaints, compliments, gifts?</br>
 **DKM President (Klubbmästare):**  [klubbm@datasektionen.se](mailto:klubbm@datasektionen.se)
 
 Assortment and other bar-related stuff?</br>
-**DKM Bar responsible (Barmästare):** [barm@d.kth.se](mailto:barm@d.kth.se)
+**DKM Bar responsible (Barmästare):** [barm@d.kth.se](mailto:barm@datasektionen.se)
 
 ## Apply to DKM
-Applications to DKM are open until the 12th of October! Apply at [dkm.io/ansok](www.dkm.io/ansok)!
+
+Applications to DKM are currently not open. We usualy recruiting during the fall.
