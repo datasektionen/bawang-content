@@ -11,4 +11,4 @@ Sortiment och annat bar-relaterat?</br>
 
 ## Ansökan till DKM
 
-Ansökan till DKM är inte öppen för tillfället. Vi brukar rekturera under tidig höst.
+Ansökan till DKM är inte öppen för tillfället. Vi brukar rekrytera under tidig höst.
