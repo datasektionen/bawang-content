@@ -40,7 +40,7 @@ META, som även delas med studenter på Medieteknik. Vi sätter även upp
 affischer i andra lokaler där dataloger rör sig, exempelvis utanför datorsalar och liknande.
 ​
 ## Annonsering
-Ett mycket bra sätt att nå ut till många datastudenter är att annonsera på våra sociala medier. Vill ni annonsera på Näringslivsgruppens Facebooksida med över 1000 följare? Gör en förfrågan [här](https://docs.google.com/forms/d/e/1FAIpQLSckG6WdOWUJzq-wQZYSc600Ted_N6PY6QM5l65DILzeyPFZoA/viewform?usp=sf_link)! Vi erbjuder också ett annonseringspaket där det ingår en facebookannons, ett instagram inlägg, 1 instagram story och ett inlägg i datasektionens jobbkanal. Vill ni ha annonseringspaketet kan ni kontakta oss här [foretag@d.kth.se](mailto:foretag@d.kth.se).
+Ett mycket bra sätt att nå ut till många datastudenter är att annonsera på våra sociala medier. Vill ni annonsera på Näringslivsgruppens Facebooksida med över 1000 följare? Gör en förfrågan [här](https://docs.google.com/forms/d/e/1FAIpQLSckG6WdOWUJzq-wQZYSc600Ted_N6PY6QM5l65DILzeyPFZoA/viewform?usp=sf_link)! Vi erbjuder också ett annonseringspaket där det ingår en facebookannons, ett instagram inlägg, 1 instagram story och ett inlägg i datasektionens jobbkanal. Vill ni ha annonseringspaketet kan ni kontakta oss här [foretag@datasektionen.se](mailto:foretag@datasektionen.se).
 ​
 ​
 ## Reklam
