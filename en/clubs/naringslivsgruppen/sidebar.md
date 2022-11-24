@@ -4,7 +4,7 @@ Please contact us on mail or our social media if you have a question!
 
 
 Mail<br/>
-[foretag@d.kth.se](mailto:foretag@d.kth.se). <br/>
+[foretag@datasektionen.se](mailto:foretag@datasektionen.se) <br/>
 
 
 [Facebook](https://www.facebook.com/naringslivsgruppendatasektionenkth)
