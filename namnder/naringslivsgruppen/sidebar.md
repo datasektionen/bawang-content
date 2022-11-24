@@ -9,6 +9,6 @@ Mail<br/>
 
 [Facebook](https://www.facebook.com/naringslivsgruppendatasektionenkth)
 
-[Instagram](https://www.instagram.com/naringsliv_data/)
+[Instagram](https://www.instagram.com/nlg_data/)
 
 [LinkedIn](https://www.linkedin.com/company/n%C3%A4ringslivsgruppen-datasektionen/)
