@@ -31,12 +31,9 @@ by you. The contents of the lecture is completely up to you and, if
 desired, the food too. You can, for instance, present your company, projects or
 trainee programmes.
 
-## Poster advertisement
+## Advertisement on social media
 
-We print and place posters in our chapter hall,
-META, shared by computer science and media technology students. We also
-place posters in areas with high concentrations of computer science students,
-such as computer halls.
+A very good way to reach many computer science students is to advertise on our social media. Do you want to advertise on the Business Relations Group's Facebook page with over 1000 followers? Make an inquiry [here](https://docs.google.com/forms/d/e/1FAIpQLSckG6WdOWUJzq-wQZYSc600Ted_N6PY6QM5l65DILzeyPFZoA/viewform?usp=sf_link)! We also offer an advertising package including  a facebook ad, an instagram post, an instagram story and a post in the computer science chapter’s jobs channel. If you want the advertising package, contact us here [foretag@datasektionen.se](mailto:foretag@datasektionen.se).
 
 ## Advertisement
 

@@ -1,10 +1,10 @@
-## Kontakt
+## Contact
 
-Kontakta oss gärna på mail eller via våra sociala medier och ni har en fråga eller fundering!
+Please contact us on mail or our social media if you have a question! 
 
 
 Mail<br/>
-[foretag@datasektionen.se](mailto:foretag@datasektionen.se). <br/>
+[foretag@datasektionen.se](mailto:foretag@datasektionen.se) <br/>
 
 
 [Facebook](https://www.facebook.com/naringslivsgruppendatasektionenkth)
