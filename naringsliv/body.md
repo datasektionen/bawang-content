@@ -34,7 +34,7 @@ vilken typ av mat som serveras. På lunchföreläsningen kan ni exempelvis
 presentera företaget, projekt eller Trainee-program.
 ​
 ## Annonsering
-Ett mycket bra sätt att nå ut till många datastudenter är att annonsera på våra sociala medier. Vill ni annonsera på Näringslivsgruppens Facebooksida med över 1000 följare? Gör en förfrågan [här](https://docs.google.com/forms/d/e/1FAIpQLSckG6WdOWUJzq-wQZYSc600Ted_N6PY6QM5l65DILzeyPFZoA/viewform?usp=sf_link)! Vi erbjuder också ett annonseringspaket där det ingår en facebookannons, ett instagram inlägg, 1 instagram story och ett inlägg i datasektionens jobbkanal. Vill ni ha annonseringspaketet kan ni kontakta oss här [foretag@datasektionen.se](mailto:foretag@datasektionen.se).
+Ett mycket bra sätt att nå ut till många datastudenter är att annonsera på våra sociala medier. Vill ni annonsera på Näringslivsgruppens Facebooksida med över 1000 följare? Gör en förfrågan [här](https://docs.google.com/forms/d/e/1FAIpQLSckG6WdOWUJzq-wQZYSc600Ted_N6PY6QM5l65DILzeyPFZoA/viewform?usp=sf_link)! Vi erbjuder också ett annonseringspaket där det ingår en facebookannons, ett instagram inlägg, en instagram story och ett inlägg i datasektionens jobbkanal. Vill ni ha annonseringspaketet kan ni kontakta oss här [foretag@datasektionen.se](mailto:foretag@datasektionen.se).
 ​
 ​
 ## Reklam
