@@ -6,6 +6,14 @@ Och nej, vi hatar faktiskt inte *alla* män.
 
 <br>
 
+**Ada 22/23**
+
+Klara Sandström *- Adas Ordförande* <br />
+Ebba Bråtman <br />
+Isadora Winter <br />
+Alva Välimäki <br />
+Sandra Reinecke <br />
+<br />
 **Ada 21/22**
 
 Amanda Hallstedt *- Adas Ordförande* <br />

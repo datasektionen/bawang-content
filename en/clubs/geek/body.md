@@ -4,6 +4,13 @@ The purpose of this club is to make it easier for people identifying as women or
 
 <br>
 
+**Ada 22/23**
+Klara Sandström - *Adas Ordförande (aka head of Ada)* <br />
+Ebba bråtman <br />
+Isadora Winter <br />
+Alva Välimäki <br />
+Sandra Reinecke <br />
+
 **Ada 21/22*
 Amanda Hallstedt - *Adas Ordförande (aka head of Ada)* <br />
 Amanda Krohn <br />
