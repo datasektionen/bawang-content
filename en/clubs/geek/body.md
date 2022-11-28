@@ -4,7 +4,7 @@ The purpose of this club is to make it easier for people identifying as women or
 
 <br>
 
-**Ada 22/23*
+**Ada 22/23**
 Klara Sandström - *Adas Ordförande (aka head of Ada)* <br />
 Ebba bråtman <br />
 Isadora Winter <br />
