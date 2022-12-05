@@ -48,19 +48,16 @@ Vi svarar även på studenters frågor om studierna alternativt hjälper till at
 
 Om oss i vår korthet
 
-* Årskursrepresentanter - Kontakta om du har synpunkter på kurserna du läser på kandidatnivå
-* Masterrepresentanter - Kontakta om du har synpunkter på kurserna du läser inom ditt masterprogram
+* Årskursrepresentanter & Masterrepresentanter- Kontakta om du har synpunkter på kurserna du läser på kandidatnivå
 * Studerandeskyddsombud - Kontakta om det är för kallt eller oergonomiska stolar
 * Studienämndens ordförande - Ser till att studienämnden lever
 * Programansvarig student - Arbetar långsiktigt för programmets och kursers utveckling
 * Styrelseledamot för utbildningsfrågor - Har helthetsuppfattningen om utbildningen
 * Övriga intresserade studenter
 
-### Årskursrepresentanter
-Årskursrepresentanter är studenter som representerar sin årskurs gentemot både studenterna och lärarna. De fungerar som en röst för de som inte själva vill ta kontakt med lärarna. Har du synpunkter gällande kurser, lärare eller liknande så finns din årskursrepresentant där för att hjälpa dig.
+### Årskursrepresentanter & Masterrepresentanter
+Årskursrepresentanter och Masterrepresenter är studenter som representerar sin årskurs/årskurs inom masterprogram gentemot både studenterna och lärarna. De fungerar som en röst för de som inte själva vill ta kontakt med lärarna. Har du synpunkter gällande kurser, lärare eller liknande så finns din årskursrepresentant där för att hjälpa dig.
 
-### Masterrepresentanter 
-Masterrepresentanter är studenter som representerar sin årskurs inom sitt Masterprogram.  De fungerar som en röst för de som inte själva vill ta kontakt med lärarna inom kontexten för Masterprogrammet. Har du synpunkter gällande kurser, lärare eller liknande så finns masterrepresentanten där för att hjälpa dig.
 
 ### Studerandeskyddsombud
 Studerandeskyddsombudet verkar för en bättre studiemiljö under dina studier här på KTH. Studiemiljön är då såväl den fysiska som den psykosociala. Tveka inte på att höra av dig!
