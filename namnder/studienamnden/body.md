@@ -48,7 +48,7 @@ Vi svarar även på studenters frågor om studierna alternativt hjälper till at
 
 Om oss i vår korthet
 
-* Årskursrepresentanter & Masterrepresentanter- Kontakta om du har synpunkter på kurserna du läser på kandidatnivå
+* Årskursrepresentanter & Masterrepresentanter- Kontakta om du har synpunkter på kurserna du läser
 * Studerandeskyddsombud - Kontakta om det är för kallt eller oergonomiska stolar
 * Studienämndens ordförande - Ser till att studienämnden lever
 * Programansvarig student - Arbetar långsiktigt för programmets och kursers utveckling
