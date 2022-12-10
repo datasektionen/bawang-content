@@ -1,3 +1,3 @@
 
 # Vanliga frågor
-Vanliga svar på frågor går att hitta nedan och på [THS hemsida] (http://ths.kth.se/contact/faq/education-and-studysocial)
+Svar på vanliga frågor går att hitta på [THS hemsida](https://ths.kth.se/sv/help)
