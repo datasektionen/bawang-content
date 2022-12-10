@@ -1,16 +1,16 @@
 ## Användbara länkar
 
-* [Studenträtt](https://www.kth.se/student/studentliv/studentratt)
+* [Studenträtt](https://www.kth.se/student/studier/rattigheter-och-skyldigheter)
 * [KTH bibliotek](https://www.kth.se/kthb)
 * [Utbildningsplaner](https://www.kth.se/student/kurser/program/CDATE)
 * [Programsidan](https://www.kth.se/social/program/cdate/)
-* [EECS servicecenter](https://www.kth.se/eecs/kontakt/studentexpedition-och-servicecenter-1.21727)
-* [EECS-kansliet och studievägledning](https://www.kth.se/student/studievagledning-kontakt/kontakt-studievagledning-pa-program-1.84623)
+* [EECS studentexpedition och servicecenter](https://www.kth.se/eecs/kontakt/studentexpedition-eecs-1.21727)
+* [Studievägledare och Internationell koordinator](https://www.kth.se/student/kontakt/kontaktuppgifter/kontakta-oss-pa-datateknik-civilingenjor-300-hp-1.1168558)
 * [Allmän nyttig fakta till studenter på
     KTH](https://www.kth.se/student?programme=d)
-* [Utbytesstudier](https://www.kth.se/student/program/utlandsstudier/utbyte?programme=d)
+* [Utbytesstudier](https://www.kth.se/student/studier/utlandsstudier/utbyte)
 * [Hitta ett schema](https://www.kth.se/schema)
 * [Hitta ett rum/en plats på KTH](https://www.kth.se/places)
-* [Studievägledningen](https://www.kth.se/student/studievagledning-kontakt)
+* [Om studievägledning](https://www.kth.se/student/kontakt/kontaktuppgifter/studievagledning-1.83165)
 * [Kurskatalogen](https://www.kth.se/student/kurser/sokkurs)
-* [FAQ från THS](http://ths.kth.se/contact/faq/education-and-studysocial)
+* [FAQ från THS](https://ths.kth.se/sv/help)
