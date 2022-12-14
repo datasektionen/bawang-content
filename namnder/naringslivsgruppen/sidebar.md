@@ -7,8 +7,6 @@ Mail<br/>
 [foretag@datasektionen.se](mailto:foretag@datasektionen.se). <br/>
 
 
-[Facebook](https://www.facebook.com/naringslivsgruppendatasektionenkth)
-
-[Instagram](https://www.instagram.com/nlg_data/)
-
-[LinkedIn](https://www.linkedin.com/company/n%C3%A4ringslivsgruppen-datasektionen/)
+- [Facebook](https://www.facebook.com/naringslivsgruppendatasektionenkth)
+- [Instagram](https://www.instagram.com/nlg_data/)
+- [LinkedIn](https://www.linkedin.com/company/n%C3%A4ringslivsgruppen-datasektionen/)
