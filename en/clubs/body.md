@@ -68,8 +68,6 @@ dÅre 2023
 
 Studs 2021
 
-Studs 2022
-
 Studs 2023
 
 METAspexet 2022
@@ -82,8 +80,6 @@ Vårbalen 2023
 
 dJulkalendern 2022
 
-DForum 2021
-
 Project Pride 2021
 
 Project Pride 2022
@@ -93,8 +89,6 @@ Project Pride 2023
 Project Rewind: Omtagningen
 
 Jubileum 2023
-
-Project &lt;Placeholder&gt;
 
 Magenta
 
