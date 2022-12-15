@@ -373,27 +373,29 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 ###2022
 
-16/11 Ett Kulturhistoriskt DM innan Glögg-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_kulturhistoriskt_dm_innan_glogg_sm_2022))
+14/12 A Reset DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_reset_dm_2022))
 
-1/11 Ett-Batasco-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_batasco_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_batasco_dm_2022))
+16/11  A Cultural-historical DM before the Mulled Wine CM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_kulturhistoriskt_dm_innan_glogg_sm_2022))
 
-27/9 Ett-Kaffe-DM-innan-Budget-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_kaffe_dm_innan_budget_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_kaffe_dm_innan_budget_sm_2022))
+1/11 A Batasco DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_batasco_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_batasco_dm_2022))
 
-20/9 Ett-Heidrundrande-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_heidrundrande_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_heidrundrande_dm_2022))
+27/9 A Coffee DM before the Budget CM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_kaffe_dm_innan_budget_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_kaffe_dm_innan_budget_sm_2022))
 
-5/9 A-Cheese-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_ost_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_ost_dm_2022))
+20/9 A Heidrundrande DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_heidrundrande_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_heidrundrande_dm_2022))
 
-23/5 A-Markoolio-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/markoolio_dm_2022))
+5/9 A Cheese DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_ost_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_ost_dm_2022))
 
-28/4 DM-before-Election-CM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/dm_innan_val_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2022))
+23/5 A Markoolio DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/markoolio_dm_2022))
 
-6/4 DM-after-Revision-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/dm_efter_revisions_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_efter_revisions_sm_2022))
+28/4 DM before the Election CM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/dm_innan_val_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_val_sm_2022))
 
-15/3 DM-before-Revision-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2022))
+6/4 DM after the Revision CM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/dm_efter_revisions_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_efter_revisions_sm_2022))
 
-24/2 A-Spontanious-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_spontant_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_spontant_dm_2022))
+15/3 DM before the Revision CM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2022))
 
-10/2 An-Olympic-DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_olympiskt_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_olympiskt_dm_2022))
+24/2 A Spontanious DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_spontant_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_spontant_dm_2022))
+
+10/2 An Olympic DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_olympiskt_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_olympiskt_dm_2022))
 
 ###2021
 
