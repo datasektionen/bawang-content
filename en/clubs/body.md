@@ -86,9 +86,9 @@ Project Pride 2022
 
 Project Pride 2023
 
-Project Rewind: Omtagningen
-
 Jubileum 2023
+
+Project &lt;Placeholder&gt;
 
 Magenta
 
