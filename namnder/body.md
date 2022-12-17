@@ -45,7 +45,7 @@ Project Pride 2022 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhets
 
 Project Pride 2023
 
-dJubileet 2023
+dJubileet 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_djubileet_2023.pdf))
 
 Project &lt;Placeholder&gt; ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_placeholder_2022.pdf))
 
