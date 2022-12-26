@@ -1,4 +1,4 @@
-## Kontakt
+## Contact
 
 #### International Student Coordinator
 
