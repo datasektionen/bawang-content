@@ -1,11 +1,13 @@
-Sammansättning
---------------
+# D-rektoratets sammansättning
 
-D-rektoratet består av åtta ledamöter. Dessa arbetar tillsammans i
+D-rektoratet består av nio ledamöter. Dessa arbetar tillsammans i
 styrelsen men fungerar också som samordnande kontakt för funktionärer
-och nämnder på Konglig Datasektionen.
+och nämnder på Konglig Datasektionen. Alla funktionärer har en
+kontaktfunktionär.
 
-## Sektionsordförande - David Puustinen
+En förteckning över funktionärernas kontaktperson i styrelsen finns [här](https://dsekt.se/kontaktfunktionarare).
+
+## Sektionsordförande - Pontus Söderlund
 
 Sektionens ordförande leder D-rektoratets arbete. Ordföranden ansvarar
 även för kontakten med THS och andra sektioner.
@@ -15,17 +17,11 @@ uppgifter som inte direkt faller på någon annan funktionär. Ansvarar
 även för att det upprättas en verksamhetsberättelse varje år som talar
 om vad som hänt under året.
 
-__Kontakt__
+**Kontakt**
 
 Ordförande är nåbar på [ordf@datasektionen.se](mailto:ordf@datasektionen.se).
 
-__Kontaktfunktionärer__
-
-* Mottagningsansvarig
-
-* Revisorer
-
-## Vice sektionsordförande - Pontus Söderlund
+## Vice sektionsordförande - Christofer Gärtner
 
 Vice ordförandens viktigaste roll är att assistera och avlasta
 ordförande för att säkerställa att denna inte överarbetar sig. I detta
@@ -38,141 +34,39 @@ inte tillhör någon specifik D-rek'post eller hinns med av relevant
 styrelseledamot. Det kontinuerliga ansvaret utgörs mest av fika samt
 ansvar för sektionens nycklar och accesser.
 
-__Kontakt__
+**Kontakt**
 
 Vice ordförande är nåbar på [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
 
-__Kontaktfunktionärer__
-
-* Fanbärare
-
-* Ett antal projektledare
-
-## Kassör - Fabian Andréasson
+## Kassör - Felix Murnion
 
 Kassören håller helt enkelt reda på sektionens ekonomiska bit. Det
 gäller deklarationer, fakturor och naturligtvis bokföringen. Kassören
 och sektionsordföranden är de som har firmateckningsrätt för sektionen.
 
-__Kontakt__
+**Kontakt**
 
 Kassör är nåbar på [kassor@datasektionen.se](mailto:kassor@datasektionen.se).
 
-## Vice kassör - Felix Murnion
+## Vice kassör
 
 Vice kassör arbetar tillsammans med kassören med sektionens ekonomi och finns
 som extra stöd i ekonomiska frågor och arbetar naturligtvis även med bokföring.
 
-__Kontakt__
+**Kontakt**
 
 Vice kassör är nåbar på [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se).
 
-## Sekreterare - Herman Karlsson
+## Sekreterare
 
 Sekreteraren är ansvarig för styrdokument, handlingar, protokoll och annan
 formalia på sektionen.
 Den ser till att protokoll skrivs, justeras, undertecknas och arkiveras.
 Sekreteraren ansvarar också för att brev delas ut till rätt personer.
 
-__Kontakt__
+**Kontakt**
 
 Sekreterare är nåbar på [sekreterare@datasektionen.se](mailto:sekreterare@datasektionen.se).
-
-__Kontaktfunktionärer__
-
-* Valberedningens ordförande
-
-* Valberedare
-
-* Kårfullmäktigeledamöter
-
-
-## Ledamot för utbildningsfrågor - Abhinav Sasikumar
-
-Det löpande arbetet med utbildningsfrågor sköts av Studienämnden. Deras
-kontaktperson i styrelsen ser till att arbetet inte stannar av. Ibland
-kan ledamoten till och med få representera på något utskottsmöte som KTH
-håller.
-
-__Kontakt__
-
-Ledamot för utbildningsfrågor är nåbar på [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
-
-__Kontaktfunktionärer__
-
-* Programansvarig student
-
-* Studienämndens ordförande
-
-* Jämlikhetsordförande
-
-* Internationell studentkoordinator
-
-* Studerandeskyddsombud
-
-* Projektledare för Project pride
-
-## Ledamot för studiesociala frågor - Malin Svenberg
-
-Har frågor som rör medlemmarnas psykiska
-och fysiska miljö som ansvarsområde. Arbetar med att utveckla
-medlemmarnas
-studentliv. Dessa ansvarsområden inkluderar att:
-
-* strategiskt arbeta med utvecklingen av sektionens studiesociala
-verksamhet
-* verka för en god studiemiljö
-* verka för en god sammanhållning mellan sektionens engagerade medlemmar
-* från styrelsen arbeta med frågor som berör jämlikhet, mångfald och
-likabehandling
-på sektionen
-
-Det är viktigt att framhärda att miljö innefattar såväl den fysiska som
-den psykosociala miljön.
-
-__Kontakt__
-
-Ledamot för studiesociala frågor är nåbar på [d-ssf@datasektionen.se](mailto:d-ssf@datasektionen.se).
-
-__Kontaktfunktionärer__
-
-* Klubbmästare
-
-* Sektionsidrottsledare
-
-* Ljud- och ljusansvarig
-
-* Lokalchef
-
-* Qulturattaché
-
-* Prylis
-
-* Mulle/Mullerina Schmeck
-
-* DESCtop
-
-* Ärkedemon
-
-* Adas ordförande
-
-* Spexdireqteur
-
-* Projektledare för dÅre
-
-* Bakis
-
-* D-Fest
-
-* Kingpin
-
-* Projektledare för Hello World
-
-* Tomtemor/-far
-
-* Körmästare
-
-* Sångansvarig
 
 ## Ledamot för näringsliv och kommunikation - Adam Sjöberg
 
@@ -181,27 +75,55 @@ som rör näringsliv och kommunikation, samt är kontaktperson för
 sektionens verksamhet
 som avser dessa områden. Dessa ansvarsområden inkluderar att:
 
-* överblicka och verka för stärkandet av varumärket Datasektionen
-* strategiskt arbeta med utvecklingen av sektionens olika verktyg för intern och extern kommunikation tillsammans med berörda funktionärer
-* strategiskt arbeta med utvecklingen av sektionens näringslivsverksamhet
-* bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på sektionen
+-   överblicka och verka för stärkandet av varumärket Datasektionen
+-   strategiskt arbeta med utvecklingen av sektionens olika verktyg för intern och extern kommunikation tillsammans med berörda funktionärer
+-   strategiskt arbeta med utvecklingen av sektionens näringslivsverksamhet
+-   bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på sektionen
 
-__Kontakt__
+**Kontakt**
 
 Ledamot för näringsliv och kommunikation är nåbar på [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se).
 
-__Kontaktfunktionärer__
+## Ledamot för studiesociala frågor - Malin Svenberg
 
-* Projektledare för Studs
+Har frågor som rör medlemmarnas psykiska
+och fysiska miljö som ansvarsområde. Arbetar med att utveckla
+medlemmarnas
+studentliv. Dessa ansvarsområden inkluderar att:
 
-* Systemansvarig
+-   strategiskt arbeta med utvecklingen av sektionens studiesociala
+    verksamhet
+-   verka för en god studiemiljö
+-   verka för en god sammanhållning mellan sektionens engagerade medlemmar
+-   från styrelsen arbeta med frågor som berör jämlikhet, mångfald och likabehandling på sektionen.
 
-* Kommunikatör
+Det är viktigt att framhärda att miljö innefattar såväl den fysiska som
+den psykosociala miljön.
 
-* Näringslivsansvarig
+**Kontakt**
 
-* D-dagenansvariga
+Ledamot för studiesociala frågor är nåbar på [d-ssf@datasektionen.se](mailto:d-ssf@datasektionen.se).
 
-* Sektionshistoriker
+## Ledamot för utbildningsfrågor - Abhinav Sasikumar
 
-* Chefredaqtör
+Det löpande arbetet med utbildningsfrågor sköts av Studienämnden. Deras
+kontaktperson i styrelsen ser till att arbetet inte stannar av. Ibland
+kan ledamoten till och med få representera på något utskottsmöte som KTH
+håller.
+
+**Kontakt**
+
+Ledamot för utbildningsfrågor är nåbar på [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
+
+## Ledamot för studiemiljö och likabehandling
+
+Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
+
+-   verka för en god studiemiljö
+-   ha en samordnade roll tillsammans med D-UF för de som arbetar med studentinflytande gentemot EECS på sektionen
+-   hantera JML-incidenter och leda kontakten med externa resurser
+-   från styrelsen arbeta med frågor som berör jämlikhet, mångfald och likabehandling på sektionen.
+
+**Kontakt**
+
+Ledamot för studiemiljö och likabehandling är nåbar på [d-sol@datasektionen.se](mailto:d-sol@datasektionen.se).

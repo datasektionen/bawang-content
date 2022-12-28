@@ -7,13 +7,11 @@ anledning är du alltid välkommen att kontakta oss:
 
 **Näringslivsgruppen**<br />
 **För företag**
-E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
-
+E-post: [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 **Näringslivsansvarig**<br />
 Klara Folke<br />
 E-post: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
-
 
 **Arbetsmarknadsdagsansvariga**<br />
 Kevin Wenström & Carl Chemnitz<br />
@@ -38,9 +36,9 @@ D-rektoratet, på adressen [drek@datasektionen.se](mailto:drek@datasektionen.se)
 även kontakta Datasektionens Ordförande direkt:
 
 **Ordförande**<br />
-David Puustinen<br />
+Pontus Söderlund<br />
 E-post: [ordf@datasektionen.se](mailto:ordf@datasektionen.se)<br />
-[+46 70 534 41 62](tel: +46 70 534 41 62)
+[+46 72 150 99 39](tel: +46 72 150 99 39)
 
 ## Sektionsinformation
 

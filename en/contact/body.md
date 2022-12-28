@@ -6,11 +6,11 @@ The Business Relations Group handles the chapter's contacts with companies. You 
 
 **The Business Relations Group**<br />
 **För företag**
-E-mail: [foretag@d.kth.se](mailto:foretag@d.kth.se)
+E-mail: [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 **Head of business relations**<br />
-Klara Folke<br />
-E-mail: [naringsliv@d.kth.se](mailto:naringsliv@d.kth.se)<br />
+Oscar Bergström<br />
+E-mail: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.see)<br />
 
 **Heads of D-Dagen**<br />
 Carl Chemnitz & Kevin Wenström<br />
@@ -23,18 +23,19 @@ Visit the [Industry page](en/industry) for more information.
 For general questions, contact our head of communications at:
 
 **Head of communications**<br />
-Adam Sjöberg<br />
+Noah Hopkins<br />
 E-mail: [info@datasektionen.se](mailto:info@datasektionen.se)<br />
 
-For questions regarding [datasektionen.se](/) or other systems handled by the chapter, contact the chapter's information committee at [ior@d.kth.se](mailto:ior@d.kth.se).
+For questions regarding [datasektionen.se](https://datasektionen.se) or other systems handled by the chapter, contact the chapter's information committee at [ior@@d.kth.se](mailto:ior@@d.kth.se).
 
 ## The board
 
 For questions regarding the chapter's organisation, contact the board at [drek@datasektionen.se](mailto:drek@datasektionen.se). You can also contact the head of the chapter directly at:
 
 **Head of the Computer Science Chapter**<br />
-David Puustinen<br />
+Pontus Söderlund<br />
 E-mail: [ordf@datasektionen.se](mailto:ordf@datasektionen.se)<br />
+[+46 72 150 99 39](tel: +46 72 150 99 39)
 
 ## Chapter details
 
