@@ -4,7 +4,7 @@ Datasektionen är en ideell [studentsektion](https://sv.wikipedia.org/wiki/Stude
 
 ## Diskussionsforum
 
-Sektionen har en [Discordserver](https://dsekt.se/discord), en chattplattform där sektionens medlemmar kan diskutera både studier och sektionens aktiviteter. På servern finns kurskanaler där programmets kurser diskuteras och studenter kan få hjälp. Alla event som faller in under verksamhetskategorierna nedan annonseras också på servern.  Alla studenter vid KTH är välkomna att gå med på servern via följande länk: https://dsekt.se/discord.
+Sektionen har en [Discordserver](https://dsekt.se/discord), en chattplattform där sektionens medlemmar kan diskutera både studier och sektionens aktiviteter. På servern finns kurskanaler där programmets kurser diskuteras och studenter kan få hjälp. Alla event som faller in under verksamhetskategorierna nedan annonseras också på servern.  Alla studenter vid KTH är välkomna att gå med på servern via följande länk: [dsekt.se/discord](https://dsekt.se/discord).
 
 ## Festverksamhet
 
