@@ -3,6 +3,7 @@
 I menyn till vänster kan du läsa om alla Datasektionens nämnder.
 
 ## Återkommande projekt på Datasektionen
+
 Nedan ses alla återkommande projekt på Datasektionen. Återkommande projekt är projekt som helt enkelt görs om varje år. Till skillnad från vanliga projekt, som oftast sker en gång och sedan läggs ned.
 
 dÅre
@@ -21,37 +22,37 @@ Vårbalen
 
 ## Projekt på Datasektionen
 
-dÅre 2022
+dÅre 2022 ([verksamhetsplan](https://static.datasektionen.se/verksamhetsplaner/vp_dare_2022.pdf))
 
-dÅre 2023
+dÅre 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_dare_2023.pdf))
 
-Studs 2021
+Studs 2021 ([verksamhetsplan](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2021))
 
-Studs 2023
+Studs 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_studs_2023.pdf))
 
-METAspexet 2022
+METAspexet 2022 ([verksamhetsplan](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_22))
 
-METAspexet 2023
+METAspexet 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_metaspexet_23.pdf))
 
-Vårbalen 2022
+Vårbalen 2022 ([verksamhetsplan](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2022))
 
-Vårbalen 2023
+Vårbalen 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_varbal_2023.pdf))
 
-dJulkalendern 2022
+dJulkalendern 2022 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_djulkalendern_2022.pdf))
 
-Project Pride 2021
+Project Pride 2021 ([verksamhetsplan](https://static.datasektionen.se/verksamhetsplaner/vp_project_pride_2021.pdf))
 
-Project Pride 2022
+Project Pride 2022 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_project_pride_2022.pdf))
 
 Project Pride 2023
 
-Jubileum 2023
+dJubileet 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_djubileet_2023.pdf))
 
-Project &lt;Placeholder&gt;
+Project &lt;Placeholder&gt; ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_placeholder_2022.pdf))
 
-Magenta
+Magenta ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_magenta_2022.pdf))
 
-BAMM
+BAMM ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_bamm_2022.pdf))
 
 ## Tidigare nämnder och föreningar på Datasektionen
 

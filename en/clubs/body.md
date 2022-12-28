@@ -1,49 +1,63 @@
 # The Clubs of the CS chapter
 
 ###[DKM - Party organizes](/en/clubs/dkm)
+
 What would a Chapter be without parties? DKM has been organizing parties as long as the Chapter has existed.
 
 ###[dbuggen](http://dbu.gg)
+
 dbuggen is the Chapter's own paper. It's released whenever any possible editors have the time or the will. This actually sometimes happens! Nowadays you can also read it online.
 
 ###[METAdorerna](/en/clubs/metadorerna)
+
 Our common Chapter Hall is named META and can be found at Osquars Backe 21. we are the ones taking care of the place.
 
 ###[IOR - Eeore - Information committee - Hacker club](/en/clubs/informationsorganet)
+
 We make sure the chapter's information distribution systems work properly, which results in lots of hacking.
 
-
 ###[Tag Monkeys](/en/clubs/tag-monkeys)
+
 Graphic design <3
 
 ###[Equality Committee](/en/clubs/jamlikhetsnamnden)
+
 We want everyone to feel safe and welcome.
 
 ###[GEEK - Girls: Empowered, Encouraged, Knowledgable](/en/clubs/geek)
+
 Group for helping girls at the CS chapter network with each other.
 
 ###[The reception](/en/clubs/mottagningen)
+
 Here is all the info about the reception, the schedule, etc.
 
 ###[Industry group](/en/clubs/naringslivsgruppen)
+
 The industry group handles the Chapter's professional contacts, organizes job fairs, lunch lectures, study visits, and other kids of sponsoring.
 
 ###[Prylmångleriet - pathces and merch](/en/clubs/prylmangleriet)
+
 _Prylis_ sells the stuff CS students want to buy
 
 ###[Qulturnämnden - Qulture Committee](/en/clubs/qulturnamnden)
+
 Film nights, eating candy, and other forms of _qulture_.
 
 ###[Idrottsnämnden - Sport Committee](/en/clubs/idrottsnamnden)
+
 We do whatever we want.
 
 ###[Studienämnden - Study committee](/en/clubs/studienamnden)
+
 Keeping an eye on the studies, the courses and the faculty.
 
 ###[DEMON - Music group](/en/clubs/demon)
+
 DEMON are the music enthusiasts of the CS chapter. Meet to jam together!
 
 ###[DESC - Computer Science E-sports community](/en/clubs/desc)
+
 DESC organizes gaming nights and other events for gaming enthusiasts in the chapter.
 
 ## Recurring projects
@@ -62,39 +76,40 @@ Vårbalen - The CS chapters spring ball
 
 ## Current projects
 
-dÅre 2022
+dÅre 2022 ([operational plan](https://static.datasektionen.se/verksamhetsplaner/vp_dare_2022.pdf))
 
-dÅre 2023
+dÅre 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_dare_2023.pdf))
 
-Studs 2021
+Studs 2021 ([operational plan](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2021))
 
-Studs 2023
+Studs 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_studs_2023.pdf))
 
-METAspexet 2022
+METAspexet 2022 ([operational plan](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_22))
 
-METAspexet 2023
+METAspexet 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_metaspexet_23.pdf))
 
-Vårbalen 2022
+Vårbalen 2022 ([operational plan](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2022))
 
-Vårbalen 2023
+Vårbalen 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_varbal_2023.pdf))
 
-dJulkalendern 2022
+dJulkalendern 2022 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_djulkalendern_2022.pdf))
 
-Project Pride 2021
+Project Pride 2021 ([operational plan](https://static.datasektionen.se/verksamhetsplaner/vp_project_pride_2021.pdf))
 
-Project Pride 2022
+Project Pride 2022 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_project_pride_2022.pdf))
 
 Project Pride 2023
 
-Jubileum 2023
+dJubileet 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_djubileet_2023.pdf))
 
-Project &lt;Placeholder&gt;
+Project &lt;Placeholder&gt; ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_placeholder_2022.pdf))
 
-Magenta
+Magenta ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_magenta_2022.pdf))
 
-BAMM
+BAMM ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_bamm_2022.pdf))
 
 ## How to start a project
+
 To start a project, there has to be an interest on the part of the chapter since we'll be using the chapter's money.
 So you have to get a motion passed at an SM.
 
