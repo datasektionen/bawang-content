@@ -10,6 +10,12 @@ a bit like a fraternity (but more open). In the chapter there are
 several groups doing specific stuff that interests them. Read more about
 those below!
 
+Duscussion Forums
+-------------------
+
+The chapter has a [Discord server](https://dsekt.se/discord), a chat platform where chapter members can discuss both study-related topics and extracurricular chapter-related activities. The server hosts course channels for the program's courses where students can get help. Events that fall under the activity categories below are also advertised there. All students at KTH are welcome to join the server via the following link: [dsekt.se/discord](https://dsekt.se/discord).
+
+
 Party activities, DKM
 -------------------
 
