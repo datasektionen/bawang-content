@@ -26,7 +26,7 @@ For general questions, contact our head of communications at:
 Noah Hopkins<br />
 E-mail: [info@datasektionen.se](mailto:info@datasektionen.se)<br />
 
-For questions regarding [datasektionen.se](https://datasektionen.se) or other systems handled by the chapter, contact the chapter's information committee at [ior@@d.kth.se](mailto:ior@@d.kth.se).
+For questions regarding [datasektionen.se](https://datasektionen.se) or other systems handled by the chapter, contact the chapter's information committee at [ior@datasektionen.se](mailto:ior@datasektionen.se).
 
 ## The board
 

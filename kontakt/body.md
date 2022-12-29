@@ -14,7 +14,7 @@ Oscar Bergström<br />
 E-post: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
 **Arbetsmarknadsdagsansvariga**<br />
-Kevin Wenström & Carl Chemnitz<br />
+Johan Abdi & Axel Johansson<br />
 E-post: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
@@ -27,7 +27,7 @@ För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 Noah Hopkins<br />
 E-post: [info@datasektionen.se](mailto:info@datasektionen.se)<br />
 
-Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Systemansvarig på [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se) eller Datasektionens Informationsorgan, IOR, på adressen [ior@d.kth.se](mailto:ior@d.kth.se).
+Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Systemansvarig på [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se) eller Datasektionens Informationsorgan, IOR, på adressen [ior@datasektionen.se](mailto:ior@datasektionen.se).
 
 ## Styrelsen
 

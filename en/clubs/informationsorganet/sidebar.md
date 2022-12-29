@@ -8,7 +8,7 @@ Axel Elmarsson </br>
 
 
 #### System group
-[ior@d.kth.se](mailto:ior@d.kth.se)
+[ior@datasektionen.se](mailto:ior@datasektionen.se)
 
 #### Slack
 

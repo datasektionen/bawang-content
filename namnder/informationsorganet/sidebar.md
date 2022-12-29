@@ -8,7 +8,7 @@ Axel Elmarsson </br>
 
 #### Systemgrupp
 
-[ior@d.kth.se](mailto:ior@d.kth.se)
+[ior@datasektionen.se](mailto:ior@datasektionen.se)
 
 #### IOR-slacken
 
