@@ -17,23 +17,25 @@ Kontakta oss om du har frågor om eller kommentarer kring studierna eller studie
 
 Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Beroende på vilket år du går ska du höra av dig till din årskursrepresentant eller masterstudent!
 
-År 1 - Emil och Mary [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
+År 1 - Elin och Alexander: [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
 
-År 2 - Kei och Hannah: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
+År 2 - Emil och Mary: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
 
-År 3 - Jesper och Maximilian: [ake-3@d.kth.se](mailto:ake-3@d.kth.se)
+År 3 - Kei: [ake-3@datasektionen.se](mailto:ake-3@datasektionen.se)
 
-Master - Sara, Kitty, Elsa: [master@d.kth.se](mailto:master@d.kth.se)
+Masterrepresentanter för Datalogi (TCSCM)- Daniel, Elsa, Jesper: [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
+
+Masterrepresentanter för Cybersäkerhet (TCYSM) - Ellinor [master-cys@datasektionen.se](mailto:master-cys@datasektionen.se)
 
 
 ### Studiemiljö
 
 Kalla salar? Oergonomiska stolar? Är det för hög ljudnivå? Kontakta SSO om du har en åsikt!
-SSO: Emil [sso@d.kth.se](mailto:sso@d.kth.se)
+SSO: Emil [sso@datasektionen.se](mailto:sso@datasektionen.se)
 
 ### Övriga frågor
 
-Kontakta Studienämndens ordförande om du har någon annan fråga: [sno@d.kth.se](mailto:sno@d.kth.se)
+Kontakta Studienämndens ordförande om du har någon annan fråga: [sno@datasektionen.se](mailto:sno@datasektionen.se)
 
 ## Om studienämnden
 
@@ -46,20 +48,21 @@ Vi svarar även på studenters frågor om studierna alternativt hjälper till at
 
 Om oss i vår korthet
 
-* Årskursrepresentanter - Kontakta om du har synpunkter på kurserna du läser
+* Årskursrepresentanter & Masterrepresentanter- Kontakta om du har synpunkter på kurserna du läser
 * Studerandeskyddsombud - Kontakta om det är för kallt eller oergonomiska stolar
 * Studienämndens ordförande - Ser till att studienämnden lever
 * Programansvarig student - Arbetar långsiktigt för programmets och kursers utveckling
 * Styrelseledamot för utbildningsfrågor - Har helthetsuppfattningen om utbildningen
 * Övriga intresserade studenter
 
-### Årskursrepresentanter
-Årskursrepresentanter är studenter som representerar sin årskurs gentemot både studenterna och lärarna. De fungerar som en röst för de som inte själva vill ta kontakt med lärarna. Har du synpunkter gällande kurser, lärare eller liknande så finns din årskursrepresentant där för att hjälpa dig.
+### Årskursrepresentanter & Masterrepresentanter
+Årskursrepresentanter och Masterrepresenter är studenter som representerar sin årskurs/årskurs inom masterprogram gentemot både studenterna och lärarna. De fungerar som en röst för de som inte själva vill ta kontakt med lärarna. Har du synpunkter gällande kurser, lärare eller liknande så finns din årskursrepresentant där för att hjälpa dig.
+
 
 ### Studerandeskyddsombud
 Studerandeskyddsombudet verkar för en bättre studiemiljö under dina studier här på KTH. Studiemiljön är då såväl den fysiska som den psykosociala. Tveka inte på att höra av dig!
 
-SSO: Jesper [sso@d.kth.se](mailto:sso@d.kth.se)
+SSO: Emil [sso@datasektionen.se](mailto:sso@datasektionen.se)
 
 ### Studienämndens ordförande
 Studienämndens ordförande (SNO) leder arbetet i Studienämnden samt inom studiebevakning i allmänhet. SNO är en förtroendevald funktionärspost i Datasektionen och reglementet säger att SNO ska
@@ -74,12 +77,12 @@ SNO är intresserad av studenternas åsikter om både utbildningen och Studienä
 ### Programansvarig student
 Programansvarig student (PAS) arbetar tillsammans med Studienämndens ordförande för att förbättra utbildningens kvalitet. PAS ansvarar huvudsakligen för kontakten till lärare samt utbildningsansvariga på EECS-skolan, och arbetar i allmänhet med det mer långsiktiga fokuset i Studienämnden.
 
-PAS: Abhinav [pas@d.kth.se](mailto:pas@d.kth.se)
+PAS: Abhinav [pas@datasektionen.se](mailto:pas@datasektionen.se)
 
 ### Styrelseledamot för utbildningsfrågor
 Styrelseledamot för utbildningsfrågor (D-UF) verkar för en bättre utbildningskvalitet på sektionen. Tanken är att D-UF ska ha en total bild över utbildningen. Vidare ansvarar ledamoten, D-UF, för kontakten mellan styrelsen och Studienämndens ordförande/Programansvarig student.
 
-D-UF: Daniel [d-uf@d.kth.se](mailto:d-uf@d.kth.se)
+D-UF: Abhinav [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se)
 
 ### Övriga intresserade studenter
 Studienämnden är en öppen nämnd, vilket innebär att alla sektionsmedlemmar som vill får engagera sig i nämnden. För mer information, kontakta Studienämndens ordförande.
@@ -94,4 +97,4 @@ Enligt sektionens reglemente är den huvudsakliga verksamheten att
 ### Studienämndsmöten
 Studienämnden har lunchmöte varannan vecka. Mötena är öppna för samtliga intresserade sektionsmedlemmar. Man kan alltid ta upp studierelaterade frågor eller Studienämndens verksamhet. Annars diskuterar vi aktuella problem i kurser, och funktionärerna berättar vad de gjort sedan föregående möte.
 
-Tidigare mötesprotokoll hittas [här](https://drive.google.com/drive/folders/0B5oC_KdJBCU7amRQb3RFb3VQbzg)
+Tidigare mötesprotokoll hittas [här](https://dsekt.se/snprotokoll)

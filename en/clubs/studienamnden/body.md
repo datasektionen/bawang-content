@@ -17,13 +17,15 @@ Contact us if you have questions or opinions regarding the education or the stud
 
 Are your lectures incomprehensible? Are there too few opportunities to present your work? Or do you want someone to act as a middle-man between you and the school? Rest assured, we have got your back! Depending on what year you are in, you can always contact your designated year representative or master representative!
 
-Year 1 - Emil and Mary [ake-1@d.kth.se](mailto:ake-1@d.kth.se)
+Year 1 - Elin and Alexander: [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
 
-Year 2 - Kei and Hannah: [ake-2@d.kth.se](mailto:ake-2@d.kth.se)
+Year 2 - Emil and Mary: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
 
-Year 3 - Jesper and Maximilian: [ake-3@d.kth.se](mailto:ake-3@d.kth.se)
+Year 3 - Kei: [ake-3@datasektionen.se](mailto:ake-3@datasektionen.se)
 
-Master - Sara, Kitty, Elsa: [master@d.kth.se](mailto:master@d.kth.se)
+Master Representatives for Computer Science - Daniel, Elsa and Jesper (TCSCM): [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
+
+Master Reperesentative for Cyber Security (TCYSM) - Ellinor [master-cys@datasektionen.se](mailto:master-cys@datasektionen.se)
 
 
 ### Studying environment
@@ -92,4 +94,4 @@ According to the chapter regulations, the Study Board is supposed to
 ### Board Meetings
 The study board meetings are held at least once per period. The meetings are open to all chapter members, and one can always bring up education related questions or the Board operations. Otherwise, we discuss current problems in the education, and the board officials give reports on what they have been doing since the last meeting.
 
-Earlier meeting protocols can be found [here](https://drive.google.com/drive/folders/0B5oC_KdJBCU7amRQb3RFb3VQbzg)
+Earlier meeting protocols can be found [here](https://dsekt.se/snprotokoll)
