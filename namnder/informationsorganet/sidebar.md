@@ -4,7 +4,7 @@
 
 Niklas Vatn </br>
 Axel Elmarsson </br>
-[d-sys@d.kth.se](mailto:d-sys@d.kth.se)
+[d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
 
 #### Systemgrupp
 

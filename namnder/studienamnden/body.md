@@ -29,11 +29,11 @@ Master - Sara, Kitty, Elsa: [master@d.kth.se](mailto:master@d.kth.se)
 ### Studiemiljö
 
 Kalla salar? Oergonomiska stolar? Är det för hög ljudnivå? Kontakta SSO om du har en åsikt!
-SSO: Emil [sso@d.kth.se](mailto:sso@d.kth.se)
+SSO: Emil [sso@datasektionen.se](mailto:sso@datasektionen.se)
 
 ### Övriga frågor
 
-Kontakta Studienämndens ordförande om du har någon annan fråga: [sno@d.kth.se](mailto:sno@d.kth.se)
+Kontakta Studienämndens ordförande om du har någon annan fråga: [sno@datasektionen.se](mailto:sno@datasektionen.se)
 
 ## Om studienämnden
 
@@ -59,7 +59,7 @@ Om oss i vår korthet
 ### Studerandeskyddsombud
 Studerandeskyddsombudet verkar för en bättre studiemiljö under dina studier här på KTH. Studiemiljön är då såväl den fysiska som den psykosociala. Tveka inte på att höra av dig!
 
-SSO: Jesper [sso@d.kth.se](mailto:sso@d.kth.se)
+SSO: Jesper [sso@datasektionen.se](mailto:sso@datasektionen.se)
 
 ### Studienämndens ordförande
 Studienämndens ordförande (SNO) leder arbetet i Studienämnden samt inom studiebevakning i allmänhet. SNO är en förtroendevald funktionärspost i Datasektionen och reglementet säger att SNO ska
@@ -74,12 +74,12 @@ SNO är intresserad av studenternas åsikter om både utbildningen och Studienä
 ### Programansvarig student
 Programansvarig student (PAS) arbetar tillsammans med Studienämndens ordförande för att förbättra utbildningens kvalitet. PAS ansvarar huvudsakligen för kontakten till lärare samt utbildningsansvariga på EECS-skolan, och arbetar i allmänhet med det mer långsiktiga fokuset i Studienämnden.
 
-PAS: Abhinav [pas@d.kth.se](mailto:pas@d.kth.se)
+PAS: Abhinav [pas@datasektionen.se](mailto:pas@datasektionen.se)
 
 ### Styrelseledamot för utbildningsfrågor
 Styrelseledamot för utbildningsfrågor (D-UF) verkar för en bättre utbildningskvalitet på sektionen. Tanken är att D-UF ska ha en total bild över utbildningen. Vidare ansvarar ledamoten, D-UF, för kontakten mellan styrelsen och Studienämndens ordförande/Programansvarig student.
 
-D-UF: Daniel [d-uf@d.kth.se](mailto:d-uf@d.kth.se)
+D-UF: Daniel [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se)
 
 ### Övriga intresserade studenter
 Studienämnden är en öppen nämnd, vilket innebär att alla sektionsmedlemmar som vill får engagera sig i nämnden. För mer information, kontakta Studienämndens ordförande.

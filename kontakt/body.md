@@ -10,7 +10,7 @@ anledning är du alltid välkommen att kontakta oss:
 E-post: [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 **Näringslivsansvarig**<br />
-Klara Folke<br />
+Oscar Bergström<br />
 E-post: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
 **Arbetsmarknadsdagsansvariga**<br />

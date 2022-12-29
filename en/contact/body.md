@@ -10,10 +10,10 @@ E-mail: [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 **Head of business relations**<br />
 Oscar Bergström<br />
-E-mail: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.see)<br />
+E-mail: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
 **Heads of D-Dagen**<br />
-Carl Chemnitz & Kevin Wenström<br />
+Johan Abdi & Axel Johansson<br />
 E-mail: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
 Visit the [Industry page](en/industry) for more information.

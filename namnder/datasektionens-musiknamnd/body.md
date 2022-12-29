@@ -4,7 +4,7 @@ Datasektionens musiknämnd. Leds av Ärkedemon. Detta är nämnden för alla på
 
 ## Prylar
 
-Sektionen äger några MIDI-synthar, ett digitaltrumset, en akustisk gitarr, en elgitarr, en elbas, samt ett elpiano. Allt är gratis att låna, så tveka inte att testa nya grejer! Maila [arkedemon@d.kth.se](mailto:arkedemon@d.kth.se) om du vill låna något.
+Sektionen äger några MIDI-synthar, ett digitaltrumset, en akustisk gitarr, en elgitarr, en elbas, samt ett elpiano. Allt är gratis att låna, så tveka inte att testa nya grejer! Maila [arkedemon@datasektionen.se](mailto:arkedemon@datasektionen.se) om du vill låna något.
 
 ## Replokal
 

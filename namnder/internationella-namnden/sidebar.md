@@ -3,4 +3,4 @@
 #### Internationell studentkoordinator
 
 *(Vakant)*</br>
-[isc@d.kth.se](mailto:isc@d.kth.se)
+[isc@datasektionen.se](mailto:datasektionen.se)

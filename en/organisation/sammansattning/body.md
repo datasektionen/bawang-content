@@ -65,7 +65,7 @@ Is also responsible for internal communications and that important information i
 
 **Contact**
 
-The Board member of Business Relations can be reached at [d-nok@d.kth.se](mailto:d-nok@datasektionen.se).
+The Board member of Business Relations can be reached at [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se).
 
 ## Board member of Student Issues - Malin Svenberg
 
