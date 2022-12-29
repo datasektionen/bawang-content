@@ -1,41 +1,21 @@
-Verksamhetsplan
-===============
+# Verksamhetsplan
 
-- [Verksamhetsplan 2022](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2022.pdf)
-- [Verksamhetsplan 2021](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2021.pdf)
-- [Verksamhetsplan 2020](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2020.pdf)
-- [Verksamhetsplan 2019](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2019)
-- [Verksamhetsplan 2018](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2018.pdf)
-- [Verksamhetsplan 2017](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2017.pdf)
-- [Verksamhetsplan 2016](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan-2016.pdf)
-- [Verksamhetsplan 2015](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2015.pdf)
-- [Verksamhetsplan 2014](https://static.datasektionen.se/verksamhetsplaner/verksamhetsplan2014v6.0.pdf)
-- [Verksamhetsplan 2013](https://static.datasektionen.se/verksamhetsplaner/Verksamhetsplan2013.pdf)
+## Sektionens verksamhetsplaner
 
-Verksamhetsplan för projekt
----------------------------
+Om du vill lämna förslag på till nästa års verksamhetsplan får du gärna göra det [här](https://dsekt.se/vp-forslag).
 
-- [Studs 2021](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2021)
-- [METAspexet 2021](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_21.pdf)
-- [dForum 2021](https://static.datasektionen.se/verksamhetsplaner/vp_dforum_2021)
-- [Project Pride 2021](https://static.datasektionen.se/verksamhetsplaner/vp_project_pride_2021.pdf)
-- [METAspexet 2022](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_22)
-- [dJulkalendern 2021](https://static.datasektionen.se/verksamhetsplaner/vp_djulkalendern_2021.pdf)
-- [Vårbalen 2022](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2022)
-- [Studs 2022](https://yoggi.datasektionen.se/verksamhetsplaner/vp_studs_2022.pdf)
-- [dÅre 2022](https://static.datasektionen.se/verksamhetsplaner/vp_dare_2022.pdf)
-- [Project Rewind](https://static.datasektionen.se/verksamhetsplaner/vp_project_rewind.pdf)
-- [Project Pride 2022](https://yoggi.datasektionen.se/verksamhetsplaner/vp_project_pride_2022.pdf)
-- [Spelsylt](https://static.datasektionen.se/verksamhetsplaner/vp_spelsylt.pdf)
-- [Magenta](https://yoggi.datasektionen.se/verksamhetsplaner/vp_magenta_2022.pdf)
-- [Project &lt;Placeholder&gt;](https://yoggi.datasektionen.se/verksamhetsplaner/vp_placeholder_2022.pdf)
-- [Vårbalen 2023](https://yoggi.datasektionen.se/verksamhetsplaner/vp_varbal_2023.pdf)
-- [METAspexet 2023](https://yoggi.datasektionen.se/verksamhetsplaner/vp_metaspexet_23.pdf)
-- [dÅre 2023](https://yoggi.datasektionen.se/verksamhetsplaner/vp_dare_2023.pdf)
-- [Studs 2023](https://yoggi.datasektionen.se/verksamhetsplaner/vp_studs_2023.pdf)
-- [dJulkalendern 2022](https://yoggi.datasektionen.se/verksamhetsplaner/vp_djulkalendern_2022.pdf)
-- [BAMM](https://yoggi.datasektionen.se/verksamhetsplaner/vp_bamm_2022.pdf)
+-   [Verksamhetsplan 2023](https://drive.google.com/file/d/1FkJJKgQbxToJZQjjRNqm3Kamurzl6s-i/view?usp=share_link)
+-   [Verksamhetsplan 2022](https://drive.google.com/file/d/1_nVL_M6z5qU3xxluEf6ce3CEi0Bhs9yG/view?usp=share_link)
+-   [Verksamhetsplan 2021](https://drive.google.com/file/d/12JSpit-xBHTZfVXMRAMLu9j1LzjWyybp/view?usp=share_link)
+-   [Verksamhetsplan 2020](https://drive.google.com/file/d/1jpSBZUXbVVpVf2JJv9RlE-p7MgoiidMT/view?usp=share_link)
+-   [Verksamhetsplan 2019](https://drive.google.com/file/d/13BuuEV1ncK9sy8aI-7xa3cPbVPzW_4GS/view?usp=share_link)
+-   [Verksamhetsplan 2018](https://drive.google.com/file/d/1IARwMB7QSfCs15Ui2BDmIgYGrc8Ml9OS/view?usp=share_link)
+-   [Verksamhetsplan 2017](https://drive.google.com/file/d/1LiKpOa2QPw1oj4Vf3JBIpBPfretw9dpA/view?usp=share_link)
+-   [Verksamhetsplan 2016](https://drive.google.com/file/d/1Q0qyUQ1NYhFwCEG11f4Um4-KAYfuTOqb/view?usp=share_link)
+-   [Verksamhetsplan 2015](https://drive.google.com/file/d/1yg6Ky1Y1Cl9ZXwJQlEfy-hkg7MhWidBh/view?usp=share_link)
+-   [Verksamhetsplan 2014](https://drive.google.com/file/d/1r6rPYyIGkKaULTClXJY8ISUhafzc0_s5/view?usp=share_link)
+-   [Verksamhetsplan 2013](https://drive.google.com/file/d/1ejb_TNiOBSUvWOvu9cUhYxLjeimhvlAw/view?usp=share_link)
 
-Förslag till nästa års verksamhetsplan
----------------------------------------------
-[Förslagsformulär](https://docs.google.com/forms/d/e/1FAIpQLSd67YT0g__uTZHC83H-HX2b34KpPEWwHM6y364wc1DGF2gKPA/viewform?usp=sf_link)
+## Verksamhetsplaner för projekt
+
+Projekts verksamhetsplaner hittar du [här](https://datasektionen.se/namnder).
