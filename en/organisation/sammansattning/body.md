@@ -49,7 +49,7 @@ The Vice treasurer assists the Treasurer with most things related to economics.
 
 The Vice treasurer can be reached at [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se).
 
-## The Secretary
+## The Secretary - *(Vacant)*
 
 The Secretary is responsible for documenting D-directorate and chapter meetings
 and to write protocols and archive them.
@@ -86,12 +86,12 @@ link between them and the board.
 The Board member of Educational Affairs can be reached at [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
 
 
-## Board member of Study environment and Equality
+## Board member of Study environment and Equality - *(Vacant)*
 
-Has overall responsibility for all issues connected to the physical and psychological study environment. Is the board's contact for questions relating to these areas. These responsibilities include
+Has an overall responsibility for all issues connected to the physical and psychological study environment. Is the person to contact on the board for questions relating to these areas. These responsibilities include
 
 - working for a good study environment
-- together with the Board member for Educational affairs coordinate the chapters communication concerning studies and the study environment towards EECS
+- coordinate the chapters communication concerning studies and the study environment towards EECS together with the Board member for Educational affairs
 - handle equality, diversity and equal treatment incidents
 - work with issues concerning equality, diversity and equal treatment in the chapter.
 

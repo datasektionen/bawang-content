@@ -57,7 +57,7 @@ som extra stöd i ekonomiska frågor och arbetar naturligtvis även med bokföri
 
 Vice kassör är nåbar på [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se).
 
-## Sekreterare
+## Sekreterare - *(Vakant)*
 
 Sekreteraren är ansvarig för styrdokument, handlingar, protokoll och annan
 formalia på sektionen.
@@ -115,7 +115,7 @@ håller.
 
 Ledamot för utbildningsfrågor är nåbar på [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
 
-## Ledamot för studiemiljö och likabehandling
+## Ledamot för studiemiljö och likabehandling - *(Vakant)*
 
 Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
