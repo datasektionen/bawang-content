@@ -4,5 +4,5 @@ Om du har några sportiga frågor så kan du höra av dig till Sektionsidrottsle
 
 #### Sektionsidrottsledare
 
-_(Vakant)_ </br>
+Niklas Vatn </br>
 [idrott@datasektionen.se](mailto:idrott@datasektionen.se)
