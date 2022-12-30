@@ -47,7 +47,7 @@ Vi svarar även på studenters frågor om studierna alternativt hjälper till at
 
 ## Vi i studienämnden
 
-Om oss i vår korthet
+Kort om oss
 
 * Årskursrepresentanter & Masterrepresentanter - Kontakta om du har synpunkter på kurserna du läser
 * Studerandeskyddsombud - Kontakta om det är för kallt eller oergonomiska stolar
