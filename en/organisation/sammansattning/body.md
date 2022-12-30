@@ -5,7 +5,7 @@ They are the Chairman, Vice Chairman, Treasurer, secretary, and three more board
 for educational issues, student welfare, and business relations. Together they arrange Chapter Meetings, make sure
 the decisions at chapter meetings are executed, coordinate different parts of the chapter, and make strategic and long term plans.
 
-Each board member is the contact person in the board for some of out elected volunteers a list can be found [here](https://dsekt.se/kontaktfunktionarare).
+Each board member is the contact person in the board for some of out elected volunteers a list can be found [here](https://dsekt.se/kontaktperson).
 
 ## The Chairman - Pontus Söderlund
 

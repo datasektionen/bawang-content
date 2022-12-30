@@ -5,7 +5,7 @@ styrelsen men fungerar också som samordnande kontakt för funktionärer
 och nämnder på Konglig Datasektionen. Alla funktionärer har en
 kontaktfunktionär.
 
-En förteckning över funktionärernas kontaktperson i styrelsen finns [här](https://dsekt.se/kontaktfunktionarare).
+En förteckning över funktionärernas kontaktperson i styrelsen finns [här](https://dsekt.se/kontaktperson).
 
 ## Sektionsordförande - Pontus Söderlund
 
