@@ -391,7 +391,7 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 6/4 DM after the Revision CM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/dm_efter_revisions_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_efter_revisions_sm_2022))
 
-15/3 DM before the Revision CM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2022))
+15/3 DM before the Revision CM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_dm_innan_rev_sm_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2022)
 
 24/2 A Spontanious DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_spontant_dm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_spontant_dm_2022))
 

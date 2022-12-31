@@ -391,7 +391,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 6/4 DM-efter-Revisions-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/dm_efter_revisions_sm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/dm_efter_revisions_sm_2022))
 
-15/3 DM-innan-Revisions-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2022))
+15/3 DM-innan-Revisions-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/ett_dm_innan_rev_sm_dm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/dm_innan_revisions_sm_2022))
 
 24/2 Ett-Spontant-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/ett_spontant_dm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_spontant_dm_2022))
 
