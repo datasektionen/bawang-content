@@ -7,10 +7,10 @@ Kevin Wenström<br>
 
 **Other Election Committee Members:**
 
-Melvin Jakobsson<br>
-Niklas Vatn<br>
+Lukas Malmberg<br>
+Johan Hahlin<br>
 Filip Ramslöv<br>
-Noah Holmgren Hopkins<br>
-Maria Moliteus<br>
 Isak Lefèvre<br>
+Maria Moliteus<br>
+Noah Holmgren Hopkins<br>
 [valberedare@datasektionen.se](mailto:valberedare@datasektionen.se)

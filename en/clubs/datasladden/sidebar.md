@@ -1,5 +1,5 @@
 ## Contact
 
 #### Datasladden
-Adam Sjöberg</br>
+Melvin Jakobsson</br>
 [mulle@datasektionen.se](mailto:mulle@datasektionen.se)

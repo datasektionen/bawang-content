@@ -32,7 +32,7 @@ Masterrepresentanter för Cybersäkerhet (TCYSM) - Ellinor [master-cys@datasekti
 ### Studiemiljö
 
 Kalla salar? Oergonomiska stolar? Är det för hög ljudnivå? Kontakta SSO om du har en åsikt!
-SSO: Emil [sso@datasektionen.se](mailto:sso@datasektionen.se)
+SSO: Axel [sso@datasektionen.se](mailto:sso@datasektionen.se)
 
 ### Övriga frågor
 
@@ -63,7 +63,7 @@ Kort om oss
 ### Studerandeskyddsombud
 Studerandeskyddsombudet verkar för en bättre studiemiljö under dina studier här på KTH. Studiemiljön är då såväl den fysiska som den psykosociala. Tveka inte på att höra av dig!
 
-SSO: Emil [sso@datasektionen.se](mailto:sso@datasektionen.se)
+SSO: Axel [sso@datasektionen.se](mailto:sso@datasektionen.se)
 
 ### Studienämndens ordförande
 Studienämndens ordförande (SNO) leder arbetet i Studienämnden samt inom studiebevakning i allmänhet. SNO är en förtroendevald funktionärspost i Datasektionen och reglementet säger att SNO ska

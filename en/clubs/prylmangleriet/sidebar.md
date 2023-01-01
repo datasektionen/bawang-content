@@ -5,7 +5,7 @@ To join fill in this [form](https://forms.gle/gaT6EWE5QfaRqNGK9)
 
 #### Prylmånglaren
 
-Julia Wang</br>
+Lukas Malmberg</br>
 [prylis@datasektionen.se](mailto:prylis@datasektionen.se)
 
 #### Facebook

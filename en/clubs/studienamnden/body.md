@@ -31,7 +31,7 @@ Master Reperesentative for Cyber Security (TCYSM) - Ellinor [master-cys@datasekt
 ### Studying environment
 
 Cold lecture halls? Unergonomic chairs? Is there too much noise? Contact our SSO if you have an opinion!
-SSO: Emil [sso@datasektionen.se](mailto:sso@datasektionen.se)
+SSO: Axel [sso@datasektionen.se](mailto:sso@datasektionen.se)
 
 ### Other questions
 

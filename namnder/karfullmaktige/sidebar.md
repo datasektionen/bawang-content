@@ -4,15 +4,16 @@ Maila oss om du undrar över något om Kårfullmäktige, eller om du har försla
 
 #### Kårfullmäktigeledamöter
 
-Douglas Fischer</br>
+Jakob Carlsson</br>
+Noah Hopkins</br>
+Pontus Söderlund</br>
 David Puustinen</br>
-Johan Hamredahl</br>
-Joaquin Bonino Quintana</br>
 [kf@datasektionen.se](mailto:kf@datasektionen.se)
 
 #### Kårfullmäktigesuppleanter
 
-Jakob Carlsson</br>
+Douglas Fischer</br>
+Fabian Andréasson</br>
 [kf@datasektionen.se](mailto:kf@datasektionen.se)
 
 ## Länkar
