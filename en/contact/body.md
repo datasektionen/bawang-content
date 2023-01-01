@@ -5,7 +5,7 @@
 The Business Relations Group handles the chapter's contacts with companies. You can always contact us at:
 
 **The Business Relations Group**<br />
-**För företag**
+**For business inquiries contact: **
 E-mail: [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 **Head of business relations**<br />
