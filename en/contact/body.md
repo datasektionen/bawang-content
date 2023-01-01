@@ -5,7 +5,7 @@
 The Business Relations Group handles the chapter's contacts with companies. You can always contact us at:
 
 **The Business Relations Group**<br />
-**For business inquiries contact: **
+**For business inquiries**
 E-mail: [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 **Head of business relations**<br />
@@ -16,7 +16,7 @@ E-mail: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 Johan Abdi & Axel Johansson<br />
 E-mail: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
-Visit the [Industry page](en/industry) for more information.
+Visit the [Industry page](/industry) for more information.
 
 ## General
 
