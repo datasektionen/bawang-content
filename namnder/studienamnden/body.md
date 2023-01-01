@@ -15,7 +15,8 @@ Kontakta oss om du har frågor om eller kommentarer kring studierna eller studie
 
 ### Studier
 
-Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Beroende på vilket år du går ska du höra av dig till din årskursrepresentant eller masterstudent!
+Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Beroende på vilket år du går ska du höra av dig till din årskursrepresentant eller 
+student!
 
 År 1 - Elin och Alexander: [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
 
@@ -23,7 +24,7 @@ Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du a
 
 År 3 - Kei: [ake-3@datasektionen.se](mailto:ake-3@datasektionen.se)
 
-Masterrepresentanter för Datalogi (TCSCM)- Daniel, Elsa, Jesper: [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
+Masterrepresentanter för Datalogi (TCSCM) - Daniel, Elsa, Jesper: [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
 
 Masterrepresentanter för Cybersäkerhet (TCYSM) - Ellinor [master-cys@datasektionen.se](mailto:master-cys@datasektionen.se)
 
@@ -46,9 +47,9 @@ Vi svarar även på studenters frågor om studierna alternativt hjälper till at
 
 ## Vi i studienämnden
 
-Om oss i vår korthet
+Kort om oss
 
-* Årskursrepresentanter & Masterrepresentanter- Kontakta om du har synpunkter på kurserna du läser
+* Årskursrepresentanter & Masterrepresentanter - Kontakta om du har synpunkter på kurserna du läser
 * Studerandeskyddsombud - Kontakta om det är för kallt eller oergonomiska stolar
 * Studienämndens ordförande - Ser till att studienämnden lever
 * Programansvarig student - Arbetar långsiktigt för programmets och kursers utveckling

@@ -5,7 +5,7 @@
 #### Qulturattaché (D)
 
 Arvid Eriksson</br>
-[qulturattache@d.kth.se](mailto:qulturattache@d.kth.se)
+[qulturattache@datasektionen.se](mailto:qulturattache@datasektionen.se)
 
 #### Qulturnämndsordförande (Media)
 

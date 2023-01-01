@@ -19,7 +19,7 @@ De aktiviteter vi främst kommer ägna oss åt är sporterna som ingår i THS-M�
 
 Om du är sugen på att syssla med någon annan idrott så hör gärna av dig, det mesta går att ordna!
 
-Är du intresserad av att delta i någon av dessa aktiviteter så gå med i [facebook-gruppen](https://www.facebook.com/groups/datafotboll/) eller hör av dig direkt till Sektionsidrottsledaren via __idrott(at)d.kth.se__. Du kan också skicka önskemål om aktiviteter du vill genomföra till denna adress. En annan informationskanal idrottsnämnden ämnar använda är nyheterna på sektionens hemsida.
+Är du intresserad av att delta i någon av dessa aktiviteter så gå med i [facebook-gruppen](https://www.facebook.com/groups/datakthsport) eller hör av dig direkt till Sektionsidrottsledaren via [idrott@datasektionen.se](mailto:idrott@datasektionen.se). Du kan också skicka önskemål om aktiviteter du vill genomföra till denna adress. En annan informationskanal idrottsnämnden ämnar använda är nyheterna på sektionens hemsida.
 
 ## THS-Mästerskapen
 
@@ -55,7 +55,7 @@ The activities we will mainly exercise are the ones included in the THS Champion
 
 If you are eager to get involved with some other sport, please let me know, most things can be arranged!
 
-Are you interested in participating in any of these activities, join the [Facebook Group](https://www.facebook.com/groups/datafotboll/) or take direct contact to the Section Sports Leader via __idrott@d.kth.se__. You can also send requests for activities/events to this address. Another channel that the Sports Committee intends to use is the news section on __datasektionen.se__.
+Are you interested in participating in any of these activities, join the [Facebook Group](https://www.facebook.com/groups/datakthsport) or take direct contact to the Section Sports Leader via [idrott@datasektionen.se](mailto:idrott@datasektionen.se). You can also send requests for activities/events to this address. Another channel that the Sports Committee intends to use is the news section on [datasektionen.se](https://datasektionen.se/en/news).
 
 ## THS Championship
 

@@ -23,7 +23,7 @@ Det är vi som håller i måndagsstäden i Meta under året. Vi bjuder in nyanta
 * 5/12: Mannen, myten, legenden + Extra
 * 19/12: Extra
 
-Frågor? Maila stadskrik@d.kth.se
+Frågor? Maila [stadskrik@d.kth.se](mailto:stadskrik@d.kth.se)
 
 #### Städskrin 2016/2017:
 

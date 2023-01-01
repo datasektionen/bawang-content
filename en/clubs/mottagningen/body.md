@@ -95,4 +95,4 @@ The economerists may love money most of all, but they also like nØllan. When th
 
 ### Contact us 
 
-We who are responsible for the Reception are called Titel. If you want to contact us, you can send an email to titel@d.kth.se. If you want to contact a specific person there are contact information in the side bar. 
+We who are responsible for the Reception are called Titel. If you want to contact us, you can send an email to [titel@datasektionen.se](mailto:titel@datasektionen.se). If you want to contact a specific person there are contact information in the side bar. 

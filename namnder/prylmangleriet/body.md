@@ -30,7 +30,7 @@ För att allting ska gå smidigt som smör finns det en ball mall (en ballmall?)
 
 ## Hur skickar man in dååå?
 
-När du har gjort ett jävligt vasst (eller riktigt ovasst) märke ska du bara transportera det genom cyberrymden till mig! Det gör du genom att bifoga filen i ett sånt där ebrev (Snälla skicka inte vanliga brev) till [prylis@d.kth.se](mailto:prylis@d.kth.se). Sätt ämnesraden “Det Quartuaste årskursmärket evah”, så hamnar alla mail på samma ställe. Annars blir allting bara dåligt.
+När du har gjort ett jävligt vasst (eller riktigt ovasst) märke ska du bara transportera det genom cyberrymden till mig! Det gör du genom att bifoga filen i ett sånt där ebrev (Snälla skicka inte vanliga brev) till [prylis@datasektionen.se](mailto:prylis@datasektionen.se). Sätt ämnesraden “Det Quartuaste årskursmärket evah”, så hamnar alla mail på samma ställe. Annars blir allting bara dåligt.
 
 Om du har gjort märket i vektorformat (bra!!!), skicka in den filen. Annars funkar en snuskigt högupplöst jpg eller png.
 

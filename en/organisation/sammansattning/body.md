@@ -1,179 +1,100 @@
-Members of the Board
---------------
+# Members of the Board
 
 The D-directorate is the board of the Computer Science chapter and consists of seven members.
 They are the Chairman, Vice Chairman, Treasurer, secretary, and three more board members that are responsible
 for educational issues, student welfare, and business relations. Together they arrange Chapter Meetings, make sure
 the decisions at chapter meetings are executed, coordinate different parts of the chapter, and make strategic and long term plans.
 
-Each board member is the contact person in the board for some of out elected volunteers.
+Each board member is the contact person in the board for some of out elected volunteers a list can be found [here](https://dsekt.se/kontaktperson).
 
-## The Chairman - David Puustinen
+## The Chairman - Pontus Söderlund
 
 The Chairman is in charge of the D-directorate and the contact with THS and other chapters.
 The Chairman and the Vice Chairman work in close cooperation to create a plan and a vision with the rest of the board.
 
 In addition to this The Chairman is an authorized signatory for the chapter and handles alcohol related questions.
 
-__Contact__
+**Contact**
 
 The Chairman can be reached at [ordf@datasektionen.se](mailto:ordf@datasektionen.se).
 
-__Contact Person to__
+## Vice chairman - Christofer Gärtner
 
-* Head of Reception
-
-* Auditors
-
-## Vice Chairman - Pontus Söderlund
-The Vice Chairmans primary role is to assist the Chairman and make sure
+The Vice chairmans primary role is to assist the Chairman and make sure
 that the every board members workload is reasonable and that they are feeling well.
-In the case that the Chairman can't fulfill his obligations the Vice Chairman will
+In the case that the Chairman can't fulfill his obligations the Vice chairman will
 assume the role as acting Chairman.
 
-The Vice Chairman does many tasks that aren't related to any other board member or function in the chapter.
+The Vice chairman does many tasks that aren't related to any other board member or function in the chapter.
 
-__Contact__
+**Contact**
 
-The Vice Chairman can be reached at [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
+The Vice chairman can be reached at [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
 
-__Contact Person to__
-
-* Standard-bearer
-
-* Various project leaders
-
-__Contact__
-
-The Vice Chairman can be reached at [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
-
-## The Treasurer - Fabian Andréasson
+## The Treasurer - Felix Murnion
 
 The Treasurer is responsible for the most things related to economics.
 This includes declarations, bills, payments, and accounting. The Treasurer
 is an authorized signatory for the chapter.
 
-__Contact__
+**Contact**
 
 The Treasurer can be reached at [kassor@datasektionen.se](mailto:kassor@datasektionen.se).
 
-## Vice Treasurer - Felix Murnion
-The Vice Treasurer assists the Treasurer with most things related to economics.
+## Vice treasurer
 
-__Contact__
+The Vice treasurer assists the Treasurer with most things related to economics.
 
-The Vice Treasurer can be reached at [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se).
+**Contact**
 
-## The Secretary - Herman Karlsson
+The Vice treasurer can be reached at [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se).
 
-The Secretary is responsible for documenting D-directorate and Chapter Meetings
+## The Secretary - *(Vacant)*
+
+The Secretary is responsible for documenting D-directorate and chapter meetings
 and to write protocols and archive them.
 
-__Contact__
+**Contact**
 
 The Secretary can be reached at [sekreterare@datasektionen.se](mailto:sekreterare@datasektionen.se).
 
-__Contact person to__
+## Board member of Business Relations - Adam Sjöberg
 
-* Nominations committee chairperson
+Works with business related question and our projects and committees related to this area.
+Is also responsible for internal communications and that important information is available to our members.
 
-* Nominations committee members
+**Contact**
 
-* Student union assembly delegates
-
-## Board Member of Educational Affairs - Abhinav Sasikumar
-
-This board member works closely with the study council and works as a
-link between them and the board.
-
-__Contact__
-
-The Board Member of Educational Affairs can be reached at [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
-
-__Contact person to__
-
-* Program responsible student
-
-* The Chairman of the Study Council
-
-* The Chairman of the Equality Committee
-
-* International Student Coordinator
-
-* Student Safety Officer
-
-* Project Leader for Project Pride
+The Board member of Business Relations can be reached at [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se).
 
 ## Board member of Student Issues - Malin Svenberg
 
 Works with question regarding the well being of our members, working environment, and
 social events.
 
-__Contact__
+**Contact**
 
 The Board member of Student Issues can be reached at [d-ssf@datasektionen.se](mailto:d-ssf@datasektionen.se).
 
-__Contact person to__
+## Board member of Educational Affairs - Abhinav Sasikumar
 
-* Head of the Bar
+This board member works closely with the study council and works as a
+link between them and the board.
 
-* Chapter Sports Leader
+**Contact**
 
-* Light and Sound responsible 
+The Board member of Educational Affairs can be reached at [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
 
-* Chief of Halls
 
-* Cultural Attaché
+## Board member of Study environment and Equality - *(Vacant)*
 
-* Prylis
+Has an overall responsibility for all issues connected to the physical and psychological study environment. Is the person to contact on the board for questions relating to these areas. These responsibilities include
 
-* Mulle/Mullerina Schmeck
+- working for a good study environment
+- coordinate the chapters communication concerning studies and the study environment towards EECS together with the Board member for Educational affairs
+- handle equality, diversity and equal treatment incidents
+- work with issues concerning equality, diversity and equal treatment in the chapter.
 
-* DESCtop
+**Contact**
 
-* Ärkedemon
-
-* Chair of Ada
-
-* Spexdireqteur
-
-* Project leader of dÅre
-
-* Bakis
-
-* D-Fest
-
-* Kingpin
-
-* Project Leader for Hello World
-
-* Father/Mother Christmas
-
-* Choir Master
-
-* Song Responsible Person
-
-## Board Member of Business Relations - Adam Sjöberg
-
-Works with business related question and our projects and committees related to this area.
-Is also responsible for internal communications and that important information is available to our members.
-
-__Contact__
-
-The Board member of Business Relations can be reached at [d-nok@d.kth.se](mailto:d-nok@d.kth.se).
-
-__Contact person to__
-
-* Project Leaders for Studs
-
-* Chapter Systems Officer
-
-* Communications Officer
-
-* Head of Business Relations
-
-* Chapter Business Fair Officer (D-Dagen)
-
-* Chapter Historian
-
-* Chief Editor
+The Board member of Study environment and Equality can be reached at [d-sol@datasektionen.se](mailto:d-sol@datasektionen.se).

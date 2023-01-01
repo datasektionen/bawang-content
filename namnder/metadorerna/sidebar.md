@@ -1,10 +1,10 @@
 ## Kontakt
 
 #### METAdorerna
-[metadorerna@d.kth.se](mailto:metadorerna@d.kth.se)
+[metadorerna@datasektionen.se](mailto:metadorerna@datasektionen.se)
 #### Konglig Lokalchef (D)
 Fredrik Blomqvist</br>
-[lokalchef@d.kth.se](mailto:lokalchef@datasektionen.se)
+[lokalchef@datasektionen.se](mailto:lokalchef@datasektionen.se)
 
 #### Sektionslokalsansvarig (Media)
 Anton Yderberg</br>

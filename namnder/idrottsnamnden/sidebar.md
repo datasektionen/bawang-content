@@ -2,7 +2,7 @@
 
 Om du har några sportiga frågor så kan du höra av dig till Sektionsidrottsledaren!
 
-#### Sektionsidrottsledare  
+#### Sektionsidrottsledare
 
-*(Vakant)* </br>
-[idrott@d.kth.se](mailto:idrott@d.kth.se)
+Niklas Vatn </br>
+[idrott@datasektionen.se](mailto:idrott@datasektionen.se)

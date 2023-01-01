@@ -7,16 +7,14 @@ anledning är du alltid välkommen att kontakta oss:
 
 **Näringslivsgruppen**<br />
 **För företag**
-E-post: [foretag@d.kth.se](mailto:foretag@d.kth.se)
-
+E-post: [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 **Näringslivsansvarig**<br />
-Klara Folke<br />
+Oscar Bergström<br />
 E-post: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
-
 **Arbetsmarknadsdagsansvariga**<br />
-Kevin Wenström & Carl Chemnitz<br />
+Johan Abdi & Axel Johansson<br />
 E-post: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
@@ -29,7 +27,7 @@ För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 Noah Hopkins<br />
 E-post: [info@datasektionen.se](mailto:info@datasektionen.se)<br />
 
-Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Systemansvarig på [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se) eller Datasektionens Informationsorgan, IOR, på adressen [ior@d.kth.se](mailto:ior@d.kth.se).
+Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Systemansvarig på [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se) eller Datasektionens Informationsorgan, IOR, på adressen [ior@datasektionen.se](mailto:ior@datasektionen.se).
 
 ## Styrelsen
 
@@ -38,9 +36,9 @@ D-rektoratet, på adressen [drek@datasektionen.se](mailto:drek@datasektionen.se)
 även kontakta Datasektionens Ordförande direkt:
 
 **Ordförande**<br />
-David Puustinen<br />
+Pontus Söderlund<br />
 E-post: [ordf@datasektionen.se](mailto:ordf@datasektionen.se)<br />
-[+46 70 534 41 62](tel: +46 70 534 41 62)
+[+46 72 150 99 39](tel: +46 72 150 99 39)
 
 ## Sektionsinformation
 
