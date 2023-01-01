@@ -4,15 +4,16 @@ Send us an e-mail if you have any questions about the Union Council or have any 
 
 #### Members
 
-Douglas Fischer</br>
+Jakob Carlsson</br>
+Noah Hopkins</br>
+Pontus Söderlund</br>
 David Puustinen</br>
-Johan Hamredahl</br>
-Joaquin Bonino Quintana</br>
 [kf@datasektionen.se](mailto:kf@datasektionen.se)
 
 #### Supplementary members
 
-Jakob Carlsson</br>
+Douglas Fischer</br>
+Fabian Andréasson</br>
 [kf@datasektionen.se](mailto:kf@datasektionen.se)
 
 ## Links

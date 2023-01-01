@@ -2,5 +2,5 @@
 
 #### Körmästare
 
-Sara Videfors</br>
+Emil Wallgren</br>
 [kormastare@datasektionen.se](mailto:kormastare@datasektionen.se)

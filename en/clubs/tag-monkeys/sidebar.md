@@ -4,6 +4,6 @@ Behöver du hjälp eller har frågor kring grafisk design, tveka inte att kontak
 
 _Datas Art Director, DAD_
 
-Amanda Hedlund
+Anna Akopyan
 
 [dad@datasektionen.se](mailto:dad@datasektionen.se)

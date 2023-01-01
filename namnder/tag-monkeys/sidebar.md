@@ -4,5 +4,5 @@ Behöver du hjälp eller har frågor kring grafisk design, tveka inte att kontak
 
 #### Datas Art Director, DAD
 
-Jessica Gorwat
+Anna Akopyan
 [dad@datasektionen.se](mailto:dad@datasektionen.se)
