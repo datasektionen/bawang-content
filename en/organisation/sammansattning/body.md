@@ -41,7 +41,7 @@ is an authorized signatory for the chapter.
 
 The Treasurer can be reached at [kassor@datasektionen.se](mailto:kassor@datasektionen.se).
 
-## Vice treasurer
+## Vice treasurer - *(Vacant)*
 
 The Vice treasurer assists the Treasurer with most things related to economics.
 

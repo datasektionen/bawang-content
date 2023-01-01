@@ -48,7 +48,7 @@ och sektionsordföranden är de som har firmateckningsrätt för sektionen.
 
 Kassör är nåbar på [kassor@datasektionen.se](mailto:kassor@datasektionen.se).
 
-## Vice kassör
+## Vice kassör - *(Vakant)*
 
 Vice kassör arbetar tillsammans med kassören med sektionens ekonomi och finns
 som extra stöd i ekonomiska frågor och arbetar naturligtvis även med bokföring.
