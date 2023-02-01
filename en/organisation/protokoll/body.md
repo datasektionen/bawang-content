@@ -7,7 +7,7 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 ###2022
 
-28/11, 5/12, 6/12 Glögg-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/glogg_sm_2022))
+28/11, 5/12, 6/12 Glögg-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/glogg_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/glogg_sm_2022))
 
 10/10, 11/10 Budget-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/budget_sm_2022))
 
@@ -373,7 +373,7 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 ###2022
 
-14/12 A Reset DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_reset_dm_2022))
+14/12 A Reset DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_reset_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_reset_dm_2022))
 
 16/11  A Cultural-historical DM before the Mulled Wine CM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_kulturhistoriskt_dm_innan_glogg_sm_2022))
 
