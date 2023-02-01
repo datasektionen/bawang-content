@@ -7,7 +7,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2022
 
-28/11, 5/12, 6/12 Glögg-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/glogg_sm_2022))
+28/11, 5/12, 6/12 Glögg-SM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/glogg_sm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/glogg_sm_2022))
 
 10/10, 11/10 Budget-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/budget_sm_2022))
 

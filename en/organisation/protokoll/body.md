@@ -7,7 +7,7 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 ###2022
 
-28/11, 5/12, 6/12 Glögg-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/glogg_sm_2022))
+28/11, 5/12, 6/12 Glögg-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/glogg_sm_2022))  ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/glogg_sm_2022))
 
 10/10, 11/10 Budget-SM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/budget_sm_2022))
 
