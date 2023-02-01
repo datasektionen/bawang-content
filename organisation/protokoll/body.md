@@ -373,7 +373,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2022
 
-14/12 Ett Reset-DM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_reset_dm_2022))
+14/12 Ett Reset-DM ([diskussionsprotokoll](https://yoggi.datasektionen.se/protokoll/ett_reset_sm_2022)) ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_reset_dm_2022))
 
 16/11 Ett Kulturhistoriskt DM innan Glögg-SM ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/ett_kulturhistoriskt_dm_innan_glogg_sm_2022))
 
