@@ -371,6 +371,10 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 ## D-directorate meetings, DM
 
+###2023
+
+01/30 An apply for the board DM ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_sok_styrelsen_dm_innan_extra_sm_2023))
+
 ###2022
 
 14/12 A Reset DM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/ett_reset_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/ett_reset_dm_2022))
