@@ -23,7 +23,7 @@ In addition to the Wednesday pubs, we also have a couple of major events:
 - **Reclaim**, directly after the student reception (mottagningen), we arrange a big party to celebrate that the keys to our liquor storage room are back in DKMs hands.
 - **PPP**, sometime during the spring, we arrange a party together with ClubWästeriet (CLW) with a new, unique theme, every year!
 - **dJulmiddagen**, just before Christmas, we arrange a nice dinner with traditional Swedish julbord!
-- **Plums**, sometime during the winter, we throw a big party in a bath house, with a capacity of around 300 guests! 
+- **Blums**, new event for 2023. We arrange an event in a sports centre and play beach volleyball and party! 
 
 ## Social media!
 
@@ -121,7 +121,85 @@ _Wow du har ögon_
 **Ogillar:**  När folk snackar skit om fiorelli <br>
 **Specialitet:** Ölhäfv <br>
 **Citat:** 
-_Shit in the milk_  
+_Shit in the milk_ 
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/lovisa.png">  
+
+### Lovisa Sjöberg
+#### RateKnatte  
+**Favoritdrink:**  Norrlands Silver <br>
+**Gillar:**  Klibbiga saker <br>
+**Ogillar:**  Ohänder <br>
+**Specialitet:** Ratea toaletter   <br>
+**Citat:**
+_Det är okej att ha klibbiga händer_
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/olle.png">  
+
+### Olle Jernström   
+#### HattKnatte  
+**Favoritdrink:** Rå Absint <br>
+**Gillar:** Trolla fram spriten <br>
+**Ogillar:** Hattar <br>
+**Specialitet:** Sänka vs Häfva <br>
+**Citat:**
+_Jag antar att vi ska sänka_  
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/william.png">  
+
+### William Krull  
+#### ChefKnatte  
+**Favoritdrink:** Grön chartreuse <br>
+**Gillar:** Rå carbonara <br>
+**Ogillar:** Tillagad carbonara <br>
+**Specialitet:** Krall <br>
+**Citat:**
+_How to: Carbonara (OBS ät inte!)_  
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/love.png"> 
+
+### Love Belin  
+#### ToaKnatte
+**Favoritdrink:** Whiskey sour med Sourz <br>
+**Gillar:** Att ha medelålderskris <br>
+**Ogillar:** Toapapper i META <br>
+**Specialitet:** Spyr bara i en taxi <br>
+**Citat:**
+_Nu säljer jag mina jävla fonder så jag har lite spritpengar_  
+
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/yusuf.png"> 
+
+### Yusuf Mohamed  
+#### HardstyleKnatte  
+**Favoritdrink:** Halmstad crush <br>
+**Gillar:** Hardstyle <br>
+**Ogillar:** Att hälla den perfekta 4:an <br>
+**Specialitet:** Har ost på glassen <br>
+**Citat:**
+_Blod är påväg. Blod är påväg_  
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/tilde.png"> 
+
+### Tilde Tärnvik
+#### AntiAntiKnatte
+**Favoritdrink:** Spillt Vatten <br>
+**Gillar:** Anti-Bailey's <br>
+**Ogillar:** Bailey’s <br>
+**Specialitet:**  Läskiga bilder <br>
+**Citat:**
+_???_ 
+
+<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/issa.png"> 
+
+### Isabella Allgén Takami
+#### pain.Knatte
+**Favoritdrink:** Arboga <br>
+**Gillar:** Surt <br>
+**Ogillar:** Spicy arboga <br>
+**Specialitet:** Flaskmås  <br>
+**Citat:**
+_pain._  
 
 ## Cliff
 
