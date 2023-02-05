@@ -20,7 +20,7 @@ Henry Lou<br />
 
 **Lillasyster**, <br />
 Lovisa Sjöberg <br />
-[lillebror@datasektionen.se](mailto:lillebror@datasektionen.se)<br /> 
+[lillasyster@datasektionen.se](mailto:lillasyster@datasektionen.se)<br /> 
 070-364 47 79
 
 ### Det Kongliga Drifveriet
