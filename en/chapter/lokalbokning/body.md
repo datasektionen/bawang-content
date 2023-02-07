@@ -13,7 +13,7 @@ In the booking page you can choose to book META (the entire chapter hall) or the
 When booking META, please specify whether or not you are going to serve alcohol (not necessary if you only
 book the meetingroom).
 
-In this year's [cohabitation agreement](https://static.datasektionen.se/organisation/samboendeavtal2020) (2020)  it is stated (note that the text is translated):
+In this year's [cohabitation agreement](https://dsekt.se/samboendeavtal) it is stated (note that the text is translated):
 
 <br>
 *More than three (3) repeated bookings for a time in the week may not

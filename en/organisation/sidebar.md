@@ -40,7 +40,7 @@ The Current information distribution guidelines.
 
 The Current social equality policy.
 
-#### [Samboendeavtalet 2020](https://static.datasektionen.se/organisation/samboendeavtal2020)
+#### [Samboendeavtalet](https://dsekt.se/samboendeavtal)
 
 The current cohabitation agreement for META.
 
