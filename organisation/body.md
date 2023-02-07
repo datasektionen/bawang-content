@@ -5,7 +5,7 @@ Som en ideell förening har vi en struktur att arbeta utifrån. Vi har regler so
 ## Styrdokument
 Eftersom Konglig Datasektionen är en del av [Tekniska Högskolans Studentkår](//ths.kth.se) (THS) och nyttjar KTHs lokaler begränsas vi inte bara av våra egna styrdokument, utan även deras regler. [Läs THS dokument här](//ths.kth.se/about-ths/ths-central/policy-documents-and-meeting-protocols).
 
-Sektionen har flera styrande dokument. De allra flesta hittar du på [styrdokumentssidan](//styrdokument.datasektionen.se). Utöver de fasta styrdokumenten har vi även planeringsdokument som beskriver hur verksamheten ska se ut det närmsta året. Dessa är [verksamhetsplanen](/organisation/verksamhetsplan) och [budgeten](/organisation/budget). Vi har även ett [Samboendeavtal](https://static.datasektionen.se/organisation/samboendeavtal2022) som styr hur META delas mellan Datasektionen och Sektionen för Medieteknik.
+Sektionen har flera styrande dokument. De allra flesta hittar du på [styrdokumentssidan](//styrdokument.datasektionen.se). Utöver de fasta styrdokumenten har vi även planeringsdokument som beskriver hur verksamheten ska se ut det närmsta året. Dessa är [verksamhetsplanen](/organisation/verksamhetsplan) och [budgeten](/organisation/budget). Vi har även ett [Samboendeavtal](https://dsekt.se/samboendeavtal) som styr hur META delas mellan Datasektionen och Sektionen för Medieteknik.
 
 
 ## Medlem
