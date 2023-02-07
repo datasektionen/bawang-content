@@ -42,7 +42,7 @@ The Current social equality policy.
 
 #### [Samboendeavtalet](https://dsekt.se/samboendeavtal)
 
-The current cohabitation agreement for META.
+The cohabitation agreements for META.
 
 #### [Protocols](/en/organisation/protokoll)
 
