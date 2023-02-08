@@ -5,10 +5,6 @@ Via kvällspressen kommer schlemma rapporter om studentskivor och annat whüdrou
 
 Sektionen samlas sig till försvar. Piskbeprydda Västar, Vita Snuttefiltar, Allseende Kameror, Mattäckta Förkläden samt Glittrande Guldpengar plockas fram.
 
-Under Mottagningen gäller följande schema. Ett tips är att lägga till schemat i din egen kalender, via den <a href="https://calendar.google.com/calendar/ical/7p6r8fuobqkmvgc60bd5fe80mg%40group.calendar.google.com/public/basic.ics" target="_blank">här iCal-länken</a> som fungerar med de flesta kalenderapplikationer. Om du använder Google Calendar kan du trycka på länken nere i kalenderns högra hörn.	
-
-<iframe src="https://calendar.google.com/calendar/embed?src=7p6r8fuobqkmvgc60bd5fe80mg%40group.calendar.google.com&ctz=Europe%2FStockholm" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 ## Mottagningens grenar
 
 ###Det Kongliga Drifveriet
@@ -49,7 +45,7 @@ Det är tydligen så att nØllan blivit stor nog att inse att nØllan inte klara
 
 Det Kongliga Drifveriet ställer till mycket problem för nØllan. Redan de gamla grekerna beräknade sannolikheten för nØllans överlevnad och kunde inte få den att avvika ens en promille från just nØll. Den dåvarande sektionsordförande Pythagoras D. Tuta meddelade stolt resultaten till D-Osqarulda. Deras jubel förbyttes dock snart av en orolig tystnad då insikten spred sig att detta skulle leda till att den ärevördigaste sektionen av dem alla – Konglig Datasektionen – så småningom skulle dö ut. Snart insåg de att det enda sättet att säkra återväxten var genom att öka nØllans överlevnadschanser!
 
-Så en solig dag föddes Det Kongliga Dadderiet, med vars hjälp nØllan skulle få åtminstone en infinitesimal chans att klara sig. Dadderiet leds av Storebror och hans två småsyskon: Lillebror och Halvbror. Alla daddan älskar dock nØllan, och är de snällaste och trevligaste som finns att uppbringa bland teknologer. När nØllan tappat huvudet under mystiska omständigheter är det Daddan som skrattande kommer dribblande tillbaka med det. Hos Daddan kan nØllan alltid få ett lår att suga på eller en tumme att gråta mot. De finns alltid till hands för att ge stöd och tröst närhelst en vilsen nØllan behöver det. Även om det blir mycket ofta.
+Så en solig dag föddes Det Kongliga Dadderiet, med vars hjälp nØllan skulle få åtminstone en infinitesimal chans att klara sig. Dadderiet leds av Storasyster och hennes tre småsyskon: Lillasyster, Halvbror och Lillebror. Alla daddan älskar dock nØllan, och är de snällaste och trevligaste som finns att uppbringa bland teknologer. När nØllan tappat huvudet under mystiska omständigheter är det Daddan som skrattande kommer dribblande tillbaka med det. Hos Daddan kan nØllan alltid få ett lår att suga på eller en tumme att gråta mot. De finns alltid till hands för att ge stöd och tröst närhelst en vilsen nØllan behöver det. Även om det blir mycket ofta.
 
 ####Kännetecken
 
