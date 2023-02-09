@@ -31,6 +31,15 @@ The Vice chairman does many tasks that aren't related to any other board member 
 
 The Vice chairman can be reached at [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
 
+## The Secretary - *(Vacant)*
+
+The Secretary is responsible for documenting D-directorate and chapter meetings
+and to write protocols and archive them.
+
+**Contact**
+
+The Secretary can be reached at [sekreterare@datasektionen.se](mailto:sekreterare@datasektionen.se).
+
 ## The Treasurer - Felix Murnion
 
 The Treasurer is responsible for the most things related to economics.
@@ -41,22 +50,13 @@ is an authorized signatory for the chapter.
 
 The Treasurer can be reached at [kassor@datasektionen.se](mailto:kassor@datasektionen.se).
 
-## Vice treasurer - *(Vacant)*
+## Vice treasurer - Emil Hultcrantz
 
 The Vice treasurer assists the Treasurer with most things related to economics.
 
 **Contact**
 
 The Vice treasurer can be reached at [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se).
-
-## The Secretary - *(Vacant)*
-
-The Secretary is responsible for documenting D-directorate and chapter meetings
-and to write protocols and archive them.
-
-**Contact**
-
-The Secretary can be reached at [sekreterare@datasektionen.se](mailto:sekreterare@datasektionen.se).
 
 ## Board member of Business Relations - Adam Sjöberg
 
@@ -67,7 +67,7 @@ Is also responsible for internal communications and that important information i
 
 The Board member of Business Relations can be reached at [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se).
 
-## Board member of Student Issues - Malin Svenberg
+## Board member of Student Issues - Douglas Fischer
 
 Works with question regarding the well being of our members, working environment, and
 social events.
@@ -86,7 +86,7 @@ link between them and the board.
 The Board member of Educational Affairs can be reached at [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
 
 
-## Board member of Study environment and Equality - *(Vacant)*
+## Board member of Study environment and Equality - Amanda Berg
 
 Has an overall responsibility for all issues connected to the physical and psychological study environment. Is the person to contact on the board for questions relating to these areas. These responsibilities include
 
