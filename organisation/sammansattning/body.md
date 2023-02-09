@@ -38,6 +38,17 @@ ansvar för sektionens nycklar och accesser.
 
 Vice ordförande är nåbar på [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
 
+## Sekreterare - _(Vakant)_
+
+Sekreteraren är ansvarig för styrdokument, handlingar, protokoll och annan
+formalia på sektionen.
+Den ser till att protokoll skrivs, justeras, undertecknas och arkiveras.
+Sekreteraren ansvarar också för att brev delas ut till rätt personer.
+
+**Kontakt**
+
+Sekreterare är nåbar på [sekreterare@datasektionen.se](mailto:sekreterare@datasektionen.se).
+
 ## Kassör - Felix Murnion
 
 Kassören håller helt enkelt reda på sektionens ekonomiska bit. Det
@@ -48,7 +59,7 @@ och sektionsordföranden är de som har firmateckningsrätt för sektionen.
 
 Kassör är nåbar på [kassor@datasektionen.se](mailto:kassor@datasektionen.se).
 
-## Vice kassör - *(Vakant)*
+## Vice kassör - Emil Hultcrantz
 
 Vice kassör arbetar tillsammans med kassören med sektionens ekonomi och finns
 som extra stöd i ekonomiska frågor och arbetar naturligtvis även med bokföring.
@@ -56,17 +67,6 @@ som extra stöd i ekonomiska frågor och arbetar naturligtvis även med bokföri
 **Kontakt**
 
 Vice kassör är nåbar på [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se).
-
-## Sekreterare - *(Vakant)*
-
-Sekreteraren är ansvarig för styrdokument, handlingar, protokoll och annan
-formalia på sektionen.
-Den ser till att protokoll skrivs, justeras, undertecknas och arkiveras.
-Sekreteraren ansvarar också för att brev delas ut till rätt personer.
-
-**Kontakt**
-
-Sekreterare är nåbar på [sekreterare@datasektionen.se](mailto:sekreterare@datasektionen.se).
 
 ## Ledamot för näringsliv och kommunikation - Adam Sjöberg
 
@@ -84,7 +84,7 @@ som avser dessa områden. Dessa ansvarsområden inkluderar att:
 
 Ledamot för näringsliv och kommunikation är nåbar på [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se).
 
-## Ledamot för studiesociala frågor - Malin Svenberg
+## Ledamot för studiesociala frågor - Douglas Fischer
 
 Har frågor som rör medlemmarnas psykiska
 och fysiska miljö som ansvarsområde. Arbetar med att utveckla
@@ -115,7 +115,7 @@ håller.
 
 Ledamot för utbildningsfrågor är nåbar på [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
 
-## Ledamot för studiemiljö och likabehandling - *(Vakant)*
+## Ledamot för studiemiljö och likabehandling - Amanda Berg
 
 Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
