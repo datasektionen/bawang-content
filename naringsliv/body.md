@@ -1,4 +1,4 @@
-# Näringsliv
+# Näringslivsgruppen
 ​
 Vill ert företag komma i kontakt med Dataloger? Vi i Näringslivsgruppen
 arbetar aktivt för ett ökat samarbete mellan datastudenter och näringsliv. Vi
