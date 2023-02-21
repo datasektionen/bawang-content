@@ -1,4 +1,4 @@
-# Business Relations
+# The Business Relations Group
 
 Do you want to come in contact with computer science students?
 The Computer Science Chapter's Business Relations Group actively works for an increased
