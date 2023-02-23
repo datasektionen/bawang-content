@@ -5,6 +5,10 @@ please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 ## Chapter Meetings, SM
 
+##2023
+
+9/2 Extra-SM #1 ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/extra_sm_1_2023)
+
 ###2022
 
 28/11, 5/12, 6/12 Glögg-SM ([discussion minutes](https://yoggi.datasektionen.se/protokoll/glogg_sm_2022)) ([action minutes](https://yoggi.datasektionen.se/beslutsprotokoll/glogg_sm_2022))
