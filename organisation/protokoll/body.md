@@ -7,7 +7,7 @@ Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs u
 
 ###2023
 
-9/2 Extra-SM #1 ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/extra_sm_1_2023))
+9/2 Extra-SM 1 ([beslutsprotokoll](https://yoggi.datasektionen.se/beslutsprotokoll/extra_sm_1_2023))
 
 ###2022
 
