@@ -1,18 +1,18 @@
-# Näringsliv
+# Näringslivsgruppen
 ​
 Vill ert företag komma i kontakt med Dataloger? Vi i Näringslivsgruppen
 arbetar aktivt för ett ökat samarbete mellan datastudenter och näringsliv. Vi
 hjälper er att anordna event där studenter kan komma i kontakt med er och ert
-företag, för att få en inblick i det framtida arbetslivet.
-​
+företag, för att få en inblick i det framtida arbetslivet. 
+
 Om ni t.ex. vill rekrytera eller göra reklam finns det många sätt att gå
 tillväga, exempelvis via en traditionell lunchföreläsning, reklam eller
 annonsering. Här nedan listar vi våra vanligaste
-kontaktvägar/event, men vi kommer gärna på nya idéer tillsammans med er.
-​
+kontaktvägar/event, men vi kommer gärna på nya idéer tillsammans med er. 
+
 Hör gärna av er till oss inom näringslivsgruppen, via mail eller
-telefon, för mer information.
-​
+telefon, för mer information. 
+
 > E-post foretag@datasektionen.se
 ​
 ## Pub
