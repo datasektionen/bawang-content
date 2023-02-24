@@ -14,7 +14,7 @@ Do you want to help TM make our chapter colourful? Join the Tag Monkey's [Discor
 
 
 ## Tag Monkeys also has...
-Slack: The slack channel #tagmonkeys i [META-slacken](meta-lokal.slack.com)
+Slack: The slack channel #tagmonkeys in [META-slacken](meta-lokal.slack.com)
 Facebook: Tag Monkeys' [Facebook page](https://www.facebook.com/pages/Tag-Monkeys/120626214692945?fref=ts)
 These are not used very often though...
 
