@@ -14,6 +14,9 @@ our traditional events, listed below.
 Please feel free to contact us within the Business Relations Group by mail or phone
 for more information.
 
+Mail [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
+
+
 ## Pub
 
 Take the chance to present your company at one of our popular Wednesday pubs,
