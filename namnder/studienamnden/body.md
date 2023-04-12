@@ -24,11 +24,13 @@ student!
 
 År 3 - Kei: [ake-3@datasektionen.se](mailto:ake-3@datasektionen.se)
 
-Masterrepresentanter för Datalogi (TCSCM) - Daniel, Elsa, Jesper: [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
+Masterrepresentanter för Datalogi (TCSCM) - Daniel, Elsa, Jesper, Marten: [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
 
-Masterrepresentanter för Cybersäkerhet (TCYSM) - Ellinor [master-cys@datasektionen.se](mailto:master-cys@datasektionen.se)
+Masterrepresentanter för Cybersäkerhet (TCYSM) - Ellinor, Sönke: [master-cys@datasektionen.se](mailto:master-cys@datasektionen.se)
 
+Masterrepresentanter för Maskininlärning (TMAIM) - Vakant [master-ml@datasektionen.se](mailto:master-ml@datasektionen.se)
 
+Kontakta SNO om du är intresserad av att ta dig an någon vakant post. Vi letar alltid efter nya representanter!
 ### Studiemiljö
 
 Kalla salar? Oergonomiska stolar? Är det för hög ljudnivå? Kontakta SSO om du har en åsikt!
@@ -78,7 +80,7 @@ SNO är intresserad av studenternas åsikter om både utbildningen och Studienä
 ### Programansvarig student
 Programansvarig student (PAS) arbetar tillsammans med Studienämndens ordförande för att förbättra utbildningens kvalitet. PAS ansvarar huvudsakligen för kontakten till lärare samt utbildningsansvariga på EECS-skolan, och arbetar i allmänhet med det mer långsiktiga fokuset i Studienämnden.
 
-PAS: Abhinav [pas@datasektionen.se](mailto:pas@datasektionen.se)
+PAS: Daniel [pas@datasektionen.se](mailto:pas@datasektionen.se)
 
 ### Styrelseledamot för utbildningsfrågor
 Styrelseledamot för utbildningsfrågor (D-UF) verkar för en bättre utbildningskvalitet på sektionen. Tanken är att D-UF ska ha en total bild över utbildningen. Vidare ansvarar ledamoten, D-UF, för kontakten mellan styrelsen och Studienämndens ordförande/Programansvarig student.

@@ -23,11 +23,13 @@ Year 2 - Emil and Mary: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
 
 Year 3 - Kei: [ake-3@datasektionen.se](mailto:ake-3@datasektionen.se)
 
-Master Representatives for Computer Science - Daniel, Elsa and Jesper (TCSCM): [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
+Master Representatives for Computer Science - Daniel, Elsa, Jesper and Marten (TCSCM): [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
 
-Master Reperesentative for Cyber Security (TCYSM) - Ellinor [master-cys@datasektionen.se](mailto:master-cys@datasektionen.se)
+Master Representatives for Cyber Security (TCYSM) - Ellinor and Sönke [master-cys@datasektionen.se](mailto:master-cys@datasektionen.se)
 
+Master Representatives for Machine Learning (TMAIM) - Vacant [master-ml@datasektionen.se](mailto:master-ml@datasektionen.se)
 
+Contact the Study Board President (SNO) if you are interested in taking on any vacant positions! We are always looking for new representatives!
 ### Studying environment
 
 Cold lecture halls? Unergonomic chairs? Is there too much noise? Contact our SSO if you have an opinion!
@@ -74,12 +76,12 @@ The SNO is interested in the students' opinions both regarding the education and
 ### Programme responsible student
 The Programme responsible student (PAS) works together with SNO to improve education quality. The PAS is mainly responsible for contact with teachers and other personel at the CSC-school, and generally works with the long-term work within the Study Board.
 
-PAS: Abhinav [pas@datasektionen.se](mailto:pas@datasektionen.se)
+PAS: Daniel [pas@datasektionen.se](mailto:pas@datasektionen.se)
 
 ### Chapter Board Representative for Education
 The Chapter Board Representative for Education (D-UF) works for a better studying environment at KTH. The D-UF has the larger picture of the education. The D-UF is also the communication link between the Chapter Board (D-Rek) and the SNO and PAS.
 
-D-UF: Daniel [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se)
+D-UF: Abhinav [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se)
 
 ### Other interested students
 The Study Board is an open club, meaning that any chapter member is allowed to participate. For additional information, contact the President of the Board.
