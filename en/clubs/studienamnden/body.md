@@ -29,7 +29,7 @@ Master Representatives for Cyber Security (TCYSM) - Ellinor and Sönke [master-c
 
 Master Representatives for Machine Learning (TMAIM) - Vacant [master-ml@datasektionen.se](mailto:master-ml@datasektionen.se)
 
-Contact the Study Board President (SNO) if you are interested in taking on any vacant positions!
+Contact the Study Board President (SNO) if you are interested in taking on any vacant positions! We are always looking for new representatives!
 ### Studying environment
 
 Cold lecture halls? Unergonomic chairs? Is there too much noise? Contact our SSO if you have an opinion!
