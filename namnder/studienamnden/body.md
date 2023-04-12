@@ -28,8 +28,9 @@ Masterrepresentanter för Datalogi (TCSCM) - Daniel, Elsa, Jesper, Marten: [mast
 
 Masterrepresentanter för Cybersäkerhet (TCYSM) - Ellinor, Sönke: [master-cys@datasektionen.se](mailto:master-cys@datasektionen.se)
 
-Masterrepresentanter för Maskininlärning (TMAIM) - Vakant- Kontakta SNO om du är intresserad! [master-ml@datasektionen.se](mailto:master-ml@datasektionen.se)
+Masterrepresentanter för Maskininlärning (TMAIM) - Vakant [master-ml@datasektionen.se](mailto:master-ml@datasektionen.se)
 
+Kontakta SNO om du är intresserad av att ta dig an någon vakant post. Vi letar alltid efter nya representanter!
 ### Studiemiljö
 
 Kalla salar? Oergonomiska stolar? Är det för hög ljudnivå? Kontakta SSO om du har en åsikt!
