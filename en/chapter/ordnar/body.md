@@ -154,10 +154,11 @@ The order's medal is a five-pointed green star, with a black field, and a cerise
 
 Membership of the Ordförande Emeritus order is awarded to chairmans at the chapter who have served an entire term.
 
-The order's medal is a five-pointed golden star, with a black field, and a cerise delta in the middle. The star is coated by a golden laurel wreath.
+The Orden's insignia is a fallen five-pointed golden star, with a black field, and a cerise delta in the middle. The star is coated by a golden laurel wreath.
 
 Motto: We are the ones actually in charge.
 
+    Niklas Vatn, Tricesimus Sextus 2020
     Ävelin Pantigoso, Tricesimus Quartus 2019
     Victor Sellstedt, Tricesimus Quartus 2018
     Alexander Viklund, Duotricesimus 2017
