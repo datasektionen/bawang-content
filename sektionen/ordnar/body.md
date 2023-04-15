@@ -159,6 +159,7 @@ Ordenstecknet för Ordförande Emeritus består av en störtad femuddig stjärna
 
 Valspråk: Det är faktiskt vi som bestämmer.
 
+    Niklas Vatn, Tricesimus Sextus 2020
     Ävelin Pantigoso, Tricesimus Quartus 2019
     Victor Sellstedt, Tricesimus Quartus 2018
     Alexander Viklund, Duotricesimus 2017
