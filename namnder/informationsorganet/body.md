@@ -34,4 +34,4 @@ Här har listar vi några system som tidigare studenter har byggt och sen dess a
 
 ## Engagera dig i nämnden
 
-Vi försöker regelbundet hålla i hackerkvällar där alla är välkomna. Vanligtvis från 17:30 och framåt på torsdagar, ibland i någon datasal och ibland på Zoom. Hit kan du komma för att se vad vi håller på med, utveckla något för sektionen, hänga eller kanske få hjälp med en programmeringlabb. Det enklaste sättet att får reda på när vi har hackerkvällar är att gå med i vår [slack](https://ior.slack.se). Hoppas vi ses!!
+Vi försöker regelbundet hålla i hackerkvällar där alla är välkomna. Vanligtvis från 17:30 och framåt på torsdagar, ibland i någon datasal och ibland på Zoom. Hit kan du komma för att se vad vi håller på med, utveckla något för sektionen, hänga eller kanske få hjälp med en programmeringlabb. Det enklaste sättet att får reda på när vi har hackerkvällar är att gå med i vår [slack](https://ior.slack.com). Hoppas vi ses!!
