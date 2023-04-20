@@ -31,8 +31,8 @@ Here is a list of some systems that previous students have built and that the ch
     <li>
         dUrn 2.0: Our current system for ballot-elections (see [the regulations 3.12.7](https://styrdokument.datasektionen.se/reglemente#3-12-6-sekretess) for more information) needs to be reworked a bit. The system is being rebuilt with a backend in Go and frontend in React.
     </li>
-</ul>
+</ul>-
 
 ## Join the club
 
-We regularly try to hold programming evenings where everyone is welcome. Usually from 5.30 pm onwards on Thursdays, sometimes in a computer room and sometimes on Zoom. You can come here to see what we're doing, develop something for the chapter, hang out or maybe get help with a programming lab. The easiest way to find out when we have events is to join our [slack](https://ior.slack.se). Hope to see you there!!
+We regularly try to hold programming evenings where everyone is welcome. Usually from 5.30 pm onwards on Thursdays, sometimes in a computer room and sometimes on Zoom. You can come here to see what we're doing, develop something for the chapter, hang out or maybe get help with a programming lab. The easiest way to find out when we have events is to join our [slack](https://ior.slack.com). Hope to see you there!!
