@@ -31,7 +31,7 @@ Here is a list of some systems that previous students have built and that the ch
     <li>
         dUrn 2.0: Our current system for ballot-elections (see [the regulations 3.12.7](https://styrdokument.datasektionen.se/reglemente#3-12-6-sekretess) for more information) needs to be reworked a bit. The system is being rebuilt with a backend in Go and frontend in React.
     </li>
-</ul>-
+</ul>
 
 ## Join the club
 
