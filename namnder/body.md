@@ -22,21 +22,27 @@ Vårbalen
 
 ## Projekt på Datasektionen
 
-dÅre 2022 ([verksamhetsplan](https://static.datasektionen.se/verksamhetsplaner/vp_dare_2022.pdf))
-
 dÅre 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_dare_2023.pdf))
+
+dÅre 2024
 
 Studs 2021 ([verksamhetsplan](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2021))
 
 Studs 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_studs_2023.pdf))
 
+Studs 2024
+
 METAspexet 2022 ([verksamhetsplan](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_22))
 
 METAspexet 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_metaspexet_23.pdf))
 
+METAspexet 2024
+
 Vårbalen 2022 ([verksamhetsplan](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2022))
 
 Vårbalen 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_varbal_2023.pdf))
+
+Vårbalen 2024
 
 dJulkalendern 2022 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_djulkalendern_2022.pdf))
 
@@ -47,10 +53,6 @@ Project Pride 2022 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhets
 Project Pride 2023
 
 dJubileet 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_djubileet_2023.pdf))
-
-Project &lt;Placeholder&gt; ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_placeholder_2022.pdf))
-
-Magenta ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_magenta_2022.pdf))
 
 BAMM ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_bamm_2022.pdf))
 
