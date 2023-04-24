@@ -4,11 +4,25 @@ The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It i
 
 Nominations to the Honorary Delta 2023 are made in this [form](https://dsekt.se/hedersdelta)! You can also make nominations by emailing the [d-Directorate](mailto:drek@datasektionen.se) (the board of the chapter).
 
-
-
 # Innehavare av Hedersdeltat
 
+## Mottagare 2023
+
+<dl>
+  <dt></dt>
+  <dd>
+    Jakob Arvidsson, Tricesimus Quartus
+  </dd>
+  <dd>
+    George Dawod Bassilious, Tricesimus Quintus
+  </dd>
+  <dd>
+    Herman Karlsson, Tricesimus Quintus
+  </dd>
+</dl>
+
 ## Mottagare 2022
+
 <dl>
   <dt></dt>
   <dd>
@@ -18,11 +32,10 @@ Nominations to the Honorary Delta 2023 are made in this [form](https://dsekt.se/
     Axel Elmarsson, Tricesimus Quintus
   </dd>
   <dd>
-    Sara Videfors , Tricesimus Quintus
+    Sara Videfors, Tricesimus Quintus
   </dd>
 </dl>
-  
-  
+
 ## Mottagare 2021
 
 <dl>
@@ -73,7 +86,6 @@ Alexander Viklund, Duotricesimus
 </dd>
 </dl>
 
-
 ## Mottagare 2017
 
 <dl>
@@ -93,7 +105,6 @@ Shayan Effati, Tricesimus
 </dd>
 </dl>
 
-
 ## Mottagare 2016
 
 <dl>
@@ -108,7 +119,6 @@ Andreas Linn, Tricesimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2015
 
@@ -133,7 +143,6 @@ Petter Djupfeldt, Vicesimus Septus
 </dd>
 </dl>
 
-
 ## Mottagare 2014
 
 <dl>
@@ -156,7 +165,6 @@ Frida Jansson, Vicesimus Septus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2013
 
@@ -189,7 +197,6 @@ Victor Koronen, Vicesimus Septus
 </dd>
 </dl>
 
-
 ## Mottagare 2012
 
 <dl>
@@ -204,7 +211,6 @@ Andreas Falk, Vicesimus Septus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2011
 
@@ -233,7 +239,6 @@ Tobias Svensson, Vicesimus Quartus
 </dd>
 </dl>
 
-
 ## Mottagare 2010
 
 <dl>
@@ -260,7 +265,6 @@ Per Almquist, Tertius Vicesimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2009
 
@@ -289,7 +293,6 @@ Roger Ström, Unvicesimus
 </dd>
 </dl>
 
-
 ## Mottagare 2008
 
 <dl>
@@ -308,7 +311,6 @@ Jon Karlfeldt (Larsson), Undevicesimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2007
 
@@ -337,7 +339,6 @@ Pehr Söderman, Unvicesimus
 </dd>
 </dl>
 
-
 ## Mottagare 2006
 
 <dl>
@@ -348,7 +349,6 @@ Henrik Fräsén, Vicesimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2005
 
@@ -364,7 +364,6 @@ Emil Stenström, Undevicesimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2004
 
@@ -389,7 +388,6 @@ Mark Peldius, Septus decimus
 </dd>
 </dl>
 
-
 ## Mottagare 2003
 
 <dl>
@@ -404,7 +402,6 @@ Tommie Gannert, Dodevicesimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 2002
 
@@ -445,7 +442,6 @@ Niklas Persson, Quintus decimus
 </dd>
 </dl>
 
-
 ## Mottagare 2001
 
 <dl>
@@ -457,7 +453,6 @@ Daniel Westbom, Sigvard
 </dd>
 </dl>
 
-
 ## Mottagare 2000
 
 <dl>
@@ -468,7 +463,6 @@ Joakim Meldahl, Sigvard
 
 </dd>
 </dl>
-
 
 ## Mottagare 1999
 
@@ -493,7 +487,6 @@ Mikael Stralje, tertius decimus
 </dd>
 </dl>
 
-
 ## Mottagare 1998
 
 <dl>
@@ -512,7 +505,6 @@ Fredrik Sandberg, Docecimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 1997
 
@@ -533,7 +525,6 @@ Olof Lindholm, Dodecimus
 </dd>
 </dl>
 
-
 ## Mottagare 1996
 
 <dl>
@@ -552,7 +543,6 @@ Patrik Nilssom, Decimus
 
 </dd>
 </dl>
-
 
 ## Mottagare 1995
 
@@ -576,7 +566,6 @@ Björn Sjöstrand, Oqtavus
 
 </dd>
 </dl>
-
 
 ## Mottagare 1992
 
@@ -605,7 +594,6 @@ Jan Garefelt, Oqtavus
 </dd>
 </dl>
 
-
 ## Mottagare 1991
 
 <dl>
@@ -628,7 +616,6 @@ Peter Nemeth, Quintus
 
 </dd>
 </dl>
-
 
 ## Mottagare 1990
 
@@ -661,7 +648,6 @@ Kristina Nedlich, Quarta
 </dd>
 </dl>
 
-
 ## Mottagare 1989
 
 <dl>
@@ -692,7 +678,6 @@ Erik Wåhlin, Tertius
 
 </dd>
 </dl>
-
 
 ## Mottagare 1988
 
@@ -744,5 +729,3 @@ Wolfram Meyer, Tertius
 
 </dd>
 </dl>
-
-

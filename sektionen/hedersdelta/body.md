@@ -9,7 +9,24 @@ läsa längre ner på sidan.
 går det även att maila D-rektoratet.
 
 # Innehavare av Hedersdeltat
+
+## Mottagare 2023
+
+<dl>
+  <dt></dt>
+  <dd>
+    <a href="#jakarv">Jakob Arvidsson</a>, Tricesimus Quartus
+  </dd>
+  <dd>
+    <a href="#gdba">George Dawod Bassilious</a>, Tricesimus Quintus
+  </dd>
+  <dd>
+    <a href="#hermanka">Herman Karlsson</a>, Tricesimus Quintus
+  </dd>
+</dl>
+
 ## Mottagare 2022
+
 <dl>
   <dt></dt>
   <dd>
@@ -22,8 +39,7 @@ går det även att maila D-rektoratet.
    <a href="#sarvi"> Sara Videfors </a>, Tricesimus Quintus
   </dd>
 </dl>
-  
-  
+
 ## Mottagare 2021
 
 <dl>
@@ -769,28 +785,62 @@ går det även att maila D-rektoratet.
 </dl>
 
 ## Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
-  
----------------------------------------------
+
+---
+
+## Motiveringar till 2023 års mottagare
+
+#### Jakob Arvidsson <a name="jakarv"></a>
+
+Jakob Arvidsson har under de senaste åren varit en ovärderlig tillgång för Sektionen. Han har med sitt osjälviska engagemang och outtröttliga arbete tagit på sig både rollen som Kassör och Revisor när ingen annan gjort det och gjort arbetet med bravur.
+
+Som Kassör lade Jakob grunden för Sektionens ekonomiska verksamhet och säkrande av Kassörs framtid med introduktionen av Vice kassör. Även efter sin tid som Kassör har han lärt upp flera generationer av Kassörer och funnits som stöd för dem.
+
+Jakob har alltid funnits där och varit redo att hjälpa Sektionen när den behövt det som mest, vilket han bland annat gjorde som Revisor när han på kort tid satte sig in i hela Sektionens ekonomiska verksamhet för att kunna göra revisionen.
+
+För sitt långvariga engagemang som fört Sektionen framåt och sin oändliga hjälpsamhet tilldelas Jakob Arvidsson Hedersdeltat.
+
+#### George Dawod Bassilious<a name="gdba"></a>
+
+George Dawod Bassilious har med sitt outtröttliga engagemang inom Mottagningen skapat en välkomnande och inkluderande miljö för både nyantagna och mottagningspersonal. Genom att utöka antalet daddor per nØllegrupp till tre förbättrade George arbetsbördan samt arbetsmiljön för personalen samtidigt som han såg till att fler dataloger kunde bli en del av Mottagningen. George har gått utöver det vanliga för att se till att nya studenter känner sig hemma och bekväma inom Sektionen. Han har dessutom gjort förändringar i JML-arbetet under Mottagningen för att se till att både personalen och de nyantagna känner sig trygga.
+
+Georges ledarskap under pandemin som Klubbmästare har varit ovärderligt och säkerställt att verksamheten överlevt och utvecklats.
+
+Utöver detta har George under alla sina år på Sektionen bemött alla med kärlek samt haft ett odöende engagemang för Sektionens bästa. Det har han inte minst har visat genom sitt engagemang i Project Rewind, där han var med och kickstartade Sektionen igen efter en dyster pandemi.
+
+För sitt driv för förbättring och sin oändliga godhet tilldelas George Dawod Bassilious Hedersdeltat.
+
+#### Herman Karlsson<a name="hermanka"></a>
+
+Herman Karlsson har i det tysta varit en drivande kraft i utformningen av många aspekter av Sektionen. Han har varit med och utformat den nuvarande Valberedningen där han bland annat byggt det nya Urnvalssystemet dUrn, varit en stor bidragare till dJulkalendern samt varit engagerad i METAdorerna under hela sin tid vid Sektionen. Inom METAdorerna har han blivit tilldelad utmärkelsen “HedersMETAdor” för sitt löpande arbete som sekreterare under möten samt inköpsansvarig för sektionslokalen.
+
+Herman har även bidragit med sin expertis för verksamhet som inte direkt berör honom och haft en rådgivande roll för många aktiva inom sektionen och varit en ovärderlig tillgång till sektionens verksamhet .
+
+För sin outtröttliga hjälpsamhet och ovärderliga insatser tilldelas Herman Karlsson Hedersdeltat.
+
 ## Motiveringar till 2022 års mottagare
-  
+
 #### Axel Elmarsson <a name="axeel"></a>
+
 Axel Elmarsson har sedan sin första dag på sektionen bistått med ett glatt uttryck och inbjudande sätt. Genom att outtröttligt engagera sig i många aktiviteter har han blivit ett välkänt ansikte för sektionens medlemmar.
 
-Axels insatser för sektionen är mångfacetterade, han har länge varit med i METAdorerna och METAspexet;  han är även en flerårig medlem av vårbalsarmén. Hans största  bedrifter är dock inom sina funktionärsposter där han började sin karriär som Sektionshistoriker, en post som han var med och återupplivade. På posten har han sett till att synliggöra sektionens historia för alla medlemmar: genom sitt gedigna arbete på posten har gamla märken dokumenterats och relevanta skeenden placerats in på en tillgänglig tidslinje. Han har även tagit på sig Alumnsystemet vilket möjliggör en kontinuerlig kontakt med alumnerna. Utöver det har han sett till att vidareutveckla IORs arbete och varit mycket tillgänglig för sektionens medlemmar när systemen inte har fungerat som de ska. Axel har gjort mycket för sektionen, utan att sätta sig själv i rampljuset.
+Axels insatser för sektionen är mångfacetterade, han har länge varit med i METAdorerna och METAspexet; han är även en flerårig medlem av vårbalsarmén. Hans största bedrifter är dock inom sina funktionärsposter där han började sin karriär som Sektionshistoriker, en post som han var med och återupplivade. På posten har han sett till att synliggöra sektionens historia för alla medlemmar: genom sitt gedigna arbete på posten har gamla märken dokumenterats och relevanta skeenden placerats in på en tillgänglig tidslinje. Han har även tagit på sig Alumnsystemet vilket möjliggör en kontinuerlig kontakt med alumnerna. Utöver det har han sett till att vidareutveckla IORs arbete och varit mycket tillgänglig för sektionens medlemmar när systemen inte har fungerat som de ska. Axel har gjort mycket för sektionen, utan att sätta sig själv i rampljuset.
 
 För sina system och sitt långvariga engagemang i sektionen tilldelas därmed Axel Elmarsson Hedersdeltat.
-  
+
 #### Douglas Fischer<a name="doufi"></a>
+
 Douglas Fischer har genom sitt outtröttliga arbete utvecklat sektionen från sin första dag på campus. Genom en högre närvaro på såväl D-rektorats- som sektionsmöten än sittande styrelser har han jobbat otroligt hårt för att förbättra sektionen.
 
-Douglas har engagerat sig inom många delar av den studiesociala biten av sektionen genom sitt arbete som dFunkt och inom nämnder. Med inte mindre än 17 dFunk-mandat på sitt CV, där två år som valberedare och lokalchef sticker ut, har han alltid funnits där för sektionen . Han har även fått sektionens förtroende som såväl fanbärare som jubileumsmarskalk. Utöver sitt funktionärsarbete har Douglas även startat flertalet projekt som bidragit till en ökad gemenskap,  bland annat Project Rewind som kickstartade sektionslivet efter en lång och dyster pandemi. 
+Douglas har engagerat sig inom många delar av den studiesociala biten av sektionen genom sitt arbete som dFunkt och inom nämnder. Med inte mindre än 17 dFunk-mandat på sitt CV, där två år som valberedare och lokalchef sticker ut, har han alltid funnits där för sektionen . Han har även fått sektionens förtroende som såväl fanbärare som jubileumsmarskalk. Utöver sitt funktionärsarbete har Douglas även startat flertalet projekt som bidragit till en ökad gemenskap, bland annat Project Rewind som kickstartade sektionslivet efter en lång och dyster pandemi.
 
 För sitt brinnande engagemang och sin oändliga passion för sektionen tilldelas därmed Douglas Fischer Hedersdeltat.
 
 #### Sara Videfors<a name="sarvi"></a>
-Sara Videfors har genom sin otroliga vänlighet, medmänsklighet och till synes oändliga energi jobbat för att sektionen ska vara en plats för alla att trivas och engagera sig. Hennes engagemang sträcker sig över hela sektionen från det studiesociala till studiebevakning. 
 
-Inom METAspexet har hon alltid funnits där och varit en mycket drivande kraft. Hon ställde även upp för METAspexet när ingen annan gjorde det och höll spexet vid liv en pandemi till trots. Hon har dessutom återuppväckt kör-traditionen inom sektionen. Utöver detta har hennes engagemang och vänlighet under flera år lyst upp mottagningen såväl för personal och de nyantagna.  
+Sara Videfors har genom sin otroliga vänlighet, medmänsklighet och till synes oändliga energi jobbat för att sektionen ska vara en plats för alla att trivas och engagera sig. Hennes engagemang sträcker sig över hela sektionen från det studiesociala till studiebevakning.
+
+Inom METAspexet har hon alltid funnits där och varit en mycket drivande kraft. Hon ställde även upp för METAspexet när ingen annan gjorde det och höll spexet vid liv en pandemi till trots. Hon har dessutom återuppväckt kör-traditionen inom sektionen. Utöver detta har hennes engagemang och vänlighet under flera år lyst upp mottagningen såväl för personal och de nyantagna.
 
 Sara har dessutom under hela sin tid värnat om sina medstudenters utbildning genom Studienämnden, under pandemin utvecklade hon Studienämndens arbete som SNO samt deltog i diskussionerna kring utbildningen under pandemin samt dess framtid.
 
@@ -799,20 +849,20 @@ För sin positiva utstrålning och sina insatser å sektionens studenters vägna
 ## Motiveringar till 2021 års mottagare
 
 #### Jesper Larsson <a name="jesla"></a>
+
 Jesper Larsson har med värme varit en pelare för många av sektionens medlemmar. Med ett öppet sinne och glädjefyllt leende har denna kandidat sett till att alla känner sig välkomna. I diskussioner har kandidaten visat ett lugn och tålamod som skapat en miljö där alla kan känna att deras åsikter tas i åtanke och på allvar.
 
-Under sin tid på sektionen har Jesper engagerat sig inom många olika delar av organisationen. Jespers karriär inom sektionen började som Valberedningens ordförande, där han var med och skapade kritiska system som Valberedningen fortfarande använder idag. Jesper har utöver detta varit med och utvecklat system för sektionens mottagning, programvara som underlättar för nyantagna studenter att ha koll på mottagningens aktiviteter. Vidare startade Jesper projektet Hello World, ett projekt vars syfte var att knyta kontakten med andra liknande föreningar. Även om omvärldsläget bromsade projektets avtryck så har Jesper sett till så att projektets vision återupptas när omständigheterna tillåter det. 
+Under sin tid på sektionen har Jesper engagerat sig inom många olika delar av organisationen. Jespers karriär inom sektionen började som Valberedningens ordförande, där han var med och skapade kritiska system som Valberedningen fortfarande använder idag. Jesper har utöver detta varit med och utvecklat system för sektionens mottagning, programvara som underlättar för nyantagna studenter att ha koll på mottagningens aktiviteter. Vidare startade Jesper projektet Hello World, ett projekt vars syfte var att knyta kontakten med andra liknande föreningar. Även om omvärldsläget bromsade projektets avtryck så har Jesper sett till så att projektets vision återupptas när omständigheterna tillåter det.
 
 För sina bedrifter och konstanta närvaro i sektionen tilldelas därmed Jesper Larsson Hedersdeltat.
 
 #### Gábor Nagy <a name="gabna"></a>
 
-Gábor Nagy har med stort tålamod och visdom hjälpt många dataloger i sektionslivet och fått många att känna sig mer bekväma med hjälp av humor och gott humör även i främmande situationer. Gábor har även lagt ned mycket av sin tid för att sektionen ska vara så varm och välkomnande som möjligt genom sitt engagemang i bland annat mottagningen och METAspexet. 
+Gábor Nagy har med stort tålamod och visdom hjälpt många dataloger i sektionslivet och fått många att känna sig mer bekväma med hjälp av humor och gott humör även i främmande situationer. Gábor har även lagt ned mycket av sin tid för att sektionen ska vara så varm och välkomnande som möjligt genom sitt engagemang i bland annat mottagningen och METAspexet.
 
-Gábor har också arbetat för sektionen genom olika ansvarsposter, bland annat posten som revisor samt engagemang inom styrelsen. Gábor har även arbetat outtröttligt med sektionens system för att ge våra gamla system den kärlek de behöver samt utvecklat nya system som underlättar för våra medlemmar. Detta engagemang fortsatte sedan med posten som systemansvarig där Gábor skapade interna poster inom informationsorganet vilket har skapat bättre rutiner för underhållningen av våra system samt gett möjligheter för omstruktureringar i de system som har haft problem. 
+Gábor har också arbetat för sektionen genom olika ansvarsposter, bland annat posten som revisor samt engagemang inom styrelsen. Gábor har även arbetat outtröttligt med sektionens system för att ge våra gamla system den kärlek de behöver samt utvecklat nya system som underlättar för våra medlemmar. Detta engagemang fortsatte sedan med posten som systemansvarig där Gábor skapade interna poster inom informationsorganet vilket har skapat bättre rutiner för underhållningen av våra system samt gett möjligheter för omstruktureringar i de system som har haft problem.
 
 För hans outtröttliga engagemang och kärlek till sektionen tilldelas därmed Gábor Nagy Hedersdeltat.
-
 
 ## Motiveringar till 2020 års mottagare
 
@@ -1786,7 +1836,7 @@ sektionsmedlem. Hon har tagit hand om allt från småsaker som att
 administrera Quintus decimas årskursmärken, till att som ordförande för
 Tjejkonferensen 2000 skapa en proffsig och genomtrevlig träff med
 landets kvinnliga och sektionens manliga dataloger. Hon har deltagit i
-DKMs alla upptåg *samtidigt* som hon till och med varit vice Konglig
+DKMs alla upptåg _samtidigt_ som hon till och med varit vice Konglig
 Lokalchef, tillika varit DKMs kassör ett år, samt sekreterare
 för Studieresan 2001.
 
@@ -2137,7 +2187,6 @@ Motivering borttappad.
 för sektionen. På de poster som han har haft, allt ifrånT.Ö.N.T till
 ARMU, så har hans humor och idérikedom varit tillgagn för hela
 sektionen.
-
 
 ## Motiveringar till 1988 års mottagare
 
