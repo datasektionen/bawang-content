@@ -7,7 +7,7 @@ andra sammanhang.
 
 Det som finns specat är att:
 
-* sektionen använder fonten Lato
+* sektionen använder typsnittet Lato
 * primärfärgen är **cerise**, med avgränsning till nyanserna _strong_ (#EE2A7B), _regular_
 (#E83D84) och _light_ (#EC5F99)
 * accentfärgerna är off-black (#212121), gul (#FCDA04) och off-white (#F7F7F7)
