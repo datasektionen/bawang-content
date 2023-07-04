@@ -2,7 +2,7 @@
 
 #### International Student Coordinator
 
-Valentin Quapil</br>
+Håvard Alstadheim</br>
 [isc@datasektionen.se](mailto:isc@datasektionen.se)
 
 ## Slack
