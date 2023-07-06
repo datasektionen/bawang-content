@@ -8,7 +8,7 @@ Arvid Eriksson
 
 [qulturattache@datasektionen.se](mailto:qulturattache@datasektionen.se)
 
-#### Qulturnämndsordförande (Media)
+#### Qulturnämndsordförande (Me)
 
 Simon Berglund
 

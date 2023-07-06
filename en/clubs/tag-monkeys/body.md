@@ -5,7 +5,7 @@ Tag Monkeys is an open club dedicated to creating opportunities for people to be
 
 ## Events
 
-Events are held throughout the year, often at the same time as QNs events in META Tuesdays after 17. Events from the past include painting, perler beading, making Christmas decorations, photography walks, working with clay and pumpkin carving. The club is managed by Datas Art Director (DAD). If you have ideas for events, give them a poke! Information about up coming events can be found on the chapters website, META-tv or at Tag Monkeys [Discord](https://discord.gg/yD3amRVmMT).
+Events are held throughout the year, often at the same time as QNs events in META Tuesdays after 17. Events from the past include painting, perler beading, making Christmas decorations, photography walks, working with clay and pumpkin carving. The club is managed by Data's Art Director (DAD). If you have ideas for events, give them a poke! Information about up coming events can be found on the chapters website, META-tv or at Tag Monkeys [Discord](https://discord.gg/yD3amRVmMT).
 
 
 ## Join Tag Monkeys

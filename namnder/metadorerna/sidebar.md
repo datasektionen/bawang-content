@@ -6,7 +6,7 @@
 Carl Liljencrantz</br>
 [lokalchef@d.kth.se](mailto:lokalchef@datasektionen.se)
 
-#### Sektionslokalsansvarig (Media)
+#### Sektionslokalsansvarig (Me)
 (Vakant)</br>
 [sektionslokal@media.kth.se](mailto:sektionslokal@media.kth.se)
 

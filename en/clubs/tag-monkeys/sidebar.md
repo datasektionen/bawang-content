@@ -1,9 +1,8 @@
 ## Kontakt
 
-Behöver du hjälp eller har frågor kring grafisk design, tveka inte att kontakta DAD! :)
+Do you need help or do you have questions related to graphic design? Don't hesitate to contact DAD! :)
 
-_Datas Art Director, DAD_
+#### Data's Art Director, DAD
 
 Anna Akopyan
-
 [dad@datasektionen.se](mailto:dad@datasektionen.se)
