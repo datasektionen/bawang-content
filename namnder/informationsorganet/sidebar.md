@@ -3,6 +3,7 @@
 #### Systemansvariga
 
 Theodor Ström </br>
+Mathias Magnusson </br>
 [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
 
 #### Systemgrupp

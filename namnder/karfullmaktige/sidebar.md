@@ -4,16 +4,15 @@ Maila oss om du undrar över något om Kårfullmäktige, eller om du har försla
 
 #### Kårfullmäktigeledamöter
 
-Jakob Carlsson</br>
-Noah Hopkins</br>
-Pontus Söderlund</br>
-David Puustinen</br>
+Adam Sjöberg</br>
+Kevin Wenström</br>
+Erik Nordlöf</br>
 [kf@datasektionen.se](mailto:kf@datasektionen.se)
 
 #### Kårfullmäktigesuppleanter
 
-Douglas Fischer</br>
-Fabian Andréasson</br>
+Fredrik Blomqvist</br>
+Kei Duke-Bergman</br>
 [kf@datasektionen.se](mailto:kf@datasektionen.se)
 
 ## Länkar
