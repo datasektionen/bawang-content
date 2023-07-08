@@ -20,7 +20,7 @@ After the exam period you might want to relax that little bit extra. How fitting
 
 In addition to the Wednesday pubs, we also have a couple of major events:
 
-- **Reclaim**, directly after the student reception (mottagningen), we arrange a big party to celebrate that the keys to our liquor storage room are back in DKMs hands.
+- **Reclaim**, a big party, what else is there?
 - **PPP**, sometime during the spring, we arrange a party together with ClubWästeriet (CLW) with a new, unique theme, every year!
 - **dJulmiddagen**, just before Christmas, we arrange a nice dinner with traditional Swedish julbord!
 - **Blums**, new event for 2023. We arrange an event in a sports centre and play beach volleyball and party! 

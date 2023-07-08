@@ -11,7 +11,7 @@
 
 # DKM
 
-DKM är Datas Klubbmästeri. Det är vi som ser till att ni dataloger har möjlighet att ha roligt under er tid här på teknis. Vi anordnar fester och pubar under hela året (förutom under mottagningen). Vill du komma i kontakt med oss, släng iväg ett mail till [dkm@datasektionen.se](mailto:dkm@datasektionen.se)!
+DKM är Datas Klubbmästeri. Det är vi som ser till att ni dataloger har möjlighet att ha roligt under er tid här på teknis. Vi anordnar fester och pubar under hela året. Vill du komma i kontakt med oss, släng iväg ett mail till [dkm@datasektionen.se](mailto:dkm@datasektionen.se)!
 
 ## Vad gör vi?
 
@@ -21,7 +21,7 @@ Efter tentaperioderna behöver man slappna av och ta en paus en kort stund innan
 
 Utöver onsdagspubarna har vi även ett par större event:
 
-- **Reclaim**, direkt efter mottagningen, en fet fest för att fira att DKM tar tillbaka spritförrådet.
+- **Reclaim**, en fet fest... vad mer vill du veta?
 - **PPP**, någon gång under våren, en fest som vi håller tillsammans med våra vänner i ClubWästeriet, med nytt tema varje år!
 - **dJulmiddagen**, strax innan jul, där ni får chansen att äta ett riktigt fett julbord tillsammans med era vänner på sektionen.
 - **Blums**, Nytt event för 2023 där vi hyr en sportanläggning och slänger ihop en fet fest!
