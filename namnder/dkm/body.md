@@ -39,17 +39,6 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 <img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/luc.JPG">  
 
-### Lucas Dow
-#### Klubbmästare  
-**Favoritdrink:** Grekiskt lagunvatten <br>
-**Gillar:** Att vara gravid <br>
-**Ogillar:** Simplex  <br>
-**Specialitet:** Give that wolf a banana  <br>
-**Citat:**
-_Hjälp mig skriva din egen undergång_
-
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/maj.jpg">  
-
 ### Maja Larsson 
 #### Vice klubbmästare  
 **Favoritdrink:** Ingången Göteborgs-öl <br>
@@ -104,17 +93,6 @@ _JAG ÄR HANDEN, DU ÄR MUNNEN!_
 _Har du inte sett dem här spikarna på varje framsida asså_ 
 
 <img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/oli.JPG"> 
-
-### Olivia Aronsson
-#### Festmästare 
-**Favoritdrink:** Fritt fall med bag-in-box <br>
-**Gillar:** NSFW citat <br>
-**Ogillar:** Se random saker <br>
-**Specialitet:** Dj lil miss anarchy <br>
-**Citat:**
-_Wow du har ögon_  
-
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/tom.JPG"> 
 
 ### Tom Rehnström
 #### Infomästare  
@@ -224,15 +202,9 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Elissa Arias Sosa__
   * Barmästare
   * _Man tittar inte med tänderna_
-* __Casper Reuterlöv__
-  * Barmästare
-  * _Barmjobb = varmkorv??_
 * __Henrik Åkesson__
   * Festmästare
   * _….. Parmesan?!_
-* __Bror Sebastian Sjövlad__
-  * Supportmästare
-  * _SUG DEN!!!_
 * __Lotta Johnsson__
   * Supportmästare
   * _Jag kanske är Jesus_
