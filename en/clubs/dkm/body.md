@@ -14,9 +14,9 @@ DKM is Datas Klubbmästeri (Pub organizers at the computer science chapter of KT
 
 ## What do we do?
 
-Every Wednesday we open the doors to META (Osquars backe 21) and give you the chance to relax and enjoy alcoholic or alcohol free beverages ranging from beer and cider to freshly made cocktails. The pub opens 17:17 and usually is open until we or the guests has had enough. Take the chance to take a break from all the studying and let loose on the dance floor!
+Every Wednesday we open the doors to META (Osquars backe 21) and give you the chance to relax and enjoy alcoholic or alcohol free beverages ranging from beer and cider to freshly made cocktails. The pub opens 17:17 and usually is open until we or the guests has had enough. Take the chance to take a break from all the studying and let loose on the dance floor! 
 
-After the exam period you might want to relax that little bit extra. How fitting that DKM arranges an Exam Pub (a.k.a Tentapub), which typically takes place on the first Saturday after the exam period. DKM arranges two per year and MKM (Medias Klubbmästeri) arranges the other two. These events are attract a lot of people since lots of other pubs around campus are open at the time, so be here in time!
+After the exam period you might want to relax that little bit extra. How fitting that DKM arranges an Exam Pub (a.k.a Tentapub), which typically takes place on the first Saturday after the exam period. DKM arranges two per year and MKM (Medias Klubbmästeri) arranges the other two. These events are attract a lot of people since lots of other pubs around campus are open at the time, so be here in time! 
 
 In addition to the Wednesday pubs, we also have a couple of major events:
 
@@ -33,12 +33,12 @@ To get more info about events and other things, it can be an good to look in and
 
 [![Instagram logo](https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/InstaLogo.png)](https://www.instagram.com/dkmkth/?igshid=YmMyMTA2M2Y%3D)
 
-## Medlemmar
+## Medlemmar  
 
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/luc.JPG">
+<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/luc.JPG">  
 
 ### Lucas Dow
-#### Klubbmästare
+#### Klubbmästare  
 **Favoritdrink:** Grekiskt lagunvatten <br>
 **Gillar:** Att vara gravid <br>
 **Ogillar:** Simplex <br>
@@ -46,29 +46,29 @@ To get more info about events and other things, it can be an good to look in and
 **Citat:**
 _Hjälp mig skriva din egen undergång_
 
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/maj.jpg">
+<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/maj.jpg">  
 
-### Maja Larsson
-#### Vice klubbmästare
+### Maja Larsson 
+#### Vice klubbmästare  
 **Favoritdrink:** Ingången Göteborgs-öl <br>
 **Gillar:** korv <br>
 **Ogillar:** stinky... 🤮 <br>
 **Specialitet:** euphoria-dansen <br>
 **Citat:**
-_Det kom en jättestor finne å jag blev så jävla stressad_
+_Det kom en jättestor finne å jag blev så jävla stressad_  
 
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/alv.jpg">
+<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/alv.jpg">  
 
 ### Alva Sundström
-#### Ekonomimästare
+#### Ekonomimästare  
 **Favoritdrink:** Norrlands ("säkert" - Alva) <br>
 **Gillar:** Vlogs <br>
 **Ogillar:** Att vara Alfa <br>
 **Specialitet:** Vara en dinosaurie <br>
 **Citat:**
-_Alfa hasn't said anything funny_
+_Alfa hasn't said anything funny_  
 
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/sar.JPG">
+<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/sar.JPG"> 
 
 ### Sara Strandberg
 #### Ekonomimästare
@@ -77,20 +77,20 @@ _Alfa hasn't said anything funny_
 **Ogillar:**  Shaquille O'neal <br>
 **Specialitet:** Att bli icead <br>
 **Citat:**
-_Nej, jag är Sara_
+_Nej, jag är Sara_  
 
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/fil.jpg">
+<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/fil.jpg"> 
 
 ### Flip Teglund
-#### Barmästare
+#### Barmästare  
 **Favoritdrink:** Baileys och Cola <br>
 **Gillar:** Att klara mer <br>
 **Ogillar:** När man inte klarar mer <br>
 **Specialitet:** Inte gurgla bäsk <br>
 **Citat:**
-_JAG ÄR HANDEN, DU ÄR MUNNEN!_
+_JAG ÄR HANDEN, DU ÄR MUNNEN!_  
 
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/mak.jpg">
+<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/mak.jpg"> 
 
 ### Markus Videfors
 #### Barmästare
@@ -99,23 +99,23 @@ _JAG ÄR HANDEN, DU ÄR MUNNEN!_
 **Ogillar:** Att ha hår <br>
 **Specialitet:** Att vara smackis mackis <br>
 **Citat:**
-_Har du inte sett dem här spikarna på varje framsida asså_
+_Har du inte sett dem här spikarna på varje framsida asså_ 
 
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/oli.JPG">
+<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/oli.JPG"> 
 
 ### Olivia Aronsson
-#### Festmästare
+#### Festmästare 
 **Favoritdrink:** Fritt fall med bag-in-box <br>
 **Gillar:** NSFW citat <br>
 **Ogillar:** Se random saker <br>
 **Specialitet:** Dj lil miss anarchy <br>
 **Citat:**
-_Wow du har ögon_
+_Wow du har ögon_  
 
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/tom.JPG">
+<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/tom.JPG"> 
 
 ### Tom Rehnström
-#### Infomästare
+#### Infomästare  
 **Favoritdrink:** Mintuu & Blandsaft <br>
 **Gillar:**  Bröd <br>
 **Ogillar:**  När folk snackar skit om fiorelli <br>
@@ -234,7 +234,7 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
   * Supportmästare
   * _Jag hittar bara aggressiva powerbanks_
 
-### Cliff -21
+### Cliff -21  
 * __George Bassilious__
   * Klubbmästare
   * _På min tid hade vi inte ens..._
