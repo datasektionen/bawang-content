@@ -14,10 +14,6 @@ Do you have any comments about the premises, anything that could be improved or 
 
 Would you like to participate yourself? Don't hesitate to email us!
 
-## Städskrii - Monday cleaning
-
-We are the ones who hold the Monday cleanings in Meta during the year. We invite newcomers to help clean up and learn where everything is in the chapter hall and how the garbage disposal works. Everyone who helps clean 2 times gets to attend a lavish party at the end of the year. Cleaning takes place on Mondays starting at 5:17pm in the first-year-student groups and takes about an hour after school. If it is not convenient to clean at the allotted time, you can come by on another Monday or at one of the designated extra sessions towards the end of the term.
-
 ## Internal Positions
 
 #### Lokalchef
