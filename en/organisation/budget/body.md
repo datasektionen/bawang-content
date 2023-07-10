@@ -1,6 +1,9 @@
 Datasektionens budget
 =====================
 
+##Budget 2023
+- [Google Drive](https://docs.google.com/spreadsheets/d/1hiXUQcrQikpiySAtr9iscekHIfZM_bxey8-nmp5XE9k/edit?usp=sharing)
+
 ##Budget 2022
 - [Google Drive](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYFXgACJTugGnrrJuXgqKNuOBqdFuCuuJ3-fnVoDij3iA9bTeq_OcvepStgv193VPflGbFxryvSsP4/pubhtml)
 
