@@ -38,7 +38,7 @@ ansvar för sektionens nycklar och accesser.
 
 Vice ordförande är nåbar på [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
 
-## Sekreterare - _(Vakant)_
+## Sekreterare - Olof Bargholtz Melcherson
 
 Sekreteraren är ansvarig för styrdokument, handlingar, protokoll och annan
 formalia på sektionen.
