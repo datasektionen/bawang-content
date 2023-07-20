@@ -9,7 +9,7 @@ The Business Relations Group handles the chapter's contacts with companies. You 
 E-mail: [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 **Head of business relations**<br />
-Oscar Bergström<br />
+Melise Lundberg & Sarah Sodini<br />
 E-mail: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
 **Heads of D-Dagen**<br />
@@ -23,7 +23,7 @@ Visit the [Industry page](/industry) for more information.
 For general questions, contact our head of communications at:
 
 **Head of communications**<br />
-Noah Hopkins<br />
+Benjamin Widman<br />
 E-mail: [info@datasektionen.se](mailto:info@datasektionen.se)<br />
 
 For questions regarding [datasektionen.se](https://datasektionen.se) or other systems handled by the chapter, contact the chapter's information committee at [ior@datasektionen.se](mailto:ior@datasektionen.se).
