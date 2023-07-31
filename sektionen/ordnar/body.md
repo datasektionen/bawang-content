@@ -1,4 +1,4 @@
-På Datasektionen finns fem ordnar, benämnda “Klubbmästare Emeritus”, “Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus”, “Kassör Emeritus” och “Ordförande Emeritus”.
+På Datasektionen finns tre ordnar, benämnda “Klubbmästare Emeritus”, “Kassör Emeritus” och “Ordförande Emeritus”.
 
 Som bevis på medlemskap i någon av Datasektionens fem ordnar bärs respektive ordens ordenstecken.
 
