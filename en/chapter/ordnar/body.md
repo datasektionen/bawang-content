@@ -1,4 +1,4 @@
-The Computer Science chapter have four orders. These are “Klubbmästare Emeritus”, “Storasyskon Emeritus”, “Kassör Emeritus”, and “Ordförande Emeritus”.
+The Computer Science chapter have four orders. These are “Klubbmästare Emeritus”, “Kassör Emeritus”, and “Ordförande Emeritus”.
 
 As proof om membership in one of the orders, the members is rewarded a medal.
 
