@@ -11,12 +11,15 @@ Kontakta mig om du har frågor/funderingar rörande dina studier. T.ex. att någ
 [sno@datasektionen.se](mailto:sno@datasektionen.se)
 
 ### Studerandeskyddsombud
-Kontakta mig om du har frågor/funderingar rörande studiemiljön, ur både fysiskt och psykosocialt perspektiv.
+Sektionen har två studerandeskyddsombud för frågor/funderingar rörande studiemiljön, ur både fysiskt och psykosocialt perspektiv. Bägge har tystnadsplikt. 
 
 [sso@datasektionen.se](mailto:sso@datasektionen.se)
 
-### Jämlikhetsnämndens ordförande
-Kontakta mig om du har frågor/funderingar rörande jämlikhetsfrågor. 
+#### Studiemiljöansvarig
+Kontakta mig om du har frågor/funderingar rörande den fysiska studiemiljön. 
+
+#### Jämlikhetsnämndens ordförande
+Kontakta mig om du har frågor/funderingar rörande den psykosociala studiemiljön och jämlikhetsfrågor. 
 
 [jno@datasektionen.se](mailto:jno@datasektionen.se)
 
