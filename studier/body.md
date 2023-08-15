@@ -25,6 +25,8 @@ Kontakta mig om du har frågor/funderingar rörande den psykosociala studiemilj�
 
 [jno@datasektionen.se](mailto:jno@datasektionen.se)
 
+Du kan även kontakta mig anonymt på [jml.datasektionen.se](https://jml.datasektionen.se/)
+
 ## Övrigt
 På dessa sidor försöker vi samla så mycket information som möjligt som
 rör dina studier på D-programmet (Civilingenjörsprogrammet Datateknik på KTH).
