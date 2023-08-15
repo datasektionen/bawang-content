@@ -18,6 +18,8 @@ Sektionen har två studerandeskyddsombud för frågor/funderingar rörande studi
 #### Studiemiljöansvarig
 Kontakta mig om du har frågor/funderingar rörande den fysiska studiemiljön. 
 
+[sma@datasektionen.se](mailto:sma@datasektionen.se)
+
 #### Jämlikhetsnämndens ordförande
 Kontakta mig om du har frågor/funderingar rörande den psykosociala studiemiljön och jämlikhetsfrågor. 
 
