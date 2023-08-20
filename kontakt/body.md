@@ -37,7 +37,7 @@ D-rektoratet, på adressen [drek@datasektionen.se](mailto:drek@datasektionen.se)
 
 **Ordförande**<br />
 Pontus Söderlund<br />
-E-post: [ordf@datasektionen.se](mailto:ordf@datasektionen.se)<br />
+E-post: [ordf@datasektionen.se](mailto:ordf@datasektionen.se) (Går även till resten av styrelsen) <br />
 [+46 72 150 99 39](tel: +46 72 150 99 39)
 
 ## Sektionsinformation
