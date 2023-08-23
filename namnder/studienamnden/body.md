@@ -5,24 +5,23 @@
 Tveka aldrig att kontakta Studienämnden om du har en åsikt eller fråga!
 Du är givetvis alltid välkommen på studienämndsmötena (se [nyhetssidan](/nyheter) för datum).
 
-Studienämnden hjälper till med att föra vidare studenternas åsikter till lärare eller berörda parter på EECS för att förbättra utbildningen. Har du något du vill säga till om kan du antingen kontakta oss i Studienämnden eller komma på ett Studienämndsmöte. Vi svarar även på studenters frågor om studierna alternativt hjälper till att ta reda på vem man kan kontakta för att få svar.
+Studienämnden hjälper till med att föra vidare studenternas åsikter till lärare eller berörda parter på EECS för att förbättra utbildningen. Har du något du vill säga till om kan du antingen kontakta oss i Studienämnden eller komma på ett Studienämndsmöte. Vi svarar även på studenters frågor och synpunkter om studierna samt hjälper till att ta reda på vem man kan kontakta för att få svar.
 
-*Vi är här för dig* - Kontakta oss eller kom på ett Studienämndsmöte.
+*Vi finns här för dig* - Kontakta oss eller kom på ett av våra möten om du har någonting du vill diskutera.
 
 ## Kontakt
 
-Kontakta oss om du har frågor om eller kommentarer kring studierna eller studiemiljön.
+Kontakta oss om du har frågor om eller kommentarer kring studierna eller studiemiljön. 
 
 ### Studier
 
-Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Beroende på vilket år du går ska du höra av dig till din årskursrepresentant eller 
-student!
+Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Nedan har vi 
 
-År 1 - Alexander: [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
+År Ø - Vakant [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
 
-År 2 - Emil och Mary: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
+År 2 - Alexander & Elin: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
 
-År 3 - Kei: [ake-3@datasektionen.se](mailto:ake-3@datasektionen.se)
+År 3 - Emil & Mary: [ake-3@datasektionen.se](mailto:ake-3@datasektionen.se)
 
 Masterrepresentanter för Datalogi (TCSCM) - Daniel, Elsa, Jesper, Marten: [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
 
@@ -30,11 +29,15 @@ Masterrepresentanter för Cybersäkerhet (TCYSM) - Ellinor, Sönke: [master-cys@
 
 Masterrepresentanter för Maskininlärning (TMAIM) - Vakant [master-ml@datasektionen.se](mailto:master-ml@datasektionen.se)
 
-Kontakta SNO om du är intresserad av att ta dig an någon vakant post. Vi letar alltid efter nya representanter!
+Studienämndens Ordförande (SNO) - Emil: [sno@datasektionen.se](mailto:sno@datasektionen.se)
+
 ### Studiemiljö
 
-Kalla salar? Oergonomiska stolar? Är det för hög ljudnivå? Kontakta SSO om du har en åsikt!
-SSO: Axel [sso@datasektionen.se](mailto:sso@datasektionen.se)
+Kalla salar? Oergonomiska stolar? Är det för hög ljudnivå? Har blivit utsatt för en kränkning av något slag? Kontakta våra skyddsombud om du har en åsikt!
+
+SSO: Axel & Jennifer: [sso@datasektionen.se](mailto:sso@datasektionen.se)
+Studiemiljöansvarig - Axel: [sma@datasektionen.se](mailto:sma@datasektionen.se)
+Jämlikhetsnämndens Ordförande - Jennifer: [jno@datasektionen.se](mailto:jno@datasektionen.se)
 
 ### Övriga frågor
 
@@ -46,6 +49,7 @@ Datasektionen har, precis som alla andra sektioner, en studienämnd som arbetar 
 För dig innebär det att vi för vidare din åsikt till lärare eller berörda parter på EECS. Du kan komma i kontakt med oss genom mailadresserna ovan eller genom att delta på ett studienämndsmöte. Varje möte meddelas på [nyhetssidan](/nyheter).
 
 Vi svarar även på studenters frågor om studierna alternativt hjälper till att ta reda på vem man kan kontakta för att få svar.
+Dessutom anordnar vi ibland mindre evenemang såsom 
 
 ## Vi i studienämnden
 
@@ -63,9 +67,10 @@ Kort om oss
 
 
 ### Studerandeskyddsombud
-Studerandeskyddsombudet verkar för en bättre studiemiljö under dina studier här på KTH. Studiemiljön är då såväl den fysiska som den psykosociala. Tveka inte på att höra av dig!
+Studerandeskyddsombuden verkar för en bättre studiemiljö under dina studier här på KTH. Studiemiljön är då såväl den fysiska som den psykosociala. Dessa är studerandeskyddsombud och har därför lagstadgad tystnadsplikt. Tveka inte på att höra av dig!
 
-SSO: Axel [sso@datasektionen.se](mailto:sso@datasektionen.se)
+På datasektionen finns två skyddsombud(SSO), Studiemiljöansvarig(SMA) och Jämlikhetsnämndens Ordförande, som huvudsakligen jobbar med psykosociala frågor. Båda är dock skyddsombud och kan kontaktas för alla ärenden som rör en av dem. 
+
 
 ### Studienämndens ordförande
 Studienämndens ordförande (SNO) leder arbetet i Studienämnden samt inom studiebevakning i allmänhet. SNO är en förtroendevald funktionärspost i Datasektionen och reglementet säger att SNO ska
