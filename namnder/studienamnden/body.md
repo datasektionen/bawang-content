@@ -17,7 +17,7 @@ Kontakta oss om du har frågor om eller kommentarer kring studierna eller studie
 
 Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Nedan har vi 
 
-År Ø - Vakant [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
+År 1 - Vakant [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
 
 År 2 - Alexander & Elin: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
 
