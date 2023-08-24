@@ -11,12 +11,19 @@ Concact me if you have questions about your studies. For example, if there are p
 
 [sno@datasektionen.se](mailto:sno@datasektionen.se)
 
-### Studerandeskyddsombud
-Contact me if you have issues regarding the study environment. This includes both physical and psychosocial problems.
+### Student Safety Officers (Studerandeskyddsombud)
+The chapter has two Student Safety Officers (SSO), the Study Environment Representative and the Head of the Equality Committee. Contact us if you have issues regarding the study environment. This includes both physical and psychosocial problems. We have professional secrecy. 
 
 [sso@datasektionen.se](mailto:sso@datasektionen.se)
 
-### Equality committee
-Contact me if with questions or comments about equality.
+#### Study Environment Representative
+Contact me if you have questions about the physical study environment.
+
+[sma@datasektionen.se](mailto:sma@datasektionen.se)
+
+#### Head of the Equality committee
+Contact me if with questions or comments about the psychosocial environment and/or equality.
 
 [jno@datasektionen.se](mailto:jno@datasektionen.se)
+
+You can also contact me anonymously through [jml.datasektionen.se](https://jml.datasektionen.se/)
