@@ -6,7 +6,7 @@ Om du väljer att vara anonym kommer vi självklart att respektera det. Däremot
 
 Vi kan vara med dig varje steg på vägen och hjälpa dig med din anmälan, men vi kommer inte kunna gå in och medla i några ärenden själva. Det beror dels på att vi inte har utbildning för att göra det, men också på att vi inte med säkerhet kan hålla oss opartiska eftersom vi känner många studenter personligen. Vad som händer när KTH tar emot din anmälan kan du läsa [HÄR](https://www.kth.se/polopoly_fs/1.738428.1631190895!/Riktlinjen%20Rutiner%20vid%20anm%C3%A4lan%20utredning%20och%20%C3%A5tg%C3%A4rder%20vid%20diskriminering%20trakasserier%20sexuella%20trakasserier%20%2020180830pdf.pdf).
 
-Vissa funktionärer på sektionen (D-UF, Ordförande, SSO) kommer att delges av händelser som anmäls (om inte någon av de personerna är inblandade i händelsen eller det av annan anledning skulle vara olämpligt att de fick veta). Detta för att vi gemensamt ska kunna arbeta för att förebygga liknande händelser i framtiden. 
+Vissa funktionärer på sektionen (D-UF, Ordförande, SSO) kommer att delges av händelser som anmäls (om inte någon av de personerna är inblandade i händelsen eller det av annan anledning skulle vara olämpligt att de fick veta). Detta för att vi gemensamt ska kunna arbeta för att förebygga liknande händelser i framtiden.
 
 ## Andra möjliga kontaktvägar
 Förutom att kontakta JNO via det här formuläret finns de här möjliga kontaktvägarna för frågor eller anmälningar:

@@ -1,6 +1,6 @@
 ## Kontakt
 
-#### ÄrkeDEMON  
+#### ÄrkeDEMON
 David Peilitz</br>
 [arkedemon@datasektionen.se](mailto:arkedemon@datasektionen.se)
 

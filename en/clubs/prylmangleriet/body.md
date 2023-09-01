@@ -40,7 +40,7 @@ Moreover, we have a tradition of exchanging parts of our Ovve with people of out
 Lastly of course is Ovveoskuld (literally Ovve virginity). There is a symbol of the supplier for our Ovve on the left leg pocket (JAC on our chapter) which Ovveoskulden refers to. To still have the symbol on your Ovve means to still have your Ovveoskuld. There has been traditions of taking others and gathering others Ovveoskuld and the only allowed way of removing others Ovveoskuld is by ripping them off with your teeth. So if you still have your Ovveoskuld then you are fully allowed to protect yourself if someone tries this.
 
 ### Ovve-tips
-Your Ovve usually has a lot of pockets, but if you need more space then the arm openings can be tied up to make two enormous arm pockets. Usual items you might want to carry are: towel, patches to exchange with others, sewing kit, barblade, shot glass, mug, tape and a textile marker. Having something to hang your items of is usually popular and modifications can make the Ovve even more stylish. Modifications might include making the legs detachable with zippers or modifying your pockets. 
+Your Ovve usually has a lot of pockets, but if you need more space then the arm openings can be tied up to make two enormous arm pockets. Usual items you might want to carry are: towel, patches to exchange with others, sewing kit, barblade, shot glass, mug, tape and a textile marker. Having something to hang your items of is usually popular and modifications can make the Ovve even more stylish. Modifications might include making the legs detachable with zippers or modifying your pockets.
 
 Be careful, with items in your pockets as the Ovve will likely get wet!
 

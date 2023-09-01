@@ -4,8 +4,8 @@
 
 *English below*
 
-För att boka META använd bokningssystemet på 
-**[bokning.datasektionen.se](http://bokning.datasektionen.se)**. 
+För att boka META använd bokningssystemet på
+**[bokning.datasektionen.se](http://bokning.datasektionen.se)**.
 Vid frågor kontakta Konglig Lokalchefer via mail,
 **[lokalbokning@d.kth.se](mailto:lokalbokning@d.kth.se)**. Mailen går
 till både Konglig Lokalchef (Data) och Sektionslokalsansvarige (Media),
@@ -33,7 +33,7 @@ gäller för bokningar på samma tid (t ex onsdag 10-12).
 
 ------------------------------------------------------------------------
 
-To book META please use the booking system at 
+To book META please use the booking system at
 **[bokning.datasektionen.se](http://bokning.datasektionen.se)**. If you
 have any questions, please contact the chapter-house bosses by email,
 **[lokalbokning@d.kth.se](mailto:lokalbokning@d.kth.se)**. The email

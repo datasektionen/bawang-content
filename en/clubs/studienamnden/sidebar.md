@@ -1,6 +1,6 @@
 ## Contact
 
-Got questions about the studies? Don't hesitate to contact us! 
+Got questions about the studies? Don't hesitate to contact us!
 
 #### Study Board President
 

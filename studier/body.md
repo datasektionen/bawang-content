@@ -16,7 +16,7 @@ Kontakta mig om du har frågor/funderingar rörande studiemiljön, ur både fysi
 [sso@datasektionen.se](mailto:sso@datasektionen.se)
 
 ### Jämlikhetsnämndens ordförande
-Kontakta mig om du har frågor/funderingar rörande jämlikhetsfrågor. 
+Kontakta mig om du har frågor/funderingar rörande jämlikhetsfrågor.
 
 [jno@datasektionen.se](mailto:jno@datasektionen.se)
 

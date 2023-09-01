@@ -10,4 +10,4 @@ At the Chapter Meeting each candidate get to present themselves and answer quest
 
 ## The Chapter Fair
 
-Once per semester the Election Committee arranges the Chapter Fair. At the Fair, chapter officials, committees and projects present their activities to the chapter members. There might also be a patch for those deemed worthy. 
+Once per semester the Election Committee arranges the Chapter Fair. At the Fair, chapter officials, committees and projects present their activities to the chapter members. There might also be a patch for those deemed worthy.

@@ -31,6 +31,6 @@ Gör så mycket som möjligt i **EN** PR, då blir det mindre jobbigt att revert
 men vi har ett problem i att vi inte översatt stora delar av den än.
 Du får gärna översätta den engelska sidan, som finns under mappen `/en`.
 
-En engelskspråkig webbsida är jätteviktig för att utbytesstudenter ska kunna ta del av innehållet. 
-Tänk på att det är de som är målgruppen när du översätter. Kom också ihåg att alla detaljer inte 
+En engelskspråkig webbsida är jätteviktig för att utbytesstudenter ska kunna ta del av innehållet.
+Tänk på att det är de som är målgruppen när du översätter. Kom också ihåg att alla detaljer inte
 måste komma med i översättningen, bara du får med det viktigaste så är redan det väldigt värdefullt!

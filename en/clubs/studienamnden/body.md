@@ -6,7 +6,7 @@ Never hesitate in contacting the Study Board if you have an opinion or question!
 You are always welcome to participate in our meetings (take a look at [news](/en/news) for dates).
 
 The Study Board supplies the students' opinions to teachers or individuals of concern at CSC in order to improve the CS education. If you have any thoughts regarding your education you can contact us via mail or come to our meetings. We are also responsible for answering your questions about the education, or redirecting you to someone who knows more.
- 
+
 *We are here for you* - Reach out to us or join us at our next meeting.
 
 ## Contact
@@ -50,8 +50,8 @@ We also answer your questions regarding your studies at kth or redirect you to a
 
 About us, in short
 
-* Year representatives & Master representatives - Contact us about your courses 
-* Student Safety Representative (SSO) - Contact me about unergonomic chairs and cold lecture halls 
+* Year representatives & Master representatives - Contact us about your courses
+* Student Safety Representative (SSO) - Contact me about unergonomic chairs and cold lecture halls
 * Study Board President (SNO) - Looks after the Study Board and makes sure it does not ***die***
 * Programme responsible student (PAS) - Works for improvement of the programme and the courses in the long term.
 * Chapter Board Representative for Education (DUF) - Has the large scale picture of the education
@@ -60,17 +60,17 @@ About us, in short
 ### Year representatives & Master representatives
 The Year and Master representatives are students who represent their year in relation to both students and teachers. Functionally, they are a voice for students in situations where the students don't want to or cannot communicate with the teacers. Should you have opinions about the courses, teachers or related subjects, your Year representative has got you covered.
 
-### Student Safety Representative 
+### Student Safety Representative
 The Student Safety Representative (SSO) works for a better studying environment at KTH, both the physical as well as the psychosocial environment. Don't hesitate to contact your SSO!
 
 ### Study Board President
 The Study Board President (SNO) leads the Board work and the education monitorin in general. The SNO is a representative elect, and is thus bound by the chapter regulations to
 
-* work to represent all students 
+* work to represent all students
 * gather thoughts and opinions regarding the programme from chapter members and convey these to reponsible parties at KTH
-* work with outreach, informing students why the board exists and how you can influence the school through us 
+* work with outreach, informing students why the board exists and how you can influence the school through us
 * be responsible for gathering and documenting information regarding the work of the Board som it can be reviewed and reused by the chapter at a later point
- 
+
 The SNO is interested in the students' opinions both regarding the education and the Board itself, to be able to complete the work mentioned in the relgement. Maybe you could help us work with the right education-related problems.
 
 ### Programme responsible student

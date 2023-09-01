@@ -51,7 +51,7 @@ Membership in The Konglig Öfverdrif Emeritus order is awarded to the Konglig Ö
 
 The order's medal is a five-pointed overthrown black star, with a cerise field strewn with a black delta.  The star is coated by a laurel wreath.
 
-Motto: Alone is strong. Together we are just many. 
+Motto: Alone is strong. Together we are just many.
 
     Luciano Zapata, Tricesimus Sextus 2022
     Isabel Redtzer, Tricesimus Sextus 2021
@@ -98,7 +98,7 @@ Motto: Alone is strong. Together we are just many.
 Membership of the Storasyskon Emeritus order is awarded to Storasyskon (head of Reception) at the chapter who have served an entire term.
 
 The order's medal is a five-pointed cerise star, with a silver field, and a black delta in the middle. The star is coated by a laurel wreath.
-    
+
     George Bassilious, Tricesimus Quintus 2022
     Agnes Forsberg, Tricesimus Quintus 2021
     Lisa Håkanson Krantz, Tricesimus Quartus 2020

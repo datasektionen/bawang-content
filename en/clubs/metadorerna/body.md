@@ -24,7 +24,7 @@ We are the ones who hold the Monday cleanings in Meta during the year. We invite
 
 Ultimately responsible for the premises and also chairman of METAdorerna.
 
-#### Städskrii 
+#### Städskrii
 
 Responsible for the cleaning-mondays and the thank-you party for those who have cleaned.
 
@@ -71,7 +71,7 @@ Responsible for the notice-board in META. Keeps it tidy, clean and enforces the 
 #### MOMS
 ”Master of Mötesrummets Stuff”
 
-Responsible for "mötesrummet" i META. 
+Responsible for "mötesrummet" i META.
 
 #### MONEY
 

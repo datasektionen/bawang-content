@@ -1,7 +1,7 @@
 ## Contact DKM
 Don't hesitate to contact us!
 
-**Everyone @ DKM:** [dkm@datasektionen.se](mailto:dkm@datasektionen.se)  
+**Everyone @ DKM:** [dkm@datasektionen.se](mailto:dkm@datasektionen.se)
 
 Complaints, compliments, gifts?</br>
 **DKM President (Klubbmästare):**  [klubbm@datasektionen.se](mailto:klubbm@datasektionen.se)

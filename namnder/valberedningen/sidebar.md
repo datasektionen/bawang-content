@@ -1,6 +1,6 @@
 ## Kontakt
 
-**Valberedningens ordförande:** 
+**Valberedningens ordförande:**
 
 Filip Ramslöv<br>
 [valberedning-ordf@datasektionen.se](mailto:valberedning-ordf@datasektionen.se)

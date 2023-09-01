@@ -1,6 +1,6 @@
 # Tag Monkeys
 
-Tag Monkeys är en öppen nämnd som innefattar allt inom skapande och pyssel. 
+Tag Monkeys är en öppen nämnd som innefattar allt inom skapande och pyssel.
 
 
 ## Event

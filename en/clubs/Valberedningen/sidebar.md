@@ -1,6 +1,6 @@
 ## Contact
 
-**Election Committee Chairperson:** 
+**Election Committee Chairperson:**
 
 Filip Ramslöv<br>
 [valberedning-ordf@datasektionen.se](mailto:valberedning-ordf@datasektionen.se)

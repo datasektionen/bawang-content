@@ -4,7 +4,7 @@ Vad tusan är Prylmångleriet och vem är Prylis?
 
 Jo Prylis leder prylmångleriet, sektions nämnd som har hand om märken, Ovvar och annat prylrelaterat! Till vår vanliga verksamhet hör bland annat märkesdesign och försäljning, men även andra projekt så som att designa sektionens sångbok. Utöver det finns väldigt stora möjligheter att genomföra andra projekt/ideér, prata med Prylis om du har någon idé du vill förverkliga.
 
-Prylmångleriet är onekligen stället att vända dig till om du vill pimpa din Ovve bortom alla tänkbara gränser. Vanligtvis säljer prylmångleriet märken i META varannan fredag mellan 12:15 och 13:00, men det kan även förekomma försäljningar på events eller när någon godtycklig medlem av prylmångleriet känner att hen har för lite studier. 
+Prylmångleriet är onekligen stället att vända dig till om du vill pimpa din Ovve bortom alla tänkbara gränser. Vanligtvis säljer prylmångleriet märken i META varannan fredag mellan 12:15 och 13:00, men det kan även förekomma försäljningar på events eller när någon godtycklig medlem av prylmångleriet känner att hen har för lite studier.
 
 Om det är något du känner att du vill veta så ta jättegärna kontakt över mail [prylis@datasektionen.se](mailto:prylis@datasektionen.se) eller på [facebook](https://www.facebook.com/dataprylis)!
 
@@ -89,7 +89,7 @@ Bästa tipset Prylis kan ge är att **sy ordentligt**. Under festande och andra 
 
 Målet med din Ovve är (förutom att ha kul) att göra den så snygg som möjligt. Vårt bästa tips för att uppnå det målet är att fylla den med så många olika coola märken som du kan få tag på. Tillsammans med andra modifikationer kommer märkena vara det som gör din Ovve unik. De vanligaste sätten att få tag på märken är att delta på event, gå på pubar, köpa i META, byta med andra personer eller köpa privat.
 
-Efter all denna läsning hoppas jag att du blivit lite visare, och är redo att bli en riktig Overallare. 
+Efter all denna läsning hoppas jag att du blivit lite visare, och är redo att bli en riktig Overallare.
 
 Mvh
 Prylis

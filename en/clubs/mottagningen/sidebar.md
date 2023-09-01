@@ -2,7 +2,7 @@
 
 The individuals responsible for the Reception are referred to as Title. If you would like to contact us, you can send an email to [titel@datasektionen.se](mailto:titel@datasektionen.se). If you would like to contact a specific person, their contact information can be found below.
 
-### Det Kongliga Dadderiet 
+### Det Kongliga Dadderiet
 **Storasyster**, <br />
 Ebba Bråtman<br />
 [storasyskon@datasektionen.se](mailto:storasyskon@datasektionen.se)<br />
@@ -15,12 +15,12 @@ Carl Hansson<br />
 
 **Lillebror**, <br />
 Henry Lou<br />
-[lillebror@datasektionen.se](mailto:lillebror@datasektionen.se)<br /> 
+[lillebror@datasektionen.se](mailto:lillebror@datasektionen.se)<br />
 072-423 62 97
 
 **Lillasyster**, <br />
 Lovisa Sjöberg <br />
-[lillasyster@datasektionen.se](mailto:lillasyster@datasektionen.se)<br /> 
+[lillasyster@datasektionen.se](mailto:lillasyster@datasektionen.se)<br />
 070-364 47 79
 
 ### Det Kongliga Drifveriet

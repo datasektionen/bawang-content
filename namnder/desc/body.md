@@ -22,8 +22,8 @@ Förutom det hänger vi i Discordservern och chattar. Mycket lek och inget ansva
 Gå med i vår Discordserver!
 
 <a href="https://discord.gg/xwjCxXkmFM">
-    <img 
-         src="https://dsekt-assets.s3.amazonaws.com/namnder/desc/discord-logo.png" 
+    <img
+         src="https://dsekt-assets.s3.amazonaws.com/namnder/desc/discord-logo.png"
          alt="DESCs Discordserver!"
          width="100"
     >
@@ -34,8 +34,8 @@ Gå med i vår Discordserver!
 Gå med i vår Facebookgrupp!
 
 <a href="https://www.facebook.com/groups/447431545372957">
-    <img 
-         src="https://dsekt-assets.s3.amazonaws.com/namnder/desc/facebook-logo.png" 
+    <img
+         src="https://dsekt-assets.s3.amazonaws.com/namnder/desc/facebook-logo.png"
          alt="DESCs Facebookgrupp!"
          width="100"
     >

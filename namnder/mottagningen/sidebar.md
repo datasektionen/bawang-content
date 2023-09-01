@@ -1,8 +1,8 @@
-## Kontakta oss 
+## Kontakta oss
 
 Vi som är ansvariga för Mottagningen kallas för Titel. Vill du kontakta oss kan du skicka ett mail till [titel@datasektionen.se](mailto:titel@datasektionen.se). Vill du kontakta en specifik person finns kontaktuppgifter nedan.
 
-### Det Kongliga Dadderiet 
+### Det Kongliga Dadderiet
 **Storasyster**, <br />
 Ebba Bråtman<br />
 [storasyskon@datasektionen.se](mailto:storasyskon@datasektionen.se)<br />
@@ -15,12 +15,12 @@ Carl Hansson<br />
 
 **Lillebror**, <br />
 Henry Lou<br />
-[lillebror@datasektionen.se](mailto:lillebror@datasektionen.se)<br /> 
+[lillebror@datasektionen.se](mailto:lillebror@datasektionen.se)<br />
 072-423 62 97
 
 **Lillasyster**, <br />
 Lovisa Sjöberg <br />
-[lillasyster@datasektionen.se](mailto:lillasyster@datasektionen.se)<br /> 
+[lillasyster@datasektionen.se](mailto:lillasyster@datasektionen.se)<br />
 070-364 47 79
 
 ### Det Kongliga Drifveriet
