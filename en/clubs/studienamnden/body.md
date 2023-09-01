@@ -17,7 +17,7 @@ Contact us if you have questions or opinions regarding the education or the stud
 
 Are your lectures incomprehensible? Are there too few opportunities to present your work? Or do you want someone to act as a middle-man between you and the school? Rest assured, we have got your back! Depending on what year you are in, you can always contact your designated year representative or master representative!
 
-Year 1 - Alexander: [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
+Year 1 - Elin and Alexander: [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
 
 Year 2 - Emil and Mary: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
 

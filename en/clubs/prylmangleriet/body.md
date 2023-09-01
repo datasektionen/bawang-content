@@ -28,6 +28,7 @@ Another rule is that you are not allowed to cover the seal with the chapter-delt
 - The KTH-patch should be on your left shoulder
 - The Computer Science chapter-patch should be over your heart
 - The patch which represents your specific year should sit on the opposite side of your chapter-patch
+- The patches from Mottagningen/the Reception should be arranged to be a vertical row on your left leg where the first event is on the bottom.
 
 The members of our chapter usually have the Ovve "nedcabbad" which means that we solely use the leggings part of the Ovve by having the arms tied around our waist or let them hang on the side. You can instead use these arms as additional pockets.
 
