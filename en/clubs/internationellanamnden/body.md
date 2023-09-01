@@ -22,7 +22,7 @@ The International Committee has a project called "Translating Governance Documen
 ## Events
 
 The International Committee organizes at least two events per semester for international students that are members of the Computer Science Chapter or the Media Technology Chapter.
-Examples of events include international gasques, movie nights, board game nights, karaoke nights, networking events (to introduce the Chapter's committees/clubs), and outdoor activities such as ice skating or hiking. Moreover, at the beginning of each semester, the committee collaborates with the the international reception organized by THS. 
+Examples of events include international gasques, movie nights, board game nights, karaoke nights, networking events (to introduce the Chapter's committees/clubs), and outdoor activities such as ice skating or hiking. Moreover, at the beginning of each semester, the committee collaborates with the Computer Science reception (only in the autumn semester) and the international reception organized by THS (every semester). 
 
 ## International Reception
 

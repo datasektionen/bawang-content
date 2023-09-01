@@ -11,7 +11,7 @@
 
 # DKM
 
-DKM är Datas Klubbmästeri. Det är vi som ser till att ni dataloger har möjlighet att ha roligt under er tid här på teknis. Vi anordnar fester och pubar under hela året. Vill du komma i kontakt med oss, släng iväg ett mail till [dkm@datasektionen.se](mailto:dkm@datasektionen.se)!
+DKM är Datas Klubbmästeri. Det är vi som ser till att ni dataloger har möjlighet att ha roligt under er tid här på teknis. Vi anordnar fester och pubar under hela året (förutom under mottagningen). Vill du komma i kontakt med oss, släng iväg ett mail till [dkm@datasektionen.se](mailto:dkm@datasektionen.se)!
 
 ## Vad gör vi?
 
@@ -21,7 +21,7 @@ Efter tentaperioderna behöver man slappna av och ta en paus en kort stund innan
 
 Utöver onsdagspubarna har vi även ett par större event:
 
-- **Reclaim**, en fet fest... vad mer vill du veta?
+- **Reclaim**, direkt efter mottagningen, en fet fest för att fira att DKM tar tillbaka spritförrådet.
 - **PPP**, någon gång under våren, en fest som vi håller tillsammans med våra vänner i ClubWästeriet, med nytt tema varje år!
 - **dJulmiddagen**, strax innan jul, där ni får chansen att äta ett riktigt fett julbord tillsammans med era vänner på sektionen.
 - **Blums**, Nytt event för 2023 där vi hyr en sportanläggning och slänger ihop en fet fest!
@@ -36,6 +36,17 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 [![Instagram logo](https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/InstaLogo.png)](https://www.instagram.com/dkmkth/?igshid=YmMyMTA2M2Y%3D)
 
 ## Medlemmar  
+
+<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/luc.JPG">  
+
+### Lucas Dow
+#### Klubbmästare  
+**Favoritdrink:** Grekiskt lagunvatten <br>
+**Gillar:** Att vara gravid <br>
+**Ogillar:** Simplex  <br>
+**Specialitet:** Give that wolf a banana  <br>
+**Citat:**
+_Hjälp mig skriva din egen undergång_
 
 <img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/maj.jpg">  
 
@@ -91,6 +102,17 @@ _JAG ÄR HANDEN, DU ÄR MUNNEN!_
 **Specialitet:** Att vara smackis mackis <br>
 **Citat:**
 _Har du inte sett dem här spikarna på varje framsida asså_ 
+
+<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/oli.JPG"> 
+
+### Olivia Aronsson
+#### Festmästare 
+**Favoritdrink:** Fritt fall med bag-in-box <br>
+**Gillar:** NSFW citat <br>
+**Ogillar:** Se random saker <br>
+**Specialitet:** Dj lil miss anarchy <br>
+**Citat:**
+_Wow du har ögon_  
 
 <img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/tom.JPG"> 
 
@@ -202,9 +224,15 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Elissa Arias Sosa__
   * Barmästare
   * _Man tittar inte med tänderna_
+* __Casper Reuterlöv__
+  * Barmästare
+  * _Barmjobb = varmkorv??_
 * __Henrik Åkesson__
   * Festmästare
   * _….. Parmesan?!_
+* __Bror Sebastian Sjövlad__
+  * Supportmästare
+  * _SUG DEN!!!_
 * __Lotta Johnsson__
   * Supportmästare
   * _Jag kanske är Jesus_
