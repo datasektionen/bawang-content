@@ -92,8 +92,6 @@ Vårbalen 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetspla
 
 Vårbalen 2024
 
-dJulkalendern 2022 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_djulkalendern_2022.pdf))
-
 Project Pride 2023
 
 dJubileet 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_djubileet_2023.pdf))
