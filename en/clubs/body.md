@@ -100,8 +100,6 @@ dJulkalendern 2022 ([operational plan](https://yoggi.datasektionen.se/verksamhet
 
 Project Pride 2021 ([operational plan](https://static.datasektionen.se/verksamhetsplaner/vp_project_pride_2021.pdf))
 
-Project Pride 2022 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_project_pride_2022.pdf))
-
 Project Pride 2023
 
 dJubileet 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_djubileet_2023.pdf))
