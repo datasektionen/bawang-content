@@ -38,8 +38,6 @@ METAspexet 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetspla
 
 METAspexet 2024
 
-Vårbalen 2022 ([verksamhetsplan](https://static.datasektionen.se/verksamhetsplaner/vp_varbal_2022))
-
 Vårbalen 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_varbal_2023.pdf))
 
 Vårbalen 2024
