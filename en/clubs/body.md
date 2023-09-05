@@ -80,8 +80,6 @@ dÅre 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/
 
 dÅre 2024
 
-Studs 2021 ([operational plan](https://static.datasektionen.se/verksamhetsplaner/vp_studs_2021))
-
 Studs 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_studs_2023.pdf))
 
 Studs 2024
