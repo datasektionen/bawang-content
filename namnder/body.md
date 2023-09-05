@@ -30,8 +30,6 @@ Studs 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/v
 
 Studs 2024
 
-METAspexet 2022 ([verksamhetsplan](https://static.datasektionen.se/verksamhetsplaner/vp_metaspexet_22))
-
 METAspexet 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_metaspexet_23.pdf))
 
 METAspexet 2024
