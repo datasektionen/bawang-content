@@ -2,7 +2,7 @@
 
 **[Incident report here](https://jml.datasektionen.se/)**
 
-Welcome to the chapter's page on equality, diversity and equal conditions (JML in Swedish)! Here you can find everything you need to work with JML (both as an individual member and in your committee/project), but also information on who can be contacted if something happens or if you as a member want to discuss something. Here you can also find more information about what JML is and how we in the section work with JML.
+Welcome to the Chapter's page on equality, diversity and equal conditions (JML in Swedish)! Here you can find everything you need to work with JML (both as an individual member and in your committee/project), but also information on who can be contacted if something happens or if you as a member want to discuss something. Here you can also find more information about what JML is and how we in the Chapter work with JML.
 
 Under resources there are links to other important documents related to JML, but also to various tools (such as lectures and cases) to use when working with JML.
 
