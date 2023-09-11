@@ -10,7 +10,7 @@ anledning är du alltid välkommen att kontakta oss:
 E-post: [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 **Näringslivsansvarig**<br />
-Oscar Bergström<br />
+Melise Lundberg & Sarah Sodini<br />
 E-post: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
 **Arbetsmarknadsdagsansvariga**<br />
@@ -24,7 +24,7 @@ Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivss
 För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 
 **Kommunikatör**<br />
-Noah Hopkins<br />
+Benjamin Widman<br />
 E-post: [info@datasektionen.se](mailto:info@datasektionen.se)<br />
 
 Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Systemansvarig på [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se) eller Datasektionens Informationsorgan, IOR, på adressen [ior@datasektionen.se](mailto:ior@datasektionen.se).
@@ -37,7 +37,7 @@ D-rektoratet, på adressen [drek@datasektionen.se](mailto:drek@datasektionen.se)
 
 **Ordförande**<br />
 Pontus Söderlund<br />
-E-post: [ordf@datasektionen.se](mailto:ordf@datasektionen.se)<br />
+E-post: [ordf@datasektionen.se](mailto:ordf@datasektionen.se) (Går även till resten av styrelsen) <br />
 [+46 72 150 99 39](tel: +46 72 150 99 39)
 
 ## Sektionsinformation

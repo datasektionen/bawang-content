@@ -4,7 +4,6 @@ Contact us if you have any questions regarding the Chapter's regulatory document
 
 #### Current auditors
 
-Matteus Berg</br>
-Emilia Rosenqvist</br>
+Niklas Vatn</br>
 David Puustinen</br>
 [revisorer@datasektionen.se](mailto:revisorer@datasektionen.se)

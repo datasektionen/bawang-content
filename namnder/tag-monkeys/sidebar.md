@@ -1,6 +1,6 @@
 ## Kontakt
 
-Behöver du hjälp eller har frågor kring grafisk design, tveka inte att kontakta DAD! :)
+Behöver du hjälp eller har frågor kring grafisk design? Tveka inte att kontakta DAD! :)
 
 #### Datas Art Director, DAD
 

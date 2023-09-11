@@ -20,7 +20,7 @@ After the exam period you might want to relax that little bit extra. How fitting
 
 In addition to the Wednesday pubs, we also have a couple of major events:
 
-- **Reclaim**, directly after the student reception (mottagningen), we arrange a big party to celebrate that the keys to our liquor storage room are back in DKMs hands.
+- **Reclaim**, a big party, what else is there?
 - **PPP**, sometime during the spring, we arrange a party together with ClubWästeriet (CLW) with a new, unique theme, every year!
 - **dJulmiddagen**, just before Christmas, we arrange a nice dinner with traditional Swedish julbord!
 - **Blums**, new event for 2023. We arrange an event in a sports centre and play beach volleyball and party! 
@@ -34,17 +34,6 @@ To get more info about events and other things, it can be an good to look in and
 [![Instagram logo](https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/InstaLogo.png)](https://www.instagram.com/dkmkth/?igshid=YmMyMTA2M2Y%3D)
 
 ## Medlemmar  
-
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/luc.JPG">  
-
-### Lucas Dow
-#### Klubbmästare  
-**Favoritdrink:** Grekiskt lagunvatten <br>
-**Gillar:** Att vara gravid <br>
-**Ogillar:** Simplex <br>
-**Specialitet:** Give that wolf a banana <br>
-**Citat:**
-_Hjälp mig skriva din egen undergång_
 
 <img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/maj.jpg">  
 
@@ -100,17 +89,6 @@ _JAG ÄR HANDEN, DU ÄR MUNNEN!_
 **Specialitet:** Att vara smackis mackis <br>
 **Citat:**
 _Har du inte sett dem här spikarna på varje framsida asså_ 
-
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/oli.JPG"> 
-
-### Olivia Aronsson
-#### Festmästare 
-**Favoritdrink:** Fritt fall med bag-in-box <br>
-**Gillar:** NSFW citat <br>
-**Ogillar:** Se random saker <br>
-**Specialitet:** Dj lil miss anarchy <br>
-**Citat:**
-_Wow du har ögon_  
 
 <img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/tom.JPG"> 
 
@@ -221,15 +199,9 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 * __Elissa Arias Sosa__
   * Barmästare
   * _Man tittar inte med tänderna_
-* __Casper Reuterlöv__
-  * Barmästare
-  * _Barmjobb = varmkorv??_
 * __Henrik Åkesson__
   * Festmästare
   * _….. Parmesan?!_
-* __Bror Sebastian Sjövlad__
-  * Supportmästare
-  * _SUG DEN!!!_
 * __Lotta Johnsson__
   * Supportmästare
   * _Jag kanske är Jesus_

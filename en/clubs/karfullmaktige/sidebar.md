@@ -4,16 +4,15 @@ Send us an e-mail if you have any questions about the Union Council or have any 
 
 #### Members
 
-Jakob Carlsson</br>
-Noah Hopkins</br>
-Pontus Söderlund</br>
-David Puustinen</br>
+Adam Sjöberg</br>
+Kevin Wenström</br>
+Erik Nordlöf</br>
 [kf@datasektionen.se](mailto:kf@datasektionen.se)
 
 #### Supplementary members
 
-Douglas Fischer</br>
-Fabian Andréasson</br>
+Fredrik Blomqvist</br>
+Kei Duke-Bergman</br>
 [kf@datasektionen.se](mailto:kf@datasektionen.se)
 
 ## Links

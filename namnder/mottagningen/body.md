@@ -5,6 +5,10 @@ Via kvällspressen kommer schlemma rapporter om studentskivor och annat whüdrou
 
 Sektionen samlas sig till försvar. Piskbeprydda Västar, Vita Snuttefiltar, Allseende Kameror, Mattäckta Förkläden samt Glittrande Guldpengar plockas fram.
 
+Under Mottagningen gäller följande schema. Ett tips är att lägga till schemat i din egen kalender, via den <a href="https://calendar.google.com/calendar/ical/201aba926aa97360b05dd830f05e79f17a8ba20eeccc13d65afc28f22d9327ab%40group.calendar.google.com/public/basic.ics" target="_blank">här iCal-länken</a> som fungerar med de flesta kalenderapplikationer. Om du använder Google Calendar kan du trycka på länken nere i kalenderns högra hörn.	
+
+<iframe src="https://calendar.google.com/calendar/embed?src=201aba926aa97360b05dd830f05e79f17a8ba20eeccc13d65afc28f22d9327ab%40group.calendar.google.com&ctz=Europe%2FBerlin" style="border: 0" width="600" height="550" frameborder="0" scrolling="no"></iframe>
+
 ## Mottagningens grenar
 
 ###Det Kongliga Drifveriet

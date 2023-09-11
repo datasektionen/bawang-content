@@ -31,7 +31,7 @@ The Vice chairman does many tasks that aren't related to any other board member 
 
 The Vice chairman can be reached at [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
 
-## The Secretary - *(Vacant)*
+## The Secretary - Olof Bargholtz Melcherson
 
 The Secretary is responsible for documenting D-directorate and chapter meetings
 and to write protocols and archive them.
