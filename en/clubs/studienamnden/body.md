@@ -17,27 +17,32 @@ Contact us if you have questions or opinions regarding the education or the stud
 
 Are your lectures incomprehensible? Are there too few opportunities to present your work? Or do you want someone to act as a middle-man between you and the school? Rest assured, we have got your back! Depending on what year you are in, you can always contact your designated year representative or master representative!
 
-Year 1 - Alexander: [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
+Year 1 - Vacancy [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
 
-Year 2 - Emil and Mary: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
+Year 2 - Alexander & Elin: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
 
-Year 3 - Kei: [ake-3@datasektionen.se](mailto:ake-3@datasektionen.se)
+Year 3 - Emil & Mary: [ake-3@datasektionen.se](mailto:ake-3@datasektionen.se)
 
 Master Representatives for Computer Science - Daniel, Elsa, Jesper and Marten (TCSCM): [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
 
 Master Representatives for Cyber Security (TCYSM) - Ellinor and Sönke [master-cys@datasektionen.se](mailto:master-cys@datasektionen.se)
 
-Master Representatives for Machine Learning (TMAIM) - Vacant [master-ml@datasektionen.se](mailto:master-ml@datasektionen.se)
+Master Representatives for Machine Learning (TMAIM) - Vacancy [master-ml@datasektionen.se](mailto:master-ml@datasektionen.se)
 
-Contact the Study Board President (SNO) if you are interested in taking on any vacant positions! We are always looking for new representatives!
+Chairman of the Study Board (SNO) - Emil: [sno@datasektionen.se](mailto:sno@datasektionen.se)
+
+Contact the Chairperson (SNO) if you are interested in taking on any vacant positions! We are always looking for new representatives!
+
 ### Studying environment
 
-Cold lecture halls? Unergonomic chairs? Is there too much noise? Contact our SSO if you have an opinion!
-SSO: Axel [sso@datasektionen.se](mailto:sso@datasektionen.se)
+Cold lecture halls? Unergonomic chairs? Is there too much noise? Contact our safety representatives if you have an issue!
+SSO: Axel & Jennifer: [sso@datasektionen.se](mailto:sso@datasektionen.se)
+Studying Environment Rep - Axel: [sma@datasektionen.se](mailto:sma@datasektionen.se)
+Equality Board Chairperson - Jennifer: [jno@datasektionen.se](mailto:jno@datasektionen.se)
 
 ### Other questions
 
-Contact the president of the study board if you have an opinion: [sno@datasektionen.se](mailto:sno@datasektionen.se)
+Contact the Chairperson of the study board if you have an opinion: [sno@datasektionen.se](mailto:sno@datasektionen.se)
 
 ## About the Board
 
