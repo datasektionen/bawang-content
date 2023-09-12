@@ -49,7 +49,6 @@ Datasektionen har, precis som alla andra sektioner, en studienämnd som arbetar 
 För dig innebär det att vi för vidare din åsikt till lärare eller berörda parter på EECS. Du kan komma i kontakt med oss genom mailadresserna ovan eller genom att delta på ett studienämndsmöte. Varje möte meddelas på [nyhetssidan](/nyheter).
 
 Vi svarar även på studenters frågor om studierna alternativt hjälper till att ta reda på vem man kan kontakta för att få svar.
-Dessutom anordnar vi ibland mindre evenemang såsom 
 
 ## Vi i studienämnden
 
