@@ -8,4 +8,4 @@ Vill du själv arbeta med jämlikhetsfrågor är du välkommen att komma på vå
 
 Ingen fråga är för liten! Ta kontakt med oss!
 
-![ ](logo-transparent-cerise.png) </br>
+![ ](https://dsekt-assets.s3.eu-west-1.amazonaws.com/namnder/jamlikhetsnamnden/logo-transparent-cerise.png) </br>

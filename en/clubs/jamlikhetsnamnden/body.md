@@ -8,4 +8,4 @@ If you want to work with equality issues yourself, you are welcome to come to ou
 
 No question is too small! Contact us!
 
-![ ](logo-transparent-cerise.png) </br>
+![ ](https://dsekt-assets.s3.eu-west-1.amazonaws.com/namnder/jamlikhetsnamnden/logo-transparent-cerise.png) </br>
