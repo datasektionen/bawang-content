@@ -1,6 +1,6 @@
 # Internationella nämnden
 
-Datasektionens internationella nämnd är ansvarig för alla internationella aktiviteter på Datasektionen och är delad med Sektionen för Medieteknik. Leds av Datasektionens internationella studentkoordinator (VT-23: Valentin Quapil) och Sektionen för Medietekniks internationella samordnare (2023: Lovisa Condé).
+Datasektionens internationella nämnd är ansvarig för alla internationella aktiviteter på Datasektionen och är delad med Sektionen för Medieteknik. Leds av Datasektionens internationella studentkoordinator (HT-23: Håvard Alstadheim) och Sektionen för Medietekniks internationella samordnare (2023: Lovisa Condé).
 
 ## Allmänt
 
@@ -21,7 +21,7 @@ Internationella nämnden har ett projekt som heter "Översätta Styrdokument". P
 ## Evenemang
 
 Internationella nämnden anordnar minst två evenemang per termin för internationella studenter som hör till Konglig Datasektionen eller Sektionen för Medieteknik.
-Exempel på evenemang är internationella gasquer, filmkvällar, brädspelkvällar, karaokekvällar, nätverksevenemang (för att presentera sektionens nämnderna) och utomhusaktiviteter som skridskoåkning eller vandring. I början av varje termin samarbetar nämnden även med den internationella mottagningen som anordnas av THS. 
+Exempel på evenemang är internationella gasquer, filmkvällar, brädspelkvällar, karaokekvällar, nätverksevenemang (för att presentera sektionens nämnder) och utomhusaktiviteter som skridskoåkning eller vandring. I början av varje termin samarbetar nämnden även med den internationella mottagningen som anordnas av THS. 
 
 ## International Reception
 
