@@ -1,5 +1,7 @@
 # JML
 
+**[Incidentanmälan här](https://jml.datasektionen.se/)**
+
 Välkommen till sektionens sida om jämlikhet, mångfald och lika villkor (JML)! Här kan du hitta allt du behöver för att jobba med JML (både som enskild medlem och i din nämnd/ditt projekt), men också information om vem som kan kontaktas om någonting händer eller om du som medlem vill diskutera någonting. Här finns även mer information om vad JML är och hur vi i sektionen arbetar med JML.
 
 Under resurser finns länkar till andra viktiga dokument som är relaterade till JML, men även till olika redskap (såsom föreläsningar och cases) att använda när en arbetar med JML.

@@ -1,4 +1,4 @@
-# Baking committee
+# The Baking committee
 
 The baking committee is the chapters sweetest group, consisting of the very best pastry makers at KTH! We bake for each other and all the members of the chapter. Fill in the application if you feel like joining! You may also contact Baked directly via mail.
 
