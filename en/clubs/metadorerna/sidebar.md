@@ -8,7 +8,7 @@ Carl Liljencrantz</br>
 
 #### Head of Chapter Hall (Media)
 (Vacant)</br>
-[sektionslokal@media.kth.se](mailto:sektionslokal@media.kth.se)
+[sektionslokal@medieteknik.com](mailto:sektionslokal@medieteknik.com)
 
 ## Links
 * [Chapter Hall booking](en/chapter/lokalbokning)
