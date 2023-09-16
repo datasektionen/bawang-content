@@ -23,6 +23,22 @@ Lovisa Sjöberg <br />
 [lillasyster@datasektionen.se](mailto:lillasyster@datasektionen.se)<br /> 
 070-364 47 79
 
+### Det Kongliga Drifveriet
+**Konglig Öfverdrif**, <br />
+Bror Sebastian Sjövald<br />
+[ofverdrif@datasektionen.se](mailto:ofverdrif@datasektionen.se)<br />
+073-600 70 21
+
+**Konglig Direktifdrif**, <br />
+Lucas Dow<br />
+[direktifdrif@datasektionen.se](mailto:direktifdrif@datasektionen.se)<br />
+073-551 00 01
+
+**Konglig Indrif**, <br />
+Olivia Aronsson<br />
+[indrif@datasektionen.se](mailto:indrif@datasektionen.se)<br />
+070-685 87 74
+
 ### Det Kongliga Doqumenteriet
 **Samdoquise**, <br />
 Eric Sandberg<br />

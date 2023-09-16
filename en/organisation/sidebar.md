@@ -44,9 +44,17 @@ The Current social equality policy.
 
 The cohabitation agreements for META.
 
+#### [Protocols](/en/organisation/protokoll)
+
+Protocols from chapter meetings and D-directorate meetings.
+
 #### [Graphic Charter](/en/organisation/grafisk-profil)
 
 How am I allowed to use the Computer Science chapter's logo and where can I find it in print-friendly file format?
+
+#### [Hedersdelta](/en/chapter/hedersdelta)
+
+List of the people who have been awarded the The Honorary Delta.
 
 #### [Hedersmedlem](/en/chapter/hedersmedlem)
 
@@ -56,5 +64,6 @@ List of the people who have been appointed Honorary Member on the Computer Scien
 
 -   [Th D-directorate on Facebook](https://facebook.com/drektoratet/)
 -   [What does the Board of Directors do](/en/organisation/sammansattning)
+-   [Protocols](/en/organisation/protokoll)
 -   [By-laws](https://styrdokument.datasektionen.se/stadgar)
 -   [Rules](https://styrdokument.datasektionen.se/reglemente)

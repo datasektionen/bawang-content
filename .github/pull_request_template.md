@@ -1,9 +1,3 @@
-# PR-stopp!
-
-No pull requests will be accepted before NG!
-
----
-
 ## Describe your changes
 
 ## Checklist before requesting a review
