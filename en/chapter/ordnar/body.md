@@ -158,7 +158,7 @@ The Orden's insignia is a fallen five-pointed golden star, with a black field, a
 
 Motto: We are the ones actually in charge.
 
-    David Puustinen, Tricesimus Septimus, 2022
+    David Puustinen, Tricesimus Septimus 2022
     Niklas Vatn, Tricesimus Sextus 2020
     Ävelin Pantigoso, Tricesimus Quartus 2019
     Victor Sellstedt, Tricesimus Quartus 2018
