@@ -9,7 +9,7 @@ Medlemskap i Klubbmästare Emeritus-orden tilldelas de klubbmästare på Datasek
 Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
 
     Lucas Dow, Duodequadragesimus 2022/2023
-    Jennifer Larsson, Tricesimus Septimus 2021/2022
+    Jennifer Larsson, Tricesima Septima 2021/2022
     George Bassilious, Tricesimus Quintus 2020/2021
     Melvin Lundqvist, Tricesimus Quintus 2019/2020
     Felix Andersson, Tricesimus Quartus 2018/2019
@@ -56,10 +56,10 @@ Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig s
 Valspråk: Ensam är stark. Tillsammans är vi bara många.
 
     Luciano Zapata, Tricesimus Sextus 2022
-    Isabel Redtzer, Tricesimus Sextus 2021
+    Isabel Redtzer, Tricesima Sexta 2021
     Joar Rutqvist, Tricesimus Quartus 2020
     Mikael Forsmark, Duotricesimus 2019
-    Josefin Nilsson, Tricesimus Tertia 2018
+    Josefin Nilsson, Tricesima Tertia 2018
     Shapour Jahanshahi, Untricesimus 2017
     Hanna Nyblom, Tricesima 2016
     Shayan Effati, Tricesimus 2015
@@ -102,8 +102,8 @@ Medlemskap i Storasyskon Emeritus-orden tilldelas de Storasyskon som förtjänst
 Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
    
     George Bassilious, Tricesimus Quintus 2022
-    Agnes Forsberg, Tricesimus Quintus 2021
-    Lisa Håkanson Krantz, Tricesimus Quartus 2020
+    Agnes Forsberg, Tricesima Quinta 2021
+    Lisa Håkanson Krantz, Tricesima Quarta 2020
     Emil Lindblom, Duotricesimus 2019
     Cristian Osorio Bretti, Tricesimus Tertius 2018
     Jonas Dahl, Untricesimus 2017
@@ -114,7 +114,7 @@ Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna
     Johan Stjernberg, Vicesiums Sextus 2012
     Emma Angermund, Vicesimus Sexta 2011
     Simon Lundmark, Vicesimus Quintus 2010
-    Sofie Björk, Terius Vicesima 2009
+    Sofie Björk, Tertia Vicesima 2009
     Simon Stenström, Tertius Vicesimus 2008
     Anna Atmer, Undevicesima 2007
     Martin Doktár, Unvicesimus 2006
@@ -149,7 +149,7 @@ Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i g
     Alexander Viklund, Duotricesimus 2016
     Ludvig Hagberg, Undetricesimus 2015
     Filip Shulze, Tricesimus 2014
-    Frida Jansson, Vicesimus Septa 2013
+    Frida Jansson, Vicesima Septa 2013
     Victor Koronen, Vicesimus Septus 2012
     Max Nordlund, Duodetricesimus 2011
 
