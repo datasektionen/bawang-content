@@ -143,6 +143,7 @@ Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i g
 
     Matteus Berg, Tricesimus Septimus 2021
     William Nilsson, Tricesimus Sextus 2020
+    Jakob Arvidsson, Tricesimus Quartus 2019
     Gustav Ung, Tricesimus Quartus 2018
     Andreas Magnedal Holmgren, Tricesimus Quartus 2017
     Alexander Viklund, Duotricesimus 2016
