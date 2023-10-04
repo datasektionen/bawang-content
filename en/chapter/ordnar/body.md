@@ -8,7 +8,8 @@ Membership of the Klubbmästare Emeritus order is awarded to Klubbmästare (head
 
 The order's medal is a five-pointed silver star, with a cerise field, and a black delta in the middle. The star is coated by a laurel wreath.
 
-    Jennifer Larsson, Tricesimus Septimus 2021/2022
+    Lucas Dow, Duodequadragesimus 2022/2023
+    Jennifer Larsson, Tricesima Septima 2021/2022
     George Bassilious, Tricesimus Quintus 2020/2021
     Melvin Lundqvist, Tricesimus Quintus 2019/2020
     Felix Andersson, Tricesimus Quartus 2018/2019
@@ -54,10 +55,10 @@ The order's medal is a five-pointed overthrown black star, with a cerise field s
 Motto: Alone is strong. Together we are just many. 
 
     Luciano Zapata, Tricesimus Sextus 2022
-    Isabel Redtzer, Tricesimus Sextus 2021
+    Isabel Redtzer, Tricesima Sexta 2021
     Joar Rutqvist, Tricesimus Quartus 2020
     Mikael Forsmark, Duotricesimus 2019
-    Josefin Nilsson, Tricesimus Tertia 2018
+    Josefin Nilsson, Tricesima Tertia 2018
     Shapour Jahanshahi, Untricesimus 2017
     Hanna Nyblom, Tricesima 2016
     Shayan Effati, Tricesimus 2015
@@ -100,8 +101,8 @@ Membership of the Storasyskon Emeritus order is awarded to Storasyskon (head of 
 The order's medal is a five-pointed cerise star, with a silver field, and a black delta in the middle. The star is coated by a laurel wreath.
     
     George Bassilious, Tricesimus Quintus 2022
-    Agnes Forsberg, Tricesimus Quintus 2021
-    Lisa Håkanson Krantz, Tricesimus Quartus 2020
+    Agnes Forsberg, Tricesima Quinta 2021
+    Lisa Håkanson Krantz, Tricesima Quarta 2020
     Emil Lindblom, Duotricesimus 2019
     Cristian Osorio Bretti, Tricesimus Tertius 2018
     Jonas Dahl, Untricesimus 2017
@@ -112,7 +113,7 @@ The order's medal is a five-pointed cerise star, with a silver field, and a blac
     Johan Stjernberg, Vicesiums Sextus 2012
     Emma Angermund, Vicesimus Sexta 2011
     Simon Lundmark, Vicesimus Quintus 2010
-    Sofie Björk, Terius Vicesima 2009
+    Sofie Björk, Tertia Vicesima 2009
     Simon Stenström, Tertius Vicesimus 2008
     Anna Atmer, Undevicesima 2007
     Martin Doktár, Unvicesimus 2006
@@ -141,12 +142,13 @@ The order's medal is a five-pointed green star, with a black field, and a cerise
 
     Matteus Berg, Tricesimus Septimus 2021
     William Nilsson, Tricesimus Sextus 2020
+    Jakob Arvidsson, Tricesimus Quartus 2019
     Gustav Ung, Tricesimus Quartus 2018
     Andreas Magnedal Holmgren, Tricesimus Quartus 2017
     Alexander Viklund, Duotricesimus 2016
     Ludvig Hagberg, Undetricesimus 2015
     Filip Shulze, Tricesimus 2014
-    Frida Jansson, Vicesimus Septa 2013
+    Frida Jansson, Vicesima Septa 2013
     Victor Koronen, Vicesimus Septus 2012
     Max Nordlund, Duodetricesimus 2011
 
