@@ -1,4 +1,4 @@
-## To book META
+# To book META
 
 To book META please use the booking system at
 **[bokning.datasektionen.se](http://bokning.datasektionen.se)**. If you
@@ -11,7 +11,7 @@ please ask in your email.
 
 In the booking page you can choose to book META (the entire chapter hall) or the meeting room.
 When booking META, please specify whether or not you are going to serve alcohol (not necessary if you only
-book the meetingroom).
+book the meeting room).
 
 In this year's [cohabitation agreement](https://dsekt.se/samboendeavtal) it is stated (note that the text is translated):
 
