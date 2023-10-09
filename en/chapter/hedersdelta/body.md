@@ -4,7 +4,7 @@ The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It i
 
 Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/hedersdelta)! You can also make nominations by emailing the [d-Directorate](mailto:drek@datasektionen.se) (the board of the chapter).
 
-# Innehavare av Hedersdeltat
+# Possessors of Hedersdeltat
 
 <dl>
   <dt></dt>
@@ -19,7 +19,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
   </dd>
 </dl>
 
-## Mottagare 2022
+## Recipients 2022
 
 <dl>
   <dt></dt>
@@ -34,7 +34,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
   </dd>
 </dl>
 
-## Mottagare 2021
+## Recipients 2021
 
 <dl>
 <dt>
@@ -47,7 +47,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2020
+## Recipients 2020
 
 <dl>
 <dt>
@@ -59,7 +59,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2019
+## Recipients 2019
 
 <dl>
 <dt>
@@ -71,7 +71,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2018
+## Recipients 2018
 
 <dl>
 <dt>
@@ -88,7 +88,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2017
+## Recipients 2017
 
 <dl>
 <dt>
@@ -110,7 +110,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2016
+## Recipients 2016
 
 <dl>
 <dt>
@@ -127,7 +127,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2015
+## Recipients 2015
 
 <dl>
 <dt>
@@ -154,7 +154,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2014
+## Recipients 2014
 
 <dl>
 <dt>
@@ -181,7 +181,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2013
+## Recipients 2013
 
 <dl>
 <dt>
@@ -218,7 +218,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2012
+## Recipients 2012
 
 <dl>
 <dt>
@@ -235,7 +235,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2011
+## Recipients 2011
 
 <dl>
 <dt>
@@ -267,7 +267,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2010
+## Recipients 2010
 
 <dl>
 <dt>
@@ -299,7 +299,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2009
+## Recipients 2009
 
 <dl>
 <dt>
@@ -330,7 +330,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2008
+## Recipients 2008
 
 <dl>
 <dt>
@@ -352,7 +352,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2007
+## Recipients 2007
 
 <dl>
 <dt>
@@ -379,7 +379,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2006
+## Recipients 2006
 
 <dl>
 <dt>
@@ -390,7 +390,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2005
+## Recipients 2005
 
 <dl>
 <dt>
@@ -405,7 +405,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2004
+## Recipients 2004
 
 <dl>
 <dt>
@@ -428,7 +428,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2003
+## Recipients 2003
 
 <dl>
 <dt>
@@ -443,7 +443,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2002
+## Recipients 2002
 
 <dl>
 <dt>
@@ -482,7 +482,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2001
+## Recipients 2001
 
 <dl>
 <dt>
@@ -493,7 +493,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 2000
+## Recipients 2000
 
 <dl>
 <dt>
@@ -504,7 +504,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 1999
+## Recipients 1999
 
 <dl>
 <dt>
@@ -527,7 +527,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 1998
+## Recipients 1998
 
 <dl>
 <dt>
@@ -546,7 +546,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 1997
+## Recipients 1997
 
 <dl>
 <dt>
@@ -565,7 +565,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 1996
+## Recipients 1996
 
 <dl>
 <dt>
@@ -584,7 +584,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 1995
+## Recipients 1995
 
 <dl>
 <dt>
@@ -607,15 +607,15 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 1994
+## Recipients 1994
 
 ???
 
-## Mottagare 1993
+## Recipients 1993
 
 ???
 
-## Mottagare 1992
+## Recipients 1992
 
 <dl>
 <dt>
@@ -642,7 +642,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 1991
+## Recipients 1991
 
 <dl>
 <dt>
@@ -665,7 +665,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 1990
+## Recipients 1990
 
 <dl>
 <dt>
@@ -696,7 +696,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 1989
+## Recipients 1989
 
 <dl>
 <dt>
@@ -727,7 +727,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 </dd>
 </dl>
 
-## Mottagare 1988
+## Recipients 1988
 
 <dl>
 <dt>
