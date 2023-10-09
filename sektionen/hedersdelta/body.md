@@ -417,7 +417,7 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-<a href="#martinedquist">Martin Edquist</a>, Septus decimus
+<a href="#martinedquist">Martin Edquist</a>, Septus Decimus
 
 </dd>
 <dd>
@@ -429,7 +429,7 @@ går det även att maila D-rektoratet.
 
 </dd>
 <dd>
-<a href="#markpeldius">Mark Peldius</a>, Septus decimus
+<a href="#markpeldius">Mark Peldius</a>, Septus Decimus
 
 </dd>
 </dl>
@@ -440,7 +440,7 @@ går det även att maila D-rektoratet.
 <dt>
 </dt>
 <dd>
-<a href="#robertandersson">Robert Andersson</a>, Sextus decimus
+<a href="#robertandersson">Robert Andersson</a>, Sextus Decimus
 
 </dd>
 <dd>
@@ -463,7 +463,7 @@ går det även att maila D-rektoratet.
 
 </dd>
 <dd>
-<a href="#jonashogberg">Jonas Högberg</a>, tertius decimus
+<a href="#jonashogberg">Jonas Högberg</a>, Tertius Decimus
 
 </dd>
 <dd>
@@ -471,19 +471,19 @@ går det även att maila D-rektoratet.
 
 </dd>
 <dd>
-<a href="#josefinhallberg">Josefin Hallberg</a>, Quinta decima
+<a href="#josefinhallberg">Josefin Hallberg</a>, Quinta Decima
 
 </dd>
 <dd>
-<a href="#mariakruse">Maria Kruse</a>, Quinta decima
+<a href="#mariakruse">Maria Kruse</a>, Quinta Decima
 
 </dd>
 <dd>
-<a href="#arvidnilsson">Arvid Nilsson</a>, Quintus decimus
+<a href="#arvidnilsson">Arvid Nilsson</a>, Quintus Decimus
 
 </dd>
 <dd>
-<a href="#niklaspersson">Niklas Persson</a>, Quintus decimus
+<a href="#niklaspersson">Niklas Persson</a>, Quintus Decimus
 
 </dd>
 </dl>
