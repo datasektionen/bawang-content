@@ -5,7 +5,7 @@ The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It i
 Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/hedersdelta)! You can also make nominations by emailing the [d-Directorate](mailto:drek@datasektionen.se) (the board of the chapter).
 
 # Possessors of Hedersdeltat
-
+## Recipients 2023
 <dl>
   <dt></dt>
   <dd>
