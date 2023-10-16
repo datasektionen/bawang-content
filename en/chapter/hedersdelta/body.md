@@ -4,728 +4,776 @@ The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It i
 
 Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/hedersdelta)! You can also make nominations by emailing the [d-Directorate](mailto:drek@datasektionen.se) (the board of the chapter).
 
-# Innehavare av Hedersdeltat
+# Possessors of Hedersdeltat
+## Recipients 2023
+<dl>
+  <dt></dt>
+  <dd>
+    <a href="#jakarv">Jakob Arvidsson</a>, Tricesimus Quartus
+  </dd>
+  <dd>
+    <a href="#gdba">George Dawod Bassilious</a>, Tricesimus Quintus
+  </dd>
+  <dd>
+    <a href="#hermanka">Herman Karlsson</a>, Tricesimus Quintus
+  </dd>
+</dl>
 
-## Mottagare 2023
+## Recipients 2022
 
 <dl>
   <dt></dt>
   <dd>
-    Jakob Arvidsson, Tricesimus Quartus
+    <a href="#doufi"> Douglas Fischer </a>, Tricesimus Quintus
   </dd>
   <dd>
-    George Dawod Bassilious, Tricesimus Quintus
+    <a href="#axeel"> Axel Elmarsson </a>, Tricesimus Quintus
   </dd>
   <dd>
-    Herman Karlsson, Tricesimus Quintus
+   <a href="#sarvi"> Sara Videfors </a>, Tricesima Quinta
   </dd>
 </dl>
 
-## Mottagare 2022
-
-<dl>
-  <dt></dt>
-  <dd>
-    Douglas Fischer, Tricesimus Quintus
-  </dd>
-  <dd>
-    Axel Elmarsson, Tricesimus Quintus
-  </dd>
-  <dd>
-    Sara Videfors, Tricesimus Quintus
-  </dd>
-</dl>
-
-## Mottagare 2021
+## Recipients 2021
 
 <dl>
 <dt>
 </dt>
 <dd>
-Jesper Larsson, Tricesimus Tertius
+<a href="#jesla"> Jesper Larsson </a>, Tricesimus Tertius
 </dd>
 <dd>
- Gábor Nagy, Tricesimus Tertius
+<a href="#gabna"> Gábor Nagy </a>, Tricesimus Tertius
 </dd>
 </dl>
 
-## Mottagare 2020
+## Recipients 2020
 
 <dl>
 <dt>
 </dt>
 <dd>
-Cristian Osorio Bretti, Tricesimus Tertius
+
+<a href="#criob"> Cristian Osorio Bretti</a>, Tricesimus Tertius
 
 </dd>
 </dl>
 
-## Mottagare 2019
+## Recipients 2019
 
 <dl>
 <dt>
 </dt>
 <dd>
-Shapour Jahanshahi, Untricesimus
+
+<a href="#shapour">Shapour Jahanshahi</a>, Untricesimus
 
 </dd>
 </dl>
 
-## Mottagare 2018
+## Recipients 2018
 
 <dl>
 <dt>
 </dt>
 <dd>
-Jonas Dahl, Untricesimus
+
+<a href="#jonadahl"> Jonas Dahl</a>, Untricesimus
 
 </dd>
 <dd>
-Alexander Viklund, Duotricesimus
+
+<a href="#viklu"> Alexander Viklund</a>, Duotricesimus
 
 </dd>
 </dl>
 
-## Mottagare 2017
+## Recipients 2017
 
 <dl>
 <dt>
 </dt>
 <dd>
-Jesper Bränn, Tricesimus
+
+<a href="#jbrann"> Jesper Bränn</a>, Tricesimus
 
 </dd>
 <dd>
-Mattias Danielsson, Tricesimus
+
+<a href="#matdanie"> Mattias Danielsson</a>, Tricesimus
 
 </dd>
 <dd>
-Shayan Effati, Tricesimus
+
+<a href="#shayane"> Shayan Effati</a>, Tricesimus
 
 </dd>
 </dl>
 
-## Mottagare 2016
+## Recipients 2016
 
 <dl>
 <dt>
 </dt>
 <dd>
-Lovisa Runhem, Tricesima
+
+<a href="#lrunhem"> Lovisa Runhem</a>, Tricesima
 
 </dd>
 <dd>
-Andreas Linn, Tricesimus
+
+<a href="#anlinn">Andreas Linn</a>, Tricesimus
 
 </dd>
 </dl>
 
-## Mottagare 2015
+## Recipients 2015
 
 <dl>
 <dt>
 </dt>
 <dd>
-Jesper Bratt, Vicesimus Septus
+
+<a href="#jbratt"> Jesper Bratt</a>, Vicesimus Septus
 
 </dd>
 <dd>
-Niklas Bäckström, Vicesimus Septus
+
+<a href="#nikbac"> Niklas Bäckström</a>, Vicesimus Septus
 
 </dd>
 <dd>
-Peter Boström, Vicesimus Sextus
+
+<a href="#pbos">Peter Boström</a>, Vicesimus Sextus
 
 </dd>
 <dd>
-Petter Djupfeldt, Vicesimus Septus
+
+<a href="#petterdj">Petter Djupfeldt</a>, Vicesimus Septus
 
 </dd>
 </dl>
 
-## Mottagare 2014
+## Recipients 2014
 
 <dl>
 <dt>
 </dt>
 <dd>
-Marie Alexander, Duodetricesimus
+
+<a href="#marieale">Marie Alexander</a>, Duodetricesima
 
 </dd>
 <dd>
-Emma Angermund, Vicesimus Sextus
+
+<a href="#eang">Emma Angermund</a>, Vicesima Sexta
 
 </dd>
 <dd>
-Robert Welin Berger, Vicesimus Sextus
+
+<a href="#robertwb">Robert Welin Berger</a>, Vicesimus Sextus
 
 </dd>
 <dd>
-Frida Jansson, Vicesimus Septus
+
+<a href="#fridajan">Frida Jansson</a>, Vicesima Septa
 
 </dd>
 </dl>
 
-## Mottagare 2013
+## Recipients 2013
 
 <dl>
 <dt>
 </dt>
 <dd>
-Alexander Solsmed, Vicesimus Septus
+
+<a href="#solsmed">Alexander Solsmed</a>, Vicesimus Septus
 
 </dd>
 <dd>
-Andreas Tarandi, Vicesimus Sextus
+
+<a href="#taran">Andreas Tarandi</a>, Vicesimus Sextus
 
 </dd>
 <dd>
-Johan Stjernberg, Vicesimus Sextus
+
+<a href="#stjer">Johan Stjernberg</a>, Vicesimus Sextus
 
 </dd>
 <dd>
-Max Nordlund, Duodetricesimus
+
+<a href="#maxno">Max Nordlund</a>, Duodetricesimus
 
 </dd>
 <dd>
-Michael Hjortholt, Vicesimus Quintus
+
+<a href="#michjo">Michael Hjortholt</a>, Vicesimus Quintus
 
 </dd>
 <dd>
-Victor Koronen, Vicesimus Septus
+
+<a href="#koronen">Victor Koronen</a>, Vicesimus Septus
 
 </dd>
 </dl>
 
-## Mottagare 2012
+## Recipients 2012
 
 <dl>
 <dt>
 </dt>
 <dd>
-Charlie Lindviken, Vicesimus Sextus
+
+<a href="#lindvi">Charlie Lindviken</a>, Vicesimus Sextus
 
 </dd>
 <dd>
-Andreas Falk, Vicesimus Septus
+
+<a href="#andfal">Andreas Falk</a>, Vicesimus Septus
 
 </dd>
 </dl>
 
-## Mottagare 2011
+## Recipients 2011
 
 <dl>
 <dt>
 </dt>
 <dd>
-Jonas Sundberg, Vicesimus Quartus
+
+<a href="#josundb">Jonas Sundberg</a>, Vicesimus Quartus
 
 </dd>
 <dd>
-Egil Antonsen, Vicesimus Quartus
+
+<a href="#egila">Egil Antonsen</a>, Vicesimus Quartus
 
 </dd>
 <dd>
-Martin Frost, Tertius Vicesimus
+
+<a href="#blame">Martin Frost</a>, Tertius Vicesimus
 
 </dd>
 <dd>
-Pärham Fazelzadeh Hashemi, Vicesimus Quartus
+
+<a href="#parhamfh">Pärham Fazelzadeh Hashemi</a>, Vicesimus Quartus
 
 </dd>
 <dd>
-Tobias Svensson, Vicesimus Quartus
+
+<a href="#tosve">Tobias Svensson</a>, Vicesimus Quartus
 
 </dd>
 </dl>
 
-## Mottagare 2010
+## Recipients 2010
 
 <dl>
 <dt>
 </dt>
 <dd>
-Mikael Gerdin, Vicesimus Quartus
+
+<a href="#mgerdin">Mikael Gerdin</a>, Vicesimus Quartus
 
 </dd>
 <dd>
-Patrik Stenmark, Dovicesimus
+
+<a href="#spatrik">Patrik Stenmark</a>, Dovicesimus
 
 </dd>
 <dd>
-Joel Westberg, Tertius Vicesimus
+
+<a href="#joelwes">Joel Westberg</a>, Tertius Vicesimus
 
 </dd>
 <dd>
-Pontus Walter, Tertius Vicesimus
+
+<a href="#pwalter">Pontus Walter</a>, Tertius Vicesimus
 
 </dd>
 <dd>
-Per Almquist, Tertius Vicesimus
+
+<a href="#peralmq">Per Almquist</a>, Tertius Vicesimus
 
 </dd>
 </dl>
 
-## Mottagare 2009
+## Recipients 2009
 
 <dl>
 <dt>
 </dt>
 <dd>
-Simon Habtemikael, Dovicesimus
+<a href="#simonhabtemikael">Simon Habtemikael</a>, Dovicesimus
 
 </dd>
 <dd>
-Per-Anders Legeryd, Dovicesimus
+
+<a href="#peranderslegeryd">Per-Anders Legeryd</a>, Dovicesimus
 
 </dd>
 <dd>
-Elin Rydberg, Vicesimus Quarta
+
+<a href="#elinrydberg">Elin Rydberg</a>, Vicesima Quarta
 
 </dd>
 <dd>
-Simon Stenström, Tertius Vicesimus
+
+<a href="#simonstenstrom">Simon Stenström</a>, Tertius Vicesimus
 
 </dd>
 <dd>
-Roger Ström, Unvicesimus
+
+<a href="#rogerstrom">Roger Ström</a>, Unvicesimus
 
 </dd>
 </dl>
 
-## Mottagare 2008
+## Recipients 2008
 
 <dl>
 <dt>
 </dt>
 <dd>
-Mikael Auno, Dovicesimus
+
+<a href="#mikaelauno">Mikael Auno</a>, Dovicesimus
 
 </dd>
 <dd>
-Frej Naimi-Akbar, Vicesimus
+
+<a href="#frejnaimiakbar">Frej Naimi-Akbar</a>, Vicesimus
 
 </dd>
 <dd>
-Jon Karlfeldt (Larsson), Undevicesimus
+
+<a href="#jonkarlfeldtlarsson">Jon Karlfeldt (Larsson)</a>, Undevicesimus
 
 </dd>
 </dl>
 
-## Mottagare 2007
+## Recipients 2007
 
 <dl>
 <dt>
 </dt>
 <dd>
-Eskil Andréen, Unvicesimus
+<a href="#eskilandreen">Eskil Andréen</a>, Unvicesimus
 
 </dd>
 <dd>
-Lorica Claesson, Tertius Vicesima
+<a href="#loricaclaesson">Lorica Claesson</a>, Tertia Vicesima
 
 </dd>
 <dd>
-Erik Edstam, Undevicesimus
+<a href="#erikedstam">Erik Edstam</a>, Undevicesimus
 
 </dd>
 <dd>
-Martin Nygren, Undevicesimus
+<a href="#martinnygren">Martin Nygren</a>, Undevicesimus
 
 </dd>
 <dd>
-Pehr Söderman, Unvicesimus
+<a href="#pehrsoderman">Pehr Söderman</a>, Unvicesimus
 
 </dd>
 </dl>
 
-## Mottagare 2006
+## Recipients 2006
 
 <dl>
 <dt>
 </dt>
 <dd>
-Henrik Fräsén, Vicesimus
+<a href="#henrikfrasen">Henrik Fräsén</a>, Vicesimus
 
 </dd>
 </dl>
 
-## Mottagare 2005
+## Recipients 2005
 
 <dl>
 <dt>
 </dt>
 <dd>
-Johan Björling, Undevicesimus
+<a href="#johanbjorling">Johan Björling</a>, Undevicesimus
 
 </dd>
 <dd>
-Emil Stenström, Undevicesimus
+<a href="#emilstenstrom">Emil Stenström</a>, Undevicesimus
 
 </dd>
 </dl>
 
-## Mottagare 2004
+## Recipients 2004
 
 <dl>
 <dt>
 </dt>
 <dd>
-Martin Edquist, Septus decimus
+<a href="#martinedquist">Martin Edquist</a>, Septus Decimus
 
 </dd>
 <dd>
-Magnus Hult, Dodevicesimus
+<a href="#magnushult">Magnus Hult</a>, Dodevicesimus
 
 </dd>
 <dd>
-Andreas Mattsson, Dodevicesimus
+<a href="#andreasmattsson">Andreas Mattsson</a>, Dodevicesimus
 
 </dd>
 <dd>
-Mark Peldius, Septus decimus
+<a href="#markpeldius">Mark Peldius</a>, Septus Decimus
 
 </dd>
 </dl>
 
-## Mottagare 2003
+## Recipients 2003
 
 <dl>
 <dt>
 </dt>
 <dd>
-Robert Andersson, Sextus decimus
+<a href="#robertandersson">Robert Andersson</a>, Sextus Decimus
 
 </dd>
 <dd>
-Tommie Gannert, Dodevicesimus
+<a href="#tommiegannert">Tommie Gannert</a>, Dodevicesimus
 
 </dd>
 </dl>
 
-## Mottagare 2002
+## Recipients 2002
 
 <dl>
 <dt>
 </dt>
 <dd>
-Magnus Axell, Sigvard
+<a href="#magnusaxell">Magnus Axell</a>, Sigvard
 
 </dd>
 <dd>
-Pontus Axelsson, Dodecimus
+<a href="#pontusaxelsson">Pontus Axelsson</a>, Dodecimus
 
 </dd>
 <dd>
-Anna Eriksson, Sigvard
+<a href="#jonashogberg">Jonas Högberg</a>, Tertius Decimus
 
 </dd>
 <dd>
-Josefin Hallberg, Quinta decima
+<a href="#annaeriksson">Anna Eriksson</a>, Sigvard
 
 </dd>
 <dd>
-Jonas Högberg, tertius decimus
+<a href="#josefinhallberg">Josefin Hallberg</a>, Quinta Decima
 
 </dd>
 <dd>
-Maria Kruse, Quinta decima
+<a href="#mariakruse">Maria Kruse</a>, Quinta Decima
 
 </dd>
 <dd>
-Arvid Nilsson, Quintus decimus
+<a href="#arvidnilsson">Arvid Nilsson</a>, Quintus Decimus
 
 </dd>
 <dd>
-Niklas Persson, Quintus decimus
+<a href="#niklaspersson">Niklas Persson</a>, Quintus Decimus
 
 </dd>
 </dl>
 
-## Mottagare 2001
+## Recipients 2001
 
 <dl>
 <dt>
 </dt>
 <dd>
-Daniel Westbom, Sigvard
+<a href="#danielwestbom">Daniel Westbom</a>, Sigvard
 
 </dd>
 </dl>
 
-## Mottagare 2000
+## Recipients 2000
 
 <dl>
 <dt>
 </dt>
 <dd>
-Joakim Meldahl, Sigvard
+<a href="#joakimmeldahl">Joakim Meldahl</a>, Sigvard
 
 </dd>
 </dl>
 
-## Mottagare 1999
+## Recipients 1999
 
 <dl>
 <dt>
 </dt>
 <dd>
-Christer Gessler, dodecimus
+<a href="#christergessler">Christer Gessler</a>, Dodecimus
 
 </dd>
 <dd>
-Patrick Grundler, dodecimus
+<a href="#patrickgrundler">Patrick Grundler</a>, Dodecimus
 
 </dd>
 <dd>
-Helena Holmgren, dodecima
+<a href="#helenaholmgren">Helena Holmgren</a>, Dodecima
 
 </dd>
 <dd>
-Mikael Stralje, tertius decimus
+<a href="#mikaelstralje">Mikael Stralje</a>, Tertius Decimus
 
 </dd>
 </dl>
 
-## Mottagare 1998
+## Recipients 1998
 
 <dl>
 <dt>
 </dt>
 <dd>
-Niklas Lindholm, Dodecimus
+<a href="#niklaslindholm">Niklas Lindholm</a>, Dodecimus
 
 </dd>
 <dd>
-Martin Hansson, Dodecimus
+<a href="#martinhansson">Martin Hansson</a>, Dodecimus
 
 </dd>
 <dd>
-Fredrik Sandberg, Docecimus
+<a href="#fredriksandberg">Fredrik Sandberg</a>, Docecimus
 
 </dd>
 </dl>
 
-## Mottagare 1997
+## Recipients 1997
 
 <dl>
 <dt>
 </dt>
 <dd>
-Tomas Nilsson, Decimus
+<a href="#tomasnilsson">Tomas Nilsson</a>, Decimus
 
 </dd>
 <dd>
-Staffan Gustafsson, Undecimus
+<a href="#staffangustafsson">Staffan Gustafsson</a>, Undecimus
 
 </dd>
 <dd>
-Olof Lindholm, Dodecimus
+<a href="#oloflindholm">Olof Lindholm</a>, Dodecimus
 
 </dd>
 </dl>
 
-## Mottagare 1996
+## Recipients 1996
 
 <dl>
 <dt>
 </dt>
 <dd>
-Tomas Nord, Decimus
+<a href="#tomasnord">Tomas Nord</a>, Decimus
 
 </dd>
 <dd>
-Stina Leijonhufvud, Decima
+<a href="#stinaleijonhufvud">Stina Leijonhufvud</a>, Decima
 
 </dd>
 <dd>
-Patrik Nilssom, Decimus
+<a href="#patriknilsson">Patrik Nilsson</a>, Decimus
 
 </dd>
 </dl>
 
-## Mottagare 1995
+## Recipients 1995
 
 <dl>
 <dt>
 </dt>
 <dd>
-Helena Englund, Nona
+<a href="#helenaenglund">Helena Englund</a>, Nona
 
 </dd>
 <dd>
-Johan Runnedahl, Nonus
+<a href="#johanrunnedahl">Johan Runnedahl</a>, Nonus
 
 </dd>
 <dd>
-John Berg, Nonus
+<a href="#johnberg">John Berg</a>, Nonus
 
 </dd>
 <dd>
-Björn Sjöstrand, Oqtavus
+<a href="#bjornsjostrand">Björn Sjöstrand</a>, Oqtavus
 
 </dd>
 </dl>
 
-## Mottagare 1992
+## Recipients 1994
+
+???
+
+## Recipients 1993
+
+???
+
+## Recipients 1992
 
 <dl>
 <dt>
 </dt>
 <dd>
-Carl-Johan Graufelds, Sextus
+<a href="#carljohangraufelds">Carl-Johan Graufelds</a>, Sextus
 
 </dd>
 <dd>
-Eva Skoglund, Septa
+<a href="#evaskoglund">Eva Skoglund</a>, Septa
 
 </dd>
 <dd>
-Åke Järvklo, Tertius
+<a href="#akejarvklo">Åke Järvklo</a>, Tertius
 
 </dd>
 <dd>
-Lars Pechan, Sextus
+<a href="#larspechan">Lars Pechan</a>, Sextus
 
 </dd>
 <dd>
-Jan Garefelt, Oqtavus
+<a href="#jangarefelt">Jan Garefelt</a>, Oqtavus
 
 </dd>
 </dl>
 
-## Mottagare 1991
+## Recipients 1991
 
 <dl>
 <dt>
 </dt>
 <dd>
-Johan Arvidsson, Quintus
+<a href="#johanarvidsson">Johan Arvidsson</a>, Quintus
 
 </dd>
 <dd>
-Magnus Hulthén, Quartus
+<a href="#magnushulthen">Magnus Hulthén</a>, Quartus
 
 </dd>
 <dd>
-Johan Wåhlin, Sextus
+<a href="#johanwahlin">Johan Wåhlin</a>, Sextus
 
 </dd>
 <dd>
-Peter Nemeth, Quintus
+<a href="#peternemeth">Peter Nemeth</a>, Quintus
 
 </dd>
 </dl>
 
-## Mottagare 1990
+## Recipients 1990
 
 <dl>
 <dt>
 </dt>
 <dd>
-Thomas Bill, Tertius
+<a href="#thomasbill">Thomas Bill</a>, Tertius
 
 </dd>
 <dd>
-Peter Franzen, Sequndus
+<a href="#peterfranzen">Peter Franzen</a>, Sequndus
 
 </dd>
 <dd>
-Rudolf Hersén, Quartus
+<a href="#rudolfhersen">Rudolf Hersén</a>, Quartus
 
 </dd>
 <dd>
-Anne Laurell, Quarta
+<a href="#annelaurell">Anne Laurell</a>, Quarta
 
 </dd>
 <dd>
-Bertil Lundell, Quartus
+<a href="#bertillundell">Bertil Lundell</a>, Quartus
 
 </dd>
 <dd>
-Kristina Nedlich, Quarta
+<a href="#kristinanedlich">Kristina Nedlich</a>, Quarta
 
 </dd>
 </dl>
 
-## Mottagare 1989
+## Recipients 1989
 
 <dl>
 <dt>
 </dt>
 <dd>
-Robert Edin, Tertius
+<a href="#robertedin">Robert Edin</a>, Tertius
 
 </dd>
 <dd>
-Anette Gunnarsson, Tertius
+<a href="#anettegunnarsson">Anette Gunnarsson</a>, Tertius
 
 </dd>
 <dd>
-Väinö Hassinen, Quartus
+<a href="#vainohassinen">Väinö Hassinen</a>, Quartus
 
 </dd>
 <dd>
-Mats Hernvall, Sequndus
+<a href="#matshernvall">Mats Hernvall</a>, Sequndus
 
 </dd>
 <dd>
-Ari Sahlsten, Sequndus
+<a href="#arisahlsten">Ari Sahlsten</a>, Sequndus
 
 </dd>
 <dd>
-Erik Wåhlin, Tertius
+<a href="#erikwahlin">Erik Wåhlin</a>, Tertius
 
 </dd>
 </dl>
 
-## Mottagare 1988
+## Recipients 1988
 
 <dl>
 <dt>
 </dt>
 <dd>
-Patrik Anderson, Primus
+<a href="#patrikanderson">Patrik Anderson</a>, Primus
 
 </dd>
 <dd>
-Kjell Lundesten, Primus
+<a href="#kjelllundesten">Kjell Lundesten</a>, Primus
 
 </dd>
 <dd>
-Henrik Syk, Primus
+<a href="#henriksyk">Henrik Syk</a>, Primus
 
 </dd>
 <dd>
-Mia Agrell, Sequnda
+<a href="#miaagrell">Mia Agrell</a>, Sequnda
 
 </dd>
 <dd>
-Jerker Andersson, Sequndus
+<a href="#jerkerandersson">Jerker Andersson</a>, Sequndus
 
 </dd>
 <dd>
-Jesper Lundh, Sequndus
+<a href="#jesperlundh">Jesper Lundh</a>, Sequndus
 
 </dd>
 <dd>
-Johan Palmkvist, Sequndus
+<a href="#johanpalmkvist">Johan Palmkvist</a>, Sequndus
 
 </dd>
 <dd>
-Björn Gambäck, Tertius
+<a href="#bjorngamback">Björn Gambäck</a>, Tertius
 
 </dd>
 <dd>
-Hillevi Gavel, Tertia
+<a href="#hillevigavel">Hillevi Gavel</a>, Tertia
 
 </dd>
 <dd>
-Kai-Mikael Jää-Aro, Tertius
+<a href="#kaimikaeljaaaro">Kai-Mikael Jää-Aro</a>, Tertius
 
 </dd>
 <dd>
-Wolfram Meyer, Tertius
+<a href="#wolframmeyer">Wolfram Meyer</a>, Tertius
 
 </dd>
 </dl>
