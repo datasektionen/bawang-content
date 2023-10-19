@@ -7,7 +7,7 @@ kontaktfunktionär.
 
 En förteckning över funktionärernas kontaktperson i styrelsen finns [här](https://dsekt.se/kontaktperson).
 
-## Sektionsordförande - Pontus Söderlund
+## Sektionsordförande - Douglas Fischer
 
 Sektionens ordförande leder D-rektoratets arbete. Ordföranden ansvarar
 även för kontakten med THS och andra sektioner.
@@ -84,7 +84,7 @@ som avser dessa områden. Dessa ansvarsområden inkluderar att:
 
 Ledamot för näringsliv och kommunikation är nåbar på [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se).
 
-## Ledamot för studiesociala frågor - Douglas Fischer
+## Ledamot för studiesociala frågor - Malin Svenberg
 
 Har frågor som rör medlemmarnas psykiska
 och fysiska miljö som ansvarsområde. Arbetar med att utveckla

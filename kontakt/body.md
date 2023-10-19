@@ -36,9 +36,9 @@ D-rektoratet, på adressen [drek@datasektionen.se](mailto:drek@datasektionen.se)
 även kontakta Datasektionens Ordförande direkt:
 
 **Ordförande**<br />
-Pontus Söderlund<br />
+Douglas Fischer<br />
 E-post: [ordf@datasektionen.se](mailto:ordf@datasektionen.se) (Går även till resten av styrelsen) <br />
-[+46 72 150 99 39](tel: +46 72 150 99 39)
+[+46 73 716 03 03](tel: +46 73 716 03 03)
 
 ## Sektionsinformation
 
