@@ -25,8 +25,7 @@ the volunteers are members, and we hope that you are a member! Every
 member is allowed to attend and vote at the chapter meetings(SM).
 
 ### Clubs
-
-[Here is a picture describing our organisation](https://static.datasektionen.se/organisation/karta-2017-01-31.jpg)
+<img src="https://dsekt-assets.s3.amazonaws.com/organisation/verksamhetskarta-2023-10-19.png" style="width:100%;" />
 
 A club is an organisational entity created for a specific purpose. One of our clubs monitors our study environment, another takes care of the sektionslokal, another arrange parties and so forth. Every club has a chairman that is elected at the SM. How to become member of a club varies from which club it is. Some clubs has a limit to how many members they bring in and some have
 interviews. If you want to know more a bout a certain club, you are welcome to contact the club's chairman! ([Here](dfunkt.datasektionen.se) are their contact information).
