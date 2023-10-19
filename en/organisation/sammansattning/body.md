@@ -7,7 +7,7 @@ the decisions at chapter meetings are executed, coordinate different parts of th
 
 Each board member is the contact person in the board for some of out elected volunteers a list can be found [here](https://dsekt.se/kontaktperson).
 
-## The Chairman - Pontus Söderlund
+## The Chairman - Douglas Fischer
 
 The Chairman is in charge of the D-directorate and the contact with THS and other chapters.
 The Chairman and the Vice Chairman work in close cooperation to create a plan and a vision with the rest of the board.
@@ -67,7 +67,7 @@ Is also responsible for internal communications and that important information i
 
 The Board member of Business Relations can be reached at [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se).
 
-## Board member of Student Issues - Douglas Fischer
+## Board member of Student Issues - Malin Svenberg
 
 Works with question regarding the well being of our members, working environment, and
 social events.

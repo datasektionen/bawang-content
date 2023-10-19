@@ -33,9 +33,9 @@ For questions regarding [datasektionen.se](https://datasektionen.se) or other sy
 For questions regarding the chapter's organisation, contact the board at [drek@datasektionen.se](mailto:drek@datasektionen.se). You can also contact the head of the chapter directly at:
 
 **Head of the Computer Science Chapter**<br />
-Pontus Söderlund<br />
+Douglas Fischer<br />
 E-mail: [ordf@datasektionen.se](mailto:ordf@datasektionen.se) (Also goes to the rest of the board) <br />
-[+46 72 150 99 39](tel: +46 72 150 99 39)
+[+46 73 716 03 03](tel: +46 73 716 03 03)
 
 ## Chapter details
 
