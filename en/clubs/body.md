@@ -98,6 +98,8 @@ dJubileet 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetspla
 
 BAMM ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_bamm_2022.pdf))
 
+Spelsylt
+
 ## How to start a project
 
 To start a project, there has to be an interest on the part of the chapter since we'll be using the chapter's money.
