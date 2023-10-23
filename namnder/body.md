@@ -44,8 +44,6 @@ dJubileet 2023 ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplan
 
 BAMM ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_bamm_2022.pdf))
 
-Project Rebase
-
 ## Tidigare nämnder och föreningar på Datasektionen
 
 Spexmästeriet: Var ansvarigt för att skapa nya spex på sektionen. Lades ner på Budget-SM 2013.
