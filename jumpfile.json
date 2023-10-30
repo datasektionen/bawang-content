@@ -11,5 +11,11 @@
 	"/dbuggen": "http://dbu.gg",
 	"/namnder/geek": "/namnder/ada",
 	"/en/clubs/geek": "/en/clubs/ada",
-	"/en/clubs/Valberedningen": "en/clubs/valberedningen"
+	"/en/clubs/Valberedningen": "/en/clubs/valberedningen",
+	"/organisation/krisplan": "/sektionen/krisplan",
+	"/krisplan": "/sektionen/krisplan",
+	"/organisation/budget": "/sektionen/dokument",
+	"/organisation/protokoll": "/sektionen/dokument",
+	"/organisation/verksamhetsplan": "/sektionen/dokument",
+	"/organisation/arsrapporter": "/sektionen/dokument"
 }
