@@ -98,6 +98,8 @@ dJubileet 2023
 
 BAMM
 
+Spelsylt
+
 METAcraft
 
 Operational plans for all current projects are uploaded to [Google Drive](https://dsekt.se/vp-projekt).

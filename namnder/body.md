@@ -44,6 +44,8 @@ dJubileet 2023
 
 BAMM
 
+Spelsylt
+
 METAcraft
 
 Verksamhetsplaner för samtliga öppna projekt läggs upp på [Google Drive](https://dsekt.se/vp-projekt).
