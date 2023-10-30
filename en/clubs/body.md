@@ -100,6 +100,8 @@ BAMM ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_bam
 
 METAcraft
 
+Operational plans for all current projects are uploaded to [Google Drive](dsekt.se/vp-projekt).
+
 ## How to start a project
 
 To start a project, there has to be an interest on the part of the chapter since we'll be using the chapter's money.
