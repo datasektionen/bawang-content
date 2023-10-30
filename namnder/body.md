@@ -46,6 +46,8 @@ BAMM ([verksamhetsplan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_bamm
 
 METAcraft
 
+Verksamhetsplaner för samtliga öppna projekt läggs upp på [Google Drive](dsekt.se/vp-projekt).
+
 ## Tidigare nämnder och föreningar på Datasektionen
 
 Spexmästeriet: Var ansvarigt för att skapa nya spex på sektionen. Lades ner på Budget-SM 2013.
