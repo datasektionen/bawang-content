@@ -76,29 +76,31 @@ Vårbalen - The CS chapters spring ball
 
 ## Current projects
 
-dÅre 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_dare_2023.pdf))
+dÅre 2023
 
 dÅre 2024
 
-Studs 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_studs_2023.pdf))
+Studs 2023
 
 Studs 2024
 
-METAspexet 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_metaspexet_23.pdf))
+METAspexet 2023
 
 METAspexet 2024
 
-Vårbalen 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_varbal_2023.pdf))
+Vårbalen 2023
 
 Vårbalen 2024
 
 Project Pride 2023
 
-dJubileet 2023 ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_djubileet_2023.pdf))
+dJubileet 2023
 
-BAMM ([operational plan](https://yoggi.datasektionen.se/verksamhetsplaner/vp_bamm_2022.pdf))
+BAMM
 
 METAcraft
+
+Operational plans for all current projects are uploaded to [Google Drive](https://dsekt.se/vp-projekt).
 
 ## How to start a project
 
