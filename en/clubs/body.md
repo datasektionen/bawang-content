@@ -100,7 +100,7 @@ BAMM
 
 METAcraft
 
-Operational plans for all current projects are uploaded to [Google Drive](dsekt.se/vp-projekt).
+Operational plans for all current projects are uploaded to [Google Drive](https://dsekt.se/vp-projekt).
 
 ## How to start a project
 
