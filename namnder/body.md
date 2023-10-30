@@ -46,7 +46,7 @@ BAMM
 
 METAcraft
 
-Verksamhetsplaner för samtliga öppna projekt läggs upp på [Google Drive](dsekt.se/vp-projekt).
+Verksamhetsplaner för samtliga öppna projekt läggs upp på [Google Drive](https://dsekt.se/vp-projekt).
 
 ## Tidigare nämnder och föreningar på Datasektionen
 
