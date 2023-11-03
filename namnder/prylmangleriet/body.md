@@ -4,13 +4,13 @@ Vad tusan är Prylmångleriet och vem är Prylis?
 
 Jo Prylis leder prylmångleriet, sektions nämnd som har hand om märken, Ovvar och annat prylrelaterat! Till vår vanliga verksamhet hör bland annat märkesdesign och försäljning, men även andra projekt så som att designa sektionens sångbok. Utöver det finns väldigt stora möjligheter att genomföra andra projekt/ideér, prata med Prylis om du har någon idé du vill förverkliga.
 
-Prylmångleriet är onekligen stället att vända dig till om du vill pimpa din Ovve bortom alla tänkbara gränser. Vanligtvis säljer prylmångleriet märken i META varannan fredag mellan 12:15 och 13:00, men det kan även förekomma försäljningar på events eller när någon godtycklig medlem av prylmångleriet känner att hen har för lite studier. 
+Prylmångleriet är onekligen stället att vända dig till om du vill pimpa din Ovve bortom alla tänkbara gränser. Vanligtvis säljer prylmångleriet märken i META varannan onsdag mellan 12:15 och 13:00, men det kan även förekomma försäljningar på events eller när någon godtycklig medlem av prylmångleriet känner att hen har för lite studier. 
 
 Om det är något du känner att du vill veta så ta jättegärna kontakt över mail [prylis@datasektionen.se](mailto:prylis@datasektionen.se) eller på [facebook](https://www.facebook.com/dataprylis)!
 
 ## Vad finns hos Prylis?
 
-Prylis har otroligt mycket roliga grejer, så det är bara att komma förbi på någon fredagsförsäljning och se för sig själv! Bland annat säljer vi märken, pins, manschettknappar, sångböcker och Ovvar. Det är en sak att se en lista, men för att få hela upplevelsen måste ni som sagt komma dit och se för er själva.
+Prylis har otroligt mycket roliga grejer, så det är bara att komma förbi på någon onsdagsförsäljning och se för sig själv! Bland annat säljer vi märken, pins, manschettknappar, sångböcker och Ovvar. Det är en sak att se en lista, men för att få hela upplevelsen måste ni som sagt komma dit och se för er själva.
 
 <!---
 ## TJO ETTAN!
