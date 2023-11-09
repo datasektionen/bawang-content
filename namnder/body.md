@@ -6,6 +6,14 @@ I menyn till vänster kan du läsa mer om alla Datasektionens nämnder.
 
 
 
+### [Baknämnden](/namnder/baknamnden)
+
+
+
+### [Datasladden](/namnder/datasladden)
+
+
+
 ### [dbuggen](http://dbu.gg)
 
 
@@ -27,6 +35,10 @@ I menyn till vänster kan du läsa mer om alla Datasektionens nämnder.
 
 
 ### [IOR - Informationsorganet](/namnder/informationsorganet)
+
+
+
+### [Internationella nämnden](/namnder/internationella-namnden)
 
 
 
@@ -54,11 +66,19 @@ I menyn till vänster kan du läsa mer om alla Datasektionens nämnder.
 
 
 
+### [Scala](/namnder/scala)
+
+
+
 ### [Studienämnden](/namnder/studienamnden)
 
 
 
 ### [Tag Monkeys](/namnder/tag-monkeys)
+
+
+
+### [Valberedningen](/namnder/valberedningen)
 
 
 
