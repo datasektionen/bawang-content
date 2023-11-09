@@ -1,6 +1,66 @@
 # Nämnder på Datasektionen
 
-I menyn till vänster kan du läsa om alla Datasektionens nämnder.
+I menyn till vänster kan du läsa mer om alla Datasektionens nämnder.
+
+### [Ada](/namnder/ada)
+
+
+
+### [dbuggen](http://dbu.gg)
+
+
+
+### [DEMON](/namnder/demon)
+
+
+
+### [DESC - Datas E-Sports Community](/namnder/desc)
+
+
+
+### [DKM - Klubbmästeriet](/namnder/dkm)
+
+
+
+### [Idrottsnämnden](/namnder/idrottsnamnden)
+
+
+
+### [IOR - Informationsorganet](/namnder/informationsorganet)
+
+
+
+### [Jämlikhetsnämnden](/namnder/jamlikhetsnamnden)
+
+
+
+### [METAdorerna](/namnder/metadorerna)
+
+
+
+### [Mottagningen](/namnder/mottagningen)
+
+
+
+### [Näringslivsgruppen](/namnder/naringslivsgruppen)
+
+
+
+### [Prylmångleriet - märken och merch](/namnder/prylmangleriet)
+
+
+
+### [Qulturnämnden](/namnder/qulturnamnden)
+
+
+
+### [Studienämnden](/namnder/studienamnden)
+
+
+
+### [Tag Monkeys](/namnder/tag-monkeys)
+
+
 
 ## Återkommande projekt på Datasektionen
 
