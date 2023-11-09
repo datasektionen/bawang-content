@@ -2,10 +2,9 @@
 
 #### Head of IT
 
-Theodor Ström </br>
 Mathias Magnusson </br>
+Theodor Ström </br>
 [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
-
 
 #### System group
 [ior@datasektionen.se](mailto:ior@datasektionen.se)
