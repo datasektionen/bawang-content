@@ -4,7 +4,7 @@ We are happy that you found IOR's page. We are also known as the _Donkeys_, whic
 
 ## The Chapter’s systems
 
-The chapter’s systems are available on our [Github](https://dsekt.se/github-link-website), if you want access to see or edit something, you can request access through this [form](https://dsekt.se/github-access).
+The chapter’s systems are available on our [Github](https://github.com/datasektionen/), if you want access to see or edit something, you can ask Head of IT or come to one of our programming evenings.
 
 ### Selection of systems
 
@@ -35,4 +35,4 @@ Here is a list of some systems that previous students have built and that the ch
 
 ## Join the club
 
-We regularly try to hold programming evenings where everyone is welcome. Usually from 5.30 pm onwards on Thursdays, sometimes in a computer room and sometimes on Zoom. You can come here to see what we're doing, develop something for the chapter, hang out or maybe get help with a programming lab. The easiest way to find out when we have events is to join our [slack](https://ior.slack.com). Hope to see you there!!
+We regularly try to hold programming evenings where everyone is welcome. Usually from 5 pm onwards on Thursdays, usually somewhere in the E-house. You can come here to see what we're doing, develop something for the chapter, hang out or maybe get help with a programming lab. The easiest way to find out when we have events is to ask in our [slack](https://ior.slack.com) or Head of IT at [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se). Hope to see you there!

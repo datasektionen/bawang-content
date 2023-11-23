@@ -18,4 +18,4 @@ Theodor Ström </br>
 
 [Datasektionens Github](https://dsekt.se/github-link-website)</br>
 
-[Jag vill ha access till Datasektionens GitHub](https://dsekt.se/github-access)
+Vill du ha access? Fråga Systemansvarig eller kom på en hackerkväll!

@@ -7,6 +7,7 @@ Theodor Ström </br>
 [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
 
 #### System group
+
 [ior@datasektionen.se](mailto:ior@datasektionen.se)
 
 #### Slack
@@ -17,4 +18,4 @@ Theodor Ström </br>
 
 Our [Github](https://dsekt.se/github-link-website) organisation</br>
 
-[I want access to Datasektionen's GitHub](https://dsekt.se/github-access)
+Do you want access? Ask Head of IT or attend a programming evening!
