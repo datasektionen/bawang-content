@@ -2,8 +2,8 @@
 
 #### Systemansvariga
 
-Theodor Ström </br>
 Mathias Magnusson </br>
+Theodor Ström </br>
 [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
 
 #### Systemgrupp
@@ -18,4 +18,4 @@ Mathias Magnusson </br>
 
 [Datasektionens Github](https://dsekt.se/github-link-website)</br>
 
-[Jag vill ha access till Datasektionens GitHub](https://dsekt.se/github-access)
+Vill du ha access? Fråga Systemansvarig eller kom på en hackerkväll!
