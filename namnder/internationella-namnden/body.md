@@ -1,6 +1,6 @@
 # Internationella nämnden
 
-Datasektionens internationella nämnd är ansvarig för alla internationella aktiviteter på Datasektionen och är delad med Sektionen för Medieteknik. Leds av Datasektionens internationella studentkoordinator (HT-23: Håvard Alstadheim) och Sektionen för Medietekniks internationella samordnare (2023: Lovisa Condé).
+Datasektionens internationella nämnd är ansvarig för alla internationella aktiviteter på Datasektionen och är delad med Sektionen för Medieteknik. Leds av Datasektionens internationella studentkoordinator (HT-23-: Håvard Alstadheim) och Sektionen för Medietekniks internationella samordnare (2023-: Lovisa Condé).
 
 ## Allmänt
 
