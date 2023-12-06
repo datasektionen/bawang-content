@@ -12,7 +12,7 @@ Gå med i [Meta Internationals WhatsApp-gruppen](https://dsekt.se/whatsapp) elle
 
 Genom engagemang i nämnden kan organisatörer samla timmar mot de 0.2 bonuspoängen som används för att söka utlandsstudier. Det krävs 25 timmars engagemang inom ett 4 månaders intervall för att få bonuspoängen, och det är nämndordföranden (internationella studentkoordinatorn) som har ansvar för att räkna timmarna och registrera dem hos THS.
 
-Nämnden rekryterar nye medlemmar hela året. Medlemmar kan vara eventorganisatörer, eller göra flera andra uppgifter som att koordinera kommunikation eller översättningsarbete. Är du intresserad av att gå med i nämnden, skriv till [isc@datasektionen.se](mailto:isc@datasektionen.se).
+Nämnden rekryterar nya medlemmar hela året. Medlemmar kan vara eventorganisatörer, eller göra flera andra uppgifter som att koordinera kommunikation eller översättningsarbete. Är du intresserad av att gå med i nämnden, skriv till [isc@datasektionen.se](mailto:isc@datasektionen.se).
 
 ## Minska Barriärerna för Internationella Studenter
 
