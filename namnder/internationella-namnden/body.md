@@ -1,18 +1,18 @@
 # Internationella nämnden
 
-Datasektionens internationella nämnd är ansvarig för alla internationella aktiviteter på Datasektionen och är delad med Sektionen för Medieteknik. Leds av Datasektionens internationella studentkoordinator (HT-23: Håvard Alstadheim) och Sektionen för Medietekniks internationella samordnare (2023: Lovisa Condé).
+Datasektionens internationella nämnd är ansvarig för alla internationella aktiviteter på Datasektionen och är delad med Sektionen för Medieteknik. Leds av Datasektionens internationella studentkoordinator (HT-23-: Håvard Alstadheim) och Sektionen för Medietekniks internationella samordnare (2023-: Lovisa Condé).
 
 ## Allmänt
 
 Internationella nämnden fokuserar på att introducera internationella studenter till vår sektion. Det inkluderar att anordna evenemang för internationella studenter, att hjälpa internationella studenter att delta i Datasektionens aktiviteter och att erbjuda en plattform för kulturellt utbyte mellan svenska och internationella studenter. Nämnden är öppen för alla studenter på Datasektionen, oavsett om du är internationell eller inte.
 
-Gilla gärna nämndens facebooksida för att få uppdateringar om gruppens evenemang: [Facebooksida](https://www.facebook.com/METAInternationalGroup/?eid=ARDdqkLUe2uRu9PZyhqSOZSHFii_V4D0Pyur3l29_TbwBwnJdzM-PPi6HzHEvk_GjVNlp7DBRUWzpQBj)
+Gå med i [Meta Internationals WhatsApp-gruppen](https://dsekt.se/whatsapp) eller kolla där Datasektionen lägger upp eventinfo för att få uppdateringar från Internationella Nämnden!
 
 # Gå med i nämnden
 
-Genom engagemang i nämnden kan organisatörer samla timmar mot de 0.2 bonuspoängen som används för att söka utlandsstudier. Det krävs 25 timmars engagemang under 4 månader för att få bonuspoängen, och det är nämndordföranden (internationella studentkoordinatorn) som har ansvar för att räkna timmarna och registrera dem hos THS.
+Genom engagemang i nämnden kan organisatörer samla timmar mot de 0.2 bonuspoängen som används för att söka utlandsstudier. Det krävs 25 timmars engagemang inom ett 4 månaders intervall för att få bonuspoängen, och det är nämndordföranden (internationella studentkoordinatorn) som har ansvar för att räkna timmarna och registrera dem hos THS.
 
-Nämnden rekryterar i början av varje termin, då ett antal organisatörer som är taggade att delta i anordnandet av evenemang rekryteras. Nämnden är dock öppen för nya organisatörer året om. Är du intresserad av att gå med i nämnden kan du ansöka om medlemskap (skriv till [isc@datasektionen.se](mailto:isc@datasektionen.se)).
+Nämnden rekryterar nya medlemmar hela året. Medlemmar kan vara eventorganisatörer, eller göra flera andra uppgifter som att koordinera kommunikation eller översättningsarbete. Är du intresserad av att gå med i nämnden, skriv till [isc@datasektionen.se](mailto:isc@datasektionen.se).
 
 ## Minska Barriärerna för Internationella Studenter
 
@@ -26,4 +26,4 @@ Exempel på evenemang är internationella gasquer, filmkvällar, brädspelkväll
 
 ## International Reception
 
-Internationella nämnden är inte ansvarig för det internationella mottagandet. THS anordnar en mottagning för internationella studenter i början av varje termin. Mottagningen är ett bra tillfälle att träffa internationella studenter och delta i roliga aktiviteter. Om du vill bli en buddy och hjälpa, titta på [deras facebooksida](https://www.facebook.com/thsint).
+THS anordnar en mottagning för internationella studenter i början av varje termin. Internationella Nämnden organiserar sektionsspecifika events i samarbete med THS Internationella Mottagning. Mottagningen är ett bra tillfälle att träffa internationella studenter och delta i roliga aktiviteter. Om du vill hjälpa med sektionsspecifika events så kan du göra det genom Internationella Nämnden. Om du istället vill vara del av hela THS Internationella Mottagning så kan du till exempel bli en buddy. Om du vill bli en buddy, titta på [THS International's facebooksida](https://www.facebook.com/thsint).
