@@ -104,6 +104,10 @@ Spelsylt
 
 METAcraft
 
+Project Dive
+
+Groda 2024
+
 Operational plans for all current projects are uploaded to [Google Drive](https://dsekt.se/vp-projekt).
 
 ## How to start a project

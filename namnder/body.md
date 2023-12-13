@@ -50,6 +50,10 @@ Spelsylt
 
 METAcraft
 
+Project Dive
+
+Groda 2024 - GRön hållbarhet Och DAtasektionen
+
 Verksamhetsplaner för samtliga öppna projekt läggs upp på [Google Drive](https://dsekt.se/vp-projekt).
 
 ## Tidigare nämnder och föreningar på Datasektionen
