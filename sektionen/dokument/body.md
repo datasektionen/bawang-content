@@ -28,6 +28,7 @@ Vid frågor angående protokoll, kontakta Datasektionens [sekreterare](mailto:se
 
 Om du vill lämna förslag på till nästa års verksamhetsplan får du gärna göra det [här](https://dsekt.se/vp-forslag).
 
+-   [Verksamhetsplan 2024](https://drive.google.com/file/d/1nRoR8rntMiynp48eUdk8Tzaz-hK8-dzU/view?usp=drive_link)
 -   [Verksamhetsplan 2023](https://drive.google.com/file/d/1FkJJKgQbxToJZQjjRNqm3Kamurzl6s-i/view?usp=share_link)
 -   [Verksamhetsplan 2022](https://drive.google.com/file/d/1_nVL_M6z5qU3xxluEf6ce3CEi0Bhs9yG/view?usp=share_link)
 -   [Verksamhetsplan 2021](https://drive.google.com/file/d/12JSpit-xBHTZfVXMRAMLu9j1LzjWyybp/view?usp=share_link)
