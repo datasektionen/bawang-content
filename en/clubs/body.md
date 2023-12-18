@@ -84,15 +84,11 @@ Studs 2023
 
 Studs 2024
 
-METAspexet 2023
-
 METAspexet 2024
 
 Vårbalen 2023
 
 Vårbalen 2024
-
-Project Pride 2023
 
 Project Pride 2024
 
