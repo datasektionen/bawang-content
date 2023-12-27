@@ -71,3 +71,5 @@ Dart Vader: Datasektionens dartförening.
 Jong: Datasektionens jongleringsförening.
 
 SHFF: Sektionshusfondsföreningen.
+
+Stack Overbowl: Datasektionens bowlingförening.
