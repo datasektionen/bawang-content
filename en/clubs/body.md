@@ -130,3 +130,5 @@ SHFF: Sektionshusfondsföreningen (untranslatable - sorry, one international stu
 Sångboksgruppen: The Chapter songbook group.
 
 [Bröllopet](https://www.facebook.com/brollopet2017) - Our Wedding with the Media chapter
+
+Stack Overbowl: CS Bowling group.
