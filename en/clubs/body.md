@@ -76,8 +76,6 @@ Vårbalen - The CS chapters spring ball
 
 ## Current projects
 
-dÅre 2023
-
 dÅre 2024
 
 Studs 2023
