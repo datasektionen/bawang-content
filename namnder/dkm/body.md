@@ -37,183 +37,217 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ## Medlemmar  
 
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/luc.JPG">  
-
-### Lucas Dow
-#### Klubbmästare  
-**Favoritdrink:** Grekiskt lagunvatten <br>
-**Gillar:** Att vara gravid <br>
-**Ogillar:** Simplex  <br>
-**Specialitet:** Give that wolf a banana  <br>
-**Citat:**
-_Hjälp mig skriva din egen undergång_
-
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/maj.jpg">  
-
-### Maja Larsson 
-#### Vice klubbmästare  
-**Favoritdrink:** Ingången Göteborgs-öl <br>
-**Gillar:** korv <br>
-**Ogillar:** stinky... 🤮 <br>
-**Specialitet:** euphoria-dansen <br>
-**Citat:**
-_Det kom en jättestor finne å jag blev så jävla stressad_  
-
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/alv.jpg">  
-
-### Alva Sundström
-#### Ekonomimästare  
-**Favoritdrink:** Norrlands ("säkert" - Alva) <br>
-**Gillar:** Vlogs <br>
-**Ogillar:** Att vara Alfa <br>
-**Specialitet:** Vara en dinosaurie <br>
-**Citat:**
-_Alfa hasn't said anything funny_  
-
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/sar.JPG"> 
-
-### Sara Strandberg
-#### Ekonomimästare
-**Favoritdrink:** GT (jag frågade igen) <br>
-**Gillar:** Att spy på förfesten <br>
-**Ogillar:**  Shaquille O'neal <br>
-**Specialitet:** Att bli icead <br>
-**Citat:**
-_Nej, jag är Sara_  
-
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/fil.jpg"> 
-
-### Flip Teglund
-#### Barmästare  
-**Favoritdrink:** Baileys och Cola <br>
-**Gillar:** Att klara mer <br>
-**Ogillar:** När man inte klarar mer <br>
-**Specialitet:** Inte gurgla bäsk <br>
-**Citat:**
-_JAG ÄR HANDEN, DU ÄR MUNNEN!_  
-
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/mak.jpg"> 
-
-### Markus Videfors
-#### Barmästare
-**Favoritdrink:** En SPIKEad drink <br>
-**Gillar:** Aerodynamik <br>
-**Ogillar:** Att ha hår <br>
-**Specialitet:** Att vara smackis mackis <br>
-**Citat:**
-_Har du inte sett dem här spikarna på varje framsida asså_ 
-
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/oli.JPG"> 
-
-### Olivia Aronsson
-#### Festmästare 
-**Favoritdrink:** Fritt fall med bag-in-box <br>
-**Gillar:** NSFW citat <br>
-**Ogillar:** Se random saker <br>
-**Specialitet:** Dj lil miss anarchy <br>
-**Citat:**
-_Wow du har ögon_  
-
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/tom.JPG"> 
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793658035441810/tom_1.jpeg?ex=65a6bb56&is=65944656&hm=3dc80008d20a077134a9930629e2086c8374afd02db5f020a13c690535c0fcdf&">  
 
 ### Tom Rehnström
-#### Infomästare  
-**Favoritdrink:** Mintuu & Blandsaft <br>
-**Gillar:**  Bröd <br>
-**Ogillar:**  När folk snackar skit om fiorelli <br> 
-**Specialitet:** Ölhäfv <br>
-**Citat:** 
-_Shit in the milk_  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/lovisa.png">  
-
-### Lovisa Sjöberg
-#### RateKnatte  
-**Favoritdrink:**  Norrlands Silver <br>
-**Gillar:**  Klibbiga saker <br>
-**Ogillar:**  Ohänder <br>
-**Specialitet:** Ratea toaletter   <br>
+#### Klubbmästare  
+**Favoritdrink:** GT-kanna <br>
+**Gillar:** kakor <br>
+**Ogillar:** kalorier <br>
+**Specialitet:** Vara NPC <br>
 **Citat:**
-_Det är okej att ha klibbiga händer_
+_Det är kvällens kvällar_
 
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/olle.png">  
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793627052134540/Olle_1.jpeg?ex=65a6bb4f&is=6594464f&hm=79157d466a2dc6c3e6953d6b1fe4d9ee8b0388f27138d15aa77ef93d50d13e59&">  
 
-### Olle Jernström   
-#### HattKnatte  
-**Favoritdrink:** Rå Absint <br>
-**Gillar:** Trolla fram spriten <br>
-**Ogillar:** Hattar <br>
-**Specialitet:** Sänka vs Häfva <br>
+### Olle Jernström 
+#### Vice klubbmästare 
+**Favoritdrink:** Fernet on the rocks <br>
+**Gillar:** Pissa i handfat <br>
+**Ogillar:** Fest hemma <br>
+**Specialitet:** NSFW citat <br>
 **Citat:**
-_Jag antar att vi ska sänka_  
+_Jag kan supa utan att ha kul, inga problem_
 
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/william.png">  
-
-### William Krull  
-#### ChefKnatte  
-**Favoritdrink:** Grön chartreuse <br>
-**Gillar:** Rå carbonara <br>
-**Ogillar:** Tillagad carbonara <br>
-**Specialitet:** Krall <br>
-**Citat:**
-_How to: Carbonara (OBS ät inte!)_  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/love.png"> 
-
-### Love Belin  
-#### ToaKnatte
-**Favoritdrink:** Whiskey sour med Sourz <br>
-**Gillar:** Att ha medelålderskris <br>
-**Ogillar:** Toapapper i META <br>
-**Specialitet:** Spyr bara i en taxi <br>
-**Citat:**
-_Nu säljer jag mina jävla fonder så jag har lite spritpengar_  
-
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/yusuf.png"> 
-
-### Yusuf Mohamed  
-#### HardstyleKnatte  
-**Favoritdrink:** Halmstad crush <br>
-**Gillar:** Hardstyle <br>
-**Ogillar:** Att hälla den perfekta 4:an <br>
-**Specialitet:** Har ost på glassen <br>
-**Citat:**
-_Blod är påväg. Blod är påväg_  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/tilde.png"> 
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793648115925042/tilde_1.jpeg?ex=65a6bb54&is=65944654&hm=805f9922a03bbf3ac715d5c3fde7d0ac196ef9ebe7ade32eb9a1f78b38675a40&">  
 
 ### Tilde Tärnvik
-#### AntiAntiKnatte
-**Favoritdrink:** Spillt Vatten <br>
-**Gillar:** Anti-Bailey's <br>
-**Ogillar:** Bailey’s <br>
-**Specialitet:**  Läskiga bilder <br>
+#### Ekonomimästare  
+**Favoritdrink:** Kirredbull <br>
+**Gillar:** Tjaj-latte <br>
+**Ogillar:** Mycket saker, inklusive dig <br>
+**Specialitet:** Resorbhets <br>
 **Citat:**
-_???_ 
+_Fucking fyllos, hela bunten_
 
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/issa.png"> 
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793536341909545/Issa_1.jpeg?ex=65a6bb39&is=65944639&hm=96205eb2f6eb98db10951b68baf34dca4b7027883e94045fa3e18a419f32b249&"> 
 
 ### Isabella Allgén Takami
-#### pain.Knatte
-**Favoritdrink:** Arboga <br>
-**Gillar:** Surt <br>
-**Ogillar:** Spicy arboga <br>
-**Specialitet:** Flaskmås  <br>
+#### Barmästare  
+**Favoritdrink:** Allt utan selleri <br>
+**Gillar:** Hundar <br>
+**Ogillar:** Din hand på min panna <br>
+**Specialitet:** Slagsmål <br>
 **Citat:**
-_pain._  
+_Jag rawdoggar life_  
 
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793548798992545/Krull_1.jpeg?ex=65a6bb3c&is=6594463c&hm=737c854532438c23f4d4d1dc7242b984f16da6ae01b5303987d557432611812d&"> 
+
+### William Krull
+#### Barmästare
+**Favoritdrink:** Chartreuse + Tjatrös <br>
+**Gillar:** Lussekrullar <br>
+**Ogillar:** Lussebullar <br>
+**Specialitet:** Att ponera <br>
+**Citat:**
+_De är ju inte ass to ass_
+
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793570273824929/Love_1.jpeg?ex=65a6bb41&is=65944641&hm=3ad63b5c810996df2346ef0d39a55fabf277aee75a933d380a5914fba46ca781&"> 
+
+### Love Belin
+#### Festmästare 
+**Favoritdrink:** Raffe <br>
+**Gillar:** Tomma skåp (Tottenham supporter) <br>
+**Ogillar:** Att dela mat med dig <br>
+**Specialitet:** Spoona <br>
+**Citat:**
+_Mouth to mouth, ass to ass_
+
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793668215033938/yusuf_1.jpeg?ex=65a6bb58&is=65944658&hm=c1552c3729d3145915d1c922e871850fd32879684c757b8e811c1a44c6285768&"> 
+
+### Yusuf Mohamed
+#### Infomästare  
+**Favoritdrink:** Halmstad crush <br>
+**Gillar:**  Att bonga i folks förråd <br>
+**Ogillar:** Oliver (personen asså) <br> 
+**Specialitet:** Dumma kurrebet <br>
+**Citat:** 
+_...så bara mjölkar du en säl?_  
+
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191788342308773949/Lovisa_1.png?ex=65a6b663&is=65944163&hm=424862a90bdb08cc670f2eb723f361b61c825c42eac307aa0a84dfa997405a45&">  
+
+### Lovisa Sjöberg
+#### Infomästare
+**Favoritdrink:** Absinthe i Prag <br>
+**Gillar:**  Öhh <br>
+**Ogillar:** Buss 50 <br>
+**Specialitet:** Kan bara shotta i Prag <br>
+**Citat:**
+_Fanta get me to fucking jesus_
+
+<!-- Fel bild -->
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793532399271996/Fabian_1.png?ex=65a6bb38&is=65944638&hm=59200e7d5b45b96f5ec08fe28b03495aa1e3a3d97b69995f5c36263985b388d1&">
+
+### Fabian Öst
+#### VodkaKnatte
+**Favoritdrink:** Ren fkn vodka <br>
+**Gillar:** White girl music <br>
+**Ogillar:** Kopparberg 7% <br>
+**Specialitet:** Göra snöänglar på trägolv <br>
+**Citat:**
+_Koka lite Bacardi bara_
+
+<!-- Fel bild -->
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793580465983528/marcus_1.jpeg?ex=65a6bb44&is=65944644&hm=0182797462a921d6eb593e85d50ecc58ff2c894e8af58537677a0adc361bf188&">  
+
+### Marcus Bardvall
+#### MåsKnatte
+**Favoritdrink:** [Fill in the Blanc] <br>
+**Gillar:** Odenplan <br>
+**Ogillar:** Måsar <br>
+**Specialitet:** Separera äggvita <br>
+**Citat:**
+_Fuck baka, det är bara 'stirra in i en smet'-simulator_  
+
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793515164868739/elin_1.jpeg?ex=65a6bb34&is=65944634&hm=9c32dd6a1c2f5a7c304a4273226b6d3b750e1212a63956b830d5f1d39708f9f7&"> 
+
+### Elin Johnsson
+#### GrishKnatte
+**Favoritdrink:** Båtminttu <br>
+**Gillar:** Sune (hoppas han e snygg) <br>
+**Ogillar:** BBQ sås i köket <br>
+**Specialitet:** Bli igenkänd av foodora <br>
+**Citat:**
+_Nej nej nej, den ska in i munnen_  
+
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793506482659468/albin_1.jpeg?ex=65a6bb32&is=65944632&hm=babb52533f368115571f6a5862216058682e2bbae33ac8b54d613379dc4651cb&"> 
+
+### Albin Törnqvist
+#### KnuspKnatte  
+**Favoritdrink:** Saltgurkshot <br>
+**Gillar:** Gammeldansk <br>
+**Ogillar:** Knuspriga vindruvor <br>
+**Specialitet:** Fetsnygga kostymer <br>
+**Citat:**
+_Jag är för stel, ni måste hjälpa_  
+
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793559666438155/lisa_1.jpeg?ex=65a6bb3f&is=6594463f&hm=52f83b86c7edb22db8ba8bf9c04d24d42a6a1dd034c2b9f709ebdb7f9e11a895&"> 
+
+### Lisa Engström
+#### AgentKnatte
+**Favoritdrink:** 43 (groggar på en gång) <br>
+**Gillar:** Näbbdjuret Perry <br>
+**Ogillar:** Tacobar utan sprit <br>
+**Specialitet:** Inte hitta i stockholm <br>
+**Citat:**
+_Fuck barn_
+
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793614108499999/Olga_1.jpeg?ex=65a6bb4c&is=6594464c&hm=042a95f7ba9c926f3d29bea551305a144c7914bf6933ee56fa64de14197e62d5&"> 
+
+### Olga Wollbo
+#### ArmbrytarKnatte
+**Favoritdrink:** Piggelin <br>
+**Gillar:** Bryta armar <br>
+**Ogillar:** Kemetyl <br>
+**Specialitet:** Kniv <br>
+**Citat:**
+_Jag vill inte leka mer_
+
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793638108319864/teo_1.jpg?ex=65a6bb51&is=65944651&hm=bd9f9ee140895faa0dcb1cc5985bcffc37cec781e12324be73e7f7a43324551c&"> 
+
+### Teodor Denell
+#### BjörnKnatte
+**Favoritdrink:** Lacknafta <br>
+**Gillar:** Fuck bitches <br>
+**Ogillar:** die trying <br>
+**Specialitet:** 50 cent under 00-talet <br>
+**Citat:**
+_Man ska fan inte hålla på å fiffla med glöggen_
+
+<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793605023629492/Nedea_1.jpeg?ex=65a6bb49&is=65944649&hm=c6862f96eea75e897aeafcca8d9cac2a7382b8d1cc5650a178717d798a3fd74f&"> 
+
+### Nedea Haukebö
+#### ÄggKnatte
+**Favoritdrink:** Råa ägg <br>
+**Gillar:** Däcka i folks soffor <br>
+**Ogillar:** Äggskal <br>
+**Specialitet:** Räkklegg <br>
+**Citat:**
+_Jag har aldrig tagit en bolt hem jag kommer ihåg_
 
 ## Cliff
 
 Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför de kallas för Cliff? Fråga närmsta Cliff!
+
+### Cliff -23
+* __Lucas Dow__
+  * Klubbmästare
+  * _Hjälp mig skriva din egen undergång_
+* __Maja Larsson__
+  * Vice klubbmästare
+  * _Det kom en jättestor finne å jag blev så jävla stressad_
+* __Alva Sundström__
+  * Ekonomimästare
+  * _Får man smaka på såsen eller_
+* __Sara Strandberg__
+  * Ekonomimästare
+  * _Nej, jag är Sara_
+* __Filip Birger Teglund__
+  * Barmästare
+  * _JAG ÄR HANDEN, DU ÄR MUNNEN!_
+* __Markus Videfors__
+  * Barmästare
+  * _Har du inte sett dem här spikarna på varje framsida asså_
+* __Olivia Aronsson__
+  * Festmästare
+  * _Wow du har ögon_
 
 ### Cliff -22
 * __Jennifer Larsson__
   * Klubbmästare
   * _Fuck carlsberg!!_
 * __Alva Välimäki__
-  * Vice klubbmästre
+  * Vice klubbmästare
   * _Vad heter det? En rolig boi!_
 * __Oscar Knowles__
   * Ekonomimästare
