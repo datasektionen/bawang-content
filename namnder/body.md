@@ -22,8 +22,6 @@ Vårbalen
 
 ## Projekt på Datasektionen
 
-dÅre 2023
-
 dÅre 2024
 
 Studs 2023
