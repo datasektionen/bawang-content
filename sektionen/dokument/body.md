@@ -2,6 +2,7 @@
 
 ## Datasektionens budget
 
+- [Budget 2024](https://docs.google.com/spreadsheets/d/12hi0jThV0zmU_FdLEoUZmBp1tCfMsONFdfy18jCAVZc/edit?usp=sharing)
 - [Budget 2023](https://docs.google.com/spreadsheets/d/1hiXUQcrQikpiySAtr9iscekHIfZM_bxey8-nmp5XE9k/edit?usp=sharing)
 - [Budget 2022](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYFXgACJTugGnrrJuXgqKNuOBqdFuCuuJ3-fnVoDij3iA9bTeq_OcvepStgv193VPflGbFxryvSsP4/pubhtml)
 - [Budget 2021](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDp494XQDJ2CsbtNV_GHeQM0H1clfZ6O3w7cbVvB1YCU9Dnf7kurAImfaaMxPgNA/pubhtml)
