@@ -21,6 +21,17 @@ Klona, gaffla (forka) repot (eller redigera i webbläsaren), gör en ny branch o
 
 Vi har stängt av commits direkt till master.
 
+## Köra lokalt 
+
+Repot har en docker-compose fil som sköter all setup med `bawang` och `taitan`, så om du vill redigera hemsidan lokalt och vill se dina ändringar innan du pushar så är det bara att köra
+```bash
+docker compose up --build
+```
+Därefter så kommer sidan vara tillgänglig på `localhost:8000`.
+
+För tillfället (24-01-30) tar det ett litet tag att bygga första gången du kör det, då `bawang` använder en gammal version, men det löses förhoppningsvis snart.
+
+
 ## Mörkläggning till mottagningen 🕶️
 Gör så mycket som möjligt i **EN** PR, då blir det mindre jobbigt att reverta förändringarna efter mottagningen. Lägg även till labeln "mörkläggning" på din PR.
 
