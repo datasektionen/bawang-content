@@ -34,11 +34,6 @@ Elin Andersson Lundell<br />
 [direktifdrif@datasektionen.se](mailto:direktifdrif@datasektionen.se)<br />
 072-164 28 12
 
-**Konglig Direktifdrif**, <br />
-Lucas Dow<br />
-[direktifdrif@datasektionen.se](mailto:direktifdrif@datasektionen.se)<br />
-073-551 00 01
-
 **Konglig Indrif**, <br />
 Lydia Brorsson<br />
 [indrif@datasektionen.se](mailto:indrif@datasektionen.se)<br />
