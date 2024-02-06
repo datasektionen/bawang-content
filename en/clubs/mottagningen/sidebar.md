@@ -23,7 +23,7 @@ Tilde Tärnvik <br />
 [lillasyster@datasektionen.se](mailto:lillasyster@datasektionen.se)<br /> 
 070-672 07 89
 
-### Det Royal Drifvery
+### The Royal Drifvery
 **Konglig Öfverdrif**, <br />
 Lucas Dow<br />
 [ofverdrif@datasektionen.se](mailto:ofverdrif@datasektionen.se)<br />
@@ -39,19 +39,19 @@ Lydia Brorsson<br />
 [indrif@datasektionen.se](mailto:indrif@datasektionen.se)<br />
 073-528 78 63
 
-### Det Royal Doqumentery
+### The Royal Doqumentery
 **Samdoquise**, <br />
 Maria Tsychkova<br />
 [samdoquise@datasektionen.se](mailto:samdoquise@datasektionen.se)<br />
 070-524 18 82
 
-### Det Royal Quisinery
+### The Royal Quisinery
 **Storquisine**, <br />
 Markus Videfors<br />
 [storquisine@datasektionen.se](mailto:storquisine@datasektionen.se)<br />
 073-666 76 23
 
-### Det Kongliga Ekonomery
+### The Kongliga Ekonomery
 **Storekom**, <br />
 Felix Murnion<br />
 [storekom@datasektionen.se](mailto:storekom@datasektionen.se)<br />
