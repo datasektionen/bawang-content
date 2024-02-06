@@ -41,7 +41,7 @@ Lydia Brorsson<br />
 
 ### Det Kongliga Doqumenteriet
 **Samdoquise**, <br />
-Markus Viderfors<br />
+Maria Tsychkova<br />
 [samdoquise@datasektionen.se](mailto:samdoquise@datasektionen.se)<br />
 070-524 18 82
 
