@@ -2,7 +2,7 @@
 
 The individuals responsible for the Reception are referred to as Title. If you would like to contact us, you can send an email to [titel@datasektionen.se](mailto:titel@datasektionen.se). If you would like to contact a specific person, their contact information can be found below.
 
-### Det Kongliga Dadderiet 
+### The Royal Daddery
 **Storebror**, <br />
 Carl Hansson<br />
 [storasyskon@datasektionen.se](mailto:storasyskon@datasektionen.se)<br />
@@ -23,7 +23,7 @@ Tilde Tärnvik <br />
 [lillasyster@datasektionen.se](mailto:lillasyster@datasektionen.se)<br /> 
 070-672 07 89
 
-### Det Kongliga Drifveriet
+### Det Royal Drifvery
 **Konglig Öfverdrif**, <br />
 Lucas Dow<br />
 [ofverdrif@datasektionen.se](mailto:ofverdrif@datasektionen.se)<br />
@@ -39,19 +39,19 @@ Lydia Brorsson<br />
 [indrif@datasektionen.se](mailto:indrif@datasektionen.se)<br />
 073-528 78 63
 
-### Det Kongliga Doqumenteriet
+### Det Royal Doqumentery
 **Samdoquise**, <br />
-Markus Viderfors<br />
+Maria Tsychkova<br />
 [samdoquise@datasektionen.se](mailto:samdoquise@datasektionen.se)<br />
 070-524 18 82
 
-### Det Kongliga Quisineriet
+### Det Royal Quisinery
 **Storquisine**, <br />
 Markus Videfors<br />
 [storquisine@datasektionen.se](mailto:storquisine@datasektionen.se)<br />
 073-666 76 23
 
-### Det Kongliga Ekonomeriet
+### Det Kongliga Ekonomery
 **Storekom**, <br />
 Felix Murnion<br />
 [storekom@datasektionen.se](mailto:storekom@datasektionen.se)<br />
