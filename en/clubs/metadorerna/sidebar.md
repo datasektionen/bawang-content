@@ -1,14 +1,15 @@
 ## Contact
 
-#### METAdorerna
-[metadorerna@datasektionen.se](mailto:metadorerna@datasektionen.se)
 #### Royal Chief of Halls (D)
 Carl Liljencrantz</br>
 [lokalchef@datasektionen.se](mailto:lokalchef@datasektionen.se)
 
-#### Head of Chapter Hall (Media)
-(Vacant)</br>
+#### Head of Chapter Hall (Me)
+Vanessa Baatarsukh</br>
 [sektionslokal@medieteknik.com](mailto:sektionslokal@medieteknik.com)
+
+#### METAdorerna
+[metadorerna@datasektionen.se](mailto:metadorerna@datasektionen.se)
 
 ## Links
 * [Chapter Hall booking](en/chapter/lokalbokning)

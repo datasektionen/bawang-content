@@ -24,7 +24,7 @@ Det är vi som håller i måndagsstäden i Meta under året. Vi bjuder in nyanta
 
 Ytterst ansvarig för lokalen och även nämndordförande för METAdorerna.
 
-#### Städskrii 
+#### Städskrii
 
 Har ansvar för måndagsstäden samt att anordna städfesten som tack till de som städat.
 
