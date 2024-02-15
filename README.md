@@ -27,9 +27,11 @@ Repot har en docker-compose fil som sköter all setup med `bawang` och `taitan`,
 ```bash
 docker compose up --build
 ```
-Därefter så kommer sidan vara tillgänglig på `localhost:8000`.
+Därefter så kommer sidan vara tillgänglig på `localhost:8000`. Om du ändrar på en sida så är det bara att relodea för att se dina ändringar.
 
-För tillfället (24-01-30) tar det ett litet tag att bygga första gången du kör det, då `bawang` använder en gammal version, men det löses förhoppningsvis snart.
+För tillfället (24-02-15) tar det ett litet tag att bygga första gången du kör det, då `bawang` använder en gammal version, men det löses förhoppningsvis snart.
+
+
 
 
 ## Mörkläggning till mottagningen 🕶️
