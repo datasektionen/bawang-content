@@ -5,27 +5,22 @@ services:
     container_name: taitan
     build:
       context: https://github.com/datasektionen/taitan.git
-    ports:
-      - "5000:5000"
-    expose:
-      - 5000
     environment:
       - PORT=5000
       - CONTENT_DIR=/content
     volumes:
       - ./:/content
     command: ./taitan -v -w
+    network_mode: host
 
   bawang:
     container_name: bawang
     build:
       context: https://github.com/datasektionen/bawang.git
       args:
-        - RAZZLE_TAITAN_URL=http://taitan:5000
-    ports:
-      - "8000:8000"
+        - RAZZLE_TAITAN_URL=http://localhost:5000
     environment:
-      - TAITAN_URL=http://taitan:5000
-      - RAZZLE_TAITAN_URL=http://taitan:5000
+      - TAITAN_URL=http://localhost:5000
       - TAITAN_CACHE_TTL=0
       - PORT=8000
+    network_mode: host
