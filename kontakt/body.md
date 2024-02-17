@@ -14,7 +14,7 @@ Melise Lundberg & Sarah Sodini<br />
 E-post: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
 **Arbetsmarknadsdagsansvariga**<br />
-Johan Abdi & Axel Johansson<br />
+William Nordwall & Toshihide Sakao<br />
 E-post: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
@@ -36,9 +36,9 @@ D-rektoratet, på adressen [drek@datasektionen.se](mailto:drek@datasektionen.se)
 även kontakta Datasektionens Ordförande direkt:
 
 **Ordförande**<br />
-Douglas Fischer<br />
+Adam Sjöberg<br />
 E-post: [ordf@datasektionen.se](mailto:ordf@datasektionen.se) (Går även till resten av styrelsen) <br />
-[+46 73 716 03 03](tel: +46 73 716 03 03)
+[+46 72 320 28 07](tel: +46 72 320 28 07)
 
 ## Sektionsinformation
 
