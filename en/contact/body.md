@@ -13,7 +13,7 @@ Melise Lundberg & Sarah Sodini<br />
 E-mail: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
 **Heads of D-Dagen**<br />
-Johan Abdi & Axel Johansson<br />
+William Nordwall & Toshihide Sakao<br />
 E-mail: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
 Visit the [Industry page](/industry) for more information.
