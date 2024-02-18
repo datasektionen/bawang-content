@@ -13,7 +13,7 @@ Melise Lundberg & Sarah Sodini<br />
 E-mail: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
 **Heads of D-Dagen**<br />
-Johan Abdi & Axel Johansson<br />
+William Nordwall & Toshihide Sakao<br />
 E-mail: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
 Visit the [Industry page](/industry) for more information.
@@ -33,9 +33,9 @@ For questions regarding [datasektionen.se](https://datasektionen.se) or other sy
 For questions regarding the chapter's organisation, contact the board at [drek@datasektionen.se](mailto:drek@datasektionen.se). You can also contact the head of the chapter directly at:
 
 **Head of the Computer Science Chapter**<br />
-Douglas Fischer<br />
+Adam Sjöberg<br />
 E-mail: [ordf@datasektionen.se](mailto:ordf@datasektionen.se) (Also goes to the rest of the board) <br />
-[+46 73 716 03 03](tel: +46 73 716 03 03)
+[+46 72 320 28 07](tel: +46 72 320 28 07)
 
 ## Chapter details
 
