@@ -1,74 +1,96 @@
 # The Clubs of the CS chapter
 
-###[DKM - Party organizes](/en/clubs/dkm)
-
-What would a Chapter be without parties? DKM has been organizing parties as long as the Chapter has existed.
-
-###[dbuggen](http://dbu.gg)
-
-dbuggen is the Chapter's own paper. It's released whenever any possible editors have the time or the will. This actually sometimes happens! Nowadays you can also read it online.
-
-###[METAdorerna](/en/clubs/metadorerna)
-
-Our common Chapter Hall is named META and can be found at Osquars Backe 21. we are the ones taking care of the place.
-
-###[IOR - Eeore - Information committee - Hacker club](/en/clubs/informationsorganet)
-
-We make sure the chapter's information distribution systems work properly, which results in lots of hacking.
-
-###[Tag Monkeys](/en/clubs/tag-monkeys)
-
-Graphic design <3
-
-###[Equality Committee](/en/clubs/jamlikhetsnamnden)
-
-We want everyone to feel safe and welcome.
-
-###[GEEK - Girls: Empowered, Encouraged, Knowledgable](/en/clubs/geek)
+### [Ada](/en/clubs/ada)
 
 Group for helping girls at the CS chapter network with each other.
 
-###[The reception](/en/clubs/mottagningen)
+### [Datasladden](/en/clubs/datasladden)
 
-Here is all the info about the reception, the schedule, etc.
+Takes care of the chapter car, Cerise, so it stays on the road.
 
-###[Industry group](/en/clubs/naringslivsgruppen)
+### [dbuggen](http://dbu.gg)
 
-The industry group handles the Chapter's professional contacts, organizes job fairs, lunch lectures, study visits, and other kids of sponsoring.
+dbuggen is the Chapter's own paper. It's released whenever any possible editors have the time or the will. This actually sometimes happens! Nowadays you can also read it online.
 
-###[Prylmångleriet - pathces and merch](/en/clubs/prylmangleriet)
-
-_Prylis_ sells the stuff CS students want to buy
-
-###[Qulturnämnden - Qulture Committee](/en/clubs/qulturnamnden)
-
-Film nights, eating candy, and other forms of _qulture_.
-
-###[Idrottsnämnden - Sport Committee](/en/clubs/idrottsnamnden)
-
-We do whatever we want.
-
-###[Studienämnden - Study committee](/en/clubs/studienamnden)
-
-Keeping an eye on the studies, the courses and the faculty.
-
-###[DEMON - Music group](/en/clubs/demon)
+### [DEMON - Music group](/en/clubs/demon)
 
 DEMON are the music enthusiasts of the CS chapter. Meet to jam together!
 
-###[DESC - Computer Science E-sports community](/en/clubs/desc)
+### [DESC - Computer Science E-sports community](/en/clubs/desc)
 
 DESC organizes gaming nights and other events for gaming enthusiasts in the chapter.
 
+### [dJulkalendern](/en/clubs/djulkalendern)
+
+The chapter's yearly CTF competition. <img style="height: 1em" src="https://cdn.discordapp.com/emojis/1056826137994596413.webp?size=32&quality=lossless">
+
+### [DKM - Party organizers](/en/clubs/dkm)
+
+What would a Chapter be without parties? DKM has been organizing parties as long as the Chapter has existed.
+
+### [Equality Committee](/en/clubs/jamlikhetsnamnden)
+
+We want everyone to feel safe and welcome.
+
+### [Election Committee](/en/clubs/valberedningen)
+
+Manages elections within the chapter to elect people to official positions.
+
+### [International Committee](/en/clubs/internationellanamnden)
+
+Makes sure international students are welcome by arranging events for both Swedish and international students to get to know each other through.
+
+### [METAdorerna](/en/clubs/metadorerna)
+
+Our common Chapter Hall is named META and can be found at Osquars Backe 21. we are the ones taking care of the place.
+
+### [Prylmångleriet - pathces and merch](/en/clubs/prylmangleriet)
+
+_Prylis_ sells the stuff CS students want to buy
+
+### [Qulture Committee - Qulturnämnden](/en/clubs/qulturnamnden)
+
+Film nights, eating candy, and other forms of _qulture_.
+
+### [Scala](/en/clubs/scala)
+
+The chapter choir for everyone who likes to sing.
+
+### [Study Board - Studienämnden](/en/clubs/studienamnden)
+
+Keeping an eye on the studies, the courses and the faculty.
+
+### [Tag Monkeys](/en/clubs/tag-monkeys)
+
+Graphic design <3
+
+### [The Baking Committee](/en/clubs/baknamnden)
+
+Bakes pastries for chapter meetings and other occasions.
+
+### [The Business Relations Group](/en/clubs/naringslivsgruppen)
+
+We handle the chapter's professional contacts, organizes job fairs, lunch lectures, study visits, and other kids of sponsoring.
+
+### [IOR - The Information Organ](/en/clubs/informationsorganet)
+
+We develop and maintain the chapter's websites. Including the one you're looking at now!
+
+### [The Reception](/en/clubs/mottagningen)
+
+Here is all the info about the reception, the schedule, etc.
+
+### [The Sports Committee - Idrottsnämnden](/en/clubs/idrottsnamnden)
+
+We do whatever we want.
+
 ## Recurring projects
 
-[dåre](http://dåre.se) - The chapters trip the the ski resort: Åre
+[dåre](https://dåre.se) - The chapters trip the the ski resort: Åre
 
 [Studs](https://studieresan.se) - The Study Visit, a course organised by students of the Chapter
 
-[METAspexet](http://metaspexet.se) - The Spex shared between the CS chapter and the Media Technology Chapter - An interactive student musical theater.
-
-[dJulkalendern](https://djul.datasektionen.se/)
+[METAspexet](https://metaspexet.se) - The Spex shared between the CS chapter and the Media Technology Chapter - An interactive student musical theater.
 
 Project Pride
 

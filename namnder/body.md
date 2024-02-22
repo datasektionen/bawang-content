@@ -1,6 +1,90 @@
 # Nämnder på Datasektionen
 
-I menyn till vänster kan du läsa om alla Datasektionens nämnder.
+I menyn till vänster kan du läsa mer om alla Datasektionens nämnder och nedan få en snabb överblick.
+
+### [Ada](/namnder/ada)
+
+Grupp för att hjälpa kvinnor och ickebinära på Datasektionen att nätverka med varandra.
+
+### [Baknämnden](/namnder/baknamnden)
+
+Bakar till sektionsmöten och andra tillfällen.
+
+### [Datasladden](/namnder/datasladden)
+
+Tar hand om sektionens bil, Cerise, så att den kan stanna på vägen.
+
+### [Redaqtionen - dbuggen](http://dbu.gg)
+
+dbuggen är sektionens egna tidning. Det släpps inslag när skribenter har tid och vilja. Numera går det att läsa online.
+
+### [DEMON](/namnder/demon)
+
+Musikentusiasterna i Datasektionen. Vi möts för att jamma tillsammans!
+
+### [DESC - Datas E-Sports Community](/namnder/desc)
+
+Organiserar spelkvällar och andra event för gamers i sektionen.
+
+### [dJulkalendern](/namnder/djulkalendern)
+
+Datasektionens årliga CTF-tävling. <img style="height: 1em" src="https://cdn.discordapp.com/emojis/1056826137994596413.webp?size=32&quality=lossless">
+
+### [DKM - Klubbmästeriet](/namnder/dkm)
+
+Vad skulle en sektion vara utan fester? DKM har organiserat fester så länge vår sektion har funnits.
+
+### [Idrottsnämnden](/namnder/idrottsnamnden)
+
+Arrangerar sport-event, kontinuerligt en sport varje vecka!
+
+### [IOR - Informationsorganet](/namnder/informationsorganet)
+
+Utvecklar och underhåller sektionens diverse webbsidor. Även den du kollar på nu!
+
+### [Internationella nämnden](/namnder/internationella-namnden)
+
+Ser till att internationella studenter känner sig välkomna genom event för svenska och internationella att lära känna varandra på.
+
+### [Jämlikhetsnämnden](/namnder/jamlikhetsnamnden)
+
+Får alla att känna sig säkra och välkomna.
+
+### [METAdorerna](/namnder/metadorerna)
+
+Tar hand om vår gemensamma sektionslokal META.
+
+### [Mottagningen](/namnder/mottagningen)
+
+Arrangerar den årliga mottagningen för att välkomna nyantagna i programmet.
+
+### [Näringslivsgruppen](/namnder/naringslivsgruppen)
+
+Hanterar sektionens professionella kontakter. Arrangerar lunchföreläsningar, studiebesök och andra sponsrade event.
+
+### [Prylmångleriet](/namnder/prylmangleriet)
+
+Säljer märken och merch för sektionsmedlemmar att köpa.
+
+### [Qulturnämnden](/namnder/qulturnamnden)
+
+Arrangerar brädspelskvällar och ibland filmkvällar.
+
+### [Scala](/namnder/scala)
+
+Sektionens kör för alla som gillar att sjunga.
+
+### [Studienämnden](/namnder/studienamnden)
+
+Håller ett öga över studierna, kurserna och lärarkåren.
+
+### [Tag Monkeys](/namnder/tag-monkeys)
+
+Ger tillfällen för folk att vara kreativa genom veckoliga event i META där man bland annat kan måla och lägga pärlplattor.
+
+### [Valberedningen](/namnder/valberedningen)
+
+Hanterar val inom sektionen för att välja folk till funktionärsposter.
 
 ## Återkommande projekt på Datasektionen
 
@@ -13,8 +97,6 @@ dÅre
 [METAspexet](http://metaspexet.se)
 
 [Vårbalen](https://www.facebook.com/dvarbalen/?fref=tag)
-
-[dJulkalendern](https://djul.datasektionen.se/)
 
 Project Pride
 
