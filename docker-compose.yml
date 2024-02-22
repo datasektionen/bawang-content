@@ -4,7 +4,7 @@ services:
   taitan:
     container_name: taitan
     build:
-      context: https://github.com/datasektionen/taitan.git
+      context: https://ghcr.io/datasektionen/taitan
     environment:
       - PORT=5000
       - CONTENT_DIR=/content
@@ -16,9 +16,7 @@ services:
   bawang:
     container_name: bawang
     build:
-      context: https://github.com/datasektionen/bawang.git
-      args:
-        - RAZZLE_TAITAN_URL=http://localhost:5000
+      context: https://ghcr.io/datasektionen/bawang
     environment:
       - TAITAN_URL=http://localhost:5000
       - TAITAN_CACHE_TTL=0
