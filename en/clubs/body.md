@@ -6,7 +6,7 @@ Group for helping girls at the CS chapter network with each other.
 
 ### [Datasladden](/en/clubs/datasladden)
 
-
+Takes care of the chapter car, Cerise, so it stays on the road.
 
 ### [dbuggen](http://dbu.gg)
 
@@ -34,11 +34,11 @@ We want everyone to feel safe and welcome.
 
 ### [Election Committee](/en/clubs/valberedningen)
 
-
+Manages elections within the chapter to elect people to official positions.
 
 ### [International Committee](/en/clubs/internationellanamnden)
 
-
+Makes sure international students are welcome by arranging events for both Swedish and international students to get to know each other through.
 
 ### [METAdorerna](/en/clubs/metadorerna)
 
@@ -54,7 +54,7 @@ Film nights, eating candy, and other forms of _qulture_.
 
 ### [Scala](/en/clubs/scala)
 
-
+The chapter choir for everyone who likes to sing.
 
 ### [Study Board - Studienämnden](/en/clubs/studienamnden)
 
@@ -66,7 +66,7 @@ Graphic design <3
 
 ### [The Baking Committee](/en/clubs/baknamnden)
 
-
+Bakes pastries for chapter meetings and other occasions.
 
 ### [The Business Relations Group](/en/clubs/naringslivsgruppen)
 
