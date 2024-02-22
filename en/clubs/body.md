@@ -74,7 +74,7 @@ We handle the chapter's professional contacts, organizes job fairs, lunch lectur
 
 ### [IOR - The Information Organ](/en/clubs/informationsorganet)
 
-We make sure the chapter's information distribution systems work properly, which results in lots of hacking.
+We develop and maintain the chapter's websites. Including the one you're looking at now!
 
 ### [The Reception](/en/clubs/mottagningen)
 

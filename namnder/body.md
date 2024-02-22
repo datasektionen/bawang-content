@@ -39,7 +39,7 @@ Datasektionens årliga CTF-tävling. <img style="height: 1em" src="https://cdn.d
 
 ### [IOR - Informationsorganet](/namnder/informationsorganet)
 
-
+Utvecklar och underhåller sektionens diverse webbsidor. Även den du kollar på nu!
 
 ### [Internationella nämnden](/namnder/internationella-namnden)
 
