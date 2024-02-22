@@ -3,8 +3,7 @@ version: '3.8'
 services:
   taitan:
     container_name: taitan
-    build:
-      context: https://ghcr.io/datasektionen/taitan
+    image: ghcr.io/datasektionen/taitan
     environment:
       - PORT=5000
       - CONTENT_DIR=/content
@@ -15,8 +14,7 @@ services:
 
   bawang:
     container_name: bawang
-    build:
-      context: https://ghcr.io/datasektionen/bawang
+    image: ghcr.io/datasektionen/bawang
     environment:
       - TAITAN_URL=http://localhost:5000
       - TAITAN_CACHE_TTL=0
