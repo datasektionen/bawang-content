@@ -25,6 +25,9 @@ I menyn till vänster kan du läsa mer om alla Datasektionens nämnder.
 ### [DESC - Datas E-Sports Community](/namnder/desc)
 
 
+### [dJulkalendern](/namnder/djulkalendern)
+
+Datasektionens årliga CTF-tävling. <img style="height: 1em" src="https://cdn.discordapp.com/emojis/1056826137994596413.webp?size=32&quality=lossless">
 
 ### [DKM - Klubbmästeriet](/namnder/dkm)
 
@@ -93,8 +96,6 @@ dÅre
 [METAspexet](http://metaspexet.se)
 
 [Vårbalen](https://www.facebook.com/dvarbalen/?fref=tag)
-
-[dJulkalendern](https://djul.datasektionen.se/)
 
 Project Pride
 

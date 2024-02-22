@@ -20,6 +20,10 @@ DEMON are the music enthusiasts of the CS chapter. Meet to jam together!
 
 DESC organizes gaming nights and other events for gaming enthusiasts in the chapter.
 
+### [dJulkalendern](/en/clubs/djulkalendern)
+
+The chapter's yearly CTF competition. <img style="height: 1em" src="https://cdn.discordapp.com/emojis/1056826137994596413.webp?size=32&quality=lossless">
+
 ### [DKM - Party organizers](/en/clubs/dkm)
 
 What would a Chapter be without parties? DKM has been organizing parties as long as the Chapter has existed.
@@ -82,13 +86,11 @@ We do whatever we want.
 
 ## Recurring projects
 
-[dåre](http://dåre.se) - The chapters trip the the ski resort: Åre
+[dåre](https://dåre.se) - The chapters trip the the ski resort: Åre
 
 [Studs](https://studieresan.se) - The Study Visit, a course organised by students of the Chapter
 
-[METAspexet](http://metaspexet.se) - The Spex shared between the CS chapter and the Media Technology Chapter - An interactive student musical theater.
-
-[dJulkalendern](https://djul.datasektionen.se/)
+[METAspexet](https://metaspexet.se) - The Spex shared between the CS chapter and the Media Technology Chapter - An interactive student musical theater.
 
 Project Pride
 
