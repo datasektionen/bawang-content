@@ -7,9 +7,9 @@ Filip Ramslöv<br>
 
 **Resterande Valberedare:**
 
-Lukas Malmberg<br>
-Johan Hahlin<br>
-Fredrik Blomqvist<br>
+Max Berglund<br>
+Robert Rosenquist<br>
+Lutz Hahlbeck<br>
 Carl Liljencrantz<br>
 Roger Chen<br>
 William Nordwall<br>
