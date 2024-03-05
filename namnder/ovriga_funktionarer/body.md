@@ -39,9 +39,11 @@ Kei Duke-Bergman</br>
 [Facebook](https://facebook.com/KF.Data)
 
 
-## Ljud- och ljusansvarig - Filip Ramslöv
+## Ljud- och ljusansvarig - Karl-Isac Åström  
 
 Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning.
+
+Vill du boka ovannämnd utrustning görs det lättast på [Datasektionens bokningssystem](https://bokning.datasektionen.se/bookings/12).
 
 
 ## Programansvarig student - Zhongmin Hu
