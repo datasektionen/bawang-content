@@ -36,9 +36,11 @@ Responsible for the chapter's communication channels, like Discord, Slack, Faceb
 The program responsible student works together with the chairman of the Study Committee to improve the quality of the education. In practice, the work consists of meetings with teachers and those responsible for the program at EECS and meetings centrally at THS.
 
 
-## Sound and light manager
+## Sound and Lights manager - Karl-Isac Åström
 
 The sound and light manager is responsible for maintaining the chapter's sound and light equipment.
+If you'd like to book sound- and/or light equipment you can do so in [The Booking System](https://bokning.datasektionen.se/bookings/12).  
+The Booking System is only avalible in Swedish, but bookings can be in English also :)
 
 
 ## Speaker - Erik Hedlund
