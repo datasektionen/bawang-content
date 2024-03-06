@@ -36,8 +36,8 @@ Contact the Chairperson (SNO) if you are interested in taking on any vacant posi
 ### Studying environment
 
 Cold lecture halls? Unergonomic chairs? Is there too much noise? Contact our safety representatives if you have an issue!
-SSO: Axel & Jennifer: [sso@datasektionen.se](mailto:sso@datasektionen.se)
-Studying Environment Rep - Axel: [sma@datasektionen.se](mailto:sma@datasektionen.se)
+SSO: Amanda & Jennifer: [sso@datasektionen.se](mailto:sso@datasektionen.se)
+Studying Environment Rep - Amanda: [sma@datasektionen.se](mailto:sma@datasektionen.se)
 Equality Board Chairperson - Jennifer: [jno@datasektionen.se](mailto:jno@datasektionen.se)
 
 ### Other questions

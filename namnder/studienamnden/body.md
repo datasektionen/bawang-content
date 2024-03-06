@@ -35,7 +35,7 @@ Studienämndens Ordförande (SNO) - Emil: [sno@datasektionen.se](mailto:sno@data
 
 Kalla salar? Oergonomiska stolar? Är det för hög ljudnivå? Har blivit utsatt för en kränkning av något slag? Kontakta våra skyddsombud om du har en åsikt!
 
-SSO: Axel & Jennifer: [sso@datasektionen.se](mailto:sso@datasektionen.se)
+SSO: Amanda & Jennifer: [sso@datasektionen.se](mailto:sso@datasektionen.se)
 Studiemiljöansvarig - Amanda: [sma@datasektionen.se](mailto:sma@datasektionen.se)
 Jämlikhetsnämndens Ordförande - Jennifer: [jno@datasektionen.se](mailto:jno@datasektionen.se)
 
