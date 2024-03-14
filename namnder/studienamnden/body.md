@@ -17,17 +17,17 @@ Kontakta oss om du har frågor om eller kommentarer kring studierna eller studie
 
 Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Nedan har vi 
 
-År 1 - Vakant [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
+År 1 - Alice & Soma [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
 
-År 2 - Alexander & Elin: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
+År 2 - Alexander & Christofer: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
 
 År 3 - Emil & Mary: [ake-3@datasektionen.se](mailto:ake-3@datasektionen.se)
 
-Masterrepresentanter för Datalogi (TCSCM) - Daniel, Elsa, Jesper, Marten: [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
+Masterrepresentanter för Datalogi (TCSCM) - Patrik, Gunnar, Marten: [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
 
-Masterrepresentanter för Cybersäkerhet (TCYSM) - Ellinor, Sönke: [master-cys@datasektionen.se](mailto:master-cys@datasektionen.se)
+Masterrepresentanter för Cybersäkerhet (TCYSM) - Ellinor, Sönke, Rafael: [master-cys@datasektionen.se](mailto:master-cys@datasektionen.se)
 
-Masterrepresentanter för Maskininlärning (TMAIM) - Vakant [master-ml@datasektionen.se](mailto:master-ml@datasektionen.se)
+Masterrepresentanter för Maskininlärning (TMAIM) - Shekhar [master-ml@datasektionen.se](mailto:master-ml@datasektionen.se)
 
 Studienämndens Ordförande (SNO) - Emil: [sno@datasektionen.se](mailto:sno@datasektionen.se)
 
@@ -35,8 +35,8 @@ Studienämndens Ordförande (SNO) - Emil: [sno@datasektionen.se](mailto:sno@data
 
 Kalla salar? Oergonomiska stolar? Är det för hög ljudnivå? Har blivit utsatt för en kränkning av något slag? Kontakta våra skyddsombud om du har en åsikt!
 
-SSO: Axel & Jennifer: [sso@datasektionen.se](mailto:sso@datasektionen.se)
-Studiemiljöansvarig - Axel: [sma@datasektionen.se](mailto:sma@datasektionen.se)
+SSO: Amanda & Jennifer: [sso@datasektionen.se](mailto:sso@datasektionen.se)
+Studiemiljöansvarig - Amanda: [sma@datasektionen.se](mailto:sma@datasektionen.se)
 Jämlikhetsnämndens Ordförande - Jennifer: [jno@datasektionen.se](mailto:jno@datasektionen.se)
 
 ### Övriga frågor
