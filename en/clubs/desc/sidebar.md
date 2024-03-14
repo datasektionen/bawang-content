@@ -4,7 +4,7 @@ Do you want to contact the Desctop (head of DESC)? Send a mail to [desctop@datas
 
 #### DESCtop
 
-Sebastian Willenbrink
+Hugo Dettner Källander
 [desctop@datasektionen.se](mailto:desctop@datasektionen.se)
 
 ## Join DESC
