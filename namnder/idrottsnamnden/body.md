@@ -33,7 +33,7 @@ Varje läsår hålls THS-mästerskapen (tidigare KTH-mästerskapen), där kåren
 ## Tech-i-taka
 Tech-i-taka (vars namn härstammar från tiki-taka: https://en.wikipedia.org/wiki/Tiki-taka) är Datasektionens fotbollslag och en del av idrottsnämnden. Laget är nyuppstartat (första säsongen spelas 2024) och spelar korpenserie. Du kan följa dem via instagram under användarnamnet @techitakakth
 * När tech-i-taka rekryterar nya medlemmar kan man söka via länk: https://dsekt.se/sok-tech-i-taka 
-* När tech-i-taka inte rekryterar nya medlemmar får man ändå jättegärna anmäla sig att fylla lediga platser på träningar/matcher via detta formulär: https://forms.gle/pebmXo27QjvHFg3g9 
+* När tech-i-taka inte rekryterar nya medlemmar får man ändå jättegärna anmäla sig att fylla lediga platser på träningar/matcher via detta formulär: https://dsekt.se/extra-anmalan-techitaka 
 
 ## Externa länkar
 
