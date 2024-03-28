@@ -1,9 +1,8 @@
 ## Kontakt
 
-#### Systemansvariga
+#### Systemansvarig
 
 Mathias Magnusson </br>
-Theodor Ström </br>
 [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
 
 #### Systemgrupp
