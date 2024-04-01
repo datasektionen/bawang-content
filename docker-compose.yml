@@ -5,7 +5,7 @@ services:
     environment:
       - PORT=5000
       - CONTENT_DIR=/content
-      - DARKMODE_URL=https://darkmode.datasektionen.se
+      - DARKMODE_URL=false
     volumes:
       - ./:/content
     command: ./taitan -v -w
