@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   taitan:
     container_name: taitan
@@ -7,6 +5,7 @@ services:
     environment:
       - PORT=5000
       - CONTENT_DIR=/content
+      - DARKMODE_URL=false
     volumes:
       - ./:/content
     command: ./taitan -v -w

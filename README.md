@@ -23,7 +23,7 @@ Vi har stängt av commits direkt till master.
 
 ## Köra lokalt 
 
-Repot har en `docker-compose`-fil som sköter all setup med `bawang` och `taitan`. Så om du vill redigera hemsidan lokalt och vill se dina ändringar innan du pushar så är det bara att installera `docker` och `docker-compose` och sedan köra
+Repot har en `docker-compose`-fil som sköter all setup med `bawang` och `taitan`. Så om du vill redigera hemsidan lokalt och vill se dina ändringar innan du pushar så är det bara att installera `docker` och sedan köra
 ```bash
 docker compose up
 ```
