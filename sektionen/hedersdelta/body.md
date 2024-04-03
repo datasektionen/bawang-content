@@ -10,7 +10,7 @@ går det även att maila D-rektoratet.
 
 # Innehavare av Hedersdeltat
 
-## Mottagare 2023
+## Mottagare 2024
 
 <dl>
   <dt></dt>
