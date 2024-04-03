@@ -15,6 +15,24 @@ går det även att maila D-rektoratet.
 <dl>
   <dt></dt>
   <dd>
+    <a href="#davidpu">David Puustinen</a>, Tricesimus Septimus
+  </dd>
+  <dd>
+    <a href="#ebratman">Ebba Bråtman</a>, Tricesimus Sextus
+  </dd>
+  <dd>
+    <a href="#nvatn">Niklas Vatn</a>, Tricesimus Sextus
+  </dd>
+  <dd>
+    <a href="#amaberg">Amanda Berg</a>, Tricesimus Sextus
+  </dd>
+</dl>
+
+## Mottagare 2023
+
+<dl>
+  <dt></dt>
+  <dd>
     <a href="#jakarv">Jakob Arvidsson</a>, Tricesimus Quartus
   </dd>
   <dd>
@@ -787,6 +805,44 @@ går det även att maila D-rektoratet.
 ## Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
 
 ---
+## Motiveringar till 2023 års mottagare
+
+#### David Puustinen <a name="davidpu"></a>
+
+David Puustinen har under sina år i sektionen engagerat sig i många olika delar av sektionens verksamhet, inte minst som ordförande och revisor. Hans engagemang påbörjades redan under första året av sina studier då han blev vald till posten som Vice Ordförande under pandemin. 
+
+Mycket av det ovärderliga arbetet som David lagt ner har varit osynligt för gemene sektionsmedlem, bland annat det ekonomiska arbetet samt administrativa arbete som David fick göra som ordförande för att säkerställa sektionens överlevnad. 
+
+Vidare fick David agera ensam revisor under första halvåret av 2023 där han tillsåg att sektionen inte skulle hamna i samma ekonomiska sits som tidigare genom att ta en mer aktiv roll i granskandet av den ekonomiska verksamheten.  
+
+David har under sin tid i sektionen bemött andra sektionsmedlemmar med ett bra humör och respekt, samtidigt som han inte varit rädd för att sätta ner foten när det behövdes genom att skilja på sak från person. Dessutom har David alltid med sig drivet för att göra rätt sak även om det innebär att göra personliga uppoffringar. 
+
+För sitt ovärderliga arbete inom förvaltningen av sektionen samt sitt driv för att göra rätt sak även om det innebär uppoffringar för sig själv, tilldelas David Puustinen Hedersdeltat.
+
+#### Ebba Bråtman <a name="ebratman"></a>
+
+Ebba Bråtman har bidragit till sektionen på många olika sätt men framförallt inom mottagningen och JML arbete. Ebba har även varit aktiv inom flertalet nämnder och projekt bland annat Ada, D-Dagen och projektet Magenta. Under sin tid i Titel som Storquisine löste Ebba problem och samarbetade på ett tillmötesgående sätt vilket hon även bar med sig i rollen som Storasyster året därpå. Som Storasyster underlättade Ebba för personalen samt Titel genom att vidareutveckla det tidigare arbetet, i syfte att förbättra personalens välmående. Detta gjorde Ebba genom att strukturera upp schemaläggningen av personalen så att de kunde göra sitt bästa vid mottagandet av nØllan. 
+
+Vidare har Ebba alltid verkat för en trygg och inkluderande miljö, både i arbetet som Storasyster men även som Jämlikhetsnämndens Ordförande. Med ett öga för människan har Ebba tagit på sig engagemang gång på gång för att se till att alla blir rättvist behandlade. 
+
+För sina insatser i förbättringen av Mottagningen och sitt stora engagemang inom sektionen, tilldelas Ebba Bråtman Hedersdeltat.
+
+#### Niklas Vatn <a name="nvatn"></a>
+
+Niklas Vatn har genom sitt breda och långvariga engagemang visat på ett exceptionellt ledarskap och en förmåga att inspirera positiv förändring inom sektionen. Niklas resa började tidigt, med en roll inom NLG, för att sedan fortsätta som ledamot för näringsliv och kommunikation och därefter kliva in som sektionens ordförande. Positionen innehade Niklas under en av de mest utmanande perioderna i sektionens historia på grund av pandemin. Trots den oväntade och långdragna krisen lyckades Niklas styra sektionen genom osäkerheten, och säkerställde att den inte bara överlevde utan även förblev aktiv och engagerad under dessa svåra tider. 
+
+Utöver sitt ordförandeskap under pandemin tog Niklas initiativ till att återuppliva en inaktiv idrottsgrupp genom att organisera gruppen och hålla rutinmässiga event samt pusha dessa. Detta ledde till en naturlig interaktion mellan programstudenter och internationella studenter samt ökat engagemang för idrott och hälsa inom sektionen.
+
+För sina insatser i att hålla sektionen vid liv under en tuff period och det bestående arbetet med att göra sektionen mer aktiv, tilldelas Niklas Vatn Hedersdeltat. 
+
+#### Amanda Berg <a name="amaberg"></a>
+
+Amanda Berg har under sin tid här på sektionen visat ett enastående engagemang för att tillse att jämlikhet, mångfald och likabehandling ska tas seriöst. I sin roll som Jämlikhetsnämndens Ordförande har Amanda uppnått detta genom att införa en JML policy för sektionen samt att kontinuerligt utveckla denna under sina efterföljande funktionärsposter. Detta har i sin helhet lett till en mer inkluderande och trivsam miljö för alla våra medlemmar. Amanda var även ansvarig för ett projekt som sträckte sig över sektionsgränserna vars syfte var att främja kvinnor och icke-binära på hela KTH och inte enbart inom sektionen. 
+
+Vidare har Amanda format posten Ledamot för studiemiljö och likabehandling till vad den är idag genom att bygga upp strukturer inom sektionen för hantering av känsliga ärenden. Amanda har genom sitt arbete skapat en uppförandepolicy som sektionsmedlemmar förväntas följa samt instiftat ett trygghetsråd med sektionens skyddsombud för att kunna hantera dessa ärenden. Detta har bidragit med en solid grund för framtidens arbete med JML-frågor inom sektionen. 
+
+För hennes ihärdiga arbete och ovärderliga bidrag till att skapa en mer jämlik och trivsam sektion, tilldelas Amanda Berg Hedersdeltat.
+
 
 ## Motiveringar till 2023 års mottagare
 
@@ -1892,14 +1948,14 @@ Motivering borttappad.
 
 ## Motiveringar till 1999 års mottagare
 
-#### Christer Gessler <a name="christergessler"></a>
+#### Christer Eliasi-Swahn (Gessler) <a name="christergessler"></a>
 
 <em>Christer Gessler</em> har i tre år representerat Datasektionen
-ikårfullmäktige - två år som oberoende KF-ledamot och ett år som
+i kårfullmäktige - två år som oberoende KF-ledamot och ett år som
 Studienämndensordförande, SNO. I fullmäktige såväl som på sektionen har
 han med engagemangtagit ställning och argumenterat i relevanta frågor.
 Han har dessutom underhela sin studietid deltagit i ESCapo, varav ett år
-som vice lokalchef; han haräven varit med i dadderiet ett år.
+som vice lokalchef; han har även varit med i dadderiet ett år.
 
 #### Patrick Grundler <a name="patrickgrundler"></a>
 
