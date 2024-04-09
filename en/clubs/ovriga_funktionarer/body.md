@@ -2,7 +2,11 @@
 
 The full list of officials, including those under the committees, can be found at [dfunkt.datasektionen.se](https://dfunkt.datasektionen.se/).
 
-## Auditors - Niklas Vatn & David Puustinen
+## Auditors
+
+Niklas Vatn<br/>
+David Puustinen<br/>
+Jakob Carlsson<br/>
 
 The auditors review the board and interpret the Chapter's regulatory documents.
 
@@ -16,12 +20,12 @@ Contact us at [revisorer@datasektionen.se](mailto:revisorer@datasektionen.se) if
 The Chapter Historian shall ensure that the glorious history of the chapter is not forgotten by collecting historical information and objects and by communicating and displaying such information and objects to chapter members in appropriate contexts. The chapter historian decides how best to fulfill this purpose. The chapter historian works alone, but has access to the GUDAR group, "Gamla Uvar" on the CS chapter with ancient accounts as a source of knowledge.
 
 
-## D-Fest - vacant
+## D-Fest - Roger Chen
 
 D-Fest's tasks include - Organizing two parties for other officials per year, one after the Glögg-SM and one after the Val-SM. The purpose of the parties is to honor the chapter's outgoing and incoming officials. - Organize regular team building for the chapter's officials. - Possibly organize other meetings and events together with other chapters and student unions to represent the chapter externally.
 
 
-## Flag bearer - Matteus Berg & Adam Sjöberg (vice)
+## Flag bearer - David Puustinen & Erik Nordlöf (vice)
 
 Flag bearers defend the honor of the chapter by carrying its flag on various ceremonial occasions. Note that the flag should be held high. Being a flag bearer is a very honorable position in the section. The flag bearers are responsible for keeping the chapter's flag in good condition.
 
@@ -43,12 +47,12 @@ If you'd like to book sound- and/or light equipment you can do so in [The Bookin
 The Booking System is only avalible in Swedish, but bookings can be in English also :)
 
 
-## Speaker - Erik Hedlund
+## Speaker - Carl Blomqvist
 
 Arranges and chairs the chapter meeting. Ensures that the necessary arrangements are made for a chapter meeting in consultation with the D-rectorate. The speaker is neutral and does not express his or her personal opinion on matters of substance.
 
 
-## Study environment officer - Axel Andin Johansson
+## Study environment officer - Amanda Berg
 
 The study environment officer has the task of monitoring the EECS premises for the chapter and is responsible for the fire safety of the chapter hall. The officer must work both proactively and reactively to ensure that the chapter members' study environment is as good as possible.
 
@@ -70,7 +74,7 @@ Erik Nordlöf</br>
 ### Supplementary members
 
 Fredrik Blomqvist</br>
-Kei Duke-Bergman</br>
+Va Kant</br>
 
 [Facebook](https://facebook.com/KF.Data)
 
