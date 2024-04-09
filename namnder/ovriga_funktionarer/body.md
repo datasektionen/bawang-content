@@ -2,12 +2,12 @@
 
 Den fulla listan av funktionärer, inklusive nämndansvarige, kan finnas på [dfunkt.datasektionen.se](https://dfunkt.datasektionen.se/).
 
-## D-Fest - vakant
+## D-Fest - Roger Chen
 
 Till funktionärens uppgifter hör att - Anordna två skiftesgasquer per år, en efter Glögg-SM och en efter Val-SM. Syftet med skiftesgasquerna är att hedra sektionens avträdande och tillträdande funktionärer. - Anordna regelbundna teambuildings för sektionens funktionärer. - Eventuellt anordna andra sittningar och evenemang tillsammans med andra sektioner och studentkårer för att representera sektionen utåt.
 
 
-## Fanbärare - Matteus Berg & Adam Sjöberg (vice)
+## Fanbärare - David Puustinen & Erik Nordlöf (vice)
 
 Fanbärarna försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Observera att fanan skall hållas högt. Att vara Fanbärare är en mycket hedersfylld post på sektionen. Fanbärarna bär huvudansvaret för att sektionens fana hålls i gott skick.
 
@@ -34,7 +34,7 @@ Erik Nordlöf</br>
 ### Kårfullmäktigesuppleanter
 
 Fredrik Blomqvist</br>
-Kei Duke-Bergman</br>
+Va Kant</br>
 
 [Facebook](https://facebook.com/KF.Data)
 
@@ -51,7 +51,11 @@ Vill du boka ovannämnd utrustning görs det lättast på [Datasektionens boknin
 Programansvarige arbetar tillsammans med Studienämndens ordförande för att förbättra utbildningens kvalitet. Arbetet går i praktiken ut på att ha möten med lärare och de ansvariga för utbildningen på EECS samt möten centralt på THS.
 
 
-## Revisorer - Niklas Vatn & David Puustinen
+## Revisorerna
+
+Niklas Vatn</br>
+David Puustinen</br>
+Jakob Carlsson</br>
 
 Revisorerna håller koll på styrelsen och tolkar styrdokument. 
 
@@ -65,7 +69,7 @@ Mer information om vad revisorerna håller på med kan ni läsa om i [sektionens
 Sektionshistorikern skall se till att sektionens ärorika historia inte faller i glömska, dels genom att samla in historisk information och historiska föremål och dels genom att föra sagda information vidare till och visa upp sagda föremål för sektionsmedlemmarna i lämpliga sammanhang. Sektionshistorikern avgör själv hur den bäst uppfyller ändamålet. Sektionshistorikern arbetar ensam, men har som kunskapskälla tillgång till GUDAR-gruppen, Gamla Uvar på Data med Anrika Redogörelser.
 
 
-## Studiemiljöansvarig (SMA) - Axel Andin Johansson
+## Studiemiljöansvarig (SMA) - Amanda Berg
 
 Studiemiljöansvarig har till uppgift att övervaka EECS:s lokaler åt sektionen och är ansvarig för sektionslokalens brandsäkerhet. Funktionären skall såväl proaktivt som reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
 
@@ -75,6 +79,6 @@ Studiemiljöansvarig har till uppgift att övervaka EECS:s lokaler åt sektionen
 Sångledaren verkar för att bevara och utveckla sångkulturen i sektionen, samt ansvarar för att hålla vår sångbok uppdaterad. Sångledaren ska även fungera som en go-to toasmaster, eller som resurs för sådana som vill lära sig hur man är toastmaster.
 
 
-## Talman - Erik Hedlund
+## Talman - Carl Blomqvist
 
 Arrangerar samt leder sektionsmötet. Ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet. Talman är neutral och uttalar inte sin personliga ståndpunkt i sakfrågor.
