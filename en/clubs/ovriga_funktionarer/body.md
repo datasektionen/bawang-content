@@ -4,9 +4,9 @@ The full list of officials, including those under the committees, can be found a
 
 ## Auditors
 
-Niklas Vatn<br/>
-David Puustinen<br/>
-Jakob Carlsson<br/>
+Niklas Vatn (audits 2023)<br/>
+David Puustinen (audits 2023 & 2024)<br/>
+Jakob Carlsson (audits 2024)<br/>
 
 The auditors review the board and interpret the Chapter's regulatory documents.
 
