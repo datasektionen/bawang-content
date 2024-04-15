@@ -53,9 +53,9 @@ Programansvarige arbetar tillsammans med Studienämndens ordförande för att f�
 
 ## Revisorerna
 
-Niklas Vatn</br>
-David Puustinen</br>
-Jakob Carlsson</br>
+Niklas Vatn (granskar 2023)</br>
+David Puustinen (granskar 2023 & 2024)</br>
+Jakob Carlsson (granskar 2024)</br>
 
 Revisorerna håller koll på styrelsen och tolkar styrdokument. 
 
