@@ -1,4 +1,4 @@
-![D-rektoratet](./Vårbalen-sakao.jpg)
+![D-rektoratet](https://drive.google.com/file/d/1NqfGUB-2PFzMxO1-7Fb8mtbmmo8RqbUN/preview)
 
 # D-rektoratets sammansättning
 
@@ -9,12 +9,12 @@ kontaktfunktionär.
 
 En förteckning över funktionärernas kontaktperson i styrelsen finns [här](https://dsekt.se/kontaktperson).
 
-## Sektionsordförande - Adam Sjöberg
+## Ordförande - Adam Sjöberg
 
 Sektionens ordförande leder D-rektoratets arbete. Ordföranden ansvarar
 även för kontakten med THS och andra sektioner.
 
-Ordföranden ser till att saker blir gjorda på sektionen och får ta tag i
+Ordförande ser till att saker blir gjorda på sektionen och får ta tag i
 uppgifter som inte direkt faller på någon annan funktionär. Ansvarar
 även för att det upprättas en verksamhetsberättelse varje år som talar
 om vad som hänt under året.
@@ -23,7 +23,7 @@ om vad som hänt under året.
 
 Ordförande är nåbar på [ordf@datasektionen.se](mailto:ordf@datasektionen.se).
 
-## Vice sektionsordförande - Olof Bargholtz Melcherson
+## Vice ordförande - Olof Bargholtz Melcherson
 
 Vice ordförandens viktigaste roll är att assistera och avlasta
 ordförande för att säkerställa att denna inte överarbetar sig. I detta
@@ -31,7 +31,7 @@ ingår bla. att vara beredd på att rycka in som ställföreträdande
 ordförande om ordförande inte kan fullgöra sina förpliktelser, hålla
 möten (som arbetsmöten,SM eller DM) och representera sektionen.
 
-Vice sektionsordförande bör vara villig att ta många små uppgifter som
+Vice ordförande bör vara villig att ta många små uppgifter som
 inte tillhör någon specifik D-rek'post eller hinns med av relevant
 styrelseledamot. Det kontinuerliga ansvaret utgörs mest av fika samt
 ansvar för sektionens nycklar och accesser.
