@@ -1,3 +1,5 @@
+![D-rektoratet](./20240323181058-sakao.jpg)
+
 # Members of the Board
 
 The D-directorate is the board of the Computer Science chapter and consists of seven members.
