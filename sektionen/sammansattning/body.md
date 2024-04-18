@@ -1,4 +1,4 @@
-![D-rektoratet](https://drive.google.com/file/d/1NqfGUB-2PFzMxO1-7Fb8mtbmmo8RqbUN/preview)
+![D-rektoratet](./20240323181058-sakao.jpg)
 
 # D-rektoratets sammansättning
 
