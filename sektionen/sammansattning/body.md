@@ -1,3 +1,5 @@
+![D-rektoratet](./Vårbalen-sakao.jpg)
+
 # D-rektoratets sammansättning
 
 D-rektoratet består av nio ledamöter. Dessa arbetar tillsammans i
