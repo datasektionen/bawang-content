@@ -40,6 +40,8 @@ Vissa är bättre än andra.
 
 ### Henrik Eriksson
 
+✟ 2017-07-27
+
 Henrik Eriksson har i många års tid varit en nära vän till sektionen.
 Han har bland annat ställt upp för sektionens Mottagning ett otal
 gånger, hållt sci-fi-föredrag i ESCapen, delat ut böcker samt deltagit i
@@ -64,6 +66,8 @@ frustrerade Dataloger gör Bitte mer än väl förtjänt av ett
 hedersmedlemskap.
 
 ### Stefan Arnborg
+
+✟ 2023-10-29
 
 Stefan Arnborg har varit programansvarig för D-programmet i drygt 10 år
 och därigenom starkt engagerad i programmets kvalitet och utveckling. De
