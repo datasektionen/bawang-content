@@ -5,6 +5,23 @@ The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It i
 Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/hedersdelta)! You can also make nominations by emailing the [d-Directorate](mailto:drek@datasektionen.se) (the board of the chapter).
 
 # Possessors of Hedersdeltat
+## Recipients 2024
+<dl>
+  <dt></dt>
+  <dd>
+    <a href="#davidpu">David Puustinen</a>, Tricesimus Septimus
+  </dd>
+  <dd>
+    <a href="#ebratman">Ebba Bråtman</a>, Tricesimus Sextus
+  </dd>
+  <dd>
+    <a href="#nvatn">Niklas Vatn</a>, Tricesimus Sextus
+  </dd>
+  <dd>
+    <a href="#amaberg">Amanda Berg</a>, Tricesimus Sextus
+  </dd>
+</dl>
+
 ## Recipients 2023
 <dl>
   <dt></dt>
@@ -510,7 +527,7 @@ Nominations to the Honorary Delta 2024 are made in this [form](https://dsekt.se/
 <dt>
 </dt>
 <dd>
-<a href="#christergessler">Christer Gessler</a>, Dodecimus
+<a href="#christergessler">Christer Eliasi-Swahn (Gessler)</a>, Dodecimus
 
 </dd>
 <dd>
