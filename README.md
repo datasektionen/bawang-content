@@ -31,18 +31,18 @@ Därefter så kommer sidan vara tillgänglig på `localhost:8000`. Om du ändrar
 
 ## Innehåll som är känsligt under mottagningen 🕶️
 
-Om någon del av en sida inte ska visas under mottagningen kan detta automatiskt döljas under mörkläggningen genom att sätta `{{ if .reception -}}` innan och `{{- end }}` efter. Till exempel:
+Om någon del av en sida inte ska visas under mottagningen kan detta automatiskt döljas under mörkläggningen genom att sätta `{{ if not .reception -}}` innan och `{{- end }}` efter. Till exempel:
 
 ```html
-{{ if .reception -}}
+{{ if not .reception -}}
     Något mycket mycket hemligt!
 {{- end }}
 ```
 
-Om texten istället för att gömmas helt ska bytas ut mot något annat kan man innan `end`-delen lägga till `{{- else -}}` och ersättningen, till exempel:
+Om texten istället för att gömmas helt ska bytas ut mot något annat kan man använda en if else-sats, till exempel:
 
 ```html
-Konglig Datasektionen har {{ if .reception -}} sedan 1983 haft en mottagning varje år! {{- else -}} aldrig haft någon mottagning. {{- end }}
+Konglig Datasektionen har {{ if .reception -}} aldrig haft någon mottagning. {{- else -}} sedan 1983 haft en mottagning varje år! {{- end }}
 ```
 
 Mer specifikt används det inbyggda templating-systemet i Go, som man kan läsa mer om [här](https://pkg.go.dev/text/template).
