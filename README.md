@@ -29,10 +29,25 @@ docker compose up
 ```
 Därefter så kommer sidan vara tillgänglig på `localhost:8000`. Om du ändrar på en sida så är det bara att ladda om webbläsaren för att se dina ändringar.
 
-## Mörkläggning till mottagningen 🕶️
-Gör så mycket som möjligt i **EN** PR, då blir det mindre jobbigt att reverta förändringarna efter mottagningen. Lägg även till labeln "mörkläggning" på din PR.
+## Innehåll som är känsligt under mottagningen 🕶️
 
-![image](https://user-images.githubusercontent.com/33149910/130043933-910e96b4-83a8-46b0-b303-a629f98bc1f6.png)
+Om någon del av en sida inte ska visas under mottagningen kan detta automatiskt döljas under mörkläggningen genom att sätta `{{ if .reception -}}` innan och `{{- end }}` efter. Till exempel:
+
+```html
+{{ if .reception -}}
+    Något mycket mycket hemligt!
+{{- end }}
+```
+
+Om texten istället för att gömmas helt ska bytas ut mot något annat kan man innan `end`-delen lägga till `{{- else -}}` och ersättningen, till exempel:
+
+```html
+Konglig Datasektionen har {{ if .reception -}} sedan 1983 haft en mottagning varje år! {{- else -}} aldrig haft någon mottagning. {{- end }}
+```
+
+Mer specifikt används det inbyggda templating-systemet i Go, som man kan läsa mer om [här](https://pkg.go.dev/text/template).
+
+Om någon sida ska döljas helt under mörkläggningen kan man istället sätta `Sensitive = true` i sidans `meta.toml`.
 
 # Översätt hemsidan 🇬🇧🇺🇸
 *Egentligen* borde hela webbsidan vara tillgänglig på engelska,
