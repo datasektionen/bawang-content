@@ -1,6 +1,6 @@
 # Current elections
 
-Elections are done through [the chapters election system](https://val.datasektionen.se). Ballot-box voting for Chapter president, vice president, and treasurer are done through [durn.datasektionen.se](https://durn.datasektionen.se).
+Elections are done through [the chapters election system](https://val.datasektionen.se). Ballot-box voting for Chapter president, vice president, treasurer, and representatives in the Student Union Council are done through [durn.datasektionen.se](https://durn.datasektionen.se).
 
 If you have any questions, email [valberedare@datasektionen.se](mailto:valberedare@datasektionen.se).
 

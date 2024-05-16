@@ -16,7 +16,7 @@ The current operational plan.
 
 The current budget.
 
-#### [dFunk Policy](https://styrdokument.datasektionen.se/dfunkpolicy)
+#### [PM for dFunk](https://styrdokument.datasektionen.se/pm/pm_dfunk)
 
 The current dFunk-policy.
 
@@ -28,11 +28,11 @@ What elections and recruitment are and how they should work.
 
 The chapter's current alcohol policy.
 
-#### [Economic Policy](https://styrdokument.datasektionen.se/ekonomiskt_styrdokument)
+#### [PM for Economy](https://styrdokument.datasektionen.se/pm/pm_ekonomi)
 
 The current Economic policy.
 
-#### [Information Distribution Guidelines](https://styrdokument.datasektionen.se/informationsspridningsguidelines)
+#### [PM for Information Distribution](https://styrdokument.datasektionen.se/pm/pm_informationsspridning)
 
 The Current information distribution guidelines.
 
