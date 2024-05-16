@@ -4,6 +4,9 @@ Ada is a club working for the women and non-binary folks in the Computer Science
 
 <br>
 
+**Ada 23/24**
+Klara Sandström *- Adas Ordförande (aka head of Ada)* <br />
+
 **Ada 22/23**
 
 Klara Sandström *- Adas Ordförande (aka head of Ada)* <br />

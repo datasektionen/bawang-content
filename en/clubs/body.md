@@ -36,6 +36,10 @@ We want everyone to feel safe and welcome.
 
 Manages elections within the chapter to elect people to official positions.
 
+### [GUDAR](/en/clubs/gudar)
+
+Is responsible for safekeeping and rediscovering the Data Chapters long history.
+
 ### [International Committee](/en/clubs/internationellanamnden)
 
 Makes sure international students are welcome by arranging events for both Swedish and international students to get to know each other through.

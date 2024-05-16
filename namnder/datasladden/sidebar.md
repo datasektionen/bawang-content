@@ -1,4 +1,4 @@
 ## Kontakt
 #### Datasladden
-Melvin Jakobsson</br>
+Jonathan Blomlöf</br>
 [mulle@datasektionen.se](mailto:mulle@datasektionen.se)
