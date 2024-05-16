@@ -44,3 +44,7 @@ Det går också att genomföra projekt inom sektionen. Ett projekt är som en ti
 ### Funktionärer
 
 På [dFunkt](//dfunkt.datasektionen.se) hittar du information om alla våra funktionärer. Våra funktionärer väljs av sektionsmötet. Varje funktionär är ansvarig för en nämnd eller del av verksamheten på sektionen. Om du själv vill bli funktionär så kontaktar du [Valberedningen](/sektionen/val) för att kandidera till ett förtroendeuppdrag. Information om vad det innebär att vara funktionär finns i vår [introgüide](http://bit.ly/intropholdr2).
+
+### Kårfullmäktigeledamöter
+
+Datasektionens kårfullmäktigeledamöter representerar sektionen i Kårfullmäktige som är Tekniska Högskolans Studentkår högsta beslutande organ. Kårfullmäktige bestämmer bland annat om kårens pengar, vem som ska vara kårordförande, fastigheterna Nymble och Osqvik samt vilka sektioner som ska finnas.
