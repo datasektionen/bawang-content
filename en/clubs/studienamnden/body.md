@@ -19,7 +19,7 @@ Are your lectures incomprehensible? Are there too few opportunities to present y
 
 Year 1 - Soma & Alice [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
 
-Year 2 - Alexander & Elin: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
+Year 2 - Niels & Christofer: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
 
 Year 3 - Emil & Mary: [ake-3@datasektionen.se](mailto:ake-3@datasektionen.se)
 

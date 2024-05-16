@@ -19,7 +19,7 @@ Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du a
 
 År 1 - Alice & Soma [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
 
-År 2 - Alexander & Christofer: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
+År 2 - Niels & Christofer: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
 
 År 3 - Emil & Mary: [ake-3@datasektionen.se](mailto:ake-3@datasektionen.se)
 
