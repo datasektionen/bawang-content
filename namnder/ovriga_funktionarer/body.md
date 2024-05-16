@@ -34,7 +34,7 @@ Erik Nordlöf</br>
 ### Kårfullmäktigesuppleanter
 
 Fredrik Blomqvist</br>
-Va Kant</br>
+Vakant</br>
 
 [Facebook](https://facebook.com/KF.Data)
 
@@ -62,11 +62,6 @@ Revisorerna håller koll på styrelsen och tolkar styrdokument.
 Mer information om vad revisorerna håller på med kan ni läsa om i [sektionens stadgar](https://styrdokument.datasektionen.se/stadgar).
 
 [Kontakta oss](mailto:revisorer@datasektionen.se) om ni har några frågor kring sektionens styrdokument eller något annat som berör sektionen.
-
-
-## Sektionshistoriker - Isak Lefèvre
-
-Sektionshistorikern skall se till att sektionens ärorika historia inte faller i glömska, dels genom att samla in historisk information och historiska föremål och dels genom att föra sagda information vidare till och visa upp sagda föremål för sektionsmedlemmarna i lämpliga sammanhang. Sektionshistorikern avgör själv hur den bäst uppfyller ändamålet. Sektionshistorikern arbetar ensam, men har som kunskapskälla tillgång till GUDAR-gruppen, Gamla Uvar på Data med Anrika Redogörelser.
 
 
 ## Studiemiljöansvarig (SMA) - Amanda Berg

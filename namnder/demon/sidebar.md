@@ -1,7 +1,7 @@
 ## Kontakt
 
 #### ÄrkeDEMON  
-David Peilitz</br>
+Eynar Ason Eklöf</br>
 [arkedemon@datasektionen.se](mailto:arkedemon@datasektionen.se)
 
 ## Slack

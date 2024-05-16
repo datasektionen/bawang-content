@@ -14,12 +14,6 @@ You can read more about what the auditors do in the Chapter's [by-laws](https://
 
 Contact us at [revisorer@datasektionen.se](mailto:revisorer@datasektionen.se) if you have any questions regarding the Chapter's regulatory documents or anything else that is related to the Chapter.
 
-
-## Chapter historian - Isak Lefèvre
-
-The Chapter Historian shall ensure that the glorious history of the chapter is not forgotten by collecting historical information and objects and by communicating and displaying such information and objects to chapter members in appropriate contexts. The chapter historian decides how best to fulfill this purpose. The chapter historian works alone, but has access to the GUDAR group, "Gamla Uvar" on the CS chapter with ancient accounts as a source of knowledge.
-
-
 ## D-Fest - Roger Chen
 
 D-Fest's tasks include - Organizing two parties for other officials per year, one after the Glögg-SM and one after the Val-SM. The purpose of the parties is to honor the chapter's outgoing and incoming officials. - Organize regular team building for the chapter's officials. - Possibly organize other meetings and events together with other chapters and student unions to represent the chapter externally.
