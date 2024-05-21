@@ -1,6 +1,6 @@
 # Resurser
 
-- [Drive med gamla cases och föreläsningar](https://drive.google.com/drive/folders/14inafdh29PnG1Z82f7CFC-NAkOJjtz7W?usp=sharing)
+- [Drive med sektionens JML-material](https://drive.google.com/drive/folders/14inafdh29PnG1Z82f7CFC-NAkOJjtz7W?usp=sharing)
 - [THS JML-policy](https://drive.google.com/drive/folders/1Yg90ggSuvpP_9858ByotplhSgR01l6aX)
 - [Sektionens Jämlikhetspolicy](https://styrdokument.datasektionen.se/jamlikhetspolicy)
 - [Sektionens Uppförandepolicy](https://styrdokument.datasektionen.se/policies/uppforandepolicy)
