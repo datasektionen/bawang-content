@@ -9,13 +9,14 @@ services:
     volumes:
       - ./:/content
     command: ./taitan -v -w
-    network_mode: host
-
+    ports:
+      - 5000:5000
   bawang:
     container_name: bawang
-    image: ghcr.io/datasektionen/bawang
+    image: ghcr.io/datasektionen/bawang-dev
     environment:
-      - TAITAN_URL=http://localhost:5000
+      - TAITAN_URL=http://taitan:5000
       - TAITAN_CACHE_TTL=0
       - PORT=8000
-    network_mode: host
+    ports:
+      - 8000:8000
