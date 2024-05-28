@@ -14,12 +14,14 @@ Taitan parsar Markdown (allt innehåll i detta repo) och gör om det till JSON o
 Bawang är vår React-frontend som hämtar data från taitan och lägger in det i sina komponenter. Bawang hämtar alltså JSON med HTML och annan information och laddar in som innehåll.
 
 ## Varför?
-På detta sätt kan innehållsändringar göras av vem som helst som har tillgång till detta repo. Ändringarna behöver inte deployas för att komma upp på hemsidan, taitan hämtar allt direkt från detta repo. Vill man däremot göra förändringar i React-frontenden måste sådant såklart deployas.
+På detta sätt kan innehållsändringar göras av vem som helst som har tillgång till detta repo. Ändringarna behöver inte deployas för att komma upp på hemsidan, taitan hämtar allt direkt från detta repo. Vill man däremot göra förändringar i React-frontenden måste sådant såklart deployas (men det görs ju också automatiskt nu för tiden så...).
 
 # Redigera innehåll ✍️
-Klona, gaffla (forka) repot (eller redigera i webbläsaren), gör en ny branch och jobba på den. När du är färdig gör du en PR (pull request). Gäller ändringarna någon annan nämnds/projekts/funktionärs sida kan det vara bra att tagga dem så att de godkänner förändringarna.
+Klona repot och gör en ny branch som du kan jobba på. När du är färdig gör du en PR (pull request). Gäller ändringarna någon annan nämnds/projekts/funktionärs sida kan det vara bra att tagga dem så att de godkänner förändringarna.
 
 Vi har stängt av commits direkt till master.
+
+Om du inte har access att pusha till repot kan du säkerligen få det om du frågar Systemansvarig. Annars går det även att göra en egen fork, men det gör saker i allmänhet lite krångligare.
 
 ## Köra lokalt 
 
