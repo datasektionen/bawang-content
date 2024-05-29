@@ -7,10 +7,10 @@ kontaktfunktionär.
 
 En förteckning över funktionärernas kontaktperson i styrelsen finns [här](https://dsekt.se/kontaktperson).
 
-## Sektionsordförande - Adam Sjöberg
+## Ordförande - Adam Sjöberg
 
 Sektionens ordförande leder D-rektoratets arbete. Ordföranden ansvarar
-även för kontakten med THS och andra sektioner.
+även för kontakten med THS och andra sektioner. 
 
 Ordföranden ser till att saker blir gjorda på sektionen och får ta tag i
 uppgifter som inte direkt faller på någon annan funktionär. Ansvarar
@@ -21,7 +21,7 @@ om vad som hänt under året.
 
 Ordförande är nåbar på [ordf@datasektionen.se](mailto:ordf@datasektionen.se).
 
-## Vice sektionsordförande - Olof Bargholtz Melcherson
+## Vice ordförande - Olof Bargholtz Melcherson
 
 Vice ordförandens viktigaste roll är att assistera och avlasta
 ordförande för att säkerställa att denna inte överarbetar sig. I detta
@@ -38,7 +38,7 @@ ansvar för sektionens nycklar och accesser.
 
 Vice ordförande är nåbar på [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
 
-## Sekreterare - Christofer Gärtner
+## Sekreterare - Emma Ericsson
 
 Sekreteraren är ansvarig för styrdokument, handlingar, protokoll och annan
 formalia på sektionen.
