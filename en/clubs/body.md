@@ -22,7 +22,7 @@ DESC organizes gaming nights and other events for gaming enthusiasts in the chap
 
 ### [dJulkalendern](/en/clubs/djulkalendern)
 
-The chapter's yearly CTF competition. <img style="height: 1em" src="https://cdn.discordapp.com/emojis/1056826137994596413.webp?size=32&quality=lossless">
+The chapter's yearly CTF competition. <img style="height: 1em" src="https://djulkalendern.se/images/djuldanke.svg">
 
 ### [DKM - Party organizers](/en/clubs/dkm)
 
