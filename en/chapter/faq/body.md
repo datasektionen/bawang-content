@@ -1,7 +1,7 @@
 # FAQ
 
 ### How do I become a member?
-You become a member by studying one of the programs that that belong to the chapter and paying your [membership fee to THS](http://ths.kth.se/membership).
+You become a member by studying one of the programs that belong to the chapter and paying your [membership fee to THS](https://thskth.se/membership).
 
 ### What can I do if I'm not a member?
 You can always study in our chapter hall META (Osquars Backe 21) between 6-17, but to take part in the events that the chapter arranges or to join its clubs you need to be a member.
