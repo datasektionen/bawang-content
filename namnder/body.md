@@ -28,7 +28,7 @@ Organiserar spelkvällar och andra event för gamers i sektionen.
 
 ### [dJulkalendern](/namnder/djulkalendern)
 
-Datasektionens årliga CTF-tävling. <img style="height: 1em" src="https://cdn.discordapp.com/emojis/1056826137994596413.webp?size=32&quality=lossless">
+Datasektionens årliga CTF-tävling. <img style="height: 1em" src="https://djulkalendern.se/images/djuldanke.svg">
 
 ### [DKM - Klubbmästeriet](/namnder/dkm)
 

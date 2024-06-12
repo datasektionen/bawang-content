@@ -4,7 +4,7 @@ The Computer Science Chapter is a nonprofit organisation that works for its
 members interest. We have by-laws and a board of directors – and a lot of documents. At first hand we follow the Swedish laws as a nonprofit organisation. We also follow to the KTH Student Union bylaws,
 rules and white paper.
 
-The Computer Science Chapter also have their own regulatory documents. To regulate our own activities we got our [by-laws](https://styrdokument.datasektionen.se/stadgar) and our officials [rules](https://styrdokument.datasektionen.se/reglemente). [Our treasurer](https://dfunkt.datasektionen.se/position/id/9) is responsible for the chapter's economic routines - you will find them in the [PM for Economic](https://styrdokument.datasektionen.se/pm/pm_ekonomi).
+The Computer Science Chapter also have their own regulatory documents. To regulate our own activities we got our [by-laws](https://styrdokument.datasektionen.se/stadgar) and our officials [rules](https://styrdokument.datasektionen.se/reglemente). [Our treasurer](https://dfunkt.datasektionen.se/position/id/9) is responsible for the chapter's economic routines - you will find them in the [PM for Economy](https://styrdokument.datasektionen.se/pm/pm_ekonomi).
 
 The Computer Science Chapter are also proud proprietors of a permanent
 license to serve alcohol and thus we follow the Swedish Alcohol Law(Alkohollag:2010:1622). To be clear to all our members about our view on alcohol in our chapter hall and our activities
