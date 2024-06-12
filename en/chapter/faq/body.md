@@ -23,4 +23,4 @@ You find all of the chapter's clubs and their officials under [Clubs](/en/clubs)
 You learn how to organize an event or party in the Swedish document [How2Event](https://docs.google.com/document/d/1xmbr46HlLkXXaY_vYVd0KQBfDczmtabL3EhGByZDkxw/edit?usp=sharing).
 
 ### Who do I write to if i have more questions?
-[Info@datasektionen.se](mailto:info@datasektionen.se)
+[info@datasektionen.se](mailto:info@datasektionen.se)
