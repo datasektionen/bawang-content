@@ -17,7 +17,7 @@ If this isn't the case you can instead submit a motion to the next chapter meeti
 ### How do I join a club?
 Every club recruits members in a different way. Some are open and you can join them whenever you want to while others are closed and recruit new members 1-2 times a year. If you want to learn how to join a club or when their recruitment opens you can message the club's chairman.
 
-You find all of the chapters clubs and their officials under [Clubs](/en/clubs).
+You find all of the chapter's clubs and their officials under [Clubs](/en/clubs).
 
 ### How do I organize an event?
 You learn how to organize an event or party in the Swedish document [How2Event](https://docs.google.com/document/d/1xmbr46HlLkXXaY_vYVd0KQBfDczmtabL3EhGByZDkxw/edit?usp=sharing).
