@@ -1,0 +1,1 @@
+[Studs](https://studieresan.se) - The Study Visit, a course organised by students of the Chapter.

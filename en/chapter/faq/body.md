@@ -1,79 +1,26 @@
 # FAQ
 
-## FAQ concerning parties, arrangements and events
+### How do I become a member?
+You become a member by studying one of the programs that belong to the chapter and paying your [membership fee to THS](https://thskth.se/membership).
 
-### I would love to organize a party, but I don't know how to...
+### What can I do if I'm not a member?
+You can always study in our chapter hall META (Osquars Backe 21) between 6-17, but to take part in the events that the chapter arranges or to join its clubs you need to be a member.
 
-Technically, anyone can organize a party or event. However, to organize an
-event you have to be a member of the Computer Science chapter. You also need
-to figure out a location, get a permit, and have a
-person that is qualified to be responsible for the event.
-For more information, email the chapter's board at [drek@datasektionen.se](mailto:drek@datasektionen.se).
+### How do i learn about the events that the chapter arranges?
+Every event that the chapter arranges is posted on our website! They're displayed in our normal news-feed but if you only want to see events that are posted or see the event-calendar you can go to [Event](https://datasektionen.se/en/news?itemType=EVENT).
 
-#### Do I need to be a chapter member to do stuff?
+### How do i impact the chapter?
+There are multiple ways to impact the chapter. First and foremost you can talk to another member, a chapter official, or a member of the chapter's board to see if your proposed change can be done through unofficial means.
 
-Yep. The only thing you can do without being a member, is spending time in META (our chaper Hall) between 06:00 and 17:00.
+If this isn't the case you can instead submit a motion to the next chapter meeting (SM). You can read a Swedish guide on how to write a motion [here](https://docs.google.com/document/d/1-ydBX1wnQHgXiFULoto7GK2T819r0Sbc8-zyE32zGGw/edit?usp=drive_link) or message the chapter's [secretary](mailto:sekreterare@datasektionen.se) if you have any questions.
 
-#### I need a location, can I use META?
+### How do I join a club?
+Every club recruits members in a different way. Some are open and you can join them whenever you want to while others are closed and recruit new members 1-2 times a year. If you want to learn how to join a club or when their recruitment opens you can message the club's chairman.
 
-The chapter regulations state the following (unofficial translation):
-§7: META may only be booked by the Computer Science chapter functionaries, as well as
-organs within the THS, and other organizations. But contact the club or
-organisation that fits with the activity you want to organize, and hopefully
-they can help you. Bookings are done [here](https://bokning.datasektionen.se/bookings/7).
+You find all of the chapter's clubs and their officials under [Clubs](/en/clubs).
 
-If you are unsure, contact the board.
+### How do I organize an event?
+You learn how to organize an event or party in the Swedish document [How2Event](https://docs.google.com/document/d/1xmbr46HlLkXXaY_vYVd0KQBfDczmtabL3EhGByZDkxw/edit?usp=sharing).
 
-#### Are there other locations than META that I can book?
-
-Sure. THS has halls specifically for parties. While nice, these tend to
-cost more than the Computer Science chapter's halls.
-
-#### What is a party application?
-
-A party application is good to have in order to notify guards about your event.
-If you intend to host any event with more than 50 participants, you must make an application or
-if you want to serve alcohol. Need any help? Contact [the head of the chapter](ordf@datasektionen.se)
-or the [head of the bar](mailto:klubbm@datasektionen.se).
-
-
-#### What if I want to serve alcohol?
-
-If want to serve alcohol there has to be someone who has taken
-[STAD course](http://www.stad.org/en/about-stad) and passed the exam. In addition to this the person
-has to be registered in the database of people allowed to be in charge of serving in META. Talk to
-the [chairman](mailto:ordf@datasektionen.se) if you are unsure about any of this.
-
-If the event isn't in META other rules may apply.
-
-#### How can I get information about party locations?
-
-Talk to the head of the hall/location, e.g. [the head of the chapter hall](mailto:lokalchef@datasektionen.se) if you're booking META.
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-
-### Code of Conduct
-
-<https://intra.kth.se/polopoly_fs/1.662086!/fester_kth_lokaler.pdf>
-
-THS halls
------------
-
-<http://ths.kth.se/wp-content/uploads/2010/01/THS-Hyrespriser-fr.-2014-02-19.pdf>
-
-### How to get economic support for chapter activity
-
-Do you have an event idea or do you need to make an important purchase? You can always apply for economic support from the chapter in case you lack resources.
-
-### What kind of money?
-
-The head of the chapter, D-directorate (the board) and the chapter meeting (SM) can all make decisions on funding activities and purchases related to the chapter. The head can approve total sums of 2000 kr and the board, 30 000 kr. The chapter meeting does not have a limit. Economic resources are handed out from the disposition fund.
-
-### What do I need to do?
-
-Just need a small push? If you need less than 2000 kr, you can simply mail the chapter head with a justification. Usually those requests are not
-approved unless it is very rugent.
-
-For sums between 2000 and 30 000 kr, you must wait for the board to come to a decision during a board meeting. Send a mail to [the board](mailto:drek@datasektionen.se) with a justification. You are welcome to join the meeting, announced five days before, to present your application and to answer questions.
-
-Applications with sums above 30 000 kr need to pass on the chapter meeting. Send a motion to the board meeting preceding the chapter meeting with your justification. You can also ask for help on formalia or discuss your idea. You are requested to join the meeting in order to discuss about your motion. Following the board meeting, an answer from the board regarding your motion will be announced during the chapter meeting. A LaTeX template for motions can be found, under "Motion", [here](https://motioner.datasektionen.se/).
+### Who do I write to if i have more questions?
+[info@datasektionen.se](mailto:info@datasektionen.se)
