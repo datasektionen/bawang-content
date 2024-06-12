@@ -23,4 +23,4 @@ Du kan hitta samtliga av sektionens nämnder och dess ordförande under [Nämnde
 Du kan läsa om hur man anordnar en fest eller ett event inom sektionen i dokumentet [How2Event](https://docs.google.com/document/d/1xmbr46HlLkXXaY_vYVd0KQBfDczmtabL3EhGByZDkxw/edit?usp=sharing).
 
 ### Vem skriver jag till om jag har några fler frågor?
-[Info@datasektionen.se](mailto:info@datasektionen.se)
+[info@datasektionen.se](mailto:info@datasektionen.se)
