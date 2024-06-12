@@ -2,5 +2,5 @@
 
 #### Projektledare för dÅre
 
-karl Lindblad </br>
+Karl Lindblad </br>
 [dare@datasektionen.se](mailto:dare@datasektionen.se)
