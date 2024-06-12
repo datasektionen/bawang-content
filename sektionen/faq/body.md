@@ -7,7 +7,7 @@ Du blir medlem genom att studera vid ett av programmen som tillhör sektionen oc
 Du kan alltid sitta och studera i vår sektionslokal META (Osquars Backe 21) mellan 6-17, men för att ta del i de event som sektionen anordnar eller vara med i dess nämnder så måste du vara medlem.
 
 ### Hur lär jag mig vad som händer på sektionen?
-Alla evenemang som sektionen anordnas marknadsförs på hemsidan! De hamnar i vårt vanliga nyhetsflöde men vill du endast se event som anordnas och till och med en kalender över dessa kan du gå till [Event](https://datasektionen.se/nyheter?itemType=POST).
+Alla evenemang som sektionen anordnas marknadsförs på hemsidan! De hamnar i vårt vanliga nyhetsflöde men vill du endast se event som anordnas kan du gå till [Event](https://datasektionen.se/nyheter?itemType=EVENT) där det också finns en kalender över dessa.
 
 ### Hur påverkar jag sektionen?
 Om du vill ändra något i sektionen så finns det flera sätt. Först och främst så kan du prata med andra medlemmar, sektionens funktionärer eller sektionens styrelse för att se om din förändring går att göra utanför officiella medel. 
