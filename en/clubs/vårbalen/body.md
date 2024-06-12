@@ -1,1 +1,1 @@
-Vårbalen is the chapters annual spring ball.
+Vårbalen is the chapter's annual spring ball.
