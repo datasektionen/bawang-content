@@ -10,7 +10,7 @@ You can always study in our chapter hall META (Osquars Backe 21) between 6-17, b
 Every event that the chapter arranges is posted on our website! They're displayed in our normal news-feed but if you only want to see events that are posted or see the event-calendar you can go to [Event](https://datasektionen.se/en/news?itemType=EVENT).
 
 ### How do i impact the chapter?
-There are multiple ways to impact the chapter. First and foremost you can talk to another member, a chapter official, och a member of the chapters board to see if you proposed change can be done through inofficial means.
+There are multiple ways to impact the chapter. First and foremost you can talk to another member, a chapter official, or a member of the chapter's board to see if your proposed change can be done through unofficial means.
 
 If this isn't the case you can instead submit a motion to the next chapter meeting (SM). You can read a Swedish guide on how to write a motion [här](https://docs.google.com/document/d/1-ydBX1wnQHgXiFULoto7GK2T819r0Sbc8-zyE32zGGw/edit?usp=drive_link) or messege the chapters [secretary](mailto:sekreterare@datasektionen.se) if you have any questions.
 
