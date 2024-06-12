@@ -12,7 +12,7 @@ Every event that the chapter arranges is posted on our website! They're displaye
 ### How do i impact the chapter?
 There are multiple ways to impact the chapter. First and foremost you can talk to another member, a chapter official, or a member of the chapter's board to see if your proposed change can be done through unofficial means.
 
-If this isn't the case you can instead submit a motion to the next chapter meeting (SM). You can read a Swedish guide on how to write a motion [här](https://docs.google.com/document/d/1-ydBX1wnQHgXiFULoto7GK2T819r0Sbc8-zyE32zGGw/edit?usp=drive_link) or messege the chapters [secretary](mailto:sekreterare@datasektionen.se) if you have any questions.
+If this isn't the case you can instead submit a motion to the next chapter meeting (SM). You can read a Swedish guide on how to write a motion [here](https://docs.google.com/document/d/1-ydBX1wnQHgXiFULoto7GK2T819r0Sbc8-zyE32zGGw/edit?usp=drive_link) or message the chapter's [secretary](mailto:sekreterare@datasektionen.se) if you have any questions.
 
 ### How do I join a club?
 Every club recruits members in a different way. Some are open and you can join them whenever you want to while others are closed and recruit new members 1-2 times a year. If you want to learn how to join a club or when their recruitment opens you can message the clubs chairman.
