@@ -1,1 +1,1 @@
-dÅre - The chapters trip the the ski village: Åre
+dÅre - The chapter's trip to the ski village Åre.
