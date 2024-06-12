@@ -1,0 +1,1 @@
+Project Pride is the chapters annual float in the Stockholm Pride Parade

@@ -34,6 +34,10 @@ Datasektionens årliga CTF-tävling. <img style="height: 1em" src="https://cdn.d
 
 Vad skulle en sektion vara utan fester? DKM har organiserat fester så länge vår sektion har funnits.
 
+### [GUDAR](/namnder/gudar)
+
+Försäkrar att Konglig Datasektionens anrika historia inte faller i glömska.
+
 ### [Idrottsnämnden](/namnder/idrottsnamnden)
 
 Arrangerar sport-event, kontinuerligt en sport varje vecka!
@@ -100,8 +104,6 @@ dÅre
 
 Project Pride
 
-Vårbalen
-
 ## Projekt på Datasektionen
 
 dÅre 2024
@@ -111,8 +113,6 @@ Studs 2023
 Studs 2024
 
 METAspexet 2024
-
-Vårbalen 2023
 
 Vårbalen 2024
 

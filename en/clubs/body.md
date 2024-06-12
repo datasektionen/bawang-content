@@ -110,8 +110,6 @@ Studs 2024
 
 METAspexet 2024
 
-Vårbalen 2023
-
 Vårbalen 2024
 
 Project Pride 2024
@@ -149,7 +147,7 @@ Dart Vader: CS Dart group.
 
 Jong: CS Juggling group.
 
-SHFF: Sektionshusfondsföreningen (untranslatable - sorry, one international student that go this far. Thanks for reading tho!).
+SHFF: Sektionshusfondsföreningen (untranslatable - sorry to the one international student that got this far. Thanks for reading tho!).
 
 Sångboksgruppen: The Chapter songbook group.
 
