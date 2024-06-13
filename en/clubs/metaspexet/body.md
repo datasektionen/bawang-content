@@ -1,1 +1,5 @@
-[METAspexet](https://metaspexet.se) - The Spex shared between the CS chapter and the Media Technology Chapter - An interactive student musical theater.
+# METAspexet
+
+The Spex shared between the CS chapter and the Media Technology Chapter - An interactive student musical theater.
+
+[https://metaspexet.se](https://metaspexet.se)
