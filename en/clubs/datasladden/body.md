@@ -5,7 +5,7 @@ Datasladden is the club which ensures that the chapter cars Cerise and Lusen sta
 The chapter car, or Cerise as it is known, is a Nissan NV300 which has been wrapped in the chapter's colours. It was bought in the spring of 2022 in Värmland and has served the chapter well since then. The previous Cerise broke down during the autumn of 2021 and was sold to a new owner.
 
 ## The chapters electric car
-The chapter has an electric car, called Lusen. Lusen is an electric Citroen. It was bought in the spring of 2024 in Stockholm and has served the chapter well since then.
+The chapter has an electric car, called Lusen. Lusen is an electric Citroën. It was bought in the spring of 2024 in Stockholm and has served the chapter well since then.
 
 ## What we do
 Datasladden keeps track of the cars and the log book. The main duty is to keep the cars clean and in a good working order. If something were to happen, Datasladden will get it repaired and solved. There are a lot of other functionaries and clubs that use the cars so it is important for the cars to be serviceable.
