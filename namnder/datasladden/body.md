@@ -5,7 +5,7 @@ Datasladden är nämnden som ser till att sektionsbilarna Cerise och Lusen forts
 Sektionsbilen som kallas för Cerise är en Nissan NV300 som har blivit folierad i Datasektionens färger. Den köptes in våren 2022 i Värmland och har sedan dess tjänat sektionen väl. Den föregående Cerise havererade sent på höstterminen 2021 och såldes vidare.
 
 ## Sektionens elbil
-Sektionens elbil som kallas för Lusen är en Citreon. Den köptes in våren 2024 i Stockholm och har sedan dess tjänat sektionen väl. 
+Sektionens elbil som kallas för Lusen är en Citroën. Den köptes in våren 2024 i Stockholm och har sedan dess tjänat sektionen väl. 
 
 ## Verksamhet
 Datasladden håller koll på bilarna och körjournalen. Nämndens främsta skyldighet är att hålla bilarna rena och fungerande, samt få dem reparerade om de skulle gå sönder. Det är många andra nämnder och funktionärer som använder bilarna för sin verksamhet, därför är det viktigt att de är tillgängliga så mycket som möjligt.
