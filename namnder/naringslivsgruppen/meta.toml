@@ -1,3 +1,5 @@
-Image = "https://stacken.är.den.verkligen.uppe/a.png"
-Title = "Näringslivsgruppen"
-Sort = 1
+sort = 1
+
+[title]
+sv = "Näringslivsgruppen"
+en = "The Business Relations Group"

@@ -1,2 +1,5 @@
-Title = "Nyheter/Event"
-Sort = 10
+sort = 11
+
+[title]
+sv = "Nyheter/Event"
+en = "News/Events"

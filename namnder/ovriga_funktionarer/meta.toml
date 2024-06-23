@@ -1,3 +1,5 @@
-Image = "https://stacken.är.den.verkligen.uppe/a.png"
-Title = "Övriga funktionärer"
-Sort = 2
+sort = 2
+
+[title]
+sv = "Övriga funktionärer"
+en = "Other officials"

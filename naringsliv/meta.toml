@@ -1,2 +1,5 @@
-Title = "Näringsliv"
-Sort = 1
+sort = 1
+
+[title]
+sv = "Näringsliv"
+en = "Industry"
