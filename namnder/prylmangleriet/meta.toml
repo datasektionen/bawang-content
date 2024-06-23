@@ -1,3 +1,5 @@
-Sort = 1
-Title_sv = "Prylmångleriet"
-Title_en = "Prylmångleriet"
+sort = 1
+
+[title]
+sv = "Prylmångleriet"
+en = "Prylmångleriet"

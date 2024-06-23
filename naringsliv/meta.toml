@@ -1,3 +1,5 @@
-Sort = 1
-Title_sv = "Näringsliv"
-Title_en = "Industry"
+sort = 1
+
+[title]
+sv = "Näringsliv"
+en = "Industry"

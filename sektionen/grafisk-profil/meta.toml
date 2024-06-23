@@ -1,2 +1,3 @@
-Title_sv = "Grafisk profil"
-Title_en = "Graphical profile"
+[title]
+sv = "Grafisk profil"
+en = "Graphical profile"

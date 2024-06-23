@@ -1,3 +1,5 @@
-Sort = 1
-Title_sv = "Redaqtionen"
-Title_en = "Redaqtionen"
+sort = 1
+
+[title]
+sv = "Redaqtionen"
+en = "Redaqtionen"

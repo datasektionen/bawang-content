@@ -1,2 +1,3 @@
-Title_sv = "Aktuella val"
-Title_en = "Current elections"
+[title]
+sv = "Aktuella val"
+en = "Current elections"

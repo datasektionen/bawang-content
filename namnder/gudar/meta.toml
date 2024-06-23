@@ -1,3 +1,5 @@
-Sort = 1
-Title_sv = "GUDAR"
-Title_en = "GUDAR"
+sort = 1
+
+[title]
+sv = "GUDAR"
+en = "GUDAR"

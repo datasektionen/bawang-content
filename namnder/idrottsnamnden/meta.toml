@@ -1,3 +1,5 @@
-Sort = 1
-Title_sv = "Idrottsnämnden"
-Title_en = "The Sports Committee"
+sort = 1
+
+[title]
+sv = "Idrottsnämnden"
+en = "The Sports Committee"

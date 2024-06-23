@@ -1,3 +1,5 @@
-Sort = 1
-Title_sv = "Internationella nämnden"
-Title_en = "International Committee"
+sort = 1
+
+[title]
+sv = "Internationella nämnden"
+en = "International Committee"

@@ -1,2 +1,3 @@
-Title_sv = "Dokument"
-Title_en = "Documents"
+[title]
+sv = "Dokument"
+en = "Documents"

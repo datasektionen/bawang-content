@@ -1,3 +1,5 @@
-Sort = 1
-Title_sv = "Project Pride"
-Title_en = "Project Pride"
+sort = 1
+
+[title]
+sv = "Project Pride"
+en = "Project Pride"

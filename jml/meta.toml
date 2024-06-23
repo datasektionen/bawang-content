@@ -1,3 +1,5 @@
-Sort = 10
-Title_sv = "JML"
-Title_en = "Equality"
+sort = 10
+
+[title]
+sv = "JML"
+en = "Equality"

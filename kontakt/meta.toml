@@ -1,3 +1,5 @@
-Sort = 0
-Title_sv = "Kontakt"
-Title_en = "Contact"
+sort = 0
+
+[title]
+sv = "Kontakt"
+en = "Contact"

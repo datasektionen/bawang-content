@@ -1,2 +1,4 @@
-Title_sv = "Konglig Datasektionen"
-Title_en = "The Computer Science Chapter"
+[title]
+sv = "Konglig Datasektionen"
+en = "The Computer Science Chapter"
+

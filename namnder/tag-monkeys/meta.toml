@@ -1,3 +1,5 @@
-Sort = 1
-Title_sv = "Tag Monkeys"
-Title_en = "Tag Monkeys"
+sort = 1
+
+[title]
+sv = "Tag Monkeys"
+en = "Tag Monkeys"

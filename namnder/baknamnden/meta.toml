@@ -1,3 +1,5 @@
-Sort = 1
-Title_sv = "Baknämnden"
-Title_en = "The Baking Committee"
+sort = 1
+
+[title]
+sv = "Baknämnden"
+en = "The Baking Committee"

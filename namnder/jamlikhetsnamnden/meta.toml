@@ -1,3 +1,5 @@
-Sort = 1
-Title_sv = "Jämlikhetsnämnden"
-Title_en = "Equality Committee"
+sort = 1
+
+[title]
+sv = "Jämlikhetsnämnden"
+en = "Equality Committee"

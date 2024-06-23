@@ -1,2 +1,3 @@
-Title_sv = "Hedersmedlem"
-Title_en = "Honorary member"
+[title]
+sv = "Hedersmedlem"
+en = "Honorary member"

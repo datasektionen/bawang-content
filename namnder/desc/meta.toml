@@ -1,3 +1,5 @@
-Sort = 1
-Title_sv = "DESC"
-Title_en = "DESC"
+sort = 1
+
+[title]
+sv = "DESC"
+en = "DESC"

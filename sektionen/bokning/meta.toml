@@ -1,2 +1,3 @@
-Title_sv = "Bokning"
-Title_en = "Bookings"
+[title]
+sv = "Bokning"
+en = "Bookings"

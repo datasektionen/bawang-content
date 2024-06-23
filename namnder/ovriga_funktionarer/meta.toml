@@ -1,3 +1,5 @@
-Sort = 2
-Title_sv = "Övriga funktionärer"
-Title_en = "Other officials"
+sort = 2
+
+[title]
+sv = "Övriga funktionärer"
+en = "Other officials"

@@ -1,3 +1,5 @@
-Sort = 1
-Title_sv = "Datasladden"
-Title_en = "Datasladden"
+sort = 1
+
+[title]
+sv = "Datasladden"
+en = "Datasladden"
