@@ -1,2 +1,3 @@
-Image = "https://stacken.är.den.verkligen.uppe/a.png"
-Title = "Datasektionens ordnar"
+[title]
+sv = "Datasektionens ordnar"
+en = "The Orders of the Computer Science chapter"

@@ -1,2 +1,5 @@
-Title = "Sektionen"
-Sort = 9
+sort = 9
+
+[title]
+sv = "Sektionen"
+en = "The Chapter"

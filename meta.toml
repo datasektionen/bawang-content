@@ -1,2 +1,4 @@
-Image = "https://static.datasektionen.se/splash-lite.jpg"
-Title = "Konglig Datasektionen"
+[title]
+sv = "Konglig Datasektionen"
+en = "The Computer Science Chapter"
+

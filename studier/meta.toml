@@ -1,2 +1,5 @@
-Title = "Studier"
-Sort = 8
+sort = 8
+
+[title]
+sv = "Studier"
+en = "Studies"

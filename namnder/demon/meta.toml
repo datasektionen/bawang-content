@@ -1,3 +1,5 @@
-Image = "https://stacken.är.den.verkligen.uppe/a.png"
-Title = "DEMON"
-Sort = 1
+sort = 1
+
+[title]
+sv = "DEMON"
+en = "DEMON"

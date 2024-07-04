@@ -1,2 +1,3 @@
-Image = "https://stacken.är.den.verkligen.uppe/a.png"
-Title = "Vanliga studiefrågor"
+[title]
+sv = "Vanliga studiefrågor"
+en = "FAQ"

@@ -1,2 +1,3 @@
-Image = "https://stacken.är.den.verkligen.uppe/a.png"
-Title = "Hedersdeltat"
+[title]
+sv = "Hedersdeltat"
+en = "The Honorary Delta"
