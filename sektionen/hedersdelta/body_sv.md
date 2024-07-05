@@ -802,9 +802,8 @@ går det även att maila D-rektoratet.
 </dd>
 </dl>
 
-## Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
+# Motiveringar till utdelandet av förtjänsttecken <a name="motivering"></a>
 
----
 ## Motiveringar till 2024 års mottagare
 
 #### David Puustinen <a name="davidpu"></a>
