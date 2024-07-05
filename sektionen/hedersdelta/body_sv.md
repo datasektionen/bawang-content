@@ -5,7 +5,7 @@ läsa längre ner på sidan.
 
 # Hedersdelta-nomineringar
 
-[Här](https://dsekt.se/hedersdelta) kan nomineringar till Hedersdeltat 2024 göras! Självklart
+[Här](https://dsekt.se/hedersdelta) kan nomineringar till Hedersdeltat 2025 göras! Självklart
 går det även att maila D-rektoratet.
 
 # Innehavare av Hedersdeltat
