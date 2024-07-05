@@ -20,10 +20,10 @@ Kontakta mig om du har frågor/funderingar rörande den fysiska studiemiljön.
 
 [sma@datasektionen.se](mailto:sma@datasektionen.se)
 
-#### Jämlikhetsnämndens ordförande
-Kontakta mig om du har frågor/funderingar rörande den psykosociala studiemiljön och jämlikhetsfrågor. 
+#### Jämlikhets-, Mångfalds- och Likabehandlingsansvarig
+Kontakta mig om du har frågor/funderingar rörande den psykosociala studiemiljön. 
 
-[jno@datasektionen.se](mailto:jno@datasektionen.se)
+[jmla@datasektionen.se](mailto:jmla@datasektionen.se)
 
 Du kan även kontakta mig anonymt på [jml.datasektionen.se](https://jml.datasektionen.se/)
 

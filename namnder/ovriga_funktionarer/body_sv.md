@@ -11,6 +11,9 @@ Till funktionärens uppgifter hör att - Anordna två skiftesgasquer per år, en
 
 Fanbärarna försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Observera att fanan skall hållas högt. Att vara Fanbärare är en mycket hedersfylld post på sektionen. Fanbärarna bär huvudansvaret för att sektionens fana hålls i gott skick.
 
+## Jämlikhets-, Mångfalds- och Likabehandlingsansvarig (JMLA) - Jennifer Köhler
+
+Jämlikhets-, Mångfalds- och Likabehandlingsansvarig har till uppgift att värna om sektionens psykiska studiemiljö, för samtliga sektionsmedlemmar. Funktionären ska pro- och reaktivt arbeta med att förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
 
 ## Kommunikatör - Benjamin Widman
 
