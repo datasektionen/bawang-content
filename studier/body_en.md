@@ -21,8 +21,8 @@ Contact me if you have questions about the physical study environment.
 
 [sma@datasektionen.se](mailto:sma@datasektionen.se)
 
-#### Head of the Equality committee
-Contact me if with questions or comments about the psychosocial environment and/or equality.
+#### Head of Equality, Diversity and Equal Treatment
+Contact me if with questions or comments about the psychosocial environment.
 
 [jno@datasektionen.se](mailto:jno@datasektionen.se)
 
