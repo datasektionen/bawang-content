@@ -24,6 +24,6 @@ Contact me if you have questions about the physical study environment.
 #### Head of Equality, Diversity and Equal Treatment
 Contact me if with questions or comments about the psychosocial environment.
 
-[jno@datasektionen.se](mailto:jno@datasektionen.se)
+[jmla@datasektionen.se](mailto:jmla@datasektionen.se)
 
 You can also contact me anonymously through [jml.datasektionen.se](https://jml.datasektionen.se/)
