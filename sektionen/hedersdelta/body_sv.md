@@ -1,6 +1,6 @@
 Hedersdeltat är Konglig Datasektionens finaste förtjänsttecken och delas
 ut till de personer som synnerligen förtjänstfullt verkat ideellt för
-sektionen. Motiveringar(#motivering) för varje mottagare finnas att
+sektionen. [Motiveringar](#motivering) för varje mottagare finnas att
 läsa längre ner på sidan.
 
 # Hedersdelta-nomineringar
