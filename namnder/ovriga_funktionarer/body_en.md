@@ -28,6 +28,9 @@ Flag bearers defend the honor of the chapter by carrying its flag on various cer
 
 Responsible for the chapter's communication channels, like Discord, Slack, Facebook etc., as well as enforcing the chapter's [information handling policy](https://styrdokument.datasektionen.se/informationshanteringspolicy) and [information spreading policy](https://styrdokument.datasektionen.se/informationsspridningspolicy). Also takes care of the chapter's general information e-mail [info@datasektionen.se](mailto:info@datasektionen.se).
 
+## Head of Equality, Diversity and Equal Treatment (JMLA) - Jennifer Köhler
+
+Head of Equality, Diversity and Equal Treatment is responsible for taking care of the psychosocial study environment, for all Chapter members. The officer shall pro- och reactively with continuously improving the Chapter's work within equality, diversity and equal treatment.
 
 ## Program responsible student - Zhongmin Hu
 
