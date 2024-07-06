@@ -9,7 +9,6 @@ The chapter’s systems are available on our [Github](https://github.com/datasek
 ### Selection of systems
 
 Here is a list of some systems that previous students have built and that the chapter use extensively:
-
 <ul>
   <li>
     [Cashflow](https://cashflow.datasektionen.se) is probably our most used system. Here you can register expenses that you have made for the chapter and the Treasurer (or some other responsible person) will pay the money to you as soon as possible. Neat, right?
