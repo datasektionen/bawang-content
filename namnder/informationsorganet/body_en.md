@@ -21,17 +21,6 @@ Here is a list of some systems that previous students have built and that the ch
   </li>
 </ul>
 
-### Current projects (updated November 2021)
-
-<ul>
-  <li>
-    Budget HD: Our current budget system has its problems and therefore the development of a new, better (hopefully) system has begun, in HD.
-  </li>
-  <li>
-    dUrn 2.0: Our current system for ballot-elections (see [the regulations 3.12.7](https://styrdokument.datasektionen.se/reglemente#3-12-6-sekretess) for more information) needs to be reworked a bit. The system is being rebuilt with a backend in Go and frontend in React.
-  </li>
-</ul>
-
 ## Join the club
 
 We regularly try to hold programming evenings where everyone is welcome. Usually from 5 pm onwards on Thursdays, usually somewhere in the E-house. You can come here to see what we're doing, develop something for the chapter, hang out or maybe get help with a programming lab. The easiest way to find out when we have events is to ask in our [slack](https://ior.slack.com) or Head of IT at [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se). Hope to see you there!
