@@ -1,2 +1,3 @@
-Image = "https://stacken.är.den.verkligen.uppe/a.png"
-Title = "D-rektoratets sammansättning"
+[title]
+sv = "D-rektoratets sammansättning"
+en = "Members of the Board"

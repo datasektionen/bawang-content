@@ -1,3 +1,6 @@
-Image = ":)"
-Title = "dJulkalendern"
-Sort = 1
+image = ":)"
+sort = 1
+
+[title]
+sv = "dJulkalendern"
+en = "dJulkalendern"

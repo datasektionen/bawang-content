@@ -1,2 +1,5 @@
-Title = "Nämnder"
-Sort = 3
+sort = 3
+
+[title]
+sv = "Nämnder"
+en = "Clubs"

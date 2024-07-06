@@ -1,3 +1,5 @@
-Image = "https://stacken.är.den.verkligen.uppe/a.png"
-Title = "Idrottsnämnden"
-Sort = 1
+sort = 1
+
+[title]
+sv = "Idrottsnämnden"
+en = "The Sports Committee"
