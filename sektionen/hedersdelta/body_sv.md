@@ -1,11 +1,11 @@
 Hedersdeltat är Konglig Datasektionens finaste förtjänsttecken och delas
 ut till de personer som synnerligen förtjänstfullt verkat ideellt för
-sektionen. Motiveringar(#motivering) för varje mottagare finnas att
+sektionen. [Motiveringar](#motivering) för varje mottagare finnas att
 läsa längre ner på sidan.
 
 # Hedersdelta-nomineringar
 
-[Här](https://dsekt.se/hedersdelta) kan nomineringar till Hedersdeltat 2024 göras! Självklart
+[Här](https://dsekt.se/hedersdelta) kan nomineringar till Hedersdeltat 2025 göras! Självklart
 går det även att maila D-rektoratet.
 
 # Innehavare av Hedersdeltat
@@ -802,10 +802,9 @@ går det även att maila D-rektoratet.
 </dd>
 </dl>
 
-## Motivering till utdelandet av förtjänsttecken <a name="motivering"></a>
+# Motiveringar till utdelandet av förtjänsttecken <a name="motivering"></a>
 
----
-## Motiveringar till 2023 års mottagare
+## Motiveringar till 2024 års mottagare
 
 #### David Puustinen <a name="davidpu"></a>
 
