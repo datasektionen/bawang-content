@@ -35,7 +35,3 @@ Tech-i-taka, vars namn härstammar från [tiki-taka](https://en.wikipedia.org/wi
 
 * När tech-i-taka rekryterar nya medlemmar kan man söka via länk: [https://dsekt.se/sok-tech-i-taka](https://dsekt.se/sok-tech-i-taka)
 * När tech-i-taka inte rekryterar nya medlemmar får man ändå jättegärna anmäla sig att fylla lediga platser på träningar/matcher via detta formulär: [https://dsekt.se/extra-anmalan-techitaka](https://dsekt.se/extra-anmalan-techitaka)
-
-## Externa länkar
-
-* [THS Mästerskapen / Idrott på Tekniska Högskolans Studentkår](http://ths.kth.se/om-ths/idrott/)

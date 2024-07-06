@@ -3,13 +3,13 @@ Konglig Datasektionen är en ideell förening som verkar för sina medlemmar. Se
 Som en ideell förening har vi en struktur att arbeta utifrån. Vi har regler som vi har kommit överens om, vi har regelbundna formella möten där de viktigaste sakerna bestäms och vi har funktionärer som genomför verksamheten och styr över de olika delarna av sektionen.
 
 ## Styrdokument
-Eftersom Konglig Datasektionen är en del av [Tekniska Högskolans Studentkår](//ths.kth.se) (THS) och nyttjar KTHs lokaler begränsas vi inte bara av våra egna styrdokument, utan även deras regler. [Läs THS dokument här](//ths.kth.se/about-ths/ths-central/policy-documents-and-meeting-protocols).
+Eftersom Konglig Datasektionen är en del av [Tekniska Högskolans Studentkår](https://thskth.se) (THS) och nyttjar KTHs lokaler begränsas vi inte bara av våra egna styrdokument, utan även deras regler. [Läs THS dokument här](https://thskth.se/sv/om-ths/ths-dokument).
 
-Sektionen har flera styrande dokument. De allra flesta hittar du på [styrdokumentssidan](//styrdokument.datasektionen.se). Utöver de fasta styrdokumenten har vi även planeringsdokument som beskriver hur verksamheten ska se ut det närmsta året. Dessa är [verksamhetsplanen](/organisation/verksamhetsplan) och [budgeten](/organisation/budget). Vi har även ett [Samboendeavtal](https://dsekt.se/samboendeavtal) som styr hur META delas mellan Datasektionen och Sektionen för Medieteknik.
+Sektionen har flera styrande dokument. De allra flesta hittar du på [styrdokumentssidan](https://styrdokument.datasektionen.se). Utöver de fasta styrdokumenten har vi även planeringsdokument som beskriver hur verksamheten ska se ut det närmsta året. Dessa är [verksamhetsplanen](/organisation/verksamhetsplan) och [budgeten](/organisation/budget). Vi har även ett [Samboendeavtal](https://dsekt.se/samboendeavtal) som styr hur META delas mellan Datasektionen och Sektionen för Medieteknik.
 
 
 ## Medlem
-Medlemmar är alla som studerar vid ett av programmen som tillhör sektionen och betalat sin [medlemsavgift till THS](http://ths.kth.se/membership). Styrelsen är medlemmar, funktionärerna är medlemmar och även du är förhoppningsvis medlem! Alla medlemmar får delta i och rösta på sektionsmöten, ställa upp till val och komma in på våra pubar.
+Medlemmar är alla som studerar vid ett av programmen som tillhör sektionen och betalat sin [medlemsavgift till THS](https://thskth.se/sv/medlemskap). Styrelsen är medlemmar, funktionärerna är medlemmar och även du är förhoppningsvis medlem! Alla medlemmar får delta i och rösta på sektionsmöten, ställa upp till val och komma in på våra pubar.
 
 ## Våra möten
 Sektionen har två former av formella möten: Sektionsmöten där alla medlemmar får rösta och tycka till samt Styrelsemöten där alla medlemmar är välkomna att delta och uttrycka sin åsikt men bara styrelsen får rösta. Alla mötesprotokoll hittar du under [protokoll](/organisation/protokoll).
@@ -29,7 +29,7 @@ Sektionen har en bred verksamhet som våra medlemmar kan ta del av. Verksamheten
 
 Styrelsen är de personer som har utsett att utföra besluten som fattas av sektionsmötet och förvalta sektionen mellan dessa möten. Styrelsen är därmed ansvarig inför alla medlemmar att besluten följs och att sektioner följer sina stadgar och reglementet. Datasektionens styrelse består av ordförande, vice ordförande, kassör, vice kassör, sekreterare och tre ledamöter. Styrelsen leder även funktionärerna genom att stötta dem i deras verksamhet och jobba med långsiktiga satsningar.
 
-[Läs mer om styrelsens olika poster.](/organisation/sammansattning)
+[Läs mer om styrelsens olika poster.](/sektionen/sammansattning)
 
 ### Nämnder
 
@@ -43,7 +43,7 @@ Det går också att genomföra projekt inom sektionen. Ett projekt är som en ti
 
 ### Funktionärer
 
-På [dFunkt](//dfunkt.datasektionen.se) hittar du information om alla våra funktionärer. Våra funktionärer väljs av sektionsmötet. Varje funktionär är ansvarig för en nämnd eller del av verksamheten på sektionen. Om du själv vill bli funktionär så kontaktar du [Valberedningen](/sektionen/val) för att kandidera till ett förtroendeuppdrag. Information om vad det innebär att vara funktionär finns i vår [introgüide](http://bit.ly/intropholdr2).
+På [dFunkt](https://dfunkt.datasektionen.se) hittar du information om alla våra funktionärer. Våra funktionärer väljs av sektionsmötet. Varje funktionär är ansvarig för en nämnd eller del av verksamheten på sektionen. Om du själv vill bli funktionär så kontaktar du [Valberedningen](/sektionen/val) för att kandidera till ett förtroendeuppdrag. Information om vad det innebär att vara funktionär finns i vår [introgüide](https://bit.ly/intropholdr2).
 
 ### Kårfullmäktigeledamöter
 

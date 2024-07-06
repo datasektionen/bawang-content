@@ -1,7 +1,7 @@
 # FAQ
 
 ### Hur blir jag medlem?
-Du blir medlem genom att studera vid ett av programmen som tillhör sektionen och att betalat din [medlemsavgift till THS](http://ths.kth.se/membership).
+Du blir medlem genom att studera vid ett av programmen som tillhör sektionen och att betalat din [medlemsavgift till THS](https://thskth.se/sv/medlemskap).
 
 ### Vad kan jag göra om jag inte är medlem?
 Du kan alltid sitta och studera i vår sektionslokal META (Osquars Backe 21) mellan 6-17, men för att ta del i de event som sektionen anordnar eller vara med i dess nämnder så måste du vara medlem.

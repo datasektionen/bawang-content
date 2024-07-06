@@ -3,7 +3,7 @@
 ## In Short
 
 Never hesitate in contacting the Study Board if you have an opinion or question!
-You are always welcome to participate in our meetings (take a look at [news](/en/news) for dates).
+You are always welcome to participate in our meetings (take a look at [news](/nyheter?lang=en) for dates).
 
 The Study Board supplies the students' opinions to teachers or individuals of concern at CSC in order to improve the CS education. If you have any thoughts regarding your education you can contact us via mail or come to our meetings. We are also responsible for answering your questions about the education, or redirecting you to someone who knows more.
  
@@ -47,7 +47,7 @@ Contact the Chairperson of the study board if you have an opinion: [sno@datasekt
 ## About the Board
 
 Like every Chapter at KTH, the CS-Chapter has a Study Board which works with monitoring the education at CSC. The main purpose of the Board is to assess and improve education quality as well as studying environment in both the short and long term.
-For you, this means that we will give your feedback to teachers and other officials at CSC. You can reach us either via mail or by coming to our meetings. All meetings are announced at the [news page](/en/news).
+For you, this means that we will give your feedback to teachers and other officials at CSC. You can reach us either via mail or by coming to our meetings. All meetings are announced at the [news page](/nyheter?lang=en).
 
 We also answer your questions regarding your studies at kth or redirect you to a more knowledgeable party.
 

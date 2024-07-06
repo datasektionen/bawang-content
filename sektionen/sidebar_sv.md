@@ -1,5 +1,5 @@
 ## THS
 
 Utöver alla Datasektionens nämnder har även Tekniska Högskolans
-Studentkår [en mängd föreningar](http://ths.kth.se/about-ths/ths-associations-and-chapters) för studenter
+Studentkår [en mängd föreningar](https://thskth.se/sv/studentliv/foreningar) för studenter
 på alla program på KTH. Saknas något kan du själv starta nämnder/projekt på sektionen alternativt en kårförering!

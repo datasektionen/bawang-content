@@ -8,4 +8,4 @@
 * [Schedules](https://www.kth.se/schema)
 * [Find your way at KTH](https://www.kth.se/places?l=en)
 * [Courses](https://www.kth.se/student/kurser/sokkurs?l=en)
-* [FAQ by THS](https://ths.kth.se/en/help)
+* [FAQ by THS](https://thskth.se/en/help)
