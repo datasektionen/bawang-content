@@ -51,6 +51,8 @@ If you have any questions about a protocol, please reach out to [secretary](mail
 
 Operational plans for the projects can be found [here](https://datasektionen.se/en/clubs).
 
+{{ if not .reception -}}
 ## Annual Reports
 
 The annual reports can be found [here](https://dsekt.se/arsrapporter). Unfortunately, they are only available in Swedish.
+{{- end }}

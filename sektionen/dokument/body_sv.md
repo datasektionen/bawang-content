@@ -50,6 +50,8 @@ Om du vill lämna förslag på till nästa års verksamhetsplan får du gärna g
 
 Projekts verksamhetsplaner hittar du [här](https://datasektionen.se/namnder).
 
+{{ if not .reception -}}
 ## Årsrapporter
 
 Alla årsrapporter finns tillgängliga [här](https://dsekt.se/arsrapporter).
+{{- end }}
