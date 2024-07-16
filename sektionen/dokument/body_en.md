@@ -18,11 +18,15 @@
 - [Budget 2011](https://static.datasektionen.se/budget/budget_2011_utan_detaljer.pdf)
 
 ## Protocols
+{{ if .reception -}}
+**Unfortunately, the protocols are not currently available as we have problems with hosting**
+{{- else -}}
 Protocols from each Chapter and D-directorate Meeting are uploaded to [Google Drive](https://dsekt.se/protokoll).
 
 If you have any questions about a protocol, please reach out to [secretary](mailto:sekreterare@datasektionen.se).
 
 **Unfortunately the protocols are only available in Swedish**
+{{- end }}
 
 ## Operational Plans
 
