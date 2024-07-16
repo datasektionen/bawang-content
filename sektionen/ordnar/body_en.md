@@ -1,4 +1,8 @@
+{{ if .reception -}}
+The Computer Science chapter have three orders. These are “Klubbmästare Emeritus”, “Kassör Emeritus”, and “Ordförande Emeritus”.
+{{- else -}}
 The Computer Science chapter have five orders. These are “Klubbmästare Emeritus”, “Konglig Öfverdrif”, “Storasyskon Emeritus”, “Kassör Emeritus”, and “Ordförande Emeritus”.
+{{- end }}
 
 As proof om membership in one of the orders, the members is rewarded a medal.
 
@@ -8,7 +12,7 @@ Membership of the Klubbmästare Emeritus order is awarded to Klubbmästare (head
 
 The order's medal is a five-pointed silver star, with a cerise field, and a black delta in the middle. The star is coated by a laurel wreath.
 
-    Lucas Dow, Duodequadragesimus 2022/2023
+    ???, Duodequadragesimus 2022/2023
     Jennifer Larsson, Tricesima Septima 2021/2022
     George Bassilious, Tricesimus Quintus 2020/2021
     Melvin Lundqvist, Tricesimus Quintus 2019/2020
@@ -46,6 +50,7 @@ The order's medal is a five-pointed silver star, with a cerise field, and a blac
     Jerker Andersson, Sequndus 1987
     Jesper Lundh, Sequndus 1986
     Kjell Lundesten, Primus 1985
+{{ if not .reception -}}
 ## Konglig Öfverdrif Emeritus
 
 Membership in The Konglig Öfverdrif Emeritus order is awarded to the Konglig Öfverdrifs at the chapter who have served an entire term.
@@ -133,7 +138,7 @@ The order's medal is a five-pointed cerise star, with a silver field, and a blac
     Jan Garefelt, Octavus 1992
     Björn Rhoads (Gahm), Septimus 1991
     Carl-Johan Graufelds, Sextus 1990
-
+{{- end }}
 ## Kassör Emeritus
 
 Membership of the Kassör Emeritus order is awarded to treasurers at the chapter who have served an entire term.
