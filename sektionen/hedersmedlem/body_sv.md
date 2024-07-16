@@ -26,7 +26,11 @@ upp på nästkommande Sektionsmöte för beslut.
 
 ### Örjan Ekeberg
 
+{{ if .reception -}}
+*Beskrivning saknas.*
+{{- else -}}
 Örjan Ekeberg har varit programansvarig i flera år och aktivt arbetat med att förbättra programmet för oss alla. Han har alltid haft studenternas bästa i åtanke och gjort allt han kunnat för att få skolsammanslagningen att bli så bra som möjligt. Han har även ställt upp för Mottagningen i flera år och firat sina bemärkelsedagar med oss. Med detta kan man utan tvekan säga att Örjan förtjänar vara hedersmedlem hos Datasektionen.
+{{- end }}
 
 ### Helen Lindkvist och Alicja Lissenko
 
@@ -49,6 +53,9 @@ Vissa är bättre än andra.
 
 ✟ 2017-07-27
 
+{{ if .reception -}}
+*Beskrivning saknas.*
+{{- else -}}
 Henrik Eriksson har i många års tid varit en nära vän till sektionen.
 Han har bland annat ställt upp för sektionens Mottagning ett otal
 gånger, hållt sci-fi-föredrag i ESCapen, delat ut böcker samt deltagit i
@@ -60,9 +67,13 @@ de många kurser han hållt för oss dataloger genom åren. Henrik är alltid
 oss trots att rektorn ignorerat våra demonstrationer och sagt upp honom
 på grund av hans ålder säger en hel del. Kort sagt är Henrik en nära vän
 som sedan länge förtjänar att bli hedersmedlem.
+{{- end }}
 
 ### Britt Isaksson
 
+{{ if .reception -}}
+*Beskrivning saknas.*
+{{- else -}}
 Britt 'Bitte' Isaksson, har under ett antal år varit den man vänder sig
 till när man har problem med sin utbildning. Många ledsna dataloger har
 förtvivlat sökt sig till kansliet, men med glada steg gått därifrån
@@ -71,6 +82,7 @@ ställt upp i mer studentikosa sammanhang, och hjälper gärna till med så
 väl mottagningen som annat. Att hon alltid glad och hjälpsam mot alla
 frustrerade Dataloger gör Bitte mer än väl förtjänt av ett
 hedersmedlemskap.
+{{- end }}
 
 ### Stefan Arnborg
 
@@ -84,6 +96,9 @@ synnerligen främjat sektionens intressen.
 
 ### Inger Larsson
 
+{{ if .reception -}}
+*Beskrivning saknas.*
+{{- else -}}
 Inger Larsson har i egenskap av världens troligen mest godhjärtade
 människa alltid ställt upp för Konglig Datasektionen. Hon har både i
 sitt arbete som kanslichef och privat ställt upp med tid och pengar för
@@ -96,6 +111,7 @@ mottagningsaktiviteter genom åren.
 
 Kort sagt är Inger Larsson Datasektionens ständige vän och har sedan
 länge förtjänat åtminstone ett hedersmedlemskap.
+{{- end }}
 
 ### Yngve Sundblad
 
@@ -107,7 +123,11 @@ genuina engagemang för Datatekniklinjen genom åren.
 
 ### Stefan Östlund, Katrin Rosenqvist, Johan Groth
 
+{{ if .reception -}}
+*Beskrivning saknas.*
+{{- else -}}
 Johan Groth, Katrin Rosenqvist och Stefan Östlund var på skilda sätt
 aktiva i samband med Primus mottagning och grundandet av Kongliga
 Datasektionen. De blev Hedersmedlemmar av Konglig Datasektionen på dess
 konstitutionerande SM i oktober 1983.
+{{- end }}
