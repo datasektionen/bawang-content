@@ -20,9 +20,13 @@ The committee recruits new members all year round. Members can be event organize
 The International Committee has a project called "Translating Governance Documents". The project aims to translate [important documents](https://styrdokument.datasektionen.se/) into English so that international students can get a better understanding of what is happening in the Computer Science Chapter. This project is open to all students in the Computer Science Chapter. If you are interested in helping with this, contact [isc@datasektionen.se](mailto:isc@datasektionen.se).
 
 ## Events
-
 The International Committee organizes at least two events per semester for international students that are members of the Computer Science Chapter or the Media Technology Chapter.
-Examples of events include international gasques, movie nights, board game nights, karaoke nights, networking events (to introduce the Chapter's committees/clubs), and outdoor activities such as ice skating or hiking. Moreover, at the beginning of each semester, the committee collaborates with the Computer Science reception (only in the autumn semester) and the international reception organized by THS (every semester). 
+
+{{ if .reception -}}
+Examples of events include international gasques, movie nights, board game nights, karaoke nights, networking events (to introduce the Chapter's committees/clubs), and outdoor activities such as ice skating or hiking. Moreover, at the beginning of each semester, the committee collaborates with the the international reception organized by THS. 
+{{- else -}}
+Examples of events include international gasques, movie nights, board game nights, karaoke nights, networking events (to introduce the Chapter's committees/clubs), and outdoor activities such as ice skating or hiking. Moreover, at the beginning of each semester, the committee collaborates with the Computer Science reception (only in the autumn semester) and the international reception organized by THS (every semester).
+{{- end }}
 
 ## International Reception
 
