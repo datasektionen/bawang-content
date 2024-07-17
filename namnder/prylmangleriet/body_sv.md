@@ -67,7 +67,10 @@ Enligt tradition sätter vi vissa märken på specifika ställen:
 - KTH-märket ska sitta på vänster axel
 - Datasektionens märke ska sitta över hjärtat
 - Årskursmärket ska sitta på motsatt sida i samma höjd som sektionsmärket
+{{ if not .reception -}}
 - NØllemärken sitter i en vertikal rad på vänster ben där det tidigaste eventet sitter längst ner och nØllegasquemärket högst upp
+{{- end }}
+
 
 Dataloger brukar ha Ovven nedcabbad vid användning. Det innebär att man enbart använder benen av Ovven och har ärmarna knutna runt midjan eller låter ärmarna hänga löst vid sidan av Ovven. Rykten säger att en ärm på Ovven får plats med ett helt flak i sig...
 
