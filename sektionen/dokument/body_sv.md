@@ -2,6 +2,9 @@
 
 ## Datasektionens budget
 
+{{ if .reception -}}
+**Vi har problem med hosting för tillfället och budgetar är därför inte tillgängliga**
+{{- else -}}
 - [Budget 2024](https://docs.google.com/spreadsheets/d/12hi0jThV0zmU_FdLEoUZmBp1tCfMsONFdfy18jCAVZc/edit?usp=sharing)
 - [Budget 2023](https://docs.google.com/spreadsheets/d/1hiXUQcrQikpiySAtr9iscekHIfZM_bxey8-nmp5XE9k/edit?usp=sharing)
 - [Budget 2022](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYFXgACJTugGnrrJuXgqKNuOBqdFuCuuJ3-fnVoDij3iA9bTeq_OcvepStgv193VPflGbFxryvSsP4/pubhtml)
@@ -16,6 +19,7 @@
 - [Budget 2013](https://docs.google.com/spreadsheet/ccc?key=0AnUVotyQbWVFdEJXSngzVFNRT1hvdGg5Y1VjaEdRZ0E&usp=sharing)
 - [Budget 2012](https://docs.google.com/spreadsheet/ccc?key=0AnTWVPJSff4-dHRpX1F6eGFELWhJSkdVbDdEX2I5Nnc&usp=sharing)
 - [Budget 2011](https://static.datasektionen.se/budget/budget_2011_utan_detaljer.pdf)
+{{- end }}
 
 ## Protokoll
 
