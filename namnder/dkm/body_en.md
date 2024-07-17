@@ -20,7 +20,11 @@ After the exam period you might want to relax that little bit extra. How fitting
 
 In addition to the Wednesday pubs, we also have a couple of major events:
 
+{{ if .reception -}}
+- **Reclaim**, a big party, what else is there?
+{{- else -}}
 - **Reclaim**, directly after the student reception (mottagningen), we arrange a big party to celebrate that the keys to our liquor storage room are back in DKMs hands.
+{{- end }}
 - **PPP**, sometime during the spring, we arrange a party together with ClubWästeriet (CLW) with a new, unique theme, every year!
 - **dJulmiddagen**, just before Christmas, we arrange a nice dinner with traditional Swedish julbord!
 - **Blums**, new event for 2023. We arrange an event in a sports centre and play beach volleyball and party! 
@@ -34,17 +38,6 @@ To get more info about events and other things, it can be an good to look in and
 [![Instagram logo](https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/InstaLogo.png)](https://www.instagram.com/dkmkth/?igshid=YmMyMTA2M2Y%3D)
 
 ## Medlemmar  
-
-<img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/luc.JPG">  
-
-### Lucas Dow
-#### Klubbmästare  
-**Favoritdrink:** Grekiskt lagunvatten <br>
-**Gillar:** Att vara gravid <br>
-**Ogillar:** Simplex <br>
-**Specialitet:** Give that wolf a banana <br>
-**Citat:**
-_Hjälp mig skriva din egen undergång_
 
 <img align="right" src="https://dkmstorage.s3.eu-north-1.amazonaws.com/22_23/images/maj.jpg">  
 
@@ -144,17 +137,6 @@ _Det är okej att ha klibbiga händer_
 **Specialitet:** Sänka vs Häfva <br>
 **Citat:**
 _Jag antar att vi ska sänka_  
-
-<img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/william.png">  
-
-### William Krull  
-#### ChefKnatte  
-**Favoritdrink:** Grön chartreuse <br>
-**Gillar:** Rå carbonara <br>
-**Ogillar:** Tillagad carbonara <br>
-**Specialitet:** Krall <br>
-**Citat:**
-_How to: Carbonara (OBS ät inte!)_  
 
 <img align="right" src="https://s3.eu-central-1.amazonaws.com/dkm.io/images/22-23/love.png"> 
 
