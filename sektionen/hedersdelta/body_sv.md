@@ -1,4 +1,3 @@
-{{ if not .reception -}}
 Hedersdeltat är Konglig Datasektionens finaste förtjänsttecken och delas
 ut till de personer som synnerligen förtjänstfullt verkat ideellt för
 sektionen. [Motiveringar](#motivering) för varje mottagare finnas att
@@ -2289,4 +2288,3 @@ Genom sitt dagliga arbete och med gott humör strävar <em>Hillevi Gavel</em> ef
 #### Wolfram Meyer <a name="wolframmeyer"></a>
 
 <em>Wolfram Meyer</em> har med sitt lätttillgängliga sätt och sin personlighet satt en egen profil på de poster han har innehaft på sektionen. Trots att det har hänt att andra engagemang har blivit lidande har han alltid haft tid och ork för sektionsarbete.
-{{- end }}

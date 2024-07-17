@@ -22,12 +22,7 @@ Internationella nämnden har ett projekt som heter "Översätta Styrdokument". P
 
 Internationella nämnden anordnar minst två evenemang per termin för internationella studenter som hör till Konglig Datasektionen eller Sektionen för Medieteknik.
 
-{{ if .reception -}}
-Exempel på evenemang är internationella gasquer, filmkvällar, brädspelkvällar, karaokekvällar, nätverksevenemang (för att presentera sektionens nämnderna) och utomhusaktiviteter som skridskoåkning eller vandring. I början av varje termin samarbetar nämnden även med den internationella mottagningen som anordnas av THS. 
-{{- else -}}
-Exempel på evenemang är internationella gasquer, filmkvällar, brädspelkvällar, karaokekvällar, nätverksevenemang (för att presentera sektionens nämnder) och utomhusaktiviteter som skridskoåkning eller vandring. I början av varje termin samarbetar nämnden även med datas mottagningen (bara HT) och den internationella mottagningen som anordnas av THS (varje termin).
-{{- end }}
-
+Exempel på evenemang är internationella gasquer, filmkvällar, brädspelkvällar, karaokekvällar, nätverksevenemang (för att presentera sektionens nämnder) och utomhusaktiviteter som skridskoåkning eller vandring. I början av varje termin samarbetar nämnden även med {{ if .reception -}} den internationella mottagningen som anordnas av THS. {{- else -}} datas mottagningen (bara HT) och den internationella mottagningen som anordnas av THS (varje termin). {{- end }}
 
 ## International Reception
 

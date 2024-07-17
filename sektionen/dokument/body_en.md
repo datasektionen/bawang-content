@@ -3,7 +3,7 @@
 ## Chapter budget
 
 {{ if .reception -}}
-**Unfortunately, the budgets are not currently available as we have problems with hosting**
+**Unfortunately, the budgets are not currently available due to technical difficulties**
 {{- else -}}
 - [Budget 2024](https://docs.google.com/spreadsheets/d/12hi0jThV0zmU_FdLEoUZmBp1tCfMsONFdfy18jCAVZc/edit?usp=sharing)
 - [Budget 2023](https://docs.google.com/spreadsheets/d/1hiXUQcrQikpiySAtr9iscekHIfZM_bxey8-nmp5XE9k/edit?usp=sharing)
@@ -24,7 +24,7 @@
 ## Protocols
 
 {{ if .reception -}}
-**Unfortunately, the protocols are not currently available as we have problems with hosting**
+**Unfortunately, the protocols are not currently available due to technical difficulties**
 {{- else -}}
 Protocols from each Chapter and D-directorate Meeting are uploaded to [Google Drive](https://dsekt.se/protokoll).
 

@@ -37,12 +37,8 @@ _“At surface- hard, at core- brutal”._
 {{- end }}
 
 ### The Royal Daddery
-{{ if .reception -}}
-The Royal Daddery is nØllan’s friend at all times. There are always huggable daddies to turn to when there are storms brewing. nØllan has now grown old enough to realize that they won’t manage to live a life without Technis. But Life at this finest of technical institutes isn’t easy; it’s one fraught with hardships and, at times, even harder mathematics. Dangers are lurking at the most unexpected places and times from the moment nØllan enters the historical lands of Technis. Mean examiners and ancient demons are hiding behind every corner. These are dreadful enough, but at Technis there also exists something so scary that nØllan couldn’t even imagine it in their worst nightmares. 
-{{- else -}}
-The Royal Daddery is nØllan’s friend at all times. There are always huggable daddies to turn to when there are storms brewing. nØllan has now grown old enough to realize that they won’t manage to live a life without Technis. But Life at this finest of technical institutes isn’t easy; it’s one fraught with hardships and, at times, even harder mathematics. Dangers are lurking at the most unexpected places and times from the moment nØllan enters the historical lands of Technis. Mean examiners and ancient demons are hiding behind every corner. These are dreadful enough, but at Technis there also exists something so scary that nØllan couldn’t even imagine it in their worst nightmares - The Royal Drifvery. 
-{{- end }}
 
+The Royal Daddery is nØllan’s friend at all times. There are always huggable daddies to turn to when there are storms brewing. nØllan has now grown old enough to realize that they won’t manage to live a life without Technis. But Life at this finest of technical institutes isn’t easy; it’s one fraught with hardships and, at times, even harder mathematics. Dangers are lurking at the most unexpected places and times from the moment nØllan enters the historical lands of Technis. Mean examiners and ancient demons are hiding behind every corner. These are dreadful enough, but at Technis there also exists something so scary that nØllan couldn’t even imagine it in their worst nightmares {{- if not .reception }} - The Royal Drifvery {{- end }}.
 
 {{ if not .reception -}}
 #### The Rescue 

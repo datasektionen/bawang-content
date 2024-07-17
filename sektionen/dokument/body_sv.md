@@ -3,7 +3,7 @@
 ## Datasektionens budget
 
 {{ if .reception -}}
-**Vi har problem med hosting för tillfället och budgetar är därför inte tillgängliga**
+**På grund av tekniska problem är budgetar för tillfället inte tillgängliga**
 {{- else -}}
 - [Budget 2024](https://docs.google.com/spreadsheets/d/12hi0jThV0zmU_FdLEoUZmBp1tCfMsONFdfy18jCAVZc/edit?usp=sharing)
 - [Budget 2023](https://docs.google.com/spreadsheets/d/1hiXUQcrQikpiySAtr9iscekHIfZM_bxey8-nmp5XE9k/edit?usp=sharing)
@@ -24,7 +24,7 @@
 ## Protokoll
 
 {{ if .reception -}}
-**Vi har problem med hosting för tillfället och protokollen är därför inte tillgängliga**
+**På grund av tekniska problem är protokollen för tillfället inte tillgängliga**
 {{- else -}}
 Protokoll från samtliga Sektionsmöten (SM) och D-rektoratsmöten (DM) läggs upp på [Google Drive](https://dsekt.se/protokoll).
 

@@ -11,7 +11,7 @@
 
 # DKM
 
-DKM är Datas Klubbmästeri. Det är vi som ser till att ni dataloger har möjlighet att ha roligt under er tid här på teknis. Vi anordnar fester och pubar under hela året {{ if not .reception -}}(förutom under mottagningen){{- end }}. Vill du komma i kontakt med oss, släng iväg ett mail till [dkm@datasektionen.se](mailto:dkm@datasektionen.se)!
+DKM är Datas Klubbmästeri. Det är vi som ser till att ni dataloger har möjlighet att ha roligt under er tid här på teknis. Vi anordnar fester och pubar under hela året {{- if not .reception }}(förutom under mottagningen){{ end }}. Vill du komma i kontakt med oss, släng iväg ett mail till [dkm@datasektionen.se](mailto:dkm@datasektionen.se)!
 
 ## Vad gör vi?
 
