@@ -9,7 +9,7 @@ Sektionen samlas sig till försvar. Piskbeprydda Västar, Vita Snuttefiltar, All
 {{- end }}
 Under Mottagningen gäller följande schema. Ett tips är att lägga till schemat i din egen kalender, via den <a href="https://calendar.google.com/calendar/ical/8414240fd62f6be33481c1d2710d05f64904b0364dc603fa86f5da0cff4da460%40group.calendar.google.com/public/basic.ics" target="_blank">här iCal-länken</a> som fungerar med de flesta kalenderapplikationer. Om du använder Google Calendar kan du trycka på länken nere i kalenderns högra hörn.	
 
-<iframe src="https://calendar.google.com/calendar/embed?src=8414240fd62f6be33481c1d2710d05f64904b0364dc603fa86f5da0cff4da460%40group.calendar.google.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=8414240fd62f6be33481c1d2710d05f64904b0364dc603fa86f5da0cff4da460%40group.calendar.google.com&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Mottagningens grenar
 {{ if not .reception -}}
