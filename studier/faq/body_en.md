@@ -8,7 +8,7 @@ Every studennt has the right to have their handwriten exams graded wihtout any u
 ### What sould I do if the grading takes longer than expected?
 If only your own results are taking longer, contact the examiner. Should this not help or the results are late for the whole course, we recommend you contact us the Study Committee so that we can try and contact the examiner or the programme director if needed.
 
-**When can I do a complementary examination?**
+### When can I do a complementary examination?
 ”Complementary examination must be held within six weeks, counted in semester time, after the students have received their results from the origianl exam and before the next exam.” This in practice means that you should get notified of complementary examination when the results are published.
 
 **How do I sign up to my exams?**  
