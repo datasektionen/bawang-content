@@ -11,7 +11,7 @@ If only your own results are taking longer, contact the examiner. Should this no
 ### When can I do a complementary examination?
 ”Complementary examination must be held within six weeks, counted in semester time, after the students have received their results from the origianl exam and before the next exam.” This in practice means that you should get notified of complementary examination when the results are published.
 
-**How do I sign up to my exams?**  
+### How do I sign up to my exams?
 Log in to Ladok using your KTH account. Then press the Examinations section on sidebar. After that press the "Sign up" button for those exmas you want to sign up to.
 
 ## Registrering
