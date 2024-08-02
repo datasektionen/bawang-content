@@ -37,7 +37,7 @@ Med programansvarig lärares(PA) godkännande kan du tillgodoräkna dig kurser f
 ### Vad händer om jag inte klarar en kurs?
 Om du inte klarar en kurs kan det innebära att du inte kommer få läsa kurser som har den kursen som förkunskapskrav, det kan samtidigt innebära att du inte får studiemedel p.g.a. för få tagna poäng. Du kan alltid prata med studievägledaren och be att få läsa om kursen.
 
-**Eftersom att jag bara behöver klara 45 hp per år för att få CSN, kan jag då registrera mig på 45 hp och få studiestöd på heltid?**
+### Eftersom att jag bara behöver klara 45 hp per år för att få CSN, kan jag då registrera mig på 45 hp och få studiestöd på heltid?
 Nej, du måste fortfarande vara kursregistrerad på 60 hp per läsår, annars riskerar du att bli återbetalningsskyldig.
 
 Kom ihåg, fråga alltid om du är osäker! Du kan alltid kontakta Studienämnden, vi hjälper dig gärna!
