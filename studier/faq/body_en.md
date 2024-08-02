@@ -24,7 +24,7 @@ First and foremost the Study Counseller (svl-data@kth.se) or course resposible/e
 
 **Can I re-register myself to a course?**  
 Yes, if there are places left, the easiest way is to fill out thi form:
-https://www.kth.se/en/student/studier/kurs/kursregistrering/omregistrering-pa-kurs-1.1142776 
+<https://www.kth.se/en/student/studier/kurs/kursregistrering/omregistrering-pa-kurs-1.1142776>
 
 ## Credit requirements
 
