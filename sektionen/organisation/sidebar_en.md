@@ -8,11 +8,11 @@ The Computer Science chapter By-laws, always in the latest audited version.
 
 The Rules regulate everything that the By-laws don't and are easier to change.
 
-#### [Operational Plan](/sektionen/dokument?lang=en)
+#### [Operational Plan](/sektionen/dokument?lang=en#operational-plans)
 
 The current operational plan.
 
-#### [The Chapter Budget](/sektionen/dokument?lang=en)
+#### [The Chapter Budget](/sektionen/dokument?lang=en#chapter-budget)
 
 The current budget.
 
@@ -44,7 +44,7 @@ The Current social equality policy.
 
 The cohabitation agreements for META.
 
-#### [Protocols](/sektionen/dokument?lang=en)
+#### [Protocols](/sektionen/dokument?lang=en#protocols)
 
 Protocols from chapter meetings and D-directorate meetings.
 
@@ -62,8 +62,5 @@ List of the people who have been appointed Honorary Member on the Computer Scien
 
 ### Links
 
--   [Th D-directorate on Facebook](https://facebook.com/drektoratet/)
--   [What does the Board of Directors do](/sektionen/sammansattning)
--   [Protocols](/sektionen/dokument)
--   [By-laws](https://styrdokument.datasektionen.se/stadgar)
--   [Rules](https://styrdokument.datasektionen.se/reglemente)
+-   [The D-directorate on Facebook](https://facebook.com/drektoratet/)
+

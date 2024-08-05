@@ -52,7 +52,7 @@ The chapter also hold an annual career fare, [D-Dagen](/naringsliv/d-dagen?lang=
 
 META is the hall where CS and Media students can meet, eat and party.
 The address is Osquars Backe 21 and the heroes taking care of the place
-are [METAdorerna](en/clubs/metadorerna).
+are [METAdorerna](/namnder/metadorerna?lang=en).
 
 ## Student Reception
 
