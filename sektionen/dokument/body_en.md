@@ -54,7 +54,7 @@ If you have any questions about a protocol, please reach out to [secretary](mail
 
 ### Operational Plans for Projects
 
-Operational plans for the projects can be found [here](https://datasektionen.se/en/clubs).
+Operational plans for the projects can be found [here](/namnder?lang=en).
 
 {{ if not .reception -}}
 ## Annual Reports

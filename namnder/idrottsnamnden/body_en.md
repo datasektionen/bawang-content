@@ -19,7 +19,7 @@ The activities we will mainly exercise are the ones included in the THS Champion
 
 If you are eager to get involved with some other sport, please let me know, most things can be arranged!
 
-Are you interested in participating in any of these activities, join the [Facebook Group](https://www.facebook.com/groups/datakthsport) or take direct contact to the Chapter Sports Leader via [idrott@datasektionen.se](mailto:idrott@datasektionen.se). You can also send requests for activities/events to this address. Another channel that the Sports Committee intends to use is the news chapter on [datasektionen.se](https://datasektionen.se/en/news).
+Are you interested in participating in any of these activities, join the [Facebook Group](https://www.facebook.com/groups/datakthsport) or take direct contact to the Chapter Sports Leader via [idrott@datasektionen.se](mailto:idrott@datasektionen.se). You can also send requests for activities/events to this address. Another channel that the Sports Committee intends to use is the news chapter on [datasektionen.se](/nyheter?lang=en).
 
 ## THS Championship
 
@@ -35,7 +35,3 @@ Tech-i-taka, whose name is derived from [tiki-taka](https://en.wikipedia.org/wik
 
 * When Tech-i-taka is recruiting new members, you can apply via this link: [https://dsekt.se/sok-tech-i-taka](https://dsekt.se/sok-tech-i-taka)
 * Even when Tech-i-taka is not actively recruiting new members, you are still welcome to sign up to fill vacant spots in practices/matches using this form: [https://dsekt.se/extra-anmalan-techitaka](https://dsekt.se/extra-anmalan-techitaka)
-
-## External Links
-
-* [THS Championships / Sports on Technology Student Association](http://ths.kth.se/om-ths/idrott/)

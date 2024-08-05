@@ -24,7 +24,7 @@ Ansvarar för sektionens informationslandskap, med andra ord denna hemsida, Disc
 
 Kårfullmäktige - din påverkan mot kåren.
 
-Mer info finns på [THS hemsida](https://ths.kth.se/sv/general/about-ths/union-council).
+Mer info finns på [THS hemsida](https://thskth.se/sv/general/about-ths/union-council).
 
 Maila oss om du undrar över något om Kårfullmäktige, eller om du har förslag till något du tycker vi ska driva mot kåren! [kf@datasektionen.se](mailto:kf@datasektionen.se)
 
