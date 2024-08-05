@@ -2,7 +2,7 @@
 
 Datasektionen, or the Computer Science Chapter is a non-profit
 [student chapter](https://sv.wikipedia.org/wiki/Studentsektion)
-under [THS](http://thskth.se) which exists to give all CS students at
+under [THS](https://thskth.se) which exists to give all CS students at
 KTH the best study time possible. We achieve this in part by monitoring
 the courses in the programme, and in part by organizing activities
 outside of the studies themselves. We're a bit like a watchdog, and

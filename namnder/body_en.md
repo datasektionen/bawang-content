@@ -8,7 +8,7 @@ Group for helping girls at the CS chapter network with each other.
 
 Takes care of the chapter car, Cerise, so it stays on the road.
 
-### [dbuggen](http://dbu.gg?lang=en)
+### [dbuggen](https://dbu.gg)
 
 dbuggen is the Chapter's own paper. It's released whenever any possible editors have the time or the will. This actually sometimes happens! Nowadays you can also read it online.
 

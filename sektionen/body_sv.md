@@ -1,6 +1,6 @@
 # Konglig Datasektionen
 
-Datasektionen är en ideell [studentsektion](https://sv.wikipedia.org/wiki/Studentsektion) under [Tekniska Högskolans Studentkår](http://thskth.se) som finns till för att alla som läser Datateknik på KTH ska få en så bra studietid som möjligt, dels genom att bevaka kurserna som vi läser och dels genom att ordna aktiviteter utanför studierna. På sektionen finns det flera nämnder som har olika verksamhet. Du kan läsa mer om sektionens nämnder under [Nämnder](/namnder). 
+Datasektionen är en ideell [studentsektion](https://sv.wikipedia.org/wiki/Studentsektion) under [Tekniska Högskolans Studentkår](https://thskth.se) som finns till för att alla som läser Datateknik på KTH ska få en så bra studietid som möjligt, dels genom att bevaka kurserna som vi läser och dels genom att ordna aktiviteter utanför studierna. På sektionen finns det flera nämnder som har olika verksamhet. Du kan läsa mer om sektionens nämnder under [Nämnder](/namnder). 
 
 ## Diskussionsforum
 
