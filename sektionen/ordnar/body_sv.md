@@ -1,4 +1,8 @@
+{{ if .reception -}}
+På Datasektionen finns tre ordnar, benämnda “Klubbmästare Emeritus”, “Kassör Emeritus” och “Ordförande Emeritus”.
+{{- else -}}
 På Datasektionen finns fem ordnar, benämnda “Klubbmästare Emeritus”, “Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus”, “Kassör Emeritus” och “Ordförande Emeritus”.
+{{- end }}
 
 Som bevis på medlemskap i någon av Datasektionens fem ordnar bärs respektive ordens ordenstecken.
 
@@ -8,7 +12,7 @@ Medlemskap i Klubbmästare Emeritus-orden tilldelas de klubbmästare på Datasek
 
 Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
 
-    Lucas Dow, Duodequadragesimus 2022/2023
+    ???, Duodequadragesimus 2022/2023
     Jennifer Larsson, Tricesima Septima 2021/2022
     George Bassilious, Tricesimus Quintus 2020/2021
     Melvin Lundqvist, Tricesimus Quintus 2019/2020
@@ -46,6 +50,7 @@ Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjär
     Jerker Andersson, Sequndus 1987
     Jesper Lundh, Sequndus 1986
     Kjell Lundesten, Primus 1985
+{{ if not .reception -}}
 
 ## Konglig Öfverdrif Emeritus
 
@@ -134,6 +139,7 @@ Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna
     Jan Garefelt, Octavus 1992
     Björn Rhoads (Gahm), Septimus 1991
     Carl-Johan Graufelds, Sextus 1990
+{{- end }}
 
 ## Kassör Emeritus
 

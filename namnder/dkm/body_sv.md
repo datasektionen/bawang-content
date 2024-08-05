@@ -11,7 +11,7 @@
 
 # DKM
 
-DKM är Datas Klubbmästeri. Det är vi som ser till att ni dataloger har möjlighet att ha roligt under er tid här på teknis. Vi anordnar fester och pubar under hela året (förutom under mottagningen). Vill du komma i kontakt med oss, släng iväg ett mail till [dkm@datasektionen.se](mailto:dkm@datasektionen.se)!
+DKM är Datas Klubbmästeri. Det är vi som ser till att ni dataloger har möjlighet att ha roligt under er tid här på teknis. Vi anordnar fester och pubar under hela året {{- if not .reception }}(förutom under mottagningen){{ end }}. Vill du komma i kontakt med oss, släng iväg ett mail till [dkm@datasektionen.se](mailto:dkm@datasektionen.se)!
 
 ## Vad gör vi?
 
@@ -21,7 +21,11 @@ Efter tentaperioderna behöver man slappna av och ta en paus en kort stund innan
 
 Utöver onsdagspubarna har vi även ett par större event:
 
+{{ if .reception -}}
+- **Reclaim**, en fet fest... vad mer vill du veta?
+{{- else -}}
 - **Reclaim**, direkt efter mottagningen, en fet fest för att fira att DKM tar tillbaka spritförrådet.
+{{- end }}
 - **PPP**, någon gång under våren, en fest som vi håller tillsammans med våra vänner i ClubWästeriet, med nytt tema varje år!
 - **dJulmiddagen**, strax innan jul, där ni får chansen att äta ett riktigt fett julbord tillsammans med era vänner på sektionen.
 - **Blums**, Nytt event för 2023 där vi hyr en sportanläggning och slänger ihop en fet fest!
@@ -80,17 +84,6 @@ _Fucking fyllos, hela bunten_
 **Specialitet:** Slagsmål <br>
 **Citat:**
 _Jag rawdoggar life_  
-
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793548798992545/Krull_1.jpeg?ex=65a6bb3c&is=6594463c&hm=737c854532438c23f4d4d1dc7242b984f16da6ae01b5303987d557432611812d&"> 
-
-### William Krull
-#### Barmästare
-**Favoritdrink:** Chartreuse + Tjatrös <br>
-**Gillar:** Lussekrullar <br>
-**Ogillar:** Lussebullar <br>
-**Specialitet:** Att ponera <br>
-**Citat:**
-_De är ju inte ass to ass_
 
 <img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793570273824929/Love_1.jpeg?ex=65a6bb41&is=65944641&hm=3ad63b5c810996df2346ef0d39a55fabf277aee75a933d380a5914fba46ca781&"> 
 
@@ -204,25 +197,11 @@ _Jag vill inte leka mer_
 **Citat:**
 _Man ska fan inte hålla på å fiffla med glöggen_
 
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793605023629492/Nedea_1.jpeg?ex=65a6bb49&is=65944649&hm=c6862f96eea75e897aeafcca8d9cac2a7382b8d1cc5650a178717d798a3fd74f&"> 
-
-### Nedea Haukebö
-#### ÄggKnatte
-**Favoritdrink:** Råa ägg <br>
-**Gillar:** Däcka i folks soffor <br>
-**Ogillar:** Äggskal <br>
-**Specialitet:** Räkklegg <br>
-**Citat:**
-_Jag har aldrig tagit en bolt hem jag kommer ihåg_
-
 ## Cliff
 
 Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför de kallas för Cliff? Fråga närmsta Cliff!
 
 ### Cliff -23
-* __Lucas Dow__
-  * Klubbmästare
-  * _Hjälp mig skriva din egen undergång_
 * __Maja Larsson__
   * Vice klubbmästare
   * _Det kom en jättestor finne å jag blev så jävla stressad_

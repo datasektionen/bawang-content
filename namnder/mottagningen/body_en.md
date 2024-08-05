@@ -1,12 +1,15 @@
+{{ if not .reception -}}
 # Welcome to the Reception….
 # …and be warned!
 
 The tabloids report instances of schlimey graduation parties and other disgüüsting events; a sure sign that nØllan is on their way. Soon, Technis will be threatened by the ravaging hordes of nØllan. 
 
-The chapter is preparing its defenses. Whipclad Vests, White Blankies, All-seeing Cameras, Food-stained Aprons and Glittering Goldcoins are all mobilized to aid our brave troops.   
+The chapter is preparing its defenses. Whipclad Vests, White Blankies, All-seeing Cameras, Food-stained Aprons and Glittering Goldcoins are all mobilized to aid our brave troops.
+{{- end }}   
 
 ## The Reception’s Groups
 
+{{ if not .reception -}}
 ### The Royal Drifvery
 
 The Royal Drifvery is an ancient and venerable institution that has fought to protect the light and the truth since the dawn of time. 
@@ -31,15 +34,18 @@ The Royal Drifvery is a coalition forged long before the dawn of time. Their hon
 The Higher Spheres’ earthly representative is Konglig Öfverdrif (lit. the Royal High-Drif); the almighty leader of the Royal Drifvery. By their side Konglig Öfverdrif has their two squires Konglig Direktifdrif (lit. the Royal Directive-Drif) and Konglig Indrif (perhaps most closely translated as the Royal Collector-Drif). The three of them, as well as the rest of the coalition, steadfast in their devotion to fight for the Royal Drifvery ancient motto which can be found in the most secure of vaults, deep beneath the Royal Institute of Technology’s catacombs- engraved in diamond; 
 
 _“At surface- hard, at core- brutal”._
+{{- end }}
 
 ### The Royal Daddery
-The Royal Daddery is nØllan’s friend at all times. There are always huggable daddies to turn to when there are storms brewing. nØllan has now grown old enough to realize that they won’t manage to live a life without Technis. But Life at this finest of technical institutes isn’t easy; it’s one fraught with hardships and, at times, even harder mathematics. Dangers are lurking at the most unexpected places and times from the moment nØllan enters the historical lands of Technis. Mean examiners and ancient demons are hiding behind every corner. These are dreadful enough, but at Technis there also exists something so scary that nØllan couldn’t even imagine it in their worst nightmares - The Royal Drifvery. 
 
+The Royal Daddery is nØllan’s friend at all times. There are always huggable daddies to turn to when there are storms brewing. nØllan has now grown old enough to realize that they won’t manage to live a life without Technis. But Life at this finest of technical institutes isn’t easy; it’s one fraught with hardships and, at times, even harder mathematics. Dangers are lurking at the most unexpected places and times from the moment nØllan enters the historical lands of Technis. Mean examiners and ancient demons are hiding behind every corner. These are dreadful enough, but at Technis there also exists something so scary that nØllan couldn’t even imagine it in their worst nightmares {{- if not .reception }} - The Royal Drifvery {{- end }}.
 
+{{ if not .reception -}}
 #### The Rescue 
 The Royal Drifvery causes a lot of problems for nØllan. Even the ancient Greeks calculated the probability for nØllan’s survival and couldn’t find a slight deviation from nØll. The Chapter’s Chairperson at the time- Pythagoras D. Horn- proudly announced the results to D-Osqarulda. Their cheers were soon replaced by a worrisome silence as they understood that this meant that the most honourable section of them all - The Royal Computer Science Chapter - would soon go extinct. They realized that the only way to ensure the regrowth was to increase the chances of nØllan’s survival.
 
-Thus, one sunny day, the Royal Daddery was born, with whose help nØllan could at least get an infinitesimal chance of making it through Technis. The Daddery is led by Big Sister and her three younger siblings; Little Sister, Half Brother and Little Brother. All daddies love nØllan and they are the nicest bunch of technologists that exist. When nØllan loses their head under mysterious circustamces, it is the Dadda’s job to joyfully dunk it back onto their shoulders. The Dadda can always provide nØllan a thigh to suck on or a thumb to cry on. Even if it happens all too often. 
+Thus, one sunny day, the Royal Daddery was born, with whose help nØllan could at least get an infinitesimal chance of making it through Technis. The Daddery is led by Big Brother and her three younger siblings; Little Sister, Half Sister and Little Brother. All daddies love nØllan and they are the nicest bunch of technologists that exist. When nØllan loses their head under mysterious circustamces, it is the Dadda’s job to joyfully dunk it back onto their shoulders. The Dadda can always provide nØllan a thigh to suck on or a thumb to cry on. Even if it happens all too often. 
+{{- end }}
 
 #### Characteristics 
 
