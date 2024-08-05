@@ -13,6 +13,6 @@ To study doesn't just have to be long nights with heavy books. The Data Chapter 
 <hr>
 
 ##Business
-The Data Chapter's Business Relations Group works actively for a close collaboration between the chapter's members and actors in the business sector, that in many cases could  become a future employer. Tell us about your company at a lunch lecture, or get in personal contact with students from <a href="https://www.topuniversities.com/university-rankings/university-subject-rankings/2015/computer-science-information-systems#sorting=rank+region=+country=203+faculty=+stars=false+search=" target="_blank">Sweden's highest ranking computer science education</a> on our yearly career fair.
+The Data Chapter's Business Relations Group works actively for a close collaboration between the chapter's members and actors in the business sector, that in many cases could  become a future employer. Tell us about your company at a lunch lecture, or get in personal contact with students from <a href="https://www.topuniversities.com/university-subject-rankings/computer-science-information-systems?countries=se" target="_blank">Sweden's highest ranking computer science education</a> on our yearly career fair.
 
 <a href="/naringsliv?lang=en" class="action">More about collaboration &raquo;</a>
