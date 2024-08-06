@@ -14,7 +14,7 @@ If only your own results are taking longer, contact the examiner. Should this no
 ### How do I sign up to my exams?
 Log in to Ladok using your KTH account. Then press the Examinations section on sidebar. After that press the "Sign up" button for those exams you want to sign up to.
 
-## Registrering
+## Registration
 
 ### How does registering for the upcoming semester work?
 KTH has a really good [guide](https://www.kth.se/en/student/studier/val/valja-kurs-1.316312) about this.
