@@ -19,7 +19,7 @@ Log in to Ladok using your KTH account. Then press the Examinations section on s
 ### How does registering for the upcoming semester work?
 KTH has a really good [guide](https://www.kth.se/en/student/studier/val/valja-kurs-1.316312) about this.
 
-**Who do I contact regarding course registrations?**  
+### Who do I contact regarding course registrations?
 First and foremost the Study Counselor (<svl-data@kth.se>) or course responsible/examinator.
 
 **Can I re-register myself to a course?**  
