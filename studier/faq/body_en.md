@@ -36,4 +36,4 @@ Failing a course could mean that you won't be eligible to take any course that h
 
 Don't forget, you can always ask when you are uncertain! You can always conatact the Study Committee, we are always ready to help!
 
-Addtional information can be found on the [THS webpage](https://thskth.se/en/education)
+Additional information can be found on the [THS webpage](https://thskth.se/en/education).
