@@ -3,7 +3,7 @@
 ## Examination
 
 ### Hur lång tid får en rättning av tenta ta?  
-Den studerande har rätt att få skriftligt prov rättat och betygssatt utan omotiverad fördröjning. Resultat ska enligt KTHs riktlinjer meddelas studenterna inom tre veckor (15 arbetsdagar) efter tentan och senast 7 dagar före omexamination. Resultatet ska meddelas direkt till den enskilda studenten via [Ladok](https://www.student.ladok.se/student/app/studentwebb/).
+Den studerande har rätt att få skriftligt prov rättat och betygsatt utan omotiverad fördröjning. Resultat ska enligt KTHs riktlinjer meddelas studenterna inom tre veckor (15 arbetsdagar) efter tentan och senast 7 dagar före omexamination. Resultatet ska meddelas direkt till den enskilda studenten via [Ladok](https://www.student.ladok.se/student/app/studentwebb/).
 
 ### Vad gör man om tentaresultatet dröjer?  
 Om endast ditt enskilda resultat dröjer, kontakta examinator. Skulle detta inte hjälpa eller om resultatet dröjer för hela kursomgången rekommenderar vi istället att ni meddelar oss på Studienämnden så vi kan höra oss för med examinator eller vid behov PA.
