@@ -28,7 +28,7 @@ Yes, if there are places left, the easiest way is to fill out thi form:
 
 ## Credit requirements
 
-**There are two or more obligatory momnets I have to attend at the same time, what do I do?**  
+### There are two or more obligatory moments I have to attend at the same time, what do I do?
 Mail you programe responsible while informing the course responsibles for both of the courses and the Study Comittee.
 
 **What happens if I fail a course?**  
