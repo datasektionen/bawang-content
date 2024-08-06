@@ -22,7 +22,7 @@ KTH has a really good [guide](https://www.kth.se/en/student/studier/val/valja-ku
 ### Who do I contact regarding course registrations?
 First and foremost the Study Counselor (<svl-data@kth.se>) or course responsible/examinator.
 
-**Can I re-register myself to a course?**  
+### Can I re-register myself to a course?
 Yes, if there are places left, the easiest way is to fill out thi form:
 <https://www.kth.se/en/student/studier/kurs/kursregistrering/omregistrering-pa-kurs-1.1142776>
 
