@@ -3,7 +3,7 @@
 ## Examination
 
 ### How long can the grading of an exam take?
-Every student has the right to have their handwritten exams graded without any unmotivated delays. The result of the exam should be communicated to the students within three weeks (15 work days) after the date of the exam and at least 7 days before a potential reexam. The result should be communicated directly to individual students via [Ladok](https://www.student.ladok.se/student/app/studentwebb/).
+Every student has the right to have their handwritten exams graded without any unmotivated delays. The result of the exam should be communicated to the students within three weeks (15 work days) after the date of the exam and at least 7 days before a potential re-exam. The result should be communicated directly to individual students via [Ladok](https://www.student.ladok.se/student/app/studentwebb/).
 
 ### What should I do if the grading takes longer than expected?
 If only your own results are taking longer, contact the examiner. Should this not help or the results are late for the whole course, we recommend you contact the Study Committee so that we can try and contact the examiner or the programme director if needed.
