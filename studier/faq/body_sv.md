@@ -24,7 +24,6 @@ I första hand till Studievägledaren (<svl-data@kth.se>) eller kursansvarig/exa
 
 ### Kan jag omregisteras på en kurs?  
 Ja, i mån av plats, enklast genom att fylla i [detta formulär](https://www.kth.se/student/studier/kurs/kursregistrering/omregistrering-pa-kurs-1.1142776).
-<https://www.kth.se/student/studier/kurs/kursregistrering/omregistrering-pa-kurs-1.1142776> 
 
 ## Poängkrav
 
