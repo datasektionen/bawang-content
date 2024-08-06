@@ -28,7 +28,7 @@ Yes, if there are places left, the easiest way is to fill out [this form](https:
 ## Credit requirements
 
 ### There are two or more obligatory moments I have to attend at the same time, what do I do?
-Mail you programe responsible while informing the course responsibles for both of the courses and the Study Comittee.
+Mail your programme responsible while informing the course responsibles for both of the courses and the Study Committee.
 
 ### What happens if I fail a course?
 Failing a course could mean that you won't be eligible to take any course that has that course as a requirement. You can always talk to the Study Counseller and request to re-take the course.
