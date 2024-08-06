@@ -28,7 +28,7 @@ Ja, i mån av plats, enklast genom att fylla i [detta formulär](https://www.kth
 
 ## Poängkrav
 
-### Om jag läst kurser på ett annat universitet, kan det räknas in i utbildning jag läser nu?  
+### Om jag läst kurser på ett annat universitet, kan det räknas in i utbildningen jag läser nu?  
 Med programansvarig lärares(PA) godkännande kan du tillgodoräkna dig kurser från andra universitet, förutsatt att de passar in i programmet.
 
 ### Obligatoriska moment krockar, vad gör jag då?  
