@@ -16,7 +16,7 @@ Log in to Ladok using your KTH account. Then press the Examinations section on s
 
 ## Registration
 
-### How does registering for the upcoming semester work?
+### How does registration for the upcoming semester work?
 KTH has a really good [guide](https://www.kth.se/en/student/studier/val/valja-kurs-1.316312) about this.
 
 ### Who do I contact regarding course registrations?
