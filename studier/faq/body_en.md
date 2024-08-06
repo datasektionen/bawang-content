@@ -33,6 +33,6 @@ Mail your programme responsible while informing the course responsibles for both
 ### What happens if I fail a course?
 Failing a course could mean that you won't be eligible to take any course that has that course as a requirement. You can always talk to the Study Counselor and request to retake the course.
 
-Don't forget, you can always ask when you are uncertain! You can always conatact the Study Committee, we are always ready to help!
+Don't forget, you can always ask when you are uncertain! You can always contact the Study Committee, we are always ready to help!
 
 Additional information can be found on the [THS webpage](https://thskth.se/en/education).
