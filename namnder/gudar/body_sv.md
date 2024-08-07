@@ -3,13 +3,6 @@ GUDAR är Konglig Datasektionens alldeles egna sektionshistorienämnd. GUDAR är
 
 Nämnden leds av sektionens sektionshistoriker och skapades på Rev-SM 2024.
 
-## Vill du lära dig mer om sektionens historia?
-Du kan läsa historians mest anrika dbuggen, nämligen dJubileumsdbuggen 2003, [här](https://drive.google.com/file/d/1KtwHZV6gomddOlRXftlC1zfszmEEGvce/view?usp=sharing).
-
-Vill du lära dig något som inte står i dJubileumsdbuggen? Skicka ett meddelande till sektionshistoriker!
-
-Arbete på ett komplett dokument över sektionens historia är påbörjat och förväntas vara i färdig form under våren 2025.
-
 ## Vill du gå med i GUDAR och hjälpa oss undersöka Datasektionens långa historia?
 Skriv till Sektionshistoriker!
 
