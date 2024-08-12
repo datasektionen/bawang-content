@@ -11,4 +11,4 @@
 * [Hitta en lokal på KTH](https://www.kth.se/places)
 * [Om studievägledning](https://www.kth.se/student/kontakt/kontaktuppgifter/studievagledning-1.83165)
 * [Kurskatalogen](https://www.kth.se/student/kurser/sokkurs)
-* [FAQ från THS](https://ths.kth.se/sv/help)
+* [FAQ från THS](https://thskth.se/sv/help)

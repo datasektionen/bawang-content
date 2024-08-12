@@ -58,7 +58,7 @@ The study environment officer has the task of monitoring the EECS premises for t
 
 The Union Council - how to affect the student union.
 
-More info can be found on the [THS webpage](https://ths.kth.se/en/general/about-ths/union-council).
+More info can be found on the [THS webpage](https://thskth.se/en/general/about-ths/union-council).
 
 Send us an e-mail at [kf@datasektionen.se](mailto:kf@datasektionen.se) if you have any questions about the Union Council or have any suggestions about what you think we should work towards.
 

@@ -23,6 +23,7 @@ Tilde Tärnvik <br />
 [lillasyster@datasektionen.se](mailto:lillasyster@datasektionen.se)<br /> 
 070-672 07 89
 
+{{ if not .reception -}}
 ### The Royal Drifvery
 **Konglig Öfverdrif**, <br />
 Lucas Dow<br />
@@ -38,6 +39,7 @@ Elin Andersson Lundell<br />
 Lydia Brorsson<br />
 [indrif@datasektionen.se](mailto:indrif@datasektionen.se)<br />
 073-528 78 63
+{{- end }}
 
 ### The Royal Doqumentery
 **Samdoquise**, <br />

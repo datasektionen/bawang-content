@@ -2,7 +2,7 @@
 
 The Business Relations Group (NLG) at the Computer science and engineering chapter works to improve the relationship between the industry and computer science students. We make sure to create valuable contacts through interesting and engaging events, while also raising money for the chapter!
 
-If you are a company and want to get in touch with computer scientists, click [here](https://datasektionen.se/en/industry) to see what we offer!
+If you are a company and want to get in touch with computer scientists, click [here](/naringsliv?lang=en) to see what we offer!
 
 ## What do we do?
 

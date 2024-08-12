@@ -14,7 +14,7 @@
 
 **Equal Conditions**: That all people should have the same opportunities regardless of their circumstances.
 
-**Discrimination**: When a person or a group of people are treated worse in a way linked to the seven grounds of discrimination. The discrimination can be direct, indirect or in the form of harassment. See more under the heading [Discrimination and Harassment](https://datasektionen.se/en/jml/discrimination-and-harassment).
+**Discrimination**: When a person or a group of people are treated worse in a way linked to the seven grounds of discrimination. The discrimination can be direct, indirect or in the form of harassment. See more under the heading [Discrimination and Harassment](/jml/diskriminering-och-trakasserier?lang=en).
 
 1. Sex
 2. Gender identity or expression
@@ -24,11 +24,11 @@
 6. Sexual orientation
 7. Age
 
-**Harassment**: Behavior that in some way offends a person and is in some way connected to the grounds of discrimination (see above). They are prohibited by law in Sweden. See more under the heading [Discrimination and harassment](https://datasektionen.se/en/jml/discrimination-and-harassment).
+**Harassment**: Behavior that in some way offends a person and is in some way connected to the grounds of discrimination (see above). They are prohibited by law in Sweden. See more under the heading [Discrimination and harassment](/jml/diskriminering-och-trakasserier?lang=en).
 
-**Sexual Harassment**: A special kind of harassment that in some way alludes to the body or sex and that the recipient perceives as unpleasant. See more under the heading [Discrimination and Harassment](https://datasektionen.se/en/jml/discrimination-and-harassment).
+**Sexual Harassment**: A special kind of harassment that in some way alludes to the body or sex and that the recipient perceives as unpleasant. See more under the heading [Discrimination and Harassment](/jml/diskriminering-och-trakasserier?lang=en).
 
-**Norms**: What is socially accepted and considered normal. Can be seen as an unwritten rule for how one _should_ be, look or act. See more under the heading [Norms](https://datasektionen.se/en/jml/reporting-and-questions/norms).
+**Norms**: What is socially accepted and considered normal. Can be seen as an unwritten rule for how one _should_ be, look or act. See more under the heading [Norms](/jml/normer?lang=en).
 
 **Bias**: An assessment that can be perceived as objective even though it is based on personal (conscious and subconscious) opinions.
 

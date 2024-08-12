@@ -32,7 +32,7 @@ Val-SM (Election Meeting). More chapter meetings can be arranged according to de
 <img src="https://dsekt-assets.s3.amazonaws.com/organisation/verksamhetskarta.png" style="width:100%;" />
 
 A club is an organisational entity created for a specific purpose. One of our clubs monitors our study environment, another takes care of the chapter hall, another arranges parties and so forth. Every club has a chairman that is elected at the SM. How to become member of a club varies from club to club. Some clubs have a limit to how many members they bring in and some have
-interviews. If you want to know more about a certain club, you are welcome to contact the club's chairman! You can find the chairmans contact information under the clubs tab in [clubs](/en/clubs).
+interviews. If you want to know more about a certain club, you are welcome to contact the club's chairman! You can find the chairmans contact information under the clubs tab in [clubs](/namnder?lang=en).
 If you want to create your own club by sending a motion to the board of directors. At the next Chapter Meeting, all members vote on wether or not your proposal should pass. You should make a budget, a description of your activities, and possibly formulate changes in our by-laws/rules.
 
 It's also possible to make a project in the chapter. A project is similar to a temporary club, it is created the same way, with a motion.
@@ -52,7 +52,7 @@ for educational issues, student welfare and equality, student activities, and co
 
 Elections for board members are made in the same way as for officials, except for Chairman, Vice Chairman, and Tresurer.
 
-[More information about the board members](/en/organisation/sammansattning)
+[More information about the board members](/sektionen/sammansattning?lang=en)
 
 [Current board members?](https://dfunkt.datasektionen.se/)
 

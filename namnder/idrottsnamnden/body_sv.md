@@ -33,3 +33,4 @@ Varje läsår hålls THS-mästerskapen (tidigare KTH-mästerskapen), där kåren
 ## Externa länkar
 
 * [THS Mästerskapen / Idrott på Tekniska Högskolans Studentkår](http://ths.kth.se/om-ths/idrott/)
+
