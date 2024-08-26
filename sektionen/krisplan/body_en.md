@@ -4,7 +4,6 @@ The difference between a crisis and an accident is the severity of the event. An
 
 The chapter's emergency plan is available at [dsekt.se/emergency](https://dsekt.se/emergency) and physically in META.
 
-
 ## Medical kit, defibrillators and accident management
 
 In META there are two medical boxes, one large and one small. The small one can be taken with you when you have events that are not in META, such as the Lådbilsquarnevalen or Osqvik. The large box should never leave META. The student safety officer (sv. Studerandeskyddsombud) is responsible for inventorying the large medical box.
