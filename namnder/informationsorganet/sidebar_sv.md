@@ -12,9 +12,9 @@ Mathias Magnusson </br>
 
 [ior@datasektionen.se](mailto:ior@datasektionen.se)
 
-#### IOR-slacken
+#### IORs Mattermost
 
-[https://ior.slack.com](https://ior.slack.com)
+<https://mattermost.datasektionen.se/ior/channels/town-square>
 
 #### Github
 
