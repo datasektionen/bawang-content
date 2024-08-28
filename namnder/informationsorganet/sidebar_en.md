@@ -2,6 +2,9 @@
 
 #### Head of IT
 
+Rafael Serra e Oliveira </br>
+[d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
+
 Mathias Magnusson </br>
 [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
 
