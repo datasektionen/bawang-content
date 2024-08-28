@@ -2,6 +2,9 @@
 
 #### Head of IT
 
+Rafael Serra e Oliveira </br>
+[d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
+
 Mathias Magnusson </br>
 [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
 
@@ -9,9 +12,9 @@ Mathias Magnusson </br>
 
 [ior@datasektionen.se](mailto:ior@datasektionen.se)
 
-#### Slack
+#### IOR's Mattermost
 
-[https://ior.slack.com](https://ior.slack.com)
+<https://mattermost.datasektionen.se/ior/channels/town-square>
 
 #### Github
 
