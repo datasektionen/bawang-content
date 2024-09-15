@@ -1,6 +1,6 @@
 # Election Committee (Valberedningen)
 
-The Election Committee administrates elections within the chapter and arranges the Chapter Fair once per semester. The Election Committee usually consists of 6 Committee members and The Chairperson.
+The Election Committee administrates elections within the chapter and arranges the Chapter Fair once per semester. The Election Committee usually consists of 6 Committee members and [The Chairperson](https://dfunkt.datasektionen.se/position/id/34/).
 
 ## Elections during Chapter Meetings
 

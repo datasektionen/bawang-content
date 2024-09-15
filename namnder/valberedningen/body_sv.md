@@ -1,6 +1,6 @@
 # Valberedningen
 
-Valberedningen har till uppgift att administrera de val som genomförs vid sektionen, samt att två gånger per år arrangera Sektionsmässan. Valberedningen består normalt av 6 Valberedare och Valberedningens Ordförande.
+Valberedningen har till uppgift att administrera de val som genomförs vid sektionen, samt att två gånger per år arrangera Sektionsmässan. Valberedningen består normalt av 6 Valberedare och [Valberedningens Ordförande](https://dfunkt.datasektionen.se/position/id/34/).
 
 ## Val på Sektionsmöten
 
