@@ -30,6 +30,8 @@ Each academic year the THS Championships (formerly KTH championships) is held. I
 * Volleyball
 * Football
 
-## External Links
+## Tech-i-taka
+Tech-i-taka, whose name is derived from [tiki-taka](https://en.wikipedia.org/wiki/Tiki-taka), is the football team of the CS chapter and is part of the Sports Committee. The team is newly established (first season played in 2024) and competes in the "korpenliga". You can follow them on Instagram under the username @techitakakth.
 
-* [THS Championships / Sports on Technology Student Association](http://ths.kth.se/om-ths/idrott/)
+* When Tech-i-taka is recruiting new members, you can apply via this link: [https://dsekt.se/sok-tech-i-taka](https://dsekt.se/sok-tech-i-taka)
+* Even when Tech-i-taka is not actively recruiting new members, you are still welcome to sign up to fill vacant spots in practices/matches using this form: [https://dsekt.se/extra-anmalan-techitaka](https://dsekt.se/extra-anmalan-techitaka)
