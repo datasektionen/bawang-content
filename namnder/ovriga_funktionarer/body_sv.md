@@ -11,9 +11,11 @@ Till funktionärens uppgifter hör att - Anordna två skiftesgasquer per år, en
 
 Fanbärarna försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Observera att fanan skall hållas högt. Att vara Fanbärare är en mycket hedersfylld post på sektionen. Fanbärarna bär huvudansvaret för att sektionens fana hålls i gott skick.
 
+
 ## Jämlikhets-, Mångfalds- och Likabehandlingsansvarig (JMLA) - Jennifer Köhler
 
 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig har till uppgift att värna om sektionens psykiska studiemiljö, för samtliga sektionsmedlemmar. Funktionären ska pro- och reaktivt arbeta med att förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
+
 
 ## Kommunikatör - Benjamin Widman
 
@@ -30,14 +32,15 @@ Maila oss om du undrar över något om Kårfullmäktige, eller om du har försla
 
 ### Kårfullmäktigeledamöter
 
-Adam Sjöberg</br>
-Kevin Wenström</br>
-Erik Nordlöf</br>
+- Adam Sjöberg
+- Erik Nordlöf
+- Erik Hedlund
+- Fredrik Blomqvist
 
 ### Kårfullmäktigesuppleanter
 
-Fredrik Blomqvist</br>
-Vakant</br>
+- Axel Andin Johansson
+- Olof Bargholtz Melcherson
 
 [Facebook](https://facebook.com/KF.Data)
 
@@ -56,9 +59,8 @@ Programansvarige arbetar tillsammans med Studienämndens ordförande för att f�
 
 ## Revisorerna
 
-Niklas Vatn (granskar 2023)</br>
-David Puustinen (granskar 2023 & 2024)</br>
-Jakob Carlsson (granskar 2024)</br>
+- David Puustinen (granskar 2024)
+- Jakob Carlsson (granskar 2024)
 
 Revisorerna håller koll på styrelsen och tolkar styrdokument. 
 
@@ -72,7 +74,7 @@ Mer information om vad revisorerna håller på med kan ni läsa om i [sektionens
 Studiemiljöansvarig har till uppgift att övervaka EECS:s lokaler åt sektionen och är ansvarig för sektionslokalens brandsäkerhet. Funktionären skall såväl proaktivt som reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
 
 
-## Sångledare - David Peilitz
+## Sångledare - Jonathan Almgren
 
 Sångledaren verkar för att bevara och utveckla sångkulturen i sektionen, samt ansvarar för att hålla vår sångbok uppdaterad. Sångledaren ska även fungera som en go-to toasmaster, eller som resurs för sådana som vill lära sig hur man är toastmaster.
 

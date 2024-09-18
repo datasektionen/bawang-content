@@ -1,7 +1,7 @@
 ## Contact
 
 #### Royal Chief of Halls (D)
-Carl Liljencrantz</br>
+Carl Blomqvist<br>
 [lokalchef@datasektionen.se](mailto:lokalchef@datasektionen.se)
 
 #### Head of Chapter Hall (Me)

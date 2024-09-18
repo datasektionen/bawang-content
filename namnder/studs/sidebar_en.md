@@ -3,5 +3,5 @@
 
 #### Project Leaders
 
-Erik Nordlöf & Erik hedlund </br>
+Alice Norrthon, Erik Nordlöf & Erik hedlund </br>
 [ansvarig@studs.se](mailto:ansvarig@studs.se)

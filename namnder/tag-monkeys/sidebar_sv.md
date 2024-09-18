@@ -4,5 +4,5 @@ Behöver du hjälp eller har frågor kring grafisk design? Tveka inte att kontak
 
 #### Datas Art Director, DAD
 
-Anna Akopyan
+Nicklas Peng<br>
 [dad@datasektionen.se](mailto:dad@datasektionen.se)

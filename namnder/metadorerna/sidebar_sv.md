@@ -1,7 +1,7 @@
 ## Kontakt
 
 #### Konglig Lokalchef (D)
-Carl Liljencrantz</br>
+Carl Blomqvist<br>
 [lokalchef@datasektionen.se](mailto:lokalchef@datasektionen.se)
 
 #### Sektionslokalsansvarig (Me)

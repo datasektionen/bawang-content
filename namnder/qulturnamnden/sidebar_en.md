@@ -4,8 +4,7 @@ Do you like tabletop games and/or other forms of Qulture? Contact us!
 
 #### Qulturattaché (D)
 
-Vanja Grigoriev</br>
-Oliver Lindgren</br>
+Felix Murnion<br>
 [qulturattache@datasektionen.se](mailto:qulturattache@datasektionen.se)
 
 #### Qulturnämndsordförande (Me)
