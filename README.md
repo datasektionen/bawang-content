@@ -31,6 +31,18 @@ docker compose up
 ```
 Därefter så kommer sidan vara tillgänglig på `localhost:8000`. Om du ändrar på en sida så är det bara att ladda om webbläsaren för att se dina ändringar.
 
+### Utveckla `taitan` eller `bawang` lokalt
+
+I filen `compose.yml` så går det att ersätta vissa delar för att istället köra med lokala versioner av `taitan` och `bawang`.
+
+Följ instruktionerna i composefilen, och kör sedan kommandot
+```bash
+docker compose up --build --watch
+```
+
+Hemsidan kommer då vara tillgänglig på `localhost:8000`. När något ändras i dina lokala versioner av `taitan` eller `bawang` så kommer servrarna för det startas om och sidan kommer uppdateras om du refreshar.
+
+
 ## Innehåll som är känsligt under mottagningen 🕶️
 
 Om någon del av en sida inte ska visas under mottagningen kan detta automatiskt döljas under mörkläggningen genom att sätta `{{ if not .reception -}}` innan och `{{- end }}` efter. Till exempel:
