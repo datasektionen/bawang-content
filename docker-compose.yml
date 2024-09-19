@@ -4,7 +4,7 @@ services:
 
     image: ghcr.io/datasektionen/taitan
     ### To use a local version of taitan, comment the line above, and un-comment the lines below
-    #build: <path to local taitan>
+    #build: <path to local taitan, e.g. ../taitan>
     #develop:
     #  watch:
     #    - path: #<path to local taitan>
