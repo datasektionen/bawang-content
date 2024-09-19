@@ -27,7 +27,7 @@ services:
     image: ghcr.io/datasektionen/bawang-dev
     ### To use a local version of bawang, comment the line above, and un-comment the lines below
     #build:
-    #  context: <path to local bawang>
+    #  context: <path to local bawang, e.g. ../bawang>
     #  args:
     #    RAZZLE_TAITAN_URL: http://localhost:5000
     #develop:
