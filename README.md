@@ -40,7 +40,7 @@ Följ instruktionerna i composefilen, och kör sedan kommandot
 docker compose up --build --watch
 ```
 
-Hemsidan kommer då vara tillgänglig på `localhost:8000`. När något ändras i dina lokala versioner av `taitan` eller `bawang` så kommer servrarna för det startas om och sidan kommer uppdateras.
+Hemsidan kommer då vara tillgänglig på `localhost:8000`. När något ändras i dina lokala versioner av `taitan` eller `bawang` så kommer servrarna för det startas om och sidan kommer uppdateras om du refreshar.
 
 
 ## Innehåll som är känsligt under mottagningen 🕶️
