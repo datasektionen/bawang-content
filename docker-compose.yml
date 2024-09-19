@@ -7,7 +7,7 @@ services:
     #build: <path to local taitan, e.g. ../taitan>
     #develop:
     #  watch:
-    #    - path: #<path to local taitan>
+    #    - path: <path to local taitan, e.g. ../taitan>
     #      action: rebuild
 
     environment:
