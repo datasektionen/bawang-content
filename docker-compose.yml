@@ -32,7 +32,7 @@ services:
     #    RAZZLE_TAITAN_URL: http://localhost:5000
     #develop:
     #  watch:
-    #    - path: <path to local taitan>
+    #    - path: <path to local bawang, e.g. ../bawang>
     #      action: rebuild
 
 
