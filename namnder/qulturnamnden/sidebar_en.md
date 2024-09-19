@@ -9,5 +9,5 @@ Felix Murnion<br>
 
 #### Qulturnämndsordförande (Me)
 
-Simon Berglund</br>
+Pontus Saf<br>
 [qulturnamnden@medieteknik.com](mailto:qulturnamnden@medieteknik.com)
