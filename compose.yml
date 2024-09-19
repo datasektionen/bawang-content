@@ -35,7 +35,6 @@ services:
     #    - path: <path to local bawang, e.g. ../bawang>
     #      action: rebuild
 
-
     environment:
       - TAITAN_URL=http://taitan:5000
       - TAITAN_CACHE_TTL=0
