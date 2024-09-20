@@ -4,9 +4,8 @@ The full list of officials, including those under the committees, can be found a
 
 ## Auditors
 
-Niklas Vatn (audits 2023)<br/>
-David Puustinen (audits 2023 & 2024)<br/>
-Jakob Carlsson (audits 2024)<br/>
+- David Puustinen (audits 2024)
+- Jakob Carlsson (audits 2024)
 
 The auditors review the board and interpret the Chapter's regulatory documents.
 
@@ -64,18 +63,19 @@ Send us an e-mail at [kf@datasektionen.se](mailto:kf@datasektionen.se) if you ha
 
 ### Members
 
-Adam Sjöberg</br>
-Kevin Wenström</br>
-Erik Nordlöf</br>
+- Adam Sjöberg
+- Erik Nordlöf
+- Erik Hedlund
+- Fredrik Blomqvist
 
 ### Supplementary members
 
-Fredrik Blomqvist</br>
-Va Kant</br>
+- Axel Andin Johansson
+- Olof Bargholtz Melcherson
 
 [Facebook](https://facebook.com/KF.Data)
 
 
-## Song leader - David Peilitz
+## Song leader - Jonathan Almgren
 
 The song leader works to preserve and develop the song culture in the chapter, and is responsible for keeping our song book up to date. The song leader should also serve as a go-to toastmaster, or as a resource for those who want to learn how to be a toastmaster.
