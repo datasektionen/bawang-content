@@ -25,7 +25,7 @@ Om du inte har access att pusha till repot kan du säkerligen få det om du frå
 
 ## Köra lokalt 
 
-Repot har en `docker-compose`-fil som sköter all setup med `bawang` och `taitan`. Så om du vill redigera hemsidan lokalt och vill se dina ändringar innan du pushar så är det bara att installera `docker` och sedan köra
+Repot har en `compose.yml`-fil som sköter all setup med `bawang` och `taitan`. Så om du vill redigera hemsidan lokalt och vill se dina ändringar innan du pushar så är det bara att installera `docker` och sedan köra
 ```bash
 docker compose up
 ```
@@ -40,7 +40,7 @@ Följ instruktionerna i composefilen, och kör sedan kommandot
 docker compose up --build --watch
 ```
 
-Hemsidan kommer då vara tillgänglig på `localhost:8000`. När något ändras i dina lokala versioner av `taitan` eller `bawang` så kommer servrarna för det startas om och sidan kommer uppdateras om du refreshar.
+Hemsidan kommer då vara tillgänglig på `localhost:8000`. När något ändras i din lokala version av `taitan` eller `bawang` så kommer serven för den byggas och startas om automatiskt.
 
 
 ## Innehåll som är känsligt under mottagningen 🕶️
