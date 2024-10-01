@@ -1,4 +1,4 @@
-# dÅre 
+# dÅre
 
 dÅre is the chapter's annual ski trip to Åre (which about 93.3% of the time goes to Åre). We head together up to Åre in early January for Skistar's Student Skiweek. It’s a fantastically fun trip with skiing, after-skiing, cozy hangouts, partying, and much more!
 
