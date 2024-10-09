@@ -106,25 +106,23 @@ Project Pride
 
 ## Projekt på Datasektionen
 
-dÅre 2024
-
-Studs 2023
+dÅre 2025
 
 Studs 2024
 
+Studs 2025
+
 METAspexet 2024
 
-Vårbalen 2024
+METAspexet 2025
 
 Project Pride 2024
+
+Vårbalen 2025
 
 dJubileet 2023
 
 BAMM
-
-Spelsylt
-
-METAcraft
 
 Project Dive
 

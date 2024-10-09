@@ -102,29 +102,27 @@ Vårbalen - The CS chapters spring ball
 
 ## Current projects
 
-dÅre 2024
-
-Studs 2023
+dÅre 2025
 
 Studs 2024
 
+Studs 2025
+
 METAspexet 2024
 
-Vårbalen 2024
+METAspexet 2025
 
 Project Pride 2024
+
+Vårbalen 2025
 
 dJubileet 2023
 
 BAMM
 
-Spelsylt
-
-METAcraft
-
 Project Dive
 
-Groda 2024
+Groda 2024 - GRön hållbarhet Och DAtasektionen
 
 Operational plans for all current projects are uploaded to [Google Drive](https://dsekt.se/vp-projekt).
 
