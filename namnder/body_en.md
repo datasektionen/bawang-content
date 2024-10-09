@@ -102,25 +102,15 @@ Vårbalen - The CS chapters spring ball
 
 ## Current projects
 
-dÅre 2024
-
-Studs 2023
-
 Studs 2024
 
 METAspexet 2024
-
-Vårbalen 2024
 
 Project Pride 2024
 
 dJubileet 2023
 
 BAMM
-
-Spelsylt
-
-METAcraft
 
 Project Dive
 
