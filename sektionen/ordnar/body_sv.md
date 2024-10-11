@@ -61,6 +61,7 @@ Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig s
 
 Valspråk: Ensam är stark. Tillsammans är vi bara många.
 
+    Bror Sebastian Sjövald, Tricesimus Sextus 2023 
     Luciano Zapata, Tricesimus Sextus 2022
     Isabel Redtzer, Tricesima Sexta 2021
     Joar Rutqvist, Tricesimus Quartus 2020
@@ -106,7 +107,8 @@ Valspråk: Ensam är stark. Tillsammans är vi bara många.
 Medlemskap i Storasyskon Emeritus-orden tilldelas de Storasyskon som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
-   
+
+    Ebba Bråtman, Tricesimus Sextus 2023
     George Bassilious, Tricesimus Quintus 2022
     Agnes Forsberg, Tricesima Quinta 2021
     Lisa Håkanson Krantz, Tricesima Quarta 2020
