@@ -12,7 +12,8 @@ Membership of the Klubbmästare Emeritus order is awarded to Klubbmästare (head
 
 The order's medal is a five-pointed silver star, with a cerise field, and a black delta in the middle. The star is coated by a laurel wreath.
 
-    ???, Duodequadragesimus 2022/2023
+    Tom Rehnström, Undequadragesimus 2023/2024
+    Lucas Dow, Duodequadragesimus 2022/2023
     Jennifer Larsson, Tricesima Septima 2021/2022
     George Bassilious, Tricesimus Quintus 2020/2021
     Melvin Lundqvist, Tricesimus Quintus 2019/2020
@@ -59,6 +60,7 @@ The order's medal is a five-pointed overthrown black star, with a cerise field s
 
 Motto: Alone is strong. Together we are just many. 
 
+    Bror Sebastian Sjövald, Tricesimus Sextus 2023 
     Luciano Zapata, Tricesimus Sextus 2022
     Isabel Redtzer, Tricesima Sexta 2021
     Joar Rutqvist, Tricesimus Quartus 2020
@@ -104,7 +106,8 @@ Motto: Alone is strong. Together we are just many.
 Membership of the Storasyskon Emeritus order is awarded to Storasyskon (head of Reception) at the chapter who have served an entire term.
 
 The order's medal is a five-pointed cerise star, with a silver field, and a black delta in the middle. The star is coated by a laurel wreath.
-    
+
+    Ebba Bråtman, Tricesimus Sextus 2023
     George Bassilious, Tricesimus Quintus 2022
     Agnes Forsberg, Tricesima Quinta 2021
     Lisa Håkanson Krantz, Tricesima Quarta 2020
