@@ -12,7 +12,8 @@ Medlemskap i Klubbmästare Emeritus-orden tilldelas de klubbmästare på Datasek
 
 Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
 
-    ???, Duodequadragesimus 2022/2023
+    Tom Rehnström, Undequadragesimus 2023/2024
+    Lucas Dow, Duodequadragesimus 2022/2023
     Jennifer Larsson, Tricesima Septima 2021/2022
     George Bassilious, Tricesimus Quintus 2020/2021
     Melvin Lundqvist, Tricesimus Quintus 2019/2020
@@ -60,6 +61,7 @@ Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig s
 
 Valspråk: Ensam är stark. Tillsammans är vi bara många.
 
+    Bror Sebastian Sjövald, Tricesimus Sextus 2023 
     Luciano Zapata, Tricesimus Sextus 2022
     Isabel Redtzer, Tricesima Sexta 2021
     Joar Rutqvist, Tricesimus Quartus 2020
@@ -105,7 +107,8 @@ Valspråk: Ensam är stark. Tillsammans är vi bara många.
 Medlemskap i Storasyskon Emeritus-orden tilldelas de Storasyskon som förtjänstfullt arbetat under en hel mandatperiod.
 
 Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
-   
+
+    Ebba Bråtman, Tricesimus Sextus 2023
     George Bassilious, Tricesimus Quintus 2022
     Agnes Forsberg, Tricesima Quinta 2021
     Lisa Håkanson Krantz, Tricesima Quarta 2020
