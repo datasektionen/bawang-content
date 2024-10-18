@@ -1,6 +1,6 @@
 # System Group
 
-We are happy that you found the System Group's page. We are also known as the _Donkeys_, which is a name that does not describe what we do very well. The System Group is in charge of developing new systems and maintaining the chapter’s current systems. In short, we are a group of students who enjoy programming and learning together. Everyone is welcome here, regardless of whether you have worked as a developer for a few years or are completely new to programming.
+We are happy that you found the System Group's page. The System Group is in charge of developing new systems and maintaining the chapter’s current systems. In short, we are a group of students who enjoy programming and learning together. Everyone is welcome here, regardless of whether you have worked as a developer for a few years or are completely new to programming.
 
 ## The Chapter’s systems
 
