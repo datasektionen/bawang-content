@@ -10,12 +10,13 @@ Mathias Magnusson (förra)</br>
 
 [ior@datasektionen.se](mailto:ior@datasektionen.se)
 
-#### IORs Mattermost
+#### Systemgruppens Mattermost
 
-<https://mattermost.datasektionen.se/ior/channels/town-square>
+<https://mattermost.datasektionen.se/systemgruppen/channels/town-square>
 
 #### Github
 
 [Datasektionens Github](https://dsekt.se/github-link-website)</br>
 
 Vill du ha access? Fråga Systemansvarig eller kom på en hackerkväll!
+
