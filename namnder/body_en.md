@@ -122,7 +122,7 @@ BAMM
 
 Project Dive
 
-Groda 2024 - GRön hållbarhet Och DAtasektionen
+Groda 2024 - GRön hållbarhet Och DAtasektionen (Green sustainability and Datasektionen)
 
 Operational plans for all current projects are uploaded to [Google Drive](https://dsekt.se/vp-projekt).
 
