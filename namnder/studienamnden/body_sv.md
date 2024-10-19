@@ -23,7 +23,7 @@ Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du a
 
 År 3 - Niels: [ake-3@datasektionen.se](mailto:ake-3@datasektionen.se)
 
-Masterrepresentanter för Datalogi (TCSCM) - Patrik, Gunnar, Fredrik: [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
+Masterrepresentanter för Datalogi (TCSCM) - Patrik, Fredrik: [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
 
 Masterrepresentanter för Cybersäkerhet (TCYSM) - Mathias,  Aristi, Rafael: [master-cys@datasektionen.se](mailto:master-cys@datasektionen.se)
 
