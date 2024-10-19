@@ -17,27 +17,29 @@ Kontakta oss om du har frågor om eller kommentarer kring studierna eller studie
 
 Obegripliga föreläsningar? Saknas det redovisningstillfällen? Eller vill du att en student är din mellanhand gentemot skolan? Då vet du att du har någon som representerar dig. Nedan har vi 
 
-År 1 - Alice & Soma [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
+År 1 - Sara & Leo [ake-1@datasektionen.se](mailto:ake-1@datasektionen.se)
 
-År 2 - Niels & Christofer: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
+År 2 - Alice & Soma: [ake-2@datasektionen.se](mailto:ake-2@datasektionen.se)
 
-År 3 - Emil & Mary: [ake-3@datasektionen.se](mailto:ake-3@datasektionen.se)
+År 3 - Niels: [ake-3@datasektionen.se](mailto:ake-3@datasektionen.se)
 
-Masterrepresentanter för Datalogi (TCSCM) - Patrik, Gunnar, Marten: [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
+Masterrepresentanter för Datalogi (TCSCM) - Patrik, Fredrik: [master-tcs@datasektionen.se](mailto:master-tcs@datasektionen.se)
 
-Masterrepresentanter för Cybersäkerhet (TCYSM) - Ellinor, Sönke, Rafael: [master-cys@datasektionen.se](mailto:master-cys@datasektionen.se)
+Masterrepresentanter för Cybersäkerhet (TCYSM) - Mathias,  Aristi, Rafael: [master-cys@datasektionen.se](mailto:master-cys@datasektionen.se)
 
-Masterrepresentanter för Maskininlärning (TMAIM) - Shekhar [master-ml@datasektionen.se](mailto:master-ml@datasektionen.se)
+Masterrepresentanter för Maskininlärning (TMAIM) - Shekhar, János [master-ml@datasektionen.se](mailto:master-ml@datasektionen.se)
 
-Studienämndens Ordförande (SNO) - Emil: [sno@datasektionen.se](mailto:sno@datasektionen.se)
+Studienämndens Ordförande (SNO) - Soma: [sno@datasektionen.se](mailto:sno@datasektionen.se)
 
 ### Studiemiljö
 
 Kalla salar? Oergonomiska stolar? Är det för hög ljudnivå? Har blivit utsatt för en kränkning av något slag? Kontakta våra skyddsombud om du har en åsikt!
 
 SSO: Amanda & Jennifer: [sso@datasektionen.se](mailto:sso@datasektionen.se)
+
 Studiemiljöansvarig - Amanda: [sma@datasektionen.se](mailto:sma@datasektionen.se)
-Jämlikhetsnämndens Ordförande - Jennifer: [jno@datasektionen.se](mailto:jno@datasektionen.se)
+
+Jämlikhets-, Mångfalds- och Likabehandlingsansvarig - Jennifer: [jmla@datasektionen.se](mailto:jmla@datasektionen.se)
 
 ### Övriga frågor
 
@@ -68,7 +70,7 @@ Kort om oss
 ### Studerandeskyddsombud
 Studerandeskyddsombuden verkar för en bättre studiemiljö under dina studier här på KTH. Studiemiljön är då såväl den fysiska som den psykosociala. Dessa är studerandeskyddsombud och har därför lagstadgad tystnadsplikt. Tveka inte på att höra av dig!
 
-På datasektionen finns två skyddsombud(SSO), Studiemiljöansvarig(SMA) och Jämlikhetsnämndens Ordförande, som huvudsakligen jobbar med psykosociala frågor. Båda är dock skyddsombud och kan kontaktas för alla ärenden som rör en av dem. 
+På datasektionen finns två skyddsombud(SSO), Studiemiljöansvarig(SMA) och Jämlikhets-, Mångfalds- och Likabehandlingsansvarig(JMLA), som huvudsakligen jobbar med psykosociala frågor. Båda är dock skyddsombud och kan kontaktas för alla ärenden som rör en av dem. 
 
 
 ### Studienämndens ordförande
