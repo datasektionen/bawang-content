@@ -19,4 +19,3 @@ Mathias Magnusson (förra)</br>
 [Datasektionens Github](https://dsekt.se/github-link-website)</br>
 
 Vill du ha access? Fråga Systemansvarig eller kom på en hackerkväll!
-
