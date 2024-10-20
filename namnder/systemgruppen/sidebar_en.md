@@ -6,7 +6,7 @@ Rafael Serra e Oliveira </br>
 Mathias Magnusson (previous)</br>
 [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
 
-#### Systems group
+#### Systems Group
 
 [ior@datasektionen.se](mailto:ior@datasektionen.se)
 
