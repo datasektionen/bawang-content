@@ -12,7 +12,7 @@ Mathias Magnusson (förra)</br>
 
 #### Systemgruppens Mattermost
 
-<https://mattermost.datasektionen.se/systemgruppen/channels/town-square>
+<https://dsekt.se/iormost>
 
 #### Github
 

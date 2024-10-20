@@ -12,7 +12,7 @@ Mathias Magnusson (previous)</br>
 
 #### Systems Group's Mattermost
 
-<https://mattermost.datasektionen.se/systemgruppen/channels/town-square>
+<https://dsekt.se/iormost>
 
 #### Github
 

@@ -15,5 +15,5 @@ Här är några system som tidigare studenter har byggt och sen dess använts fl
 
 ## Engagera dig i nämnden
 
-Vi försöker regelbundet hålla i hackerkvällar där alla sektionsmedlemmar är välkomna. Vanligtvis från klockan 17 och framåt på torsdagar någonstans i E-huset. Hit kan du komma för att hänga med oss, se vad vi håller på med, eller själv utveckla något för sektionen! Om du är intresserad och vill kolla om det är hackerkväll denna vecka, fråga på vår [Mattermost](https://mattermost.datasektionen.se/systemgruppen/channels/town-square)! Hoppas vi ses!
+Vi försöker regelbundet hålla i hackerkvällar där alla sektionsmedlemmar är välkomna. Vanligtvis från klockan 17 och framåt på torsdagar någonstans i E-huset. Hit kan du komma för att hänga med oss, se vad vi håller på med, eller själv utveckla något för sektionen! Om du är intresserad och vill kolla om det är hackerkväll denna vecka, fråga på vår [Mattermost](https://dsekt.se/iormost)! Hoppas vi ses!
 
