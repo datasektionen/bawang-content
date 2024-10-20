@@ -19,4 +19,3 @@ Mathias Magnusson (previous)</br>
 Our [Github](https://dsekt.se/github-link-website) organisation</br>
 
 Do you want access? Ask Head of IT or attend a programming evening!
-
