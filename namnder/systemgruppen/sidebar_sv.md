@@ -10,9 +10,9 @@ Mathias Magnusson (förra)</br>
 
 [ior@datasektionen.se](mailto:ior@datasektionen.se)
 
-#### IORs Mattermost
+#### Systemgruppens Mattermost
 
-<https://mattermost.datasektionen.se/ior/channels/town-square>
+<https://dsekt.se/iormost>
 
 #### Github
 

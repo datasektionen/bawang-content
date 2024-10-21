@@ -6,13 +6,13 @@ Rafael Serra e Oliveira </br>
 Mathias Magnusson (previous)</br>
 [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
 
-#### System group
+#### Systems Group
 
 [ior@datasektionen.se](mailto:ior@datasektionen.se)
 
-#### IOR's Mattermost
+#### Systems Group's Mattermost
 
-<https://mattermost.datasektionen.se/ior/channels/town-square>
+<https://dsekt.se/iormost>
 
 #### Github
 
