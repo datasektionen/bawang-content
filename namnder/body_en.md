@@ -90,41 +90,25 @@ We do whatever we want.
 
 ## Recurring projects
 
-[dåre](https://dåre.se) - The chapters trip the the ski resort: Åre
-
-[Studs](https://studieresan.se) - The Study Visit, a course organised by students of the Chapter
-
-[METAspexet](https://metaspexet.se) - The Spex shared between the CS chapter and the Media Technology Chapter - An interactive student musical theater.
-
-Project Pride
-
-Vårbalen - The CS chapters spring ball
+- [dåre](https://dåre.se) - The chapters trip the the ski resort: Åre
+- [Studs](https://studieresan.se) - The Study Visit, a course organised by students of the Chapter
+- [METAspexet](https://metaspexet.se) - The Spex shared between the CS chapter and the Media Technology Chapter - An interactive student musical theater.
+- Project Pride
+- Vårbalen - The CS chapters spring ball
 
 ## Current projects
 
-dÅre 2024
-
-Studs 2023
-
-Studs 2024
-
-METAspexet 2024
-
-Vårbalen 2024
-
-Project Pride 2024
-
-dJubileet 2023
-
-BAMM
-
-Spelsylt
-
-METAcraft
-
-Project Dive
-
-Groda 2024
+- dÅre 2025
+- Studs 2024
+- Studs 2025
+- METAspexet 2024
+- METAspexet 2025
+- Project Pride 2024
+- Vårbalen 2025
+- dJubileet 2023
+- BAMM
+- Project Dive
+- Groda 2024 - GRön hållbarhet Och DAtasektionen (Green sustainability and Datasektionen)
 
 Operational plans for all current projects are uploaded to [Google Drive](https://dsekt.se/vp-projekt).
 
@@ -135,22 +119,14 @@ So you have to get a motion passed at an SM.
 
 ## Earlier groups/committees and projects
 
-Spexmästeriet: Was responsible for creating new _spex_. Closed Budget-SM 2013.
+- Spexmästeriet: Was responsible for creating new _spex_. Closed Budget-SM 2013.
+- Fenixorden: Awarded the "Årets Fenix". Closed at Budget-SM 2013.
+- Cerise Siren: Choir of the CS chapter. (Merged with Spexmästeriet 2005)
+- Dataspelet: Data's own _spex_. Now exists as a common _spex_ together with Media, METAspexet.
+- Dart Vader: CS Dart group.
+- Jong: CS Juggling group.
+- SHFF: Sektionshusfondsföreningen (untranslatable - sorry to the one international student that got this far. Thanks for reading tho!).
+- Sångboksgruppen: The Chapter songbook group.
+- [Bröllopet](https://www.facebook.com/brollopet2017) - Our Wedding with the Media chapter
+- Stack Overbowl: CS Bowling group.
 
-Fenixorden: Awarded the "Årets Fenix". Closed at Budget-SM 2013.
-
-Cerise Siren: Choir of the CS chapter. (Merged with Spexmästeriet 2005)
-
-Dataspelet: Data's own _spex_. Now exists as a common _spex_ together with Media, METAspexet.
-
-Dart Vader: CS Dart group.
-
-Jong: CS Juggling group.
-
-SHFF: Sektionshusfondsföreningen (untranslatable - sorry to the one international student that got this far. Thanks for reading tho!).
-
-Sångboksgruppen: The Chapter songbook group.
-
-[Bröllopet](https://www.facebook.com/brollopet2017) - Our Wedding with the Media chapter
-
-Stack Overbowl: CS Bowling group.
