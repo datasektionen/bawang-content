@@ -1,34 +1,32 @@
 # The Clubs of the CS chapter
 
-### [Ada](/namnder/ada?lang=en)
+In the menu to the left you can read more about the CS chapters clubs/committees and projects, as well as get a quick overview below. All chapter officials, clubs and projects are united under different organs, which are led by organ leaders.
+
+### [Ada](/namnder/eventorganet/ada?lang=en)
 
 Group for helping girls at the CS chapter network with each other.
 
-### [Datasladden](/namnder/datasladden?lang=en)
+### [Datasladden](/namnder/forvaltningsorganet/datasladden?lang=en)
 
 Takes care of the chapter car, Cerise, so it stays on the road.
 
-### [dbuggen](https://dbu.gg)
-
-dbuggen is the Chapter's own paper. It's released whenever any possible editors have the time or the will. This actually sometimes happens! Nowadays you can also read it online.
-
-### [DEMON - Music group](/namnder/demon?lang=en)
+### [DEMON - Music group](/namnder/studiesociala-organet/demon?lang=en)
 
 DEMON are the music enthusiasts of the CS chapter. Meet to jam together!
 
-### [DESC - Computer Science E-sports community](/namnder/desc?lang=en)
+### [DESC - Computer Science E-sports community](/namnder/studiesociala-organet/desc?lang=en)
 
 DESC organizes gaming nights and other events for gaming enthusiasts in the chapter.
 
-### [dJulkalendern](/namnder/djulkalendern?lang=en)
+### [dJulkalendern](/namnder/informationsorganet/djulkalendern?lang=en)
 
 The chapter's yearly CTF competition. <img style="height: 1em" src="https://djulkalendern.se/images/djuldanke.svg">
 
-### [DKM - Party organizers](/namnder/dkm?lang=en)
+### [DKM - Party organizers](/namnder/eventorganet/dkm?lang=en)
 
 What would a Chapter be without parties? DKM has been organizing parties as long as the Chapter has existed.
 
-### [Equality Committee](/namnder/jamlikhetsnamnden?lang=en)
+### [Equality Committee](/namnder/paverkansorganet/jamlikhetsnamnden?lang=en)
 
 We want everyone to feel safe and welcome.
 
@@ -36,47 +34,51 @@ We want everyone to feel safe and welcome.
 
 Manages elections within the chapter to elect people to official positions.
 
-### [GUDAR](/namnder/gudar?lang=en)
+### [GUDAR](/namnder/informationsorganet/gudar?lang=en)
 
 Is responsible for safekeeping and rediscovering the Data Chapters long history.
 
-### [International Committee](/namnder/internationellanamnden?lang=en)
+### [International Committee](/namnder/eventorganet/internationellanamnden?lang=en)
 
 Makes sure international students are welcome by arranging events for both Swedish and international students to get to know each other through.
 
-### [METAdorerna](/namnder/metadorerna?lang=en)
+### [METAdorerna](/namnder/forvaltningsorganet/metadorerna?lang=en)
 
-Our common Chapter Hall is named META and can be found at Osquars Backe 21. we are the ones taking care of the place.
+Our common Chapter Hall is named META and can be found at Osquars Backe 21. We are the ones taking care of the place.
 
-### [Prylmångleriet - pathces and merch](/namnder/prylmangleriet?lang=en)
+### [Prylmångleriet - pathces and merch](/namnder/studiesociala-organet/prylmangleriet?lang=en)
 
 _Prylis_ sells the stuff CS students want to buy
 
-### [Qulture Committee - Qulturnämnden](/namnder/qulturnamnden?lang=en)
+### [Qulture Committee - Qulturnämnden](/namnder/studiesociala-organet/qulturnamnden?lang=en)
 
 Film nights, eating candy, and other forms of _qulture_.
 
-### [Scala](/namnder/scala?lang=en)
+### [Redaqtionen - dbuggen](/namnder/informationsorganet/redaqtionen)
+
+dbuggen is the Chapter's own paper. It's released whenever any possible editors have the time or the will. This actually sometimes happens! Nowadays you can also read it online.
+
+### [Scala](/namnder/studiesociala-organet/scala?lang=en)
 
 The chapter choir for everyone who likes to sing.
 
-### [Study Board - Studienämnden](/namnder/studienamnden?lang=en)
+### [Study Board - Studienämnden](/namnder/paverkansorganet/studienamnden?lang=en)
 
 Keeping an eye on the studies, the courses and the faculty.
 
-### [Tag Monkeys](/namnder/tag-monkeys?lang=en)
+### [Tag Monkeys](/namnder/informationsorganet/tag-monkeys?lang=en)
 
 Graphic design <3
 
-### [The Baking Committee](/namnder/baknamnden?lang=en)
+### [The Baking Committee](/namnder/studiesociala-organet/baknamnden?lang=en)
 
 Bakes pastries for chapter meetings and other occasions.
 
-### [The Business Relations Group](/namnder/naringslivsgruppen?lang=en)
+### [The Business Relations Group](/namnder/naringslivsorganet/naringslivsgruppen?lang=en)
 
 We handle the chapter's professional contacts, organizes job fairs, lunch lectures, study visits, and other kids of sponsoring.
 
-### [IOR - The Information Organ](/namnder/informationsorganet?lang=en)
+### [Systems Group](/namnder/informationsorganet/systemgruppen?lang=en)
 
 We develop and maintain the chapter's websites. Including the one you're looking at now!
 
@@ -84,17 +86,17 @@ We develop and maintain the chapter's websites. Including the one you're looking
 
 Here is all the info about the reception, the schedule, etc.
 
-### [The Sports Committee - Idrottsnämnden](/namnder/idrottsnamnden?lang=en)
+### [The Sports Committee - Idrottsnämnden](/namnder/studiesociala-organet/idrottsnamnden?lang=en)
 
 We do whatever we want.
 
 ## Recurring projects
 
-- [dåre](https://dåre.se) - The chapters trip the the ski resort: Åre
-- [Studs](https://studieresan.se) - The Study Visit, a course organised by students of the Chapter
-- [METAspexet](https://metaspexet.se) - The Spex shared between the CS chapter and the Media Technology Chapter - An interactive student musical theater.
-- Project Pride
-- Vårbalen - The CS chapters spring ball
+- [dåre](/namnder/projekt/dare) - The chapters trip the the ski resort: Åre
+- [Studs](/namnder/projekt/studs) - The Study Visit, a course organised by students of the Chapter
+- [METAspexet](/namnder/projekt/metaspexet) - The Spex shared between the CS chapter and the Media Technology Chapter - An interactive student musical theater.
+- [Project Pride](/namnder/projekt/projectpride)
+- [Vårbalen](/namnder/projekt/project-pride) - The CS chapters spring ball
 
 ## Current projects
 

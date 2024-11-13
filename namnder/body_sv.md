@@ -1,60 +1,56 @@
 # Nämnder på Datasektionen
 
-I menyn till vänster kan du läsa mer om alla Datasektionens nämnder och nedan få en snabb överblick.
+I menyn till vänster kan du läsa mer om alla Datasektionens nämnder och projekt samt nedan få en snabb överblick. Alla funktionärer, nämnder och projekt är samlade i olika organ, vilka leds av organledare.
 
-### [Ada](/namnder/ada)
+### [Ada](/namnder/studiesociala-organet/ada)
 
 Grupp för att hjälpa kvinnor och ickebinära på Datasektionen att nätverka med varandra.
 
-### [Baknämnden](/namnder/baknamnden)
+### [Baknämnden](/namnder/studiesociala-organet/baknamnden)
 
 Bakar till sektionsmöten och andra tillfällen.
 
-### [Datasladden](/namnder/datasladden)
+### [Datasladden](/namnder/forvaltningsorganet/datasladden)
 
 Tar hand om sektionens bil, Cerise, så att den kan stanna på vägen.
 
-### [Redaqtionen - dbuggen](http://dbu.gg)
-
-dbuggen är sektionens egna tidning. Det släpps inslag när skribenter har tid och vilja. Numera går det att läsa online.
-
-### [DEMON](/namnder/demon)
+### [DEMON](/namnder/studiesociala-organet/demon)
 
 Musikentusiasterna i Datasektionen. Vi möts för att jamma tillsammans!
 
-### [DESC - Datas E-Sports Community](/namnder/desc)
+### [DESC - Datas E-Sports Community](/namnder/studiesociala-organet/desc)
 
 Organiserar spelkvällar och andra event för gamers i sektionen.
 
-### [dJulkalendern](/namnder/djulkalendern)
+### [dJulkalendern](/namnder/informationsorganet/djulkalendern)
 
 Datasektionens årliga CTF-tävling. <img style="height: 1em" src="https://djulkalendern.se/images/djuldanke.svg">
 
-### [DKM - Klubbmästeriet](/namnder/dkm)
+### [DKM - Klubbmästeriet](/namnder/eventorganet/dkm)
 
 Vad skulle en sektion vara utan fester? DKM har organiserat fester så länge vår sektion har funnits.
 
-### [GUDAR](/namnder/gudar)
+### [GUDAR](/namnder/informationsorganet/gudar)
 
 Försäkrar att Konglig Datasektionens anrika historia inte faller i glömska.
 
-### [Idrottsnämnden](/namnder/idrottsnamnden)
+### [Idrottsnämnden](/namnder/studiesociala-organet/idrottsnamnden)
 
 Arrangerar sport-event, kontinuerligt en sport varje vecka!
 
-### [IOR - Informationsorganet](/namnder/informationsorganet)
+### [Systemgruppen](/namnder/informationsorganet/systemgruppen)
 
 Utvecklar och underhåller sektionens diverse webbsidor. Även den du kollar på nu!
 
-### [Internationella nämnden](/namnder/internationella-namnden)
+### [Internationella nämnden](/namnder/eventorganet/internationella-namnden)
 
 Ser till att internationella studenter känner sig välkomna genom event för svenska och internationella att lära känna varandra på.
 
-### [Jämlikhetsnämnden](/namnder/jamlikhetsnamnden)
+### [Jämlikhetsnämnden](/namnder/paverkansorganet/jamlikhetsnamnden)
 
 Får alla att känna sig säkra och välkomna.
 
-### [METAdorerna](/namnder/metadorerna)
+### [METAdorerna](/namnder/forvaltningsorganet/metadorerna)
 
 Tar hand om vår gemensamma sektionslokal META.
 
@@ -62,27 +58,31 @@ Tar hand om vår gemensamma sektionslokal META.
 
 Arrangerar den årliga mottagningen för att välkomna nyantagna i programmet.
 
-### [Näringslivsgruppen](/namnder/naringslivsgruppen)
+### [Näringslivsgruppen](/namnder/naringslivsorganet/naringslivsgruppen)
 
 Hanterar sektionens professionella kontakter. Arrangerar lunchföreläsningar, studiebesök och andra sponsrade event.
 
-### [Prylmångleriet](/namnder/prylmangleriet)
+### [Prylmångleriet](/namnder/studiesociala-organet/prylmangleriet)
 
 Säljer märken och merch för sektionsmedlemmar att köpa.
 
-### [Qulturnämnden](/namnder/qulturnamnden)
+### [Qulturnämnden](/namnder/studiesociala-organet/qulturnamnden)
 
 Arrangerar brädspelskvällar och ibland filmkvällar.
 
-### [Scala](/namnder/scala)
+### [Redaqtionen - dbuggen](/namnder/informationsorganet/redaqtionen)
+
+dbuggen är sektionens egna tidning. Det släpps inslag när skribenter har tid och vilja. Numera går det att läsa online.
+
+### [Scala](/namnder/studiesociala-organet/scala)
 
 Sektionens kör för alla som gillar att sjunga.
 
-### [Studienämnden](/namnder/studienamnden)
+### [Studienämnden](/namnder/paverkansorganet/studienamnden)
 
 Håller ett öga över studierna, kurserna och lärarkåren.
 
-### [Tag Monkeys](/namnder/tag-monkeys)
+### [Tag Monkeys](/namnder/informationsorganet/tag-monkeys)
 
 Ger tillfällen för folk att vara kreativa genom veckoliga event i META där man bland annat kan måla och lägga pärlplattor.
 
@@ -94,11 +94,11 @@ Hanterar val inom sektionen för att välja folk till funktionärsposter.
 
 Nedan ses alla återkommande projekt på Datasektionen. Återkommande projekt är projekt som helt enkelt görs om varje år. Till skillnad från vanliga projekt, som oftast sker en gång och sedan läggs ned.
 
-- dÅre
-- [Studs](https://studieresan.se)
-- [METAspexet](http://metaspexet.se)
-- [Vårbalen](https://www.facebook.com/dvarbalen/?fref=tag)
-- Project Pride
+- [dÅre](/namnder/projekt/dare)
+- [Studs](/namnder/projekt/studs)
+- [METAspexet](/namnder/projekt/metaspexet)
+- [Vårbalen](/namnder/projekt/varbalen)
+- [Project Pride](/namnder/projekt/projectpride)
 
 ## Projekt på Datasektionen
 
