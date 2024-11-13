@@ -1,6 +1,6 @@
 # Nämnder på Datasektionen
 
-I menyn till vänster kan du läsa mer om alla Datasektionens nämnder och nedan få en snabb överblick.
+I menyn till vänster kan du läsa mer om alla Datasektionens nämnder och projekt samt nedan få en snabb överblick. Alla funktionärer, nämnder och projekt är samlade i olika organ, vilka leds av organledare.
 
 ### [Ada](/namnder/studiesociala-organet/ada)
 

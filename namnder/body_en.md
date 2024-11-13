@@ -1,5 +1,7 @@
 # The Clubs of the CS chapter
 
+In the menu to the left you can read more about the CS chapters clubs/committees and projects, as well as get a quick overview below. All chapter officials, clubs and projects are united under different organs, which are led by organ leaders.
+
 ### [Ada](/namnder/eventorganet/ada?lang=en)
 
 Group for helping girls at the CS chapter network with each other.
@@ -42,7 +44,7 @@ Makes sure international students are welcome by arranging events for both Swedi
 
 ### [METAdorerna](/namnder/forvaltningsorganet/metadorerna?lang=en)
 
-Our common Chapter Hall is named META and can be found at Osquars Backe 21. we are the ones taking care of the place.
+Our common Chapter Hall is named META and can be found at Osquars Backe 21. We are the ones taking care of the place.
 
 ### [Prylmångleriet - pathces and merch](/namnder/studiesociala-organet/prylmangleriet?lang=en)
 
