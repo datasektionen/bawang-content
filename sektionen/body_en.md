@@ -17,32 +17,30 @@ The chapter has a [Discord server](https://dsekt.se/discord), a chat platform wh
 
 ## International
 
-We have an international student coordinator who knows the most about the CS chapter's international projects. More information can be found at the [International Committee's page](/namnder/internationella-namnden?lang=en) or by sending an [email](mailto:isc@datasektionen.se).
+We have an international student coordinator who knows the most about the CS chapter's international projects. More information can be found at the [International Committee's page](/namnder/eventorganet/internationella-namnden?lang=en) or by sending an [email](mailto:isc@datasektionen.se).
 
 ## Party activities
 
 Few engineering students could go longer than a few days without partying.
-To satisty this need, we have multiple clubs including D-Festeriet and DKM, or the Club Masters of Data.
+To satisfy this need, we have multiple clubs including D-Festeriet and DKM, or the Club Masters of Data.
 
-[DKM](/namnder/dkm?lang=en), is made up of a few nice people who organize totally
+[DKM](/namnder/eventorganet/dkm?lang=en), is made up of a few nice people who organize totally
 incredible parties. You must think they are awesome. They are.
-Parties are held at META almost every wednesday.
+Parties are held at META almost every Wednesday.
 
 ## Keeping an eye on the studies...
 
-The study council makes sure that all CS students get the best education
+The [Study council](/namnder/paverkansorganet/studienamnden?lang=en) makes sure that all CS students get the best education
 possible. We meet at least once a period and discuss how things are going
 in all the different courses and programmes. If you're experiencing problems
 with the faculty or a course, you should contact us!  The study council is
 open for all CS students, so anyone can come to our meetings.
-[Studienämnden](/namnder/studienamnden?lang=en)
-[sno@datasektionen.se](mailto:sno@datasektionen.se)
 
 ## Activities and entertainment
 
-There are many ways to have fun at the CS chater. Apart from interesting
+There are many ways to have fun at the CS chapter. Apart from interesting
 studies and epic parties, _qultural_ events are sometimes organized. This
-could be film- or gaming evenings. We also collaborate with other groups to spread _qulture_ all around the campus. Looking for company? We can help! [QN](/namnder/qulturnamnden?lang=en)
+could be film- or gaming evenings. We also collaborate with other groups to spread _qulture_ all around the campus. Looking for company? We can help! [QN](/namnder/studiesociala-organet/qulturnamnden?lang=en)
 
 ## Industry contact
 
@@ -54,7 +52,7 @@ The chapter also hold an annual career fare, [D-Dagen](/naringsliv/d-dagen?lang=
 
 META is the hall where CS and Media students can meet, eat and party.
 The address is Osquars Backe 21 and the heroes taking care of the place
-are [METAdorerna](/namnder/metadorerna?lang=en).
+are [METAdorerna](/namnder/forvaltningsorganet/metadorerna?lang=en).
 
 ## Student Reception
 

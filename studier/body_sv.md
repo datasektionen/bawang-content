@@ -1,4 +1,4 @@
-#Studier
+# Studier
 Har du problem eller frågor relaterade till studierna? Kolla om svaren finns i [vanliga frågor om studierna](/studier/faq).
 Annars maila någon av de nedan. Är du osäker vem du kan fråga? Maila [sno@datasektionen.se](mailto:sno@datasektionen.se)
 
@@ -6,7 +6,7 @@ Annars maila någon av de nedan. Är du osäker vem du kan fråga? Maila [sno@da
 Här finner du kontaktuppgifter för att ta vidare problem/frågor du kan tänkas ha rörande studier.
 
 ### Studienämndens ordförande
-Kontakta mig om du har frågor/funderingar rörande dina studier. T.ex. att något inte funkar inom en kurs. Vill du kontakta någon mer specifikt inom studienämnden, säg en årskursrepresentant [kolla här](/namnder/studienamnden#kontakt)
+Kontakta mig om du har frågor/funderingar rörande dina studier, t.ex. att något inte funkar inom en kurs. Vill du kontakta någon mer specifikt inom Studienämnden, säg en årskursrepresentant [kolla här](/namnder/paverkansorganet/studienamnden#kontakt).
 
 [sno@datasektionen.se](mailto:sno@datasektionen.se)
 
