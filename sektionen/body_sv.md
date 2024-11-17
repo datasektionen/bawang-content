@@ -10,11 +10,11 @@ Sektionen har en [Discordserver](https://dsekt.se/discord), en chattplattform d�
 
 ## Festverksamhet
 
-Fester är något en teknolog sällan klarar sig utan i mer än ett par dagar. För att tillfredsställa behoven finns det flera nämnder såsom D-festeriet och Datas Klubbmästeri. [DKM](/namnder/dkm), som det så enkelt kallas i lekmannatermer, består av ett gäng som definitivt har examen att anordna helt bonkers fester. Du tycker säkert att det här låter extremt bra - det är det.
+Fester är något en teknolog sällan klarar sig utan i mer än ett par dagar. För att tillfredsställa behoven finns det flera nämnder såsom D-festeriet och Datas Klubbmästeri. [DKM](/namnder/eventorganet/dkm), som det så enkelt kallas i lekmannatermer, består av ett gäng som definitivt har examen att anordna helt bonkers fester. Du tycker säkert att det här låter extremt bra - det är det.
 
 ## Studiebevakning
 
-[Studienämnden](/namnder/studienamnden) ansvarar för att granska och förbättra utbildningen. Om du upplever något problem med hur en kurs, någon lärare eller liknande är det till Studienämnden du ska vända dig! Studienämnden är öppen för alla dataloger - vem som helst får komma på våra möten och alla som vill är välkomna att gå med i nämnden.
+[Studienämnden](/namnder/paverkansorganet/studienamnden) ansvarar för att granska och förbättra utbildningen. Om du upplever något problem med hur en kurs, någon lärare eller liknande är det till Studienämnden du ska vända dig! Studienämnden är öppen för alla dataloger - vem som helst får komma på våra möten och alla som vill är välkomna att gå med i nämnden.
 
 ## Näringslivskontakt
 
@@ -23,7 +23,7 @@ vi lite olika specialerbjudanden.
 
 ## Sektionslokal
 
-Datasektionens och Sektionen för Medietekniks gemensamma sektionslokal heter META och är det utrymme på KTH där våra sektionsmedlemmar kan umgås, äta och studera mellan föreläsningarna. META ligger på Osquars Backe 21 och tas hand om sektionslokalsgruppen [METAdorerna](/namnder/metadorerna).
+Datasektionens och Sektionen för Medietekniks gemensamma sektionslokal heter META och är det utrymme på KTH där våra sektionsmedlemmar kan umgås, äta och studera mellan föreläsningarna. META ligger på Osquars Backe 21 och tas hand om sektionslokalsgruppen [METAdorerna](/namnder/forvaltningsorganet/metadorerna).
 
 ## Mottagning av nya studenter
 

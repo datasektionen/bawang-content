@@ -27,7 +27,7 @@ För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 Benjamin Widman<br />
 E-post: [info@datasektionen.se](mailto:info@datasektionen.se)<br />
 
-Vid frågor eller funderingar som rör Datasektionen.se eller något av våra andra system kan du vända dig till Systemansvarig på [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se) eller Datasektionens Informationsorgan, IOR, på adressen [ior@datasektionen.se](mailto:ior@datasektionen.se).
+Vid frågor eller funderingar som rör [datasektionen.se](https://datasektionen.se) eller något av våra andra system kan du vända dig till Systemansvarig på [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se).
 
 ## Styrelsen
 

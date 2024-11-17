@@ -7,7 +7,7 @@ Not sure who to email? Email [sno@datasektionen.se](mailto:sno@datasektionen.se)
 Here is a list of conctact detail regarding issues or questions related to your studies.
 
 ### Chairman of the Study Council
-Contact me if you have questions about your studies. For example, if there are problems in a course. All courses should also have a course representative (student who represents all the students in talks with the faculty) and you migth be able to find your representative [here:](/namnder/studienamnden?lang=en#contact)
+Contact me if you have questions about your studies, for example, if there are problems in a course. All courses should also have a course representative (student who represents all the students in talks with the faculty) and you might be able to find your representative [here](/namnder/paverkansorganet/studienamnden?lang=en#contact).
 
 [sno@datasektionen.se](mailto:sno@datasektionen.se)
 

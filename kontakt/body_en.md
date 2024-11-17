@@ -26,7 +26,7 @@ For general questions, contact our head of communications at:
 Benjamin Widman<br />
 E-mail: [info@datasektionen.se](mailto:info@datasektionen.se)<br />
 
-For questions regarding [datasektionen.se](https://datasektionen.se) or other systems handled by the chapter, contact the chapter's information committee at [ior@datasektionen.se](mailto:ior@datasektionen.se).
+For questions regarding [datasektionen.se](https://datasektionen.se) or other systems handled by the chapter, contact the chapter's Head of IT at [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se).
 
 ## The board
 
