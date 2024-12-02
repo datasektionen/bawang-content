@@ -3,7 +3,7 @@
 För att boka META använd bokningssystemet på 
 **[bokning.datasektionen.se](http://bokning.datasektionen.se)**. 
 Vid frågor kontakta Konglig Lokalchefer via mail,
-**[lokalbokning@d.kth.se](mailto:lokalbokning@d.kth.se)**. Mailen går
+**[lokalbokning@datasektionen.se](mailto:lokalbokning@datasektionen.se)**. Mailen går
 till både Konglig Lokalchef (Data) och Sektionslokalsansvarige (Media),
 men det kommer antagligen vara Lokalchef som svarar er.
 Regler som gäller vid bokning finns i [sektionens
