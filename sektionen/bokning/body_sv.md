@@ -30,7 +30,7 @@ ej om man enbart ska boka mötesrummet).
 
 ## Data har två sektionsbilar!
 
-För att boka Cerise och Lusen, besök [bokning.datasektionen.se](https://bokning.datasektionen.se/bookings/5). Nedan finns en veckovis kalender över framtida och historiska bokningar.
+För att boka Cerise eller Lusen, besök [bokning.datasektionen.se](https://bokning.datasektionen.se/bookings/5). Nedan finns en veckovis kalender över framtida och historiska bokningar.
 
 <div id="calendar"></div>
 <script type="text/javascript">
