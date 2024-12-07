@@ -30,9 +30,9 @@ book the meeting room).
 <script type="text/javascript" src="https://bokning.datasektionen.se/js/cors/component.js"></script>
 <link href="https://bokning.datasektionen.se/css/component.css" type="text/css" rel="stylesheet">
 
-## Computer science has a car!
+## Computer science has two chapter cars!
 
-To book the car, visit [bokning.datasektionen.se](https://bokning.datasektionen.se/bookings/5).
+To book Cerise or Lusen, visit [bokning.datasektionen.se](https://bokning.datasektionen.se/bookings/5).
 
 <div id="calendar"></div>
 <script type="text/javascript">
