@@ -19,7 +19,7 @@ Jämlikhets-, Mångfalds- och Likabehandlingsansvarig har till uppgift att värn
 
 ## Kommunikatör - Benjamin Widman
 
-Ansvarar för sektionens informationslandskap, med andra ord denna hemsida, Discord, Slack, Facebook och andra möjliga kommunikationskanaler, och ser till att sektionens [informationshanteringspolicy](https://styrdokument.datasektionen.se/informationshanteringspolicy) och [informationsspridningspolicy](https://styrdokument.datasektionen.se/informationsspridningspolicy) följs. Ansvarar också för sektionens allmänna informationsmejl [info@datasektionen.se](mailto:info@datasektionen.se).
+Ansvarar för sektionens informationslandskap, med andra ord denna hemsida, Discord, Instagram, Facebook och andra möjliga kommunikationskanaler, och ser till att sektionens [PM för informationshantering](https://styrdokument.datasektionen.se/pm/pm_informationshantering) och [PM för informationsspridning](https://styrdokument.datasektionen.se/pm/pm_informationsspridning) följs. Ansvarar också för sektionens allmänna informationsmejl [info@datasektionen.se](mailto:info@datasektionen.se).
 
 
 ## Kårfullmäktige

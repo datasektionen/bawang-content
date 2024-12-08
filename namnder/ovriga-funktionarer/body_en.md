@@ -25,7 +25,7 @@ Flag bearers defend the honor of the chapter by carrying its flag on various cer
 
 ## Head of Communications - Benjamin Widman
 
-Responsible for the chapter's communication channels, like Discord, Slack, Facebook etc., as well as enforcing the chapter's [information handling policy](https://styrdokument.datasektionen.se/informationshanteringspolicy) and [information spreading policy](https://styrdokument.datasektionen.se/informationsspridningspolicy). Also takes care of the chapter's general information e-mail [info@datasektionen.se](mailto:info@datasektionen.se).
+Responsible for the chapter's communication channels, like Discord, Slack, Facebook etc., as well as enforcing the chapter's [PM for information handling](https://styrdokument.datasektionen.se/pm/pm_informationshantering) and [PM for information spreading](https://styrdokument.datasektionen.se/pm/pm_informationsspridning). Also takes care of the chapter's general information e-mail [info@datasektionen.se](mailto:info@datasektionen.se).
 
 ## Head of Equality, Diversity and Equal Treatment (JMLA) - Jennifer Köhler
 

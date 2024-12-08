@@ -24,7 +24,7 @@ The current dFunk-policy.
 
 What elections and recruitment are and how they should work.
 
-#### [Alcohol Policy](https://styrdokument.datasektionen.se/alkoholpolicy)
+#### [PM for Alcohol](https://styrdokument.datasektionen.se/pm/pm_alkohol)
 
 The chapter's current alcohol policy.
 
