@@ -39,6 +39,7 @@ If you have any questions about a protocol, please reach out to [secretary](mail
 
 **Unfortunately the operational plans are only available in Swedish**
 
+-   [Operational Plan 2024](https://drive.google.com/file/d/15NGvOFuSW9F9YdxAh22d95FGhf4kK3Ea/view?usp=drive_link)
 -   [Operational Plan 2024](https://drive.google.com/file/d/1nRoR8rntMiynp48eUdk8Tzaz-hK8-dzU/view?usp=drive_link)
 -   [Operational Plan 2023](https://drive.google.com/file/d/1FkJJKgQbxToJZQjjRNqm3Kamurzl6s-i/view?usp=share_link)
 -   [Operational Plan 2022](https://drive.google.com/file/d/1_nVL_M6z5qU3xxluEf6ce3CEi0Bhs9yG/view?usp=share_link)
