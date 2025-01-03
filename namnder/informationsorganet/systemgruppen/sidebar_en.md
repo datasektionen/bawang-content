@@ -3,12 +3,7 @@
 #### Head of IT
 
 Rafael Serra e Oliveira </br>
-Mathias Magnusson (previous)</br>
 [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
-
-#### Systems Group
-
-[ior@datasektionen.se](mailto:ior@datasektionen.se)
 
 #### Systems Group's Mattermost
 

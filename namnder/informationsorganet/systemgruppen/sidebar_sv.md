@@ -3,12 +3,7 @@
 #### Systemansvarig
 
 Rafael Serra e Oliveira </br>
-Mathias Magnusson (förra)</br>
 [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
-
-#### Systemgrupp
-
-[ior@datasektionen.se](mailto:ior@datasektionen.se)
 
 #### Systemgruppens Mattermost
 
