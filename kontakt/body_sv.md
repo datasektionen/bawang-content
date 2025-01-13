@@ -10,11 +10,11 @@ anledning är du alltid välkommen att kontakta oss:
 E-post: [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 **Näringslivsansvarig**<br />
-Melise Lundberg & Sarah Sodini<br />
+Erik Wirdemark<br />
 E-post: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
 **Arbetsmarknadsdagsansvariga**<br />
-William Nordwall & Toshihide Sakao<br />
+Max Berglund & Mortada Nasser<br />
 E-post: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
@@ -36,9 +36,9 @@ D-rektoratet, på adressen [drek@datasektionen.se](mailto:drek@datasektionen.se)
 även kontakta Datasektionens Ordförande direkt:
 
 **Ordförande**<br />
-Adam Sjöberg<br />
+Fredrik Blomqvist<br />
 E-post: [ordf@datasektionen.se](mailto:ordf@datasektionen.se) (Går även till resten av styrelsen) <br />
-[+46 72 320 28 07](tel: +46 72 320 28 07)
+[+46 70 29 36 488](tel: +46 70 29 36 488)
 
 ## Sektionsinformation
 
