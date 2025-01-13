@@ -35,7 +35,7 @@ For questions regarding the chapter's organisation, contact the board at [drek@d
 **Head of the Computer Science Chapter**<br />
 Fredrik Blomqvist<br />
 E-mail: [ordf@datasektionen.se](mailto:ordf@datasektionen.se) (Also goes to the rest of the board) <br />
-[+46 70 29 36 488](tel: +46 70 29 36 88)
+[+46 70 29 36 488](tel: +46 70 29 36 488)
 
 ## Chapter details
 
