@@ -38,7 +38,7 @@ D-rektoratet, på adressen [drek@datasektionen.se](mailto:drek@datasektionen.se)
 **Ordförande**<br />
 Fredrik Blomqvist<br />
 E-post: [ordf@datasektionen.se](mailto:ordf@datasektionen.se) (Går även till resten av styrelsen) <br />
-[+46 70 29 36 488](tel: +46 70 29 36 88)
+[+46 70 29 36 488](tel: +46 70 29 36 488)
 
 ## Sektionsinformation
 
