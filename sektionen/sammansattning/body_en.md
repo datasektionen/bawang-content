@@ -67,7 +67,7 @@ Is also responsible for internal communications and that important information i
 
 The Board member of Business Relations can be reached at [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se).
 
-## Board member of Student Issues - (Vacant)
+## Board member of Student Issues - Carl Blomqvist
 
 Works with question regarding the well being of our members, working environment, and
 social events.
