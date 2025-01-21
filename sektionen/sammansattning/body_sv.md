@@ -84,7 +84,7 @@ som avser dessa områden. Dessa ansvarsområden inkluderar att:
 
 Ledamot för näringsliv och kommunikation är nåbar på [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se).
 
-## Ledamot för studiesociala frågor - (Vakant)
+## Ledamot för studiesociala frågor - Carl Blomqvist
 
 Har frågor som rör medlemmarnas psykiska
 och fysiska miljö som ansvarsområde. Arbetar med att utveckla
