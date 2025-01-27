@@ -1,4 +1,4 @@
-# Speakers’ Presidium
+# Speakers' Presidium
 
 The Speaker's Presidium is tasked with organizing Chapter Meetings (SM) and Electoral Meetings (VM) held throughout the year. The Presidium consists of the Speaker, Vice Speaker, and the Secretary.
 
