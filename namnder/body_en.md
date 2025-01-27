@@ -90,6 +90,10 @@ Here is all the info about the reception, the schedule, etc.
 
 We do whatever we want.
 
+### [Speakers' Presidium](/namnder/talmanspresidiet?lang=en)
+
+Organizes and runs the SM/VM's and ensures the democratic process at the chapter.
+
 ## Recurring projects
 
 - [dåre](/namnder/projekt/dare) - The chapters trip the the ski resort: Åre

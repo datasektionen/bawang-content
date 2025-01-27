@@ -107,3 +107,7 @@ Har ansvar för att catwalken hålls städad samt för kvarglömda saker.
 ”Master of Magnifika Sötsaker”
 
 Har ansvar för att köpa in fika till METAdorerna.
+
+#### BANIME
+
+AKA SMA (StudieMiljöAnsvarig), upprätthåller bannlysningen av Anime i META (enligt samboendeavtalet)
