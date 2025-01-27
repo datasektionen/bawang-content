@@ -90,7 +90,7 @@ Ger tillfällen för folk att vara kreativa genom veckoliga event i META där ma
 
 Hanterar val inom sektionen för att välja folk till funktionärsposter.
 
-### [Talmanspresidiet](/namnder/Talmanspresidiet)
+### [Talmanspresidiet](/namnder/talmanspresidiet)
 
 Anordnar och driver SM/VM och säkerställer den demokratiska processen på Datasektionen.
 

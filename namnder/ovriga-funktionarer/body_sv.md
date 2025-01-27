@@ -87,4 +87,4 @@ Arrangerar samt leder sektionsmötet. Ser till att nödvändiga arrangemang är 
 
 ## Vice Talman - Karl-Isac Åström
 
-Hjälper Talman
+Hjälper Talman och är neutral.
