@@ -1,6 +1,6 @@
-# Speakers’ Presidium
+# Speakers' Presidium
 
-The Speaker's Bureau is tasked with organizing the SM and VM held during the year. The Speaker's Bureau consists of 6 Speakers, Deputy Speakers, and Secretary.
+The Speakers' Presidium is tasked with organizing the SM and VM held during the year. The Speakers' Presidium consists of The Speaker, Vice Speaker, and Secretary.
 
 ## Section meetings (SM) and Electoral meetings (VM)
 
