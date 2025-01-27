@@ -51,7 +51,7 @@ Arranges and chairs the chapter meeting. Ensures that the necessary arrangements
 
 ## Vice Speaker - Karl-Isac Åström
 
-Supports the speaker in their tasks. Is also neutral.
+Supports the Speaker in their tasks. Is also neutral.
 
 
 ## Study environment officer - Malcolm Mångsén
