@@ -8,7 +8,6 @@ Jonathan Almgren
 **Vice Talman:**
 
 Karl-Isac Åström
-
 [vicetalman@datasektionen.se](mailto:vicetalman@datasektionen.se)
 
 **Sekreterare**

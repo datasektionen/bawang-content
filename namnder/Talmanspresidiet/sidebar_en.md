@@ -8,7 +8,6 @@ Jonathan Almgren
 **Vice Speaker:**
 
 Karl-Isac Åström
-
 [vicetalman@datasektionen.se](mailto:vicetalman@datasektionen.se)
 
 **Secretary**
