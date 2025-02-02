@@ -9,7 +9,6 @@ Jonathan Almgren
 
 Karl-Isac Åström
 [vicetalman@datasektionen.se](mailto:vicetalman@datasektionen.se)
-[comment]: <> (OBS: Personlig åsokt av VT, jag ogillar git >:()
 
 **Sekreterare**
 
