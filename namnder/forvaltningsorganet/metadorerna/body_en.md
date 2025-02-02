@@ -110,4 +110,4 @@ Responsible for buying "fika" to METAdorerna.
 
 #### BANIME
 
-AKA SMA (Study environment officer), maintains the ban on Anime in META (according to the cohabitation agreement)
+AKA SMA (Study environment officer), maintains the ban on Anime in META (according to the cohabitation agreement).
