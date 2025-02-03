@@ -2,7 +2,7 @@
 
 #### Chefredaqtör
 
-Fredrik Blomqvist</br>
+Emelie Ruixin Cao</br>
 [chefred@dbu.gg](mailto:chefred@dbu.gg)
 
 ## Insändare

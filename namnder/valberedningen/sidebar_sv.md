@@ -7,8 +7,8 @@ Robert Rosenquist
 
 **Resterande Valberedare:**
 
-- Max Berglund
-- Lutz Hahlbeck
+- Sofia Wallgren
+- Sean Zisheng Xu Zhang
 - Felicia Murkes
 - Samuel Hörnell
 - Ivar Boqvist

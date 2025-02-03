@@ -2,7 +2,7 @@
 
 #### Editor in chief
 
-Fredrik Blomqvist</br>
+Emelie Ruixin Cao</br>
 [chefred@dbu.gg](mailto:chefred@dbu.gg)
 
 ## Letter to the editor
