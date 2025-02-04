@@ -17,8 +17,6 @@ Contact us at [revisorer@datasektionen.se](mailto:revisorer@datasektionen.se) if
 
 D-Fest's tasks include - Organizing two parties for other officials per year, one after the Glögg-SM and one after the Val-SM. The purpose of the parties is to honor the chapter's outgoing and incoming officials. - Organize regular team building for the chapter's officials. - Possibly organize other meetings and events together with other chapters and student unions to represent the chapter externally.
 
-In addition to this, D-Festeriet also organizes a full-year party and a half-year party for students that have completed the entire respective half of their planned education.
-
 
 ## Flag bearer - Herman Karlsson & Kevin Wenström (vice)
 
