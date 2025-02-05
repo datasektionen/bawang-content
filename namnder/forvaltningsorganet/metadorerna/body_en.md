@@ -107,3 +107,7 @@ Responsible for keeping the catwalk clean. Also responsible for lost and found.
 ”Master of Magnifika Sötsaker”
 
 Responsible for buying "fika" to METAdorerna.
+
+#### BANIME
+
+AKA SMA (Study environment officer), maintains the ban on Anime in META (according to the cohabitation agreement).

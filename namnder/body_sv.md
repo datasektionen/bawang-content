@@ -90,6 +90,10 @@ Ger tillfällen för folk att vara kreativa genom veckoliga event i META där ma
 
 Hanterar val inom sektionen för att välja folk till funktionärsposter.
 
+### [Talmanspresidiet](/namnder/talmanspresidiet)
+
+Anordnar och driver SM/VM och säkerställer den demokratiska processen på Datasektionen.
+
 ## Återkommande projekt på Datasektionen
 
 Nedan ses alla återkommande projekt på Datasektionen. Återkommande projekt är projekt som helt enkelt görs om varje år. Till skillnad från vanliga projekt, som oftast sker en gång och sedan läggs ned.
