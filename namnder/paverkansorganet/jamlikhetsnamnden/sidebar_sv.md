@@ -2,4 +2,4 @@
 
 #### Jämlikhetsnämndens ordförande
 
-Vakant </br>
+Albin Haraldsson</br>

@@ -2,9 +2,9 @@
 
 #### Internationell studentkoordinator
 
-Håvard Alstadheim</br>
+Elias Wetterwik</br>
 [isc@datasektionen.se](mailto:isc@datasektionen.se)
 
-## Slack
+## Mattermost
 
-Vi har en Slack! Fråga Internationell Studentkoordinator eller någon annan i internationella nämnden om du vill bli inbjuden.
+Vi har en Mattermost-grupp! Fråga Internationell Studentkoordinator eller någon annan i Internationella Nämnden om du vill bli inbjuden.

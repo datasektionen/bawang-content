@@ -1,5 +1,5 @@
 ## Contact
 
 #### Head of Equality Committee
-Vacant </br>
 
+Albin Haraldsson</br>

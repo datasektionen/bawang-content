@@ -1,7 +1,6 @@
 ## Contact
 
-
 #### Project leader
 
-Robert Rosenquist </br>
+Skye Kaijser</br>
 [pride@datasektionen.se](mailto:pride@datasektionen.se)

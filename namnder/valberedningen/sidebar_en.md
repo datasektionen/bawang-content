@@ -7,8 +7,8 @@ Robert Rosenquist<br>
 
 **Other Election Committee Members:**
 
-- Max Berglund
-- Lutz Hahlbeck
+- Sofia Wallgren
+- Sean Zisheng Xu Zhang
 - Felicia Murkes
 - Samuel Hörnell
 - Ivar Boqvist
