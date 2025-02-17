@@ -13,10 +13,10 @@ Förutom att kontakta JMLA via det här formuläret finns de här möjliga konta
 
 - Du kan höra av dig till JMLA direkt via [jmla@datasektionen.se](mailto:jmla@datasektionen.se), via valfritt socialt medium eller genom att hugga tag i JMLA i META.
 - Du kan prata med någon av sektionens SSO (Studerandeskyddsombud), JMLA (se ovan) eller SMA. Båda dessa funktionärer har tystnadsplikt (men ni kan välja att ta ärenden vidare). SMA kan nås på [sma@datasektionen.se](mailto:sma@datasektionen.se).
-- Du kan kontakta Ledamot för studiemiljö och likabehandling (D-SOL) i sektionens styrelse. Den personen har ansvar för JML-frågor i styrelsen och kan nås på [d-sol@datasektionen.se](mailto:d-sol@datasektionen.se). Värt att notera är att alla i styrelsen får mejlet ifall man mejlar en enskild styrelsemedlems officiella mejladress, samt att ingen på styrelsen har tystnadsplikt.
+- Du kan kontakta Ledamot för studiemiljö och likabehandling (D-SOL) i sektionens styrelse. Den personen har ansvar för JML-frågor i styrelsen och kan nås på [d-sol@datasektionen.se](mailto:d-sol@datasektionen.se). Värt att notera är att alla i styrelsen kan läsa mejlet ifall man mejlar en enskild styrelsemedlems officiella mejladress, samt att ingen på styrelsen har tystnadsplikt.
 - Du kan kontakta Studiemiljöansvarig på THS [studiemiljo@ths.kth.se](mailto:studiemiljo@ths.kth.se).
 - Du kan kontakta studievägledningen på [svl-data@kth.se](mailto:svl-data@kth.se).
-- Du kan höra av dig till vice enhetschef vid utbildningskansliet på EECS, Sofia Norlander, through [sofiano@kth.se](mailto:sofiano@kth.se).
+- Du kan höra av dig till enhetschef vid utbildningskansliet på EECS, Sofia Norlander, through [sofiano@kth.se](mailto:sofiano@kth.se).
 - Du kan anmäla incidenter till KTH direkt på [Anmälan av disciplinärende](https://intra.kth.se/utbildning/disciplinarenden/anmalan-av-disciplinarende-1.204198).
 
 Vilken av dessa du väljer är mindre viktigt, ta den väg du känner dig mest bekväm med! Det viktigaste är att du hör av dig till någon av dem så kan vi göra någonting åt situationen och kan hjälpa till att förebygga liknande situationer framöver.
