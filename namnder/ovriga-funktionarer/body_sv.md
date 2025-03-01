@@ -17,11 +17,6 @@ Fanbärarna försvarar sektionens ära genom att bära dess fana vid olika högt
 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig har till uppgift att värna om sektionens psykiska studiemiljö, för samtliga sektionsmedlemmar. Funktionären ska pro- och reaktivt arbeta med att förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
 
 
-## Kommunikatör - Benjamin Widman
-
-Ansvarar för sektionens informationslandskap, med andra ord denna hemsida, Discord, Instagram, Facebook och andra möjliga kommunikationskanaler, och ser till att sektionens [PM för informationshantering](https://styrdokument.datasektionen.se/pm/pm_informationshantering) och [PM för informationsspridning](https://styrdokument.datasektionen.se/pm/pm_informationsspridning) följs. Ansvarar också för sektionens allmänna informationsmejl [info@datasektionen.se](mailto:info@datasektionen.se).
-
-
 ## Kårfullmäktige
 
 Kårfullmäktige - din påverkan mot kåren.
