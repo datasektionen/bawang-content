@@ -2,6 +2,10 @@
 
 Den fulla listan av funktionärer, inklusive nämndansvarige, kan finnas på [dfunkt.datasektionen.se](https://dfunkt.datasektionen.se/).
 
+## Datas Art Director (DAD) - Nicklas Peng
+
+DADs syfte är dels att samarbeta med övriga i sektionen där det finns behov eller önskemål av design och grafisk utveckling. DAD synliggör också sektionens funktionärer i sektionslokalen m.h.a. dFunktavlan, administrerar sektionens konstnärliga licenser (lånar ut dessa vid behov) samt administrerar över sektionens video- och fotoutrustning.
+
 ## D-Fest - Samuel Hörnell
 
 Till funktionärens uppgifter hör att - Anordna två skiftesgasquer per år, en efter Glögg-SM och en efter Val-SM. Syftet med skiftesgasquerna är att hedra sektionens avträdande och tillträdande funktionärer. - Anordna regelbundna teambuildings för sektionens funktionärer. - Eventuellt anordna andra sittningar och evenemang tillsammans med andra sektioner och studentkårer för att representera sektionen utåt.
