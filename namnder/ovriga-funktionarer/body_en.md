@@ -23,13 +23,10 @@ D-Fest's tasks include - Organizing two parties for other officials per year, on
 Flag bearers defend the honor of the chapter by carrying its flag on various ceremonial occasions. Note that the flag should be held high. Being a flag bearer is a very honorable position in the section. The flag bearers are responsible for keeping the chapter's flag in good condition.
 
 
-## Head of Communications - Benjamin Widman
-
-Responsible for the chapter's communication channels, like Discord, Slack, Facebook etc., as well as enforcing the chapter's [PM for information handling](https://styrdokument.datasektionen.se/pm/pm_informationshantering) and [PM for information spreading](https://styrdokument.datasektionen.se/pm/pm_informationsspridning). Also takes care of the chapter's general information e-mail [info@datasektionen.se](mailto:info@datasektionen.se).
-
 ## Head of Equality, Diversity and Equal Treatment (JMLA) - Jennifer Köhler
 
 Head of Equality, Diversity and Equal Treatment is responsible for taking care of the psychosocial study environment, for all Chapter members. The officer shall pro- och reactively with continuously improving the Chapter's work within equality, diversity and equal treatment.
+
 
 ## Program responsible student - Niels Barth
 
