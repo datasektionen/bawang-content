@@ -13,11 +13,6 @@ You can read more about what the auditors do in the Chapter's [by-laws](https://
 
 Contact us at [revisorer@datasektionen.se](mailto:revisorer@datasektionen.se) if you have any questions regarding the Chapter's regulatory documents or anything else that is related to the Chapter.
 
-## D-Fest - Samuel Hörnell
-
-D-Fest's tasks include - Organizing two parties for other officials per year, one after the Glögg-SM and one after the Val-SM. The purpose of the parties is to honor the chapter's outgoing and incoming officials. - Organize regular team building for the chapter's officials. - Possibly organize other meetings and events together with other chapters and student unions to represent the chapter externally.
-
-
 ## Flag bearer - Herman Karlsson & Kevin Wenström (vice)
 
 Flag bearers defend the honor of the chapter by carrying its flag on various ceremonial occasions. Note that the flag should be held high. Being a flag bearer is a very honorable position in the section. The flag bearers are responsible for keeping the chapter's flag in good condition.
