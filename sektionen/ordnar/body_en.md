@@ -108,7 +108,7 @@ Membership of the Storasyskon Emeritus order is awarded to Storasyskon (head of 
 
 The order's medal is a five-pointed cerise star, with a silver field, and a black delta in the middle. The star is coated by a laurel wreath.
 
-    Carl Hansson, Duodequadragesimus 2024
+    Carl Hansson, Undequadragesimus 2024
     Ebba Bråtman, Tricesimus Sextus 2023
     George Bassilious, Tricesimus Quintus 2022
     Agnes Forsberg, Tricesima Quinta 2021
