@@ -6,6 +6,10 @@ In the menu to the left you can read more about the CS chapters clubs/committees
 
 Group for helping girls at the CS chapter network with each other.
 
+### [Communications Group](/namnder/informationsorganet/kommunikationsgruppen)
+
+Improves the chapter communication and creates posts on the chapter's official social media.
+
 ### [Datasladden](/namnder/forvaltningsorganet/datasladden?lang=en)
 
 Takes care of the chapter car, Cerise, so it stays on the road.
@@ -126,7 +130,7 @@ So you have to get a motion passed at an SM.
 - Dart Vader: CS Dart group.
 - Jong: CS Juggling group.
 - SHFF: Sektionshusfondsföreningen (untranslatable - sorry to the one international student that got this far. Thanks for reading tho!).
-- Sångboksgruppen: The Chapter songbook group.
-- [Bröllopet](https://www.facebook.com/brollopet2017) - Our Wedding with the Media chapter
+- Sångboksgruppen: The chapter songbook group.
+- [Bröllopet](https://www.facebook.com/brollopet2017): Our Wedding with the Media chapter
 - Stack Overbowl: CS Bowling group.
 - Tag Monkeys: CS arts and crafts group.
