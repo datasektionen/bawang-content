@@ -15,7 +15,7 @@ Contact us at [revisorer@datasektionen.se](mailto:revisorer@datasektionen.se) if
 
 ## Datas Art Director (DAD) - Nicklas Peng
 
-DAD's purpose is partly to cooperate with others in the chapter when needed or there are requests for design and graphics. DAD also makes chapter officials visible in the chapter hall with the dFunk board, administrates the chapter's graphical licenses (lends these out when needed) as well as administrates the chapter's video and photo equipment.
+DAD cooperates with the chapter's committees and clubs when there is a need or there are requests for graphics and designs, i.e logos and other chapter representative symbols. DAD also highlights chapter officials via the dFunk board in the chapter hall, administrates and lends out the chapter's graphical licenses as well as administrates the chapter's video and photo equipment.
 
 ## D-Fest - Samuel Hörnell
 

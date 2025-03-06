@@ -66,10 +66,6 @@ The chapter choir for everyone who likes to sing.
 
 Keeping an eye on the studies, the courses and the faculty.
 
-### [Tag Monkeys](/namnder/informationsorganet/tag-monkeys?lang=en)
-
-Graphic design <3
-
 ### [The Baking Committee](/namnder/studiesociala-organet/baknamnden?lang=en)
 
 Bakes pastries for chapter meetings and other occasions.
@@ -133,4 +129,4 @@ So you have to get a motion passed at an SM.
 - Sångboksgruppen: The Chapter songbook group.
 - [Bröllopet](https://www.facebook.com/brollopet2017) - Our Wedding with the Media chapter
 - Stack Overbowl: CS Bowling group.
-
+- Tag Monkeys: CS arts and crafts group.

@@ -4,7 +4,7 @@ Den fulla listan av funktionärer, inklusive nämndansvarige, kan finnas på [df
 
 ## Datas Art Director (DAD) - Nicklas Peng
 
-DADs syfte är dels att samarbeta med övriga i sektionen där det finns behov eller önskemål av design och grafisk utveckling. DAD synliggör också sektionens funktionärer i sektionslokalen m.h.a. dFunktavlan, administrerar sektionens konstnärliga licenser (lånar ut dessa vid behov) samt administrerar över sektionens video- och fotoutrustning.
+DAD samarbetar med övriga i sektionen vid behov eller önskemål av design och grafisk utveckling, exempelvis logotyper och andra symboler som representerar sektionen. DAD synliggör också sektionens funktionärer i sektionslokalen med dFunktavlan, administrerar och lånar ut sektionens konstnärliga licenser samt administrerar över sektionens video- och fotoutrustning.
 
 ## D-Fest - Samuel Hörnell
 

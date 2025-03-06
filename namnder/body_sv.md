@@ -82,10 +82,6 @@ Sektionens kör för alla som gillar att sjunga.
 
 Håller ett öga över studierna, kurserna och lärarkåren.
 
-### [Tag Monkeys](/namnder/informationsorganet/tag-monkeys)
-
-Ger tillfällen för folk att vara kreativa genom veckoliga event i META där man bland annat kan måla och lägga pärlplattor.
-
 ### [Valberedningen](/namnder/valberedningen)
 
 Hanterar val inom sektionen för att välja folk till funktionärsposter.
@@ -128,4 +124,4 @@ Verksamhetsplaner för samtliga öppna projekt läggs upp på [Google Drive](htt
 - Jong: Datasektionens jongleringsförening.
 - SHFF: Sektionshusfondsföreningen.
 - Stack Overbowl: Datasektionens bowlingförening.
-
+- Tag Monkeys: Datasektionens pyssel- och konstförening.
