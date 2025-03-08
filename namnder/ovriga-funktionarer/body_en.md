@@ -13,6 +13,10 @@ You can read more about what the auditors do in the Chapter's [by-laws](https://
 
 Contact us at [revisorer@datasektionen.se](mailto:revisorer@datasektionen.se) if you have any questions regarding the Chapter's regulatory documents or anything else that is related to the Chapter.
 
+## Datas Art Director (DAD) - Nicklas Peng
+
+DAD cooperates with the chapter's committees and clubs when there is a need or there are requests for graphics and designs, i.e logos and other chapter representative symbols. DAD also highlights chapter officials via the dFunk board in the chapter hall, administrates and lends out the chapter's graphical licenses as well as administrates the chapter's video and photo equipment.
+
 ## D-Fest - Samuel Hörnell
 
 D-Fest's tasks include - Organizing two parties for other officials per year, one after the Glögg-SM and one after the Val-SM. The purpose of the parties is to honor the chapter's outgoing and incoming officials. - Organize regular team building for the chapter's officials. - Possibly organize other meetings and events together with other chapters and student unions to represent the chapter externally.

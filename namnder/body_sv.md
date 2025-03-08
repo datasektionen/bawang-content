@@ -38,6 +38,10 @@ Försäkrar att Konglig Datasektionens anrika historia inte faller i glömska.
 
 Arrangerar sport-event, kontinuerligt en sport varje vecka!
 
+### [Kommunikationsgruppen](/namnder/informationsorganet/kommunikationsgruppen)
+
+Förbättrar sektionens kommunikation och gör inlägg på sektionens officiella sociala medier.
+
 ### [Systemgruppen](/namnder/informationsorganet/systemgruppen)
 
 Utvecklar och underhåller sektionens diverse webbsidor. Även den du kollar på nu!
@@ -82,10 +86,6 @@ Sektionens kör för alla som gillar att sjunga.
 
 Håller ett öga över studierna, kurserna och lärarkåren.
 
-### [Tag Monkeys](/namnder/informationsorganet/tag-monkeys)
-
-Ger tillfällen för folk att vara kreativa genom veckoliga event i META där man bland annat kan måla och lägga pärlplattor.
-
 ### [Valberedningen](/namnder/valberedningen)
 
 Hanterar val inom sektionen för att välja folk till funktionärsposter.
@@ -127,5 +127,7 @@ Verksamhetsplaner för samtliga öppna projekt läggs upp på [Google Drive](htt
 - Dart Vader: Datasektionens dartförening.
 - Jong: Datasektionens jongleringsförening.
 - SHFF: Sektionshusfondsföreningen.
+- Sångboksgruppen: Grupp för att skapa Datasektionens sångbok.
+- [Bröllopet](https://www.facebook.com/brollopet2017): Vårt bröllop med Sektionen för Medieteknik.
 - Stack Overbowl: Datasektionens bowlingförening.
-
+- Tag Monkeys: Datasektionens pyssel- och konstförening.
