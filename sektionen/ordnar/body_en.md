@@ -60,6 +60,7 @@ The order's medal is a five-pointed overthrown black star, with a cerise field s
 
 Motto: Alone is strong. Together we are just many. 
 
+    Lucas Dow, Duodequadragesimus 2024
     Bror Sebastian Sjövald, Tricesimus Sextus 2023 
     Luciano Zapata, Tricesimus Sextus 2022
     Isabel Redtzer, Tricesima Sexta 2021
@@ -107,6 +108,7 @@ Membership of the Storasyskon Emeritus order is awarded to Storasyskon (head of 
 
 The order's medal is a five-pointed cerise star, with a silver field, and a black delta in the middle. The star is coated by a laurel wreath.
 
+    Carl Hansson, Undequadragesimus 2024
     Ebba Bråtman, Tricesimus Sextus 2023
     George Bassilious, Tricesimus Quintus 2022
     Agnes Forsberg, Tricesima Quinta 2021
@@ -148,6 +150,7 @@ Membership of the Kassör Emeritus order is awarded to treasurers at the chapter
 
 The order's medal is a five-pointed green star, with a black field, and a cerise delta in the middle. The star is coated by a golden laurel wreath.
 
+    Felix Murnion, Undequadragesimus 2023
     Matteus Berg, Tricesimus Septimus 2021
     William Nilsson, Tricesimus Sextus 2020
     Jakob Arvidsson, Tricesimus Quartus 2019
@@ -168,6 +171,7 @@ The Orden's insignia is a fallen five-pointed golden star, with a black field, a
 
 Motto: We are the ones actually in charge.
 
+    Douglas Fischer, Tricesimus Quintus 2023
     David Puustinen, Tricesimus Septimus 2022
     Niklas Vatn, Tricesimus Sextus 2020
     Ävelin Pantigoso, Tricesimus Quartus 2019
