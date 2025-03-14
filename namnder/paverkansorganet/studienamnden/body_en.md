@@ -4,7 +4,7 @@
 
 Like every Chapter at KTH, the CS-Chapter has a Study Board which works with monitoring the education at EECS. The main purpose of the Board is to assess and improve education quality as well as studying environment in both the short and long term.
 
-For you, this means that we will give your feedback to teachers and other officials at EECS in order to improve the CS education. If you have any thoughts regarding your education you can contact us via mail. There is also an opportunity to participate in our open meetings, where we discuss current issues and problems in the courses. For more information about our meetings and their schedule, email the Chairman of the Study Board (SNO), Soma, at [sno@datasektionen.se](mailto:sno@datasektionen.se).
+For you, this means that we will give your feedback to teachers and other officials at EECS in order to improve the CS education. If you have any thoughts regarding your education you can contact us via email. There is also an opportunity to participate in our open meetings, where we discuss current issues and problems in the courses. For more information about our meetings and their schedule, email the Chairman of the Study Board (SNO), Soma, at [sno@datasektionen.se](mailto:sno@datasektionen.se).
 
 We also answer your questions regarding your studies at kth or redirect you to a more knowledgeable party.
 Contact us if you have questions or opinions regarding the education or the studying environment by emailing the relevant person. Their emailadresses can be found below! If you don't know who to contact email the Chairperson of the Study Council (SNO) at [sno@datasektionen.se](mailto:sno@datasektionen.se)
