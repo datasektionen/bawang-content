@@ -4,6 +4,8 @@ The full list of officials, including those under the committees, can be found a
 
 ## Auditors
 
+- Adam Sjöberg (audits 2025)
+- Erik Hedlund (audits 2025)
 - David Puustinen (audits 2024)
 - Jakob Carlsson (audits 2024)
 

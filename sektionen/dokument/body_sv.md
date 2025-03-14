@@ -1,5 +1,9 @@
 # Dokument
 
+## Styrdokument
+
+Styrdokumenten finns tillgängliga på [styrdoument.datasektionen.se](https://styrdoument.datasektionen.se).
+
 ## Datasektionens budget
 
 {{ if .reception -}}

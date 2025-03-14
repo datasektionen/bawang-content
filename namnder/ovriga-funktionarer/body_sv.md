@@ -58,6 +58,8 @@ Programansvarige arbetar tillsammans med Studienämndens ordförande för att f�
 
 ## Revisorerna
 
+- Adam Sjöberg (granskar 2025)
+- Erik Hedlund (granskar 2025)
 - David Puustinen (granskar 2024)
 - Jakob Carlsson (granskar 2024)
 
