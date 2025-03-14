@@ -8,7 +8,7 @@
 
 **THS JML-policy**: De riktlinjer för JML som gäller all verksamhet inom THS (däribland Datasektionen). Den finns att läsa i sin helhet [HÄR](https://drive.google.com/drive/folders/1Yg90ggSuvpP_9858ByotplhSgR01l6aX).
 
-**Sektionens Jämlikhetspolicy**: En förlängning av THS JML-policy som specificerar hur vi på sektionen tillämpar policyn och hur vi själva arbetar med JML. Den finns att läsa [HÄR](https://styrdokument.datasektionen.se/jamlikhetspolicy).
+**Sektionens Jämlikhetspolicy**: En förlängning av THS JML-policy som specificerar hur vi på sektionen tillämpar policyn och hur vi själva arbetar med JML. Den finns att läsa [HÄR](https://styrdokument.datasektionen.se/policies/jamlikhetspolicy).
 
 **KTHs rutiner för anmälan och utredning**: De rutiner för att ta emot anmälan och/eller utreda ärenden inom diskriminering, trakasserier, sexuella trakasserier och kränkande särbehandling som KTH tillämpar. De finns att läsa [HÄR](https://intra.kth.se/anstallning/diskriminering-och-k).
 

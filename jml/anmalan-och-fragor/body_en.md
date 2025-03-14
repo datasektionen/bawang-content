@@ -13,10 +13,10 @@ In addition to contacting JMLA via this form, there are the following methods of
 
 - You can contact JMLA directly through [jmla@datasektionen.se](mailto:jmla@datasektionen.se), through social medium of choice or by approaching JMLA in META (the Chapter Hall).
 - You can talk to either of the Chapter's SSO (Student Safety Officer), JMLA (see above) or SMA. Both officeras have official (and legal) duty of confidentiality (but you can decide to take the incident further). SMA can be reached through [sma@datasektionen.se](mailto:sma@datasektionen.se).
-- You can contact the Board member of Study environment and Equality (D-SOL) in the Chapter board. This person is responsible for JML-questions in the board and can be reached through [d-sol@datasektionen.se](mailto:d-sol@datasektionen.se). Worth noting is that everyone on the board receives the emails sent to any one individual board member's offical email address, and that no board member has a duty of confidentiality. 
+- You can contact the Board member of Study environment and Equality (D-SOL) in the Chapter board. This person is responsible for JML-questions in the board and can be reached through [d-sol@datasektionen.se](mailto:d-sol@datasektionen.se). Worth noting is that everyone on the board can read the emails sent to any one individual board member's offical email address, and that no board member has a duty of confidentiality. 
 - You can contact Head of Student Welfare at THS [studiemiljo@ths.kth.se](mailto:studiemiljo@ths.kth.se).
 - You can contact the CS Master's Programme Coordinator at [cs-master@kth.se](mailto:cs-master@kth.se) or the CS International Coordinators at [exchange.out@eecs.kth.se](mailto:exchange.out@eecs.kth.se).
-- You can get in touch with vice Head of Unit at EECS's Office of Education, Sofia Norlander, through [sofiano@kth.se](mailto:sofiano@kth.se).
+- You can get in touch with Head of Unit at EECS's Office of Education, Sofia Norlander, through [sofiano@kth.se](mailto:sofiano@kth.se).
 - You can report incidents directly to KTH at [Report of disciplinary offence](https://intra.kth.se/en/utbildning/disciplinarenden/anmalan-av-disciplinarende-1.204198).
 
 Which of these you choose is less important, take the path you feel most comfortable with! The most important thing is that you contact one of them so that we can do something about the situation and can help prevent similar situations in the future.

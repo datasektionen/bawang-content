@@ -1,5 +1,6 @@
 sort = 1
+expanded = true
 
 [title]
 sv = "Informationsorganet"
-en = "The Information Organ"
+en = "Information Organ"
