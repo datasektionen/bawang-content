@@ -1,3 +1,5 @@
+Se våra [styrdokument](https://styrdokument.datasektionen.se).
+
 ## THS
 
 Utöver alla Datasektionens nämnder har även Tekniska Högskolans
