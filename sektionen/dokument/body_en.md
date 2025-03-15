@@ -1,5 +1,9 @@
 # Documents
 
+## Regulatory documents
+
+The regulatory documents are available at [styrdokument.datasektionen.se](https://styrdokument.datasektionen.se).
+
 ## Chapter budget
 
 {{ if .reception -}}

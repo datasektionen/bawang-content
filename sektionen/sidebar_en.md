@@ -1,3 +1,5 @@
+See our [regulatory documents](https://styrdokument.datasektionne.se).
+
 ## THS
 
 Apart from our chapter's clubs, THS also has a bunch of [activities and associations](https://thskth.se/en/student-life/associations).
