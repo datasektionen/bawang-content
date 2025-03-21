@@ -10,6 +10,8 @@
 - [PM for Economy](https://styrdokument.datasektionen.se/pm/pm_ekonomi)
 - [PM for Information Distribution](https://styrdokument.datasektionen.se/pm/pm_informationsspridning)
 - [Social Equality Policy](https://styrdokument.datasektionen.se/jamlikhetspolicy)
+- [Climate Policy](https://styrdokument.datasektionen.se/policies/klimatpolicy)
+- [Code of Conduct](https://styrdokument.datasektionen.se/policies/uppforandepolicy)
 - [Cohabitation agreements for META](https://dsekt.se/samboendeavtal)
 - [Protocols](/sektionen/dokument?lang=en#protocols)
 - [Graphic Charter](/sektionen/grafisk-profil?lang=en)

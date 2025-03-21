@@ -10,6 +10,8 @@
 - [PM för Ekonomi](https://styrdokument.datasektionen.se/pm/pm_ekonomi)
 - [PM för Informationsspridning](https://styrdokument.datasektionen.se/pm/pm_informationsspridning)
 - [Jämlikhetspolicy](https://styrdokument.datasektionen.se/jamlikhetspolicy)
+- [Klimatpolicy](https://styrdokument.datasektionen.se/policies/klimatpolicy)
+- [Uppförandepolicy](https://styrdokument.datasektionen.se/policies/uppforandepolicy)
 - [Samboendeavtal för META](https://dsekt.se/samboendeavtal)
 - [Protokoll](/sektionen/dokument#protokoll)
 - [Grafisk profil](/sektionen/grafisk-profil)
