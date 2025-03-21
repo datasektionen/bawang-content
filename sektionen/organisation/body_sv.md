@@ -20,11 +20,15 @@ Medlemmar är alla som studerar vid ett av programmen som tillhör sektionen och
 
 ## Våra möten
 
-Sektionen har två former av formella möten: Sektionsmöten där alla medlemmar får rösta och tycka till samt Styrelsemöten där alla medlemmar är välkomna att delta och uttrycka sin åsikt men bara styrelsen får rösta. Alla mötesprotokoll hittar du under [protokoll](/sektionen/dokument#protokoll).
+Sektionen har tre former av formella möten: Sektionsmöten, Valmöten och Styrelsemöten. Alla medlemmar får rösta och tycka till på Sektionsmöten och Valmöten men på Styrelsemöten är alla medlemmar välkomna att delta och uttrycka sin åsikt men bara styrelsen får rösta. Alla mötesprotokoll hittar du under [protokoll](/sektionen/dokument#protokoll).
 
 ### Sektionsmöte (SM)
 
-Sektionsmötet, förkortat SM, är sektionens högsta beslutande organ. Det kan liknas vid Datasektionens årsmöte, fast det finns flera varje år. Alla sektionsmedlemmar har yttranderätt och rösträtt på sektionsmötet. Det är på sektionsmötet som alla viktiga beslut som rör sektionen fattas. Det finns fyra fasta möten under året; Budget-SM, Glögg-SM, Revisions-SM och Val-SM. Utöver dessa kan Extra-SM anordnas. Om du vill föreslå en ändring i styrdokumenten lämnar du en motion till SM. För att ändra 
+Sektionsmötet, förkortat SM, är sektionens högsta beslutande organ. Det kan liknas vid Datasektionens årsmöte, fast det finns flera varje år. Alla sektionsmedlemmar har yttranderätt och rösträtt på sektionsmötet. Det är på sektionsmötet som alla viktiga beslut som rör sektionen fattas. Det finns fyra fasta möten under året; Budget-SM, Glögg-SM, Revisions-SM och Val-SM. Utöver dessa kan Extra-SM anordnas. Om du vill föreslå en ändring i styrdokumenten lämnar du en motion till SM. För att ändra stadgarna krävs det att ändringen går igenom på två separata SM. Om du undrar hur SM går till kan du läsa SM-guiden på [dsekt.se/smguide](https://dsekt.se/smguide).
+
+### Valmöte (VM)
+
+VM är som SM fast det sker endast val av funktionärer och inga andra beslut. Det är dock inte alla funktionärsposter som kan väljas på VM, utan vissa måste väljas på SM.
 
 ### D-rektoratsmöten (DM)
 
@@ -38,7 +42,7 @@ Sektionen har en bred verksamhet som våra medlemmar kan ta del av. Verksamheten
 
 ### Styrelsen
 
-Styrelsen är de personer som har utsett att utföra besluten som fattas av sektionsmötet och förvalta sektionen mellan dessa möten. Styrelsen är därmed ansvarig inför alla medlemmar att besluten följs och att sektioner följer sina stadgar och reglementet. Datasektionens styrelse består av ordförande, vice ordförande, kassör, vice kassör, sekreterare och tre ledamöter. Styrelsen leder även funktionärerna genom att stötta dem i deras verksamhet och jobba med långsiktiga satsningar.
+Styrelsen är de personer som har utsett att utföra besluten som fattas av sektionsmötet och förvalta sektionen mellan dessa möten. Styrelsen är därmed ansvarig inför alla medlemmar att besluten följs och att sektioner följer sina stadgar och reglementet. Datasektionens styrelse består av ordförande, vice ordförande, kassör, vice kassör, sekreterare och fyra ledamöter. Styrelsen leder även funktionärerna genom att stötta dem i deras verksamhet och jobba med långsiktiga satsningar.
 
 [Läs mer om styrelsens olika poster.](/sektionen/sammansattning)
 

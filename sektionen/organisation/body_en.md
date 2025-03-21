@@ -21,13 +21,17 @@ Members are everyone who studies one of the programs that belong to the chapter 
 
 ## Our meetings
 
-The chapter has two types of formal meetings: chapter meetings, where all members are able to vote and have a say, as well as board meetings, where all members are welcome to participate and express their opinion but only the board can vote. All meeting protocols can be found under [protocols](/sektionen/dokument?lang=en#protocols).
+The chapter has three types of formal meetings: chapter meetings, election meetings, and board meetings. All members are able to vote and have a say in the chapter meetings and election meetings but in the board meetings all members are welcome to participate and express their opinion but only the board can vote. All meeting protocols can be found under [protocols](/sektionen/dokument?lang=en#protocols).
 
 ### Chapter Meeting (Sektionsmöte, SM)
 
 Chapter meeting, or SM, is the chapter's highest decision-making body. They could be compared with the Computer Science Chapter's annual meeting, but there are multiple every year. Every member of the Computer Science Chapter has a right to speak their mind and vote at the SM. The most important decisions affecting the chapter are made during SMs. There are four
 ordinary SMs in the year; Budget-SM (Budget Meeting), Glögg-SM (Christmas Meeting), Revisions-SM (Audit meeting), and
-Val-SM (Election Meeting). More chapter meetings can be arranged according to demand. If you want to suggest an alteration in the documents you leave a motion to SM. To change the by-laws it is required to be passed at two separate SMs.
+Val-SM (Election Meeting). More chapter meetings can be arranged according to demand. If you want to suggest an alteration in the documents you leave a motion to SM. To change the by-laws it is required to be passed at two separate SMs. If you're wondering how SMs work you can read the SM guide at [dsekt.se/smguide](https://dsekt.se/smguide) (currently only available in Swedish).
+
+### Election Meeting (Valmöte, VM)
+
+VM is like SM but there's only elections of chapter officials happening and no other decisions. However, it's not all positions that can be elected at VM, since some need to be elected at SM.
 
 ### D-directorate Meeting (D-rektoratsmöten, DM)
 
@@ -41,7 +45,7 @@ The chapter has a wide range of activities that our members can take part of. It
 
 ### D-directorate
 
-The D-directorate is the board of the Computer Science chapter and consists of seven members.
+The D-directorate is the board of the Computer Science chapter and consists of nine members.
 They are the Chairman, Vice Chairman, Treasurer, Vice Treasurer, secretary, and four more board members that are responsible
 for educational issues, student welfare and equality, student activities, and communication and business relations. Together they arrange Chapter Meetings, make sure the decisions at chapter meetings are executed, coordinate different parts of the chapter, and make strategic and long term plans.
 
@@ -54,7 +58,7 @@ Elections for board members are made in the same way as for officials, except fo
 A club is an organisational entity created for a specific purpose. One of our clubs monitors our study environment, another takes care of the chapter hall, another arranges parties and so forth. Every club has a chairman that is elected at the SM. How to become member of a club varies from club to club. Some clubs have a limit to how many members they bring in and some have
 interviews. If you want to know more about a certain club, you are welcome to contact the club's chairman! You can find each club's chairman's contact information under the respective club's tab in [clubs](/namnder?lang=en).
 
-If you want to create your own club by sending a motion to the board of directors. At the next Chapter Meeting, all members vote on whether or not your proposal should pass. You should make a budget, a description of your activities, and possibly formulate changes in our by-laws/rules.
+If you want to create your own club you do this by sending a motion to the Chapter Board. At the next Chapter Meeting, all members vote on whether or not your proposal should pass. You should make a budget, a description of your activities, and possibly formulate changes in our by-laws/rules to define the club.
 
 It's also possible to make a project in the chapter. A project is similar to a temporary club, it is created the same way, with a motion.
 
@@ -62,8 +66,7 @@ It's also possible to make a project in the chapter. A project is similar to a t
 
 Officials are also elected at a chapter meeting. Every official is responsible for one club or activity in the chapter. If you want to get engaged in a club or activity you are welcome to turn to its volunteer!
 
-If you want to be a volunteer you have to run for election. Most of our elections are handled at the Election Chapter Meeting (mid May) and Mulled Wine Chapter Meeting (Late November/early December) and the nomination period starts rougly one month before the meetings. To nominate and handle your nominations go to our [election page](val.datasektionen.se). If you are interested in knowing what the responsible of a position is, you can contact
-the current volunteer.
+If you want to be an official you have to run for election. Most of our elections are handled at the Election Chapter Meeting (mid May) and Mulled Wine Chapter Meeting (Late November/early December) and the nomination period starts roughly one month before the meetings. To nominate and handle your nominations go to our [election page](https://val.datasektionen.se). If you are interested in knowing what the responsible of a position is, you can contact the current official.
 
 ### Statutory Auditors
 
