@@ -2,7 +2,7 @@
 
 ## Styrdokument
 
-Styrdokumenten finns tillgängliga på [styrdoument.datasektionen.se](https://styrdoument.datasektionen.se).
+Styrdokumenten finns tillgängliga på [styrdokument.datasektionen.se](https://styrdokument.datasektionen.se).
 
 ## Datasektionens budget
 
