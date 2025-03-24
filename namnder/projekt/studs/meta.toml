@@ -1,4 +1,5 @@
 sort = 1
+image = "https://dsekt-assets.s3.amazonaws.com/website/namnder/studs.png"
 
 [title]
 sv = "Studs"
