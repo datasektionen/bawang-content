@@ -150,6 +150,7 @@ Membership of the Kassör Emeritus order is awarded to treasurers at the chapter
 
 The order's medal is a five-pointed green star, with a black field, and a cerise delta in the middle. The star is coated by a golden laurel wreath.
 
+    Melvin Jakobsson, Duodequadragesimus 2024
     Felix Murnion, Undequadragesimus 2023
     Matteus Berg, Tricesimus Septimus 2021
     William Nilsson, Tricesimus Sextus 2020
@@ -171,6 +172,7 @@ The Orden's insignia is a fallen five-pointed golden star, with a black field, a
 
 Motto: We are the ones actually in charge.
 
+    Adam Sjöberg, Tricesimus Septimus 2024
     Douglas Fischer, Tricesimus Quintus 2023
     David Puustinen, Tricesimus Septimus 2022
     Niklas Vatn, Tricesimus Sextus 2020
