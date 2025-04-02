@@ -4,57 +4,62 @@ Vi som är ansvariga för Mottagningen kallas för Titel. Vill du kontakta oss k
 
 ### Det Kongliga Dadderiet 
 **Storebror**, <br />
-Carl Hansson<br />
-[storasyskon@datasektionen.se](mailto:storasyskon@datasektionen.se)<br />
-073-832 82 13
-
-**Halvsyster**, <br />
-Meya Wikner<br />
-[halvsyster@datasektionen.se](mailto:halvsyster@datasektionen.se)<br />
-072-200 48 83
-
-**Lillebror**, <br />
 Christoffer Andersson<br />
-[lillebror@datasektionen.se](mailto:lillebror@datasektionen.se)<br /> 
+[storasyskon@datasektionen.se](mailto:storasyskon@datasektionen.se)<br />
 076-177 72 77
 
-**Lillasyster**, <br />
-Tilde Tärnvik <br />
-[lillasyster@datasektionen.se](mailto:lillasyster@datasektionen.se)<br /> 
+**Storasyster**, <br />
+Tilde Tärnvik<br />
+[storasyskon@datasektionen.se](mailto:storasyskon@datasektionen.se)<br />
 070-672 07 89
 
-{{ if not .reception -}}
-### Det Kongliga Drifveriet
-**Konglig Öfverdrif**, <br />
-Lucas Dow<br />
-[ofverdrif@datasektionen.se](mailto:ofverdrif@datasektionen.se)<br />
-073-551 00 01
+**Lillebror**, <br />
+Casper Reuterlöv<br />
+[lillebror@datasektionen.se](mailto:halvsyster@datasektionen.se)<br />
+076-780 91 11
 
-**Konglig Direktifdrif**, <br />
+**Halvbror**, <br />
+Niels Barth<br />
+[halvbror@datasektionen.se](mailto:lillebror@datasektionen.se)<br /> 
+072-339 00 18
+
+**Tvillingbror**, <br />
+Adam Egnell <br />
+[tvillingbror@datasektionen.se](mailto:lillasyster@datasektionen.se)<br /> 
+072-315 70 11
+
+{{ if not .reception -}}
+### The Royal Drifvery
+**Konglig Öfverdrif**, <br />
 Elin Andersson Lundell<br />
-[direktifdrif@datasektionen.se](mailto:direktifdrif@datasektionen.se)<br />
+[ofverdrif@datasektionen.se](mailto:ofverdrif@datasektionen.se)<br />
 072-164 28 12
 
+**Konglig Direktifdrif**, <br />
+William Koivula<br />
+[direktifdrif@datasektionen.se](mailto:direktifdrif@datasektionen.se)<br />
+072-225 18 75
+
 **Konglig Indrif**, <br />
-Lydia Brorsson<br />
+Robert Rosenquist<br />
 [indrif@datasektionen.se](mailto:indrif@datasektionen.se)<br />
-073-528 78 63
+076-094 13 55
 {{- end }}
 
-### Det Kongliga Doqumenteriet
+### The Royal Doqumentery
 **Samdoquise**, <br />
-Maria Tsychkova<br />
+Kristoffer Nelléus<br />
 [samdoquise@datasektionen.se](mailto:samdoquise@datasektionen.se)<br />
-070-524 18 82
+072-350 37 94
 
-### Det Kongliga Quisineriet
+### The Royal Quisinery
 **Storquisine**, <br />
-Markus Videfors<br />
+Isabella Allgén Takami<br />
 [storquisine@datasektionen.se](mailto:storquisine@datasektionen.se)<br />
-073-666 76 23
+079-336 92 72
 
-### Det Kongliga Ekonomeriet
+### The Kongliga Ekonomery
 **Storekom**, <br />
-Felix Murnion<br />
+Hedda Litzén Hagström<br />
 [storekom@datasektionen.se](mailto:storekom@datasektionen.se)<br />
-073-928 51 25
+072-202 72 45
