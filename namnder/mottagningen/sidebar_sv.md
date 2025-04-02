@@ -29,7 +29,7 @@ Adam Egnell <br />
 072-315 70 11
 
 {{ if not .reception -}}
-### Det Kongliga Drifveret
+### Det Kongliga Drifveriet
 **Konglig Öfverdrif**, <br />
 Elin Andersson Lundell<br />
 [ofverdrif@datasektionen.se](mailto:ofverdrif@datasektionen.se)<br />
