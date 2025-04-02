@@ -152,6 +152,7 @@ Medlemskap i Kassör Emeritus-orden tilldelas de Kassörer på Datasektionen som
 
 Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
 
+    Melvin Jakobsson, Duodequadragesimus 2024 
     Felix Murnion, Undequadragesimus 2023
     Matteus Berg, Tricesimus Septimus 2021
     William Nilsson, Tricesimus Sextus 2020
@@ -173,6 +174,7 @@ Ordenstecknet för Ordförande Emeritus består av en störtad femuddig stjärna
 
 Valspråk: Det är faktiskt vi som bestämmer.
 
+    Adam Sjöberg, Tricesimus Septimus 2024
     Douglas Fischer, Tricesimus Quintus 2023
     David Puustinen, Tricesimus Septimus 2022
     Niklas Vatn, Tricesimus Sextus 2020
