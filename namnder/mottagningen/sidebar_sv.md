@@ -29,7 +29,7 @@ Adam Egnell <br />
 072-315 70 11
 
 {{ if not .reception -}}
-### The Royal Drifvery
+### Det Kongliga Drifveret
 **Konglig Öfverdrif**, <br />
 Elin Andersson Lundell<br />
 [ofverdrif@datasektionen.se](mailto:ofverdrif@datasektionen.se)<br />
@@ -46,19 +46,19 @@ Robert Rosenquist<br />
 076-094 13 55
 {{- end }}
 
-### The Royal Doqumentery
+### Det Kongliga Doqumenteriet
 **Samdoquise**, <br />
 Kristoffer Nelléus<br />
 [samdoquise@datasektionen.se](mailto:samdoquise@datasektionen.se)<br />
 072-350 37 94
 
-### The Royal Quisinery
+### Det Kongliga Quisineriet
 **Storquisine**, <br />
 Isabella Allgén Takami<br />
 [storquisine@datasektionen.se](mailto:storquisine@datasektionen.se)<br />
 079-336 92 72
 
-### The Kongliga Ekonomery
+### Det Kongliga Ekonomeriet
 **Storekom**, <br />
 Hedda Litzén Hagström<br />
 [storekom@datasektionen.se](mailto:storekom@datasektionen.se)<br />
