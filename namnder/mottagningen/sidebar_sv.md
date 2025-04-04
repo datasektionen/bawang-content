@@ -15,17 +15,17 @@ Tilde Tärnvik<br />
 
 **Lillebror**, <br />
 Casper Reuterlöv<br />
-[lillebror@datasektionen.se](mailto:halvsyster@datasektionen.se)<br />
+[lillebror@datasektionen.se](mailto:lillebror@datasektionen.se)<br />
 076-780 91 11
 
 **Halvbror**, <br />
 Niels Barth<br />
-[halvbror@datasektionen.se](mailto:lillebror@datasektionen.se)<br /> 
+[halvbror@datasektionen.se](mailto:halvbror@datasektionen.se)<br /> 
 072-339 00 18
 
 **Tvillingbror**, <br />
 Adam Egnell <br />
-[tvillingbror@datasektionen.se](mailto:lillasyster@datasektionen.se)<br /> 
+[tvillingbror@datasektionen.se](mailto:tvillingbror@datasektionen.se)<br /> 
 072-315 70 11
 
 {{ if not .reception -}}
