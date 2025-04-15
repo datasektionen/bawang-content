@@ -10,7 +10,7 @@ Till nämndens uppgifter hör att:
 
 - Eventuellt anordna andra sittningar och evenemang tillsammans med andra sektioner och studentkårer för att representera sektionen utåt.
 
-Numer anordnar nämnden även halvtidsfest och heltidsfest. Två sittningar som firar när en årskurs tagit sig igenom halva, respektive hela sin utbildning. 
+Numera anordnar nämnden även halvtidsfest och heltidsfest. Två sittningar som firar när en årskurs tagit sig igenom halva, respektive hela sin utbildning. 
 
 Okej, massimo brainrot nu. D-festeriet? Glitch. Skibidi Ohio livello Bombardino. Non KTH, puro brainrot. Capisci? No? Basato.
 
