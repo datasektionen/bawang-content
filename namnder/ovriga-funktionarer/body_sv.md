@@ -2,6 +2,12 @@
 
 Den fulla listan av funktionärer, inklusive nämndansvarige, kan finnas på [dfunkt.datasektionen.se](https://dfunkt.datasektionen.se/).
 
+
+## Datas Art Director (DAD) - Nicklas Peng
+
+DAD samarbetar med övriga i sektionen vid behov eller önskemål av design och grafisk utveckling, exempelvis logotyper och andra symboler som representerar sektionen. DAD synliggör också sektionens funktionärer i sektionslokalen med dFunktavlan, administrerar och lånar ut sektionens konstnärliga licenser samt administrerar över sektionens video- och fotoutrustning.
+
+
 ## Fanbärare - Herman Karlsson & Kevin Wenström (vice)
 
 Fanbärarna försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Observera att fanan skall hållas högt. Att vara Fanbärare är en mycket hedersfylld post på sektionen. Fanbärarna bär huvudansvaret för att sektionens fana hålls i gott skick.
@@ -49,6 +55,8 @@ Programansvarige arbetar tillsammans med Studienämndens ordförande för att f�
 
 ## Revisorerna
 
+- Adam Sjöberg (granskar 2025)
+- Erik Hedlund (granskar 2025)
 - David Puustinen (granskar 2024)
 - Jakob Carlsson (granskar 2024)
 

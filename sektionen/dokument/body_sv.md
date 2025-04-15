@@ -1,10 +1,15 @@
 # Dokument
 
+## Styrdokument
+
+Styrdokumenten finns tillgängliga på [styrdokument.datasektionen.se](https://styrdokument.datasektionen.se).
+
 ## Datasektionens budget
 
 {{ if .reception -}}
 **På grund av tekniska problem är budgetar för tillfället inte tillgängliga**
 {{- else -}}
+- [Budget 2025](https://docs.google.com/spreadsheets/d/13-eiUfPmvQVM1IgxJt7onOlntE0fNSzKsqkeIh9xWTE/edit?usp=sharing)
 - [Budget 2024](https://docs.google.com/spreadsheets/d/12hi0jThV0zmU_FdLEoUZmBp1tCfMsONFdfy18jCAVZc/edit?usp=sharing)
 - [Budget 2023](https://docs.google.com/spreadsheets/d/1hiXUQcrQikpiySAtr9iscekHIfZM_bxey8-nmp5XE9k/edit?usp=sharing)
 - [Budget 2022](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYFXgACJTugGnrrJuXgqKNuOBqdFuCuuJ3-fnVoDij3iA9bTeq_OcvepStgv193VPflGbFxryvSsP4/pubhtml)

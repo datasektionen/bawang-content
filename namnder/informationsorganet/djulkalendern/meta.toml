@@ -1,5 +1,5 @@
-image = ":)"
 sort = 1
+image = "https://dsekt-assets.s3.amazonaws.com/website/namnder/djul.png"
 
 [title]
 sv = "dJulkalendern"

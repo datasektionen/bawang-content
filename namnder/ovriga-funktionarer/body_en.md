@@ -4,6 +4,8 @@ The full list of officials, including those under the committees, can be found a
 
 ## Auditors
 
+- Adam Sjöberg (audits 2025)
+- Erik Hedlund (audits 2025)
 - David Puustinen (audits 2024)
 - Jakob Carlsson (audits 2024)
 
@@ -12,6 +14,12 @@ The auditors review the board and interpret the Chapter's regulatory documents.
 You can read more about what the auditors do in the Chapter's [by-laws](https://styrdokument.datasektionen.se/stadgar).
 
 Contact us at [revisorer@datasektionen.se](mailto:revisorer@datasektionen.se) if you have any questions regarding the Chapter's regulatory documents or anything else that is related to the Chapter.
+
+
+## Datas Art Director (DAD) - Nicklas Peng
+
+DAD cooperates with the chapter's committees and clubs when there is a need or there are requests for graphics and designs, i.e logos and other chapter representative symbols. DAD also highlights chapter officials via the dFunk board in the chapter hall, administrates and lends out the chapter's graphical licenses as well as administrates the chapter's video and photo equipment.
+
 
 ## Flag bearer - Herman Karlsson & Kevin Wenström (vice)
 

@@ -1,6 +1,6 @@
-## Studs 2022
+## Studs 2025
 Visit our website: [studs.se](http://www.studs.se)<br><br>
 #### Company?
-If you're interested and want to know more, contact our head of sales Tobias at tobias-v@studs.se
+If you're interested and want to know more, contact our head of sales John at john.soderholm@studs.se
 #### Student?
 Follow us on [LinkedIn](https://www.linkedin.com/company/studs), [Facebook](https://www.facebook.com/StudsKTH/) and [Instagram](https://www.instagram.com/studskth/) to get a deeper insight into some carefully selected tech companies!
