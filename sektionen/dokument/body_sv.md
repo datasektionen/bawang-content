@@ -7,7 +7,7 @@ Styrdokumenten finns tillgängliga på [styrdokument.datasektionen.se](https://s
 ## Datasektionens budget
 
 {{ if .reception -}}
-**På grund av tekniska problem är budgetar för tillfället inte tillgängliga**
+**På grund av tekniska problem är budgeten för tillfället inte tillgänglig.**
 {{- else -}}
 Budgeten finns tillgänglig på [budget.datasektionen.se](https://budget.datasektionen.se).
 {{- end }}

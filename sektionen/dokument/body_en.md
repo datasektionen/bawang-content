@@ -7,7 +7,7 @@ The regulatory documents are available at [styrdokument.datasektionen.se](https:
 ## Chapter budget
 
 {{ if .reception -}}
-**Unfortunately, the budgets are not currently available due to technical difficulties**
+**Unfortunately, the budget is not currently available due to technical difficulties.**
 {{- else -}}
 The budget is available at [budget.datasektionen.se](https://budget.datasektionen.se).
 {{- end }}
