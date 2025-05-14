@@ -40,7 +40,7 @@ Under sin långa karriär på KTH har Viggo Kann hela tiden försökt underlätt
 
 ### Monika Lundell
 
-Som Vice Programansvarig för Datateknikprogrammet har Monika alltid stått upp för sektionen liksom programmets studenter. Från kansliets sida är det alltid hon som deltar vid våra SM som representant, där hon ofta stannat kvar ett tag efter sin rapportpunkt, och med gott humör visat ett genuint intresse för sektionen. Vid många tillfällen har Monika dessutom direkt stått upp för sektionens intressen, studierelaterade liksom studiesociala, gentlemot EECS och kansliet. Inte minst har Monika jobbat väldigt nära studienämnden för att förbättra utbildningen på flera fronter, vilket även setts då hon själv deltagit vid en av sektionens klagostugor. Genom allt detta engagemang och intresse är Monika solklart förtjänt av att vara hedersmedlem hos sektionen.
+Som Vice Programansvarig för Datateknikprogrammet har Monika alltid stått upp för sektionen liksom programmets studenter. Från kansliets sida är det alltid hon som deltar vid våra SM som representant, där hon ofta stannat kvar ett tag efter sin rapportpunkt, och med gott humör visat ett genuint intresse för sektionen. Vid många tillfällen har Monika dessutom direkt stått upp för sektionens intressen, studierelaterade liksom studiesociala, gentemot EECS och kansliet. Inte minst har Monika jobbat väldigt nära studienämnden för att förbättra utbildningen på flera fronter, vilket även setts då hon själv deltagit vid en av sektionens klagostugor. Genom allt detta engagemang och intresse är Monika solklart förtjänt av att vara hedersmedlem hos sektionen.
 
 ### Örjan Ekeberg
 
