@@ -8,6 +8,9 @@ upp på nästkommande Sektionsmöte för beslut.
 
 ## Medlemmar
 
+-   Richard Glassey, Examinator INDAn 2025,
+-   Viggo Kann, Studierektor Datateknik 2025,
+-   Monika Lundell, Vice Programansvarig Datateknik 2025,
 -   Örjan Ekeberg, Programansvarig Datateknik, 2019
 -   Helen Lindkvist, Studievägledare Medieteknik, 2015
 -   Alicja Lissenko, Studievägledare Datateknik, 2015
@@ -23,6 +26,21 @@ upp på nästkommande Sektionsmöte för beslut.
 -   Katrin Rosenqvist, Fysik, 1983
 -   Johan Groth, Fysik, 1983
 
+### Richard Glassey
+
+{{ if .reception -}}
+*Beskrivning saknas.*
+{{- else -}}
+Ric Glassey har i många år varit examinator och kursansvarig för INDAn som är många av sektionens medlemmars första introduktion till programmering. Genom denna exemplariska kurs har Ric gett många motivationen för att fortsätta i programmet och varit enormt öppen för förbättring från studenter. Ric har genom kursen blivit en enormt uppskattat lärare och dessutom en vän till sektionen. Detta genom att bland annat i flera år samarbetat med mottagningen och dessutom varit med och toastat en av sektionens sittningar. Allt detta innebär att Ric gjort sig välförtjänt av att bli hedersmedlem hos Datasektionen.
+{{- end }}
+
+### Viggo Kann
+
+Under sin långa karriär på KTH har Viggo Kann hela tiden försökt underlätta för Datateknikprogrammets studenter. Han har gång på gång arbetat för att datastudenterna ska bli hörsammade och för att vår studieinflytande ska förbättras. I synnerhet har Viggo varit mer än samarbetsvillig med sektionens studienämnd och JML-arbete, där han genom sin roll som examinator för prosam flera gånger låtit sektionen förmedla information till programmets studenter. Viggo har även sett till att det finns schemalagd tid under D-Dagen för att programmets studenter inte ska hindras av andra kurser från att gå på sektionens arbetsmarknadsmässa. Viggo har helt enkelt verkligen visat sig värdig av att vara en hedersmedlem hos sektionen.
+
+### Monika Lundell
+
+Som Vice Programansvarig för Datateknikprogrammet har Monika alltid stått upp för sektionen liksom programmets studenter. Från kansliets sida är det alltid hon som deltar vid våra SM som representant, där hon ofta stannat kvar ett tag efter sin rapportpunkt, och med gott humör visat ett genuint intresse för sektionen. Vid många tillfällen har Monika dessutom direkt stått upp för sektionens intressen, studierelaterade liksom studiesociala, gentemot EECS och kansliet. Inte minst har Monika jobbat väldigt nära studienämnden för att förbättra utbildningen på flera fronter, vilket även setts då hon själv deltagit vid en av sektionens klagostugor. Genom allt detta engagemang och intresse är Monika solklart förtjänt av att vara hedersmedlem hos sektionen.
 
 ### Örjan Ekeberg
 
