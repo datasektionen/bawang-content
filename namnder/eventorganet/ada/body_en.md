@@ -8,7 +8,6 @@ Ada is a club working for the women and non-binary folks in the Computer Science
 - Stella Bobert *- Ada's Chairwoman*
 - Nedea Haukebö
 - Lovisa Sjöberg
-- Sara Weister
 - Tilde Josefsson
 - Adela Sjödin
 
