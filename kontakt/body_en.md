@@ -9,11 +9,11 @@ The Business Relations Group handles the chapter's contacts with companies. You 
 E-mail: [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 **Head of business relations**<br />
-Erik Wirdemark<br />
+Erik Rennel<br />
 E-mail: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
 **Heads of D-Dagen**<br />
-Max Berglund & Mortada Nasser<br />
+Didzis Urtãns, Max Berglund & Mortada Nasser<br />
 E-mail: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
 Visit the [Industry page](/industry) for more information.
@@ -23,7 +23,7 @@ Visit the [Industry page](/industry) for more information.
 For general questions, contact our head of communications at:
 
 **Head of communications**<br />
-Benjamin Widman<br />
+Muhammed Reza Mehdi<br />
 E-mail: [info@datasektionen.se](mailto:info@datasektionen.se)<br />
 
 For questions regarding [datasektionen.se](https://datasektionen.se) or other systems handled by the chapter, contact the chapter's Head of IT at [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se).

@@ -4,5 +4,6 @@ Frågor om studierna? Tveka inte att kontakta oss!
 
 #### Studienämndens ordförande
 
-Soma Szabo<br>
+Leo Jåfs Suonmaa </br>
+Soma Szabo (24/25) </br>
 [sno@datasektionen.se](mailto:sno@datasektionen.se)

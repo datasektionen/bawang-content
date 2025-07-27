@@ -4,7 +4,7 @@
 
 #### Qulturattaché (D)
 
-Felix Murnion<br>
+Anton Enblom </br>
 [qulturattache@datasektionen.se](mailto:qulturattache@datasektionen.se)
 
 #### Qulturnämndsordförande (Me)

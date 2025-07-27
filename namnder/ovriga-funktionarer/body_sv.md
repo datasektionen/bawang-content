@@ -2,7 +2,7 @@
 
 Den fulla listan av funktionärer, inklusive nämndansvarige, kan finnas på [dfunkt.datasektionen.se](https://dfunkt.datasektionen.se/).
 
-## Datas Art Director (DAD) - Nicklas Peng
+## Datas Art Director (DAD) - Emilie Ruixin Cao
 
 DAD samarbetar med övriga i sektionen vid behov eller önskemål av design och grafisk utveckling, exempelvis logotyper och andra symboler som representerar sektionen. DAD synliggör också sektionens funktionärer i sektionslokalen med dFunktavlan, administrerar och lånar ut sektionens konstnärliga licenser samt administrerar över sektionens video- och fotoutrustning.
 
@@ -16,7 +16,7 @@ Till funktionärens uppgifter hör att - Anordna två skiftesgasquer per år, en
 Fanbärarna försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Observera att fanan skall hållas högt. Att vara Fanbärare är en mycket hedersfylld post på sektionen. Fanbärarna bär huvudansvaret för att sektionens fana hålls i gott skick.
 
 
-## Jämlikhets-, Mångfalds- och Likabehandlingsansvarig (JMLA) - Jennifer Köhler
+## Jämlikhets-, Mångfalds- och Likabehandlingsansvarig (JMLA) - Johanna Plant
 
 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig har till uppgift att värna om sektionens psykiska studiemiljö, för samtliga sektionsmedlemmar. Funktionären ska pro- och reaktivt arbeta med att förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
 
@@ -73,11 +73,6 @@ Mer information om vad revisorerna håller på med kan ni läsa om i [sektionens
 ## Studiemiljöansvarig (SMA) - Malcolm Mångsén
 
 Studiemiljöansvarig har till uppgift att övervaka EECS:s lokaler åt sektionen och är ansvarig för sektionslokalens brandsäkerhet. Funktionären skall såväl proaktivt som reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
-
-
-## Sångledare - Jonathan Almgren
-
-Sångledaren verkar för att bevara och utveckla sångkulturen i sektionen, samt ansvarar för att hålla vår sångbok uppdaterad. Sångledaren ska även fungera som en go-to toasmaster, eller som resurs för sådana som vill lära sig hur man är toastmaster.
 
 
 ## Talman - Jonathan Almgren
