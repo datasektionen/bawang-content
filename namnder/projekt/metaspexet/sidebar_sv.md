@@ -2,5 +2,5 @@
 
 #### Direqteur
 
-Filip Ramslöv </br>
-[djul@datasektionen.se](mailto:djul@datasektionen.se)
+Anna Akopyan </br>
+[direqtionen@metaspexet.se](mailto:direqtionen@metaspexet.se)
