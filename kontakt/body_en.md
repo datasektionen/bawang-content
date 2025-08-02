@@ -13,7 +13,7 @@ Erik Rennel<br />
 E-mail: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
 **Heads of D-Dagen**<br />
-Didzis Urtãns, Max Berglund & Mortada Nasser<br />
+Max Berglund & Mortada Nasser<br />
 E-mail: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
 Visit the [Industry page](/industry) for more information.

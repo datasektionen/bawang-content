@@ -14,7 +14,7 @@ Erik Rennel<br />
 E-post: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
 **Arbetsmarknadsdagsansvariga**<br />
-Didzis Urtãns, Max Berglund & Mortada Nasser<br />
+Max Berglund & Mortada Nasser<br />
 E-post: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
