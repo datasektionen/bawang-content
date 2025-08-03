@@ -3,6 +3,6 @@
 
 #### Spring Ball General
 
-Emma Ericsson </br>
+Natalia Winiarska </br>
 [varbalsgeneral@datasektionen.se](mailto:varbalsgeneral@datasektionen.se)
 

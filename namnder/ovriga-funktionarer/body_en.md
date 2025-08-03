@@ -15,7 +15,7 @@ You can read more about what the auditors do in the Chapter's [by-laws](https://
 
 Contact us at [revisorer@datasektionen.se](mailto:revisorer@datasektionen.se) if you have any questions regarding the Chapter's regulatory documents or anything else that is related to the Chapter.
 
-## Datas Art Director (DAD) - Nicklas Peng
+## Datas Art Director (DAD) - Emilie Ruixin Cao
 
 DAD cooperates with the chapter's committees and clubs when there is a need or there are requests for graphics and designs, i.e logos and other chapter representative symbols. DAD also highlights chapter officials via the dFunk board in the chapter hall, administrates and lends out the chapter's graphical licenses as well as administrates the chapter's video and photo equipment.
 
@@ -29,7 +29,7 @@ D-Fest's tasks include - Organizing two parties for other officials per year, on
 Flag bearers defend the honor of the chapter by carrying its flag on various ceremonial occasions. Note that the flag should be held high. Being a flag bearer is a very honorable position in the section. The flag bearers are responsible for keeping the chapter's flag in good condition.
 
 
-## Head of Equality, Diversity and Equal Treatment (JMLA) - Jennifer Köhler
+## Head of Equality, Diversity and Equal Treatment (JMLA) - Johanna Plant
 
 Head of Equality, Diversity and Equal Treatment is responsible for taking care of the psychosocial study environment, for all Chapter members. The officer shall pro- och reactively with continuously improving the Chapter's work within equality, diversity and equal treatment.
 
@@ -81,8 +81,3 @@ Send us an e-mail at [kf@datasektionen.se](mailto:kf@datasektionen.se) if you ha
 - Olof Bargholtz Melcherson
 
 [Facebook](https://facebook.com/KF.Data)
-
-
-## Song leader - Jonathan Almgren
-
-The song leader works to preserve and develop the song culture in the chapter, and is responsible for keeping our song book up to date. The song leader should also serve as a go-to toastmaster, or as a resource for those who want to learn how to be a toastmaster.

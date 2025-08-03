@@ -2,7 +2,8 @@
 
 #### Systemansvarig
 
-Rafael Serra e Oliveira </br>
+Viktor Ekby </br>
+Rafael Serra e Oliveira (24/25) </br>
 [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
 
 #### Systemgruppens Mattermost

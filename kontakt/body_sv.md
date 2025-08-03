@@ -10,7 +10,7 @@ anledning är du alltid välkommen att kontakta oss:
 E-post: [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 **Näringslivsansvarig**<br />
-Erik Wirdemark<br />
+Erik Rennel<br />
 E-post: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
 **Arbetsmarknadsdagsansvariga**<br />
@@ -24,7 +24,7 @@ Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivss
 För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
 
 **Kommunikatör**<br />
-Benjamin Widman<br />
+Muhammed Reza Mehdi<br />
 E-post: [info@datasektionen.se](mailto:info@datasektionen.se)<br />
 
 Vid frågor eller funderingar som rör [datasektionen.se](https://datasektionen.se) eller något av våra andra system kan du vända dig till Systemansvarig på [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se).
