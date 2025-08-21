@@ -1,11 +1,9 @@
-{{ if not .reception -}}
 # Welcome to the Reception….
 # …and be warned!
 
 The tabloids report instances of schlimey graduation parties and other disgüüsting events; a sure sign that nØllan is on their way. Soon, Technis will be threatened by the ravaging hordes of nØllan. 
 
 The chapter is preparing its defenses. Whipclad Vests, White Blankies, All-seeing Cameras, Food-stained Aprons and Glittering Goldcoins are all mobilized to aid our brave troops.
-{{- end }}   
 
 ## The Reception’s Groups
 
