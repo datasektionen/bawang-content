@@ -36,14 +36,12 @@ _“At surface- hard, at core- brutal”._
 
 ### The Royal Daddery
 
-The Royal Daddery is nØllan’s friend at all times. There are always huggable daddies to turn to when there are storms brewing. nØllan has now grown old enough to realize that they won’t manage to live a life without Technis. But Life at this finest of technical institutes isn’t easy; it’s one fraught with hardships and, at times, even harder mathematics. Dangers are lurking at the most unexpected places and times from the moment nØllan enters the historical lands of Technis. Mean examiners and ancient demons are hiding behind every corner. These are dreadful enough, but at Technis there also exists something so scary that nØllan couldn’t even imagine it in their worst nightmares {{- if not .reception }} - The Royal Drifvery {{- end }}.
+The Royal Daddery is nØllan’s friend at all times. There are always huggable daddies to turn to when there are storms brewing. nØllan has now grown old enough to realize that they won’t manage to live a life without Technis. But Life at this finest of technical institutes isn’t easy; it’s one fraught with hardships and, at times, even harder mathematics. Dangers are lurking at the most unexpected places and times from the moment nØllan enters the historical lands of Technis. Mean examiners and ancient demons are hiding behind every corner. These are dreadful enough, but at Technis there also exists something so scary that nØllan couldn’t even imagine it in their worst nightmares - The Royal Drifvery.
 
-{{ if not .reception -}}
 #### The Rescue 
 The Royal Drifvery causes a lot of problems for nØllan. Even the ancient Greeks calculated the probability for nØllan’s survival and couldn’t find a slight deviation from nØll. The Chapter’s Chairperson at the time- Pythagoras D. Horn- proudly announced the results to D-Osqarulda. Their cheers were soon replaced by a worrisome silence as they understood that this meant that the most honourable section of them all - The Royal Computer Science Chapter - would soon go extinct. They realized that the only way to ensure the regrowth was to increase the chances of nØllan’s survival.
 
 Thus, one sunny day, the Royal Daddery was born, with whose help nØllan could at least get an infinitesimal chance of making it through Technis. The Daddery is led by Big Brother and Big Sister with their three younger siblings; Little Brother, Half Brother and Twin Brother. All daddies love nØllan and they are the nicest bunch of technologists that exist. When nØllan loses their head under mysterious circustamces, it is the Dadda’s job to joyfully dunk it back onto their shoulders. The Dadda can always provide nØllan a thigh to suck on or a thumb to cry on. Even if it happens all too often. 
-{{- end }}
 
 #### Characteristics 
 

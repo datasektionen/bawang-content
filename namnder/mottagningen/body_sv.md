@@ -44,15 +44,13 @@ De Högre Sfärernas jordiske företrädare är Konglig Öfverdrif, allsmäktig 
 
 _Det Kongliga Dadderiet är nØllans vän i alla väder. Det finns alltid kramgoa daddan att ty sig till när vindarna viner runt knuten._
 
-Det är tydligen så att nØllan blivit stor nog att inse att nØllan inte klarar sig utan livet på Teknis. Men det är inte så lätt att komma in i Livet på denna den förnämsta av tekniska högskolor, ty Livet består till en början av många hårda strapatser, samt i viss mån av en del matematik. Faror lurar på de mest oväntade av platser och tidpunkter från den stund nØllan beträder Teknis anrika mark. [Elaka examinatorer](https://www.imdb.com/title/tt0036914/) och [uråldriga demoner](https://dsekt-assets.s3.amazonaws.com/mottagningen/Cthulhu.gif) lurar överallt. Dessa är i sig förskräckliga och skulle både räcka och bli över, men här finns även något så skrämmande att nØllan inte kan föreställa sig det ens i sina värsta mardrömmar {{- if not .reception }} – Det Kongliga Drifveriet {{- end }}.
+Det är tydligen så att nØllan blivit stor nog att inse att nØllan inte klarar sig utan livet på Teknis. Men det är inte så lätt att komma in i Livet på denna den förnämsta av tekniska högskolor, ty Livet består till en början av många hårda strapatser, samt i viss mån av en del matematik. Faror lurar på de mest oväntade av platser och tidpunkter från den stund nØllan beträder Teknis anrika mark. [Elaka examinatorer](https://www.imdb.com/title/tt0036914/) och [uråldriga demoner](https://dsekt-assets.s3.amazonaws.com/mottagningen/Cthulhu.gif) lurar överallt. Dessa är i sig förskräckliga och skulle både räcka och bli över, men här finns även något så skrämmande att nØllan inte kan föreställa sig det ens i sina värsta mardrömmar – Det Kongliga Drifveriet.
 
-{{ if not .reception -}}
 ####Räddningen
 
 Det Kongliga Drifveriet ställer till mycket problem för nØllan. Redan de gamla grekerna beräknade sannolikheten för nØllans överlevnad och kunde inte få den att avvika ens en promille från just nØll. Den dåvarande sektionsordförande Pythagoras D. Tuta meddelade stolt resultaten till D-Osqarulda. Deras jubel förbyttes dock snart av en orolig tystnad då insikten spred sig att detta skulle leda till att den ärevördigaste sektionen av dem alla – Konglig Datasektionen – så småningom skulle dö ut. Snart insåg de att det enda sättet att säkra återväxten var genom att öka nØllans överlevnadschanser!
 
 Så en solig dag föddes Det Kongliga Dadderiet, med vars hjälp nØllan skulle få åtminstone en infinitesimal chans att klara sig. Dadderiet leds av Storebror och Storasyster med deras tre småsyskon: Lillebror, Halvbror och Tvillingbror. Alla daddan älskar dock nØllan, och är de snällaste och trevligaste som finns att uppbringa bland teknologer. När nØllan tappat huvudet under mystiska omständigheter är det Daddan som skrattande kommer dribblande tillbaka med det. Hos Daddan kan nØllan alltid få ett lår att suga på eller en tumme att gråta mot. De finns alltid till hands för att ge stöd och tröst närhelst en vilsen nØllan behöver det. Även om det blir mycket ofta.
-{{- end }}
 
 ####Kännetecken
 
