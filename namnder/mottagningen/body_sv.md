@@ -12,7 +12,6 @@ Under Mottagningen gäller följande schema. Ett tips är att lägga till schema
 <iframe src="https://calendar.google.com/calendar/embed?src=318968a98d5f0b5001c3e671dfedd49282735e5cec238c5520262d5443afc67d%40group.calendar.google.com&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Mottagningens grenar
-{{ if not .reception -}}
 ###Det Kongliga Drifveriet
 <img alt="Drifveriet-logga" src="https://dsekt-assets.s3-eu-west-1.amazonaws.com/mottagningen/drifveriet.svg" style="float: right; width: 35%" />
 
@@ -40,7 +39,6 @@ De Högre Sfärernas jordiske företrädare är Konglig Öfverdrif, allsmäktig 
 
 “På ytan hård, innerst inne brutal”.
 
-{{- end }}
 ###Det Kongliga Dadderiet
 <img alt="Dadderiet-logga" src="https://dsekt-assets.s3-eu-west-1.amazonaws.com/mottagningen/dadderiet.svg" style="float: right; width: 35%" />
 

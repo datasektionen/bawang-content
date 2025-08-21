@@ -9,14 +9,13 @@ The chapter is preparing its defenses. Whipclad Vests, White Blankies, All-seein
 
 ## The Reception’s Groups
 
-{{ if not .reception -}}
 ### The Royal Drifvery
 
 The Royal Drifvery is an ancient and venerable institution that has fought to protect the light and the truth since the dawn of time. 
 
 The day which we desperately hoped to avoid has, at last, arrived. Dark and evil forces have decided to send their most lethal weapon in an attempt to obliterate the Royal Institute of Technology. The prophesied horde of frustrated technologists have been sighted limping like zombies towards the gates… nØllan is approaching!
 
-Within an all-too-close future nØllan, spewing platitudes of joy and prosperity, will siege Technis in an attempt to find purpose in their errful existence by defiling the most proud of Chapters- the Royal Chapter of Computer Science- with their schlimey presence. 
+Within an all-too-close future nØllan, spewing platitudes of joy and prosperity, will siege Technis in an attempt to find purpose in their errful existence by defiling the most proud of Chapters - the Royal Chapter of Computer Science - with their schlimey presence. 
 
 This would surely prove disastrous, were it not for the vigilant eyes that have been observing nØllan, preparing for this very calamity.
 
@@ -34,7 +33,6 @@ The Royal Drifvery is a coalition forged long before the dawn of time. Their hon
 The Higher Spheres’ earthly representative is Konglig Öfverdrif (lit. the Royal High-Drif); the almighty leader of the Royal Drifvery. By their side Konglig Öfverdrif has their two squires Konglig Direktifdrif (lit. the Royal Directive-Drif) and Konglig Indrif (perhaps most closely translated as the Royal Collector-Drif). The three of them, as well as the rest of the coalition, steadfast in their devotion to fight for the Royal Drifvery ancient motto which can be found in the most secure of vaults, deep beneath the Royal Institute of Technology’s catacombs- engraved in diamond; 
 
 _“At surface- hard, at core- brutal”._
-{{- end }}
 
 ### The Royal Daddery
 
