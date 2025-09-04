@@ -9,7 +9,7 @@ We organize a slew of activities related to e-sports and gaming in general. For 
 * attend Dreamhack Winter yearly (sponsored by the chapter),
 * organize LANs that go on for entire weekends,
 * organize tournaments with prizes in META,
-* manage the chapters Nintendo Switch and VR gear
+* manage the chapters Nintendo Switch and VR gear,
 * watch e-sports events in META,
 * hold on- and offline gaming nights,
 * speed run Dark Souls,
