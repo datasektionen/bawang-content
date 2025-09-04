@@ -1,17 +1,18 @@
 # DESC
 
-DESC är Datasektionens E-Sports Community, och vi ansvarar för att stilla sektionensmedlemmarnas törst efter ett rikt utbud av gamingevenemang. Vi är en öppen nämnd; om du är sektionsmedlem och vill vara med i DESC, så är du med i DESC. DESC leds av Desctopen som utses på Val-SM varje år.
+DESC är Datasektionens E-Sports Community, och vi ansvarar för att stilla sektionensmedlemmarnas törst efter ett rikt utbud av gamingevenemang. Vi har en interngrupp som bland annat arrangerar LAN och spelkvällar för sektionen.
 
 ## Vad gör vi?
 
 Under läsåret så anordnar vi en hel drös med aktiviteter relaterat till e-sport och datorspel i allmänhet. Vi...
 
 * åker årligen till Dreamhack Winter (med spons från sektionen),
+* arangerar LAN som pågår hela helgen,
 * anordnar turneringar med pris i META,
+* förvaltar sektionens Nintendo Switch och VR-gear
 * kollar på e-sportevents i META,
 * håller on- och offline-spelkvällar,
 * speedrunnar Dark Souls,
-* får gamla datalogstudenter att visa upp sitt VR-gear,
 * blir totalägda i Overwatch,
 * uppmuntrar sektionens medlemmar att spela mer datorspel med varandra.
 
