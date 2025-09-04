@@ -9,7 +9,7 @@ Under läsåret så anordnar vi en hel drös med aktiviteter relaterat till e-sp
 * åker årligen till Dreamhack Winter (med spons från sektionen),
 * arangerar LAN som pågår hela helgen,
 * anordnar turneringar med pris i META,
-* förvaltar sektionens Nintendo Switch och VR-gear
+* förvaltar sektionens Nintendo Switch och VR-gear,
 * kollar på e-sportevents i META,
 * håller on- och offline-spelkvällar,
 * speedrunnar Dark Souls,
