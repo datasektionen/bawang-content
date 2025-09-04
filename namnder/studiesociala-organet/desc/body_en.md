@@ -12,7 +12,7 @@ We organize a slew of activities related to e-sports and gaming in general. For 
 * manage the chapters Nintendo Switch and VR gear,
 * watch e-sports events in META,
 * hold on- and offline gaming nights,
-* speed run Dark Souls,
+* speedrun Dark Souls,
 * get wrecked in Overwatch,
 * encourage members of the chapter to play more video games with eachother.
 
