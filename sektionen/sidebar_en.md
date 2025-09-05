@@ -1,4 +1,4 @@
-See our [regulatory documents](https://styrdokument.datasektionne.se).
+See our [regulatory documents](https://styrdokument.datasektionen.se).
 
 ## THS
 
