@@ -1,6 +1,6 @@
 # METAspexet
 
-METAspexet is the computer science chapter and media technology chapter's shared spex which engages over 100 students every year to put together and present a show for all who want to come and see. The project is lead by a "Direqterur" at each chapter respectively.
+METAspexet is the computer science chapter and media technology chapter's shared spex which engages over 100 students every year to put together and present a show for all who want to come and see. The project is lead by a "Direqteur" at each chapter respectively.
 
 ## What's a spex
 
