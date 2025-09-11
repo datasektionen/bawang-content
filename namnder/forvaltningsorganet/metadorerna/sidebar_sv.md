@@ -1,7 +1,7 @@
 ## Kontakt
 
 #### Konglig Lokalchef (D)
-Carl Blomqvist<br>
+Hannes Hultin<br>
 [lokalchef@datasektionen.se](mailto:lokalchef@datasektionen.se)
 
 #### Sektionslokalsansvarig (Me)

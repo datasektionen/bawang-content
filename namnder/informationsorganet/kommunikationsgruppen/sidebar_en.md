@@ -4,5 +4,5 @@ If you have any questions about the chapter's information channels, announcing e
 
 #### Head of Communications
 
-Benjamin Widman<br>
+Muhammed Reza Mehdi<br>
 [info@datasektionen.se](mailto:info@datasektionen.se)

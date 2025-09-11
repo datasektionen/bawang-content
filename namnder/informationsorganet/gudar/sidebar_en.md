@@ -4,5 +4,5 @@ If you have any questions about the chapters history please contact the Chapter 
 
 #### Chapter Historian
 
-Olof Bargholtz Melcherson<br>
+Soma Szabo<br>
 [historiker@datasektionen.se](mailto:historiker@datasektionen.se)
