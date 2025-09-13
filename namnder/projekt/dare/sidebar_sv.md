@@ -2,5 +2,5 @@
 
 #### Projektledare för dÅre
 
-Karl Lindblad </br>
+Maria Tsychkova </br>
 [dare@datasektionen.se](mailto:dare@datasektionen.se)

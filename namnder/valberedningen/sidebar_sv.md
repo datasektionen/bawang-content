@@ -2,16 +2,16 @@
 
 **Valberedningens ordförande:** 
 
-Robert Rosenquist
+Roger Chen
 [valberedning-ordf@datasektionen.se](mailto:valberedning-ordf@datasektionen.se)
 
 **Resterande Valberedare:**
 
-- Sofia Wallgren
-- Sean Zisheng Xu Zhang
 - Felicia Murkes
-- Samuel Hörnell
-- Ivar Boqvist
-- Soma Szabo
+- Jenny Backlund Stridh
+- Liam Thorell
+- Olof Bargholtz Melcherson
+- Sean Zisheng Xu Zhang
+- Sofia Wallgren
 
 [valberedare@datasektionen.se](mailto:valberedare@datasektionen.se)

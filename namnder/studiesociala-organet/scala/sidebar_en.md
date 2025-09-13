@@ -2,5 +2,5 @@
 
 #### Körmästare
 
-Vacant</br>
+Amanda Edblad </br>
 [kormastare@datasektionen.se](mailto:kormastare@datasektionen.se)

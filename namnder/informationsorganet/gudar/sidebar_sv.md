@@ -4,5 +4,5 @@ Om du har några historiska frågor så kan du höra av dig till Sektionshistori
 
 #### Sektionshistoriker
 
-Olof Bargholtz Melcherson<br>
+Soma Szabo<br>
 [historiker@datasektionen.se](mailto:historiker@datasektionen.se)

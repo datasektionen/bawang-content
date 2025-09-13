@@ -4,7 +4,7 @@ Vill du komma i kontakt med Desctopen (orförande för DESC)? Skicka ett mail ti
 
 #### Desctop
 
-Fredrik Magnevill<br>
+Oscar Eriksson </br>
 [desctop@datasektionen.se](mailto:desctop@datasektionen.se)
 
 ## Gå med i DESC

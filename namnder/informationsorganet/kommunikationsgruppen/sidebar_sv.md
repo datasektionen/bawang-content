@@ -4,5 +4,5 @@ Om du har några frågor om sektionens informationskanaler, annonsering osv, hö
 
 #### Kommunikatör
 
-Benjamin Widman<br>
+Muhammed Reza Mehdi<br>
 [info@datasektionen.se](mailto:info@datasektionen.se)
