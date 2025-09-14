@@ -13,9 +13,3 @@ Till nämndens uppgifter hör att:
 Numera anordnar nämnden även halvtidsfest och heltidsfest. Två sittningar som firar när en årskurs tagit sig igenom halva, respektive hela sin utbildning. 
 
 Okej, massimo brainrot nu. D-festeriet? Glitch. Skibidi Ohio livello Bombardino. Non KTH, puro brainrot. Capisci? No? Basato.
-
-Crew: Gigetto il Draghetto mangia pengar. "MAMMA MIA, DELIZIOSO!". Sigma mewing 24/7. Bombardino Crocodillo? Il re del rizz. Dansar non-stop. Skriker "PIZZA PASTA MANDOLINO ATTENZIONE GRIMACE SHAKE!". Peperina Pasticcina ispeziona din gyatt. Hittar noll? Cooked. Hon skriker "CHE CASINO!". Riccio il Riccio? Bara vine boom och phonk. BASTA!
-
-Möten? Tyst looksmaxxing. Vem har bäst jawline? "Skibidi?" "Dop Dop Yes!". Protokoll? Capybara-emoji. Fantastico.
-
-Fester: Ohio final boss. ANDIAMO! Kliver in. BAM! Bombardino dans. Musik? Skibidi Italia Phonk. NPCs glitchar max. Zero rizz. Bara ramlar. "GYATT!". Fanum Tax på din själ. Ordförande? Capybara säger "Ok I pull up". Peperina dömer alla. Sei cotto (du är cooked). Alla skriker "CHE CASINO!". Ren, ofiltrerad, massimo D-festeriet brainrot. Skibidi. Mamma Mia. Dop dop. Fine.
