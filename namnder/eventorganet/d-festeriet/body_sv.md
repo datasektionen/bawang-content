@@ -4,7 +4,7 @@ D-festeriet arbetar för att stärka gemenskapen som samtliga sektionsmedlemmar 
 
 Till nämndens uppgifter hör att:
 
-- Anordna två skiftesgasquer per år, en efter Glögg-SM och en efter Val-SM. Syftet med skiftesgasquerna är att hedra sektionens avträdande och tillträdande funktionärer.
+- Anordna två skiftesgasquer per år, en efter Vinter-VM och en efter Sommar-VM. Syftet med skiftesgasquerna är att hedra sektionens avträdande och tillträdande funktionärer.
 
 - Anordna regelbundna teambuildings för sektionens funktionärer.
 
