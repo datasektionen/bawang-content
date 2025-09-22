@@ -8,6 +8,7 @@ Ada är en nämnd vars syfte är att främja kvinnor och ickebinära på Datasek
 - Stella Bobert *- Adas Ordförande*
 - Nedea Haukebö
 - Lovisa Sjöberg
+- Sara Weister
 - Tilde Josefsson
 - Adela Sjödin
 
