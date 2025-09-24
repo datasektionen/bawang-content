@@ -1,11 +1,11 @@
-## Hur kan vi hjälpa er?
+## How we can help you
 
 
-Vill du veta mer om hur ni kan delta i mottagningen? [Kontakta ledningsgruppen](mailto:titel@datasektionen.se)
+Do you want to know more about how to be apart of the reception? [Contact the leading group](mailto:titel@datasektionen.se)
 
-## Näringslivsgruppen
+## The Business Relations Group
 
-**E-post [foretag@datasektionen.se](mailto:foretag@datasektionen.se)**
+**E-mail [foretag@datasektionen.se](mailto:foretag@datasektionen.se)**
 
-Är du student?<br />
-[Gilla oss på facebook](https://www.facebook.com/naringslivsgruppendatasektionenkth) för att hålla dig uppdaterad om våra event!
+Are you a student?<br />
+[Follow us on facebook](https://www.facebook.com/naringslivsgruppendatasektionenkth) to keep you updated on our lates events!
