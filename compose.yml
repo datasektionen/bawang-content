@@ -2,12 +2,13 @@ services:
   taitan:
     container_name: taitan
 
-    #image: ghcr.io/datasektionen/taitan
-    build: ../taitan
-    develop:
-      watch:
-        - path: ../taitan
-          action: rebuild
+    image: ghcr.io/datasektionen/taitan
+    ### To use a local version of taitan, comment the line above, and un-comment the lines below
+    #build: <path to local taitan, e.g. ../taitan>
+    #develop:
+    #  watch:
+    #    - path: <path to local taitan, e.g. ../taitan>
+    #      action: rebuild
 
     environment:
       - PORT=5000
@@ -22,17 +23,17 @@ services:
 
   bawang:
     container_name: bawang
-    
+
     image: ghcr.io/datasektionen/bawang-dev
-    # Comment out the local build configuration
-    # build:
-    #   context: ../bawang
-    #   args:
-    #     RAZZLE_TAITAN_URL: http://localhost:5000
-    # develop:
-    #   watch:
-    #     - path: ../bawang
-    #       action: rebuild
+    ### To use a local version of bawang, comment the line above, and un-comment the lines below
+    #build:
+    #  context: <path to local bawang, e.g. ../bawang>
+    #  args:
+    #    RAZZLE_TAITAN_URL: http://localhost:5000
+    #develop:
+    #  watch:
+    #    - path: <path to local bawang, e.g. ../bawang>
+    #      action: rebuild
 
     environment:
       - TAITAN_URL=http://taitan:5000
