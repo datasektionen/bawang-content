@@ -17,7 +17,7 @@ for more information.
 **E-mail:** [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 
-## <a href="https://nlg.bz/annons" style="display: inline-block; padding: 10px 20px; background-color: #E83D84; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Advertise here</a>  <a href="https://nlg.bz/event" style="display: inline-block; padding: 10px 20px; background-color: #E83D84; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Book Event here</a>
+## <a href="https://nlg.bz/companylinks" style="display: inline-block; padding: 10px 20px; background-color: #E83D84; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Portal for Companies</a>  
 
 ---
 
