@@ -11,35 +11,17 @@ using the Computer Science Chapter's job board, etc. We will also gladly discuss
 any new ideas with you. Looking for a more traditional approach? Take a look at
 our traditional events, listed below.
 
-Please feel free to contact us within the Business Relations Group by mail or phone
+Please feel free to contact us within the Business Relations Group by mail
 for more information.
 
-Mail [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
+**E-mail:** [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 
-## Pub
+---
 
-Take the chance to present your company at one of our popular Wednesday pubs,
-where many computer science students stay to eat and drink after their lectures.
-It is be a good opportunity to mingle with students in a more relaxed enviroment
-as well as to present your company. A lecture can be held beforehand as well, if
-desired. We stand for staff and will help you with advertisement.
+<div style="text-align: center; margin: 30px 0;">
+<a href="https://nlg.bz/companylinks" style="display: inline-block; padding: 15px 30px; background: linear-gradient(135deg, #E83D84, #D63576); color: white; text-align: center; text-decoration: none; border-radius: 12px; margin: 10px 15px; font-weight: 600; font-size: 16px; box-shadow: 0 4px 15px rgba(232, 61, 132, 0.3); transition: all 0.3s ease; border: none;">🏢 Portal for companies</a>
+<a href="https://nlg.bz/studentlinks" style="display: inline-block; padding: 15px 30px; background: linear-gradient(135deg, #E83D84, #D63576); color: white; text-align: center; text-decoration: none; border-radius: 12px; margin: 10px 15px; font-weight: 600; font-size: 16px; box-shadow: 0 4px 15px rgba(232, 61, 132, 0.3); transition: all 0.3s ease; border: none;">🎓 Portal for students</a>
+</div>
 
-## Lunch lecture
-
-Lunch lectures are often very appreciated by students. You will hold a
-presentation during lunch (12:15-13:00) in front of around 100 students.
-Students will receive a simple lunch before the presentation, sponsored
-by you. The contents of the lecture is completely up to you and, if
-desired, the food too. You can, for instance, present your company, projects or
-trainee programmes.
-
-## Advertisement on social media
-
-A very good way to reach many computer science students is to advertise on our social media. Do you want to advertise on the Business Relations Group's Facebook page with over 1000 followers? Make an inquiry [here](https://docs.google.com/forms/d/e/1FAIpQLSckG6WdOWUJzq-wQZYSc600Ted_N6PY6QM5l65DILzeyPFZoA/viewform?usp=sf_link)! We also offer an advertising package including  a facebook ad, an instagram post, an instagram story and a post in the computer science chapter’s jobs channel. If you want the advertising package, contact us here [foretag@datasektionen.se](mailto:foretag@datasektionen.se).
-
-## Advertisement
-
-Looking to make computer science students happier while advertising your company
-at the same time? Sponsor the chapter with fun, usable or completely new
-stuff to make their day. The only limit is your imagination.
+---
