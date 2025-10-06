@@ -1,7 +1,7 @@
 ## How we can help you
 
 
-Do you want to know more about how to be apart of the reception? [Contact the leading group](mailto:titel@datasektionen.se)
+Do you want to know more about how to be a part of the Reception of new students? [Contact the leadership group](mailto:titel@datasektionen.se)
 
 ## The Business Relations Group
 
