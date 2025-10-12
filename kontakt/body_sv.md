@@ -19,10 +19,6 @@ E-post: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
 Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivssidan](/naringsliv).
 
-## Fakturor
-
-Fakturor bör skickas till sektionens fakturaadress [faktura@datasektionen.se](mailto:faktura@datasektionen.se).
-
 ## Allmänt
 
 För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör:
