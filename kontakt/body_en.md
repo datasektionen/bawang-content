@@ -18,6 +18,10 @@ E-mail: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
 Visit the [Industry page](/industry) for more information.
 
+## Invoices
+
+Invoices should be sent to the chapter's email address for invoices [faktura@datasektionen.se](mailto:faktura@datasektionen.se).
+
 ## General
 
 For general questions, contact our head of communications at:
