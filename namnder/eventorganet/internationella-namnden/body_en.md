@@ -1,6 +1,6 @@
 # International Committee
 
-The International Committee of the Computer Science Chapter is responsible for all international activities of the Computer Science Chapter and is shared with the Media Technology Chapter. The committee is led by the Data Chapter's International Student Coordinator (fall 2023-: Håvard Alstadheim) and the Chapter for Media Technology's International Coordinator (2024: Elena Pan and Erik Sevelin).
+The International Committee of the Computer Science Chapter is responsible for all international activities of the Computer Science Chapter and is shared with the Media Technology Chapter. The committee is led by the Data Chapter's International Student Coordinator and the Chapter for Media Technology's International Coordinator.
 
 
 ## General
