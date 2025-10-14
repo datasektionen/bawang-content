@@ -13,11 +13,11 @@ Join the [Meta Internationals WhatsApp group](https://dsekt.se/whatsapp) or keep
 
 By getting involved in the committee, organizers can earn hours towards the 0.2 bonus points used to apply for study abroad. It takes 25 hours of involvement within the span of four months to earn the bonus points, and the Head of the Committee (International Student Coordinator) is responsible for counting and reporting the hours to THS.
 
-The committee recruits new members all year round. Members can be event organizers, or do several other tasks such as coordinating communication or translation work. If you are interested in joining the committee, please write to [isc@datasektionen.se](mailto:isc@datasektionen.se).
+The committee recruits new members all year round. Members can be event organizers, or do several other tasks such as coordinating communication or translation work. If you are interested in joining the committee, please write to [int@datasektionen.se](mailto:int@datasektionen.se).
 
 ## Reducing Barriers for International Students
 
-The International Committee has a project called "Translating Governance Documents". The project aims to translate [important documents](https://styrdokument.datasektionen.se/) into English so that international students can get a better understanding of what is happening in the Computer Science Chapter. This project is open to all students in the Computer Science Chapter. If you are interested in helping with this, contact [isc@datasektionen.se](mailto:isc@datasektionen.se).
+The International Committee has a project called "Translating Governance Documents". The project aims to translate [important documents](https://styrdokument.datasektionen.se/) into English so that international students can get a better understanding of what is happening in the Computer Science Chapter. This project is open to all students in the Computer Science Chapter. If you are interested in helping with this, contact [int@datasektionen.se](mailto:int@datasektionen.se).
 
 ## Events
 The International Committee organizes at least two events per semester for international students that are members of the Computer Science Chapter or the Media Technology Chapter.
