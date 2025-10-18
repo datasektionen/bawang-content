@@ -12,11 +12,11 @@ Gå med i [Meta Internationals WhatsApp-gruppen](https://dsekt.se/whatsapp) elle
 
 Genom engagemang i nämnden kan organisatörer samla timmar mot de 0.2 bonuspoängen som används för att söka utlandsstudier. Det krävs 25 timmars engagemang inom ett 4 månaders intervall för att få bonuspoängen, och det är nämndordföranden (internationella studentkoordinatorn) som har ansvar för att räkna timmarna och registrera dem hos THS.
 
-Nämnden rekryterar nya medlemmar hela året. Medlemmar kan vara eventorganisatörer, eller göra flera andra uppgifter som att koordinera kommunikation eller översättningsarbete. Är du intresserad av att gå med i nämnden, skriv till [isc@datasektionen.se](mailto:isc@datasektionen.se).
+Nämnden rekryterar nya medlemmar hela året. Medlemmar kan vara eventorganisatörer, eller göra flera andra uppgifter som att koordinera kommunikation eller översättningsarbete. Är du intresserad av att gå med i nämnden, skriv till [int@datasektionen.se](mailto:int@datasektionen.se).
 
 ## Minska Barriärerna för Internationella Studenter
 
-Internationella nämnden har ett projekt som heter "Översätta Styrdokument". Projektet syftar till att översätta [viktiga dokument](https://styrdokument.datasektionen.se/) till engelska, så att internationella studenter kan få en bättre förståelse för vad som händer på Datasektionen. Detta är ett projekt som är öppet för alla studenter på Datasektionen. Om du är intresserad av att hjälpa till med detta, vänligen kontakta [isc@datasektionen.se](mailto:isc@datasektionen.se).
+Internationella nämnden har ett projekt som heter "Översätta Styrdokument". Projektet syftar till att översätta [viktiga dokument](https://styrdokument.datasektionen.se/) till engelska, så att internationella studenter kan få en bättre förståelse för vad som händer på Datasektionen. Detta är ett projekt som är öppet för alla studenter på Datasektionen. Om du är intresserad av att hjälpa till med detta, vänligen kontakta [int@datasektionen.se](mailto:int@datasektionen.se).
 
 ## Evenemang
 
