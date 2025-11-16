@@ -12,6 +12,7 @@ Medlemskap i Klubbmästare Emeritus-orden tilldelas de klubbmästare på Datasek
 
 Ordenstecknet för Klubbmästare Emeritus består av en störtad femuddig stjärna i silver med ett cerise fält bestrött med ett svart delta omgivet av en lagerkrans.
 
+    Love Belin, Quadragesimus 2024/2025
     Tom Rehnström, Undequadragesimus 2023/2024
     Lucas Dow, Duodequadragesimus 2022/2023
     Jennifer Larsson, Tricesima Septima 2021/2022

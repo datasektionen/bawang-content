@@ -41,167 +41,232 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ## Medlemmar  
 
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793658035441810/tom_1.jpeg?ex=65a6bb56&is=65944656&hm=3dc80008d20a077134a9930629e2086c8374afd02db5f020a13c690535c0fcdf&">  
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Yhv-kUeX-aGbbtPPGC3og9C32G7pFJKQ">  
 
-### Tom Rehnström
+### Nedea Haukebö
 #### Klubbmästare  
-**Favoritdrink:** GT-kanna <br>
-**Gillar:** kakor <br>
-**Ogillar:** kalorier <br>
-**Specialitet:** Vara NPC <br>
+**Favoritdrink:** TSL (tequila soda lime) <br>
+**Gillar:** Norsk dunk <br>
+**Ogillar:** Fiskmåsar <br>
+**Specialitet:** Top 1% på allt <br>
 **Citat:**
-_Det är kvällens kvällar_
+_I am the most important person_
 
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793627052134540/Olle_1.jpeg?ex=65a6bb4f&is=6594464f&hm=79157d466a2dc6c3e6953d6b1fe4d9ee8b0388f27138d15aa77ef93d50d13e59&">  
+<img align="right" src="https://drive.google.com/uc?export=view&id=1ncDw7b8rvuOVVS_SFQqNLwFFmQv_zdbe">  
 
-### Olle Jernström 
+### William Utterberg 
 #### Vice klubbmästare 
-**Favoritdrink:** Fernet on the rocks <br>
-**Gillar:** Pissa i handfat <br>
-**Ogillar:** Fest hemma <br>
-**Specialitet:** NSFW citat <br>
+**Favoritdrink:** Longer Island Ice Tea <br>
+**Gillar:** Marmarela <br>
+**Ogillar:** Happy socks <br>
+**Specialitet:** Sova på fester <br>
 **Citat:**
-_Jag kan supa utan att ha kul, inga problem_
+_Jag är typ kvinncel, det händer inget_
 
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793648115925042/tilde_1.jpeg?ex=65a6bb54&is=65944654&hm=805f9922a03bbf3ac715d5c3fde7d0ac196ef9ebe7ade32eb9a1f78b38675a40&">  
+<img align="right" src="https://drive.google.com/uc?export=view&id=1-7KCsVfhWe5e7tu5UTbVEkcaZxkqm334">  
 
-### Tilde Tärnvik
+### Julia Lohman
 #### Ekonomimästare  
-**Favoritdrink:** Kirredbull <br>
-**Gillar:** Tjaj-latte <br>
-**Ogillar:** Mycket saker, inklusive dig <br>
-**Specialitet:** Resorbhets <br>
+**Favoritdrink:** Vodka redbull <br>
+**Gillar:** Bolaget (båda två) <br>
+**Ogillar:** Varmboga <br>
+**Specialitet:** Ragebaita i Valorant <br>
 **Citat:**
-_Fucking fyllos, hela bunten_
+_Den bara ber om att bli tagen_
 
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793536341909545/Issa_1.jpeg?ex=65a6bb39&is=65944639&hm=96205eb2f6eb98db10951b68baf34dca4b7027883e94045fa3e18a419f32b249&"> 
+<img align="right" src="https://drive.google.com/uc?export=view&id=1IMPXe1bLY4_FO6rx6-M4ROHARXM0Q28H"> 
 
-### Isabella Allgén Takami
+### Algot Levin
 #### Barmästare  
-**Favoritdrink:** Allt utan selleri <br>
-**Gillar:** Hundar <br>
-**Ogillar:** Din hand på min panna <br>
-**Specialitet:** Slagsmål <br>
+**Favoritdrink:** Whiskey Sour <br>
+**Gillar:** Foodora <br>
+**Ogillar:** Whiskey Sour på Hardox <br>
+**Specialitet:** Gambling <br>
 **Citat:**
-_Jag rawdoggar life_  
+_Jag kan inte dansa utan att rizza_  
 
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793570273824929/Love_1.jpeg?ex=65a6bb41&is=65944641&hm=3ad63b5c810996df2346ef0d39a55fabf277aee75a933d380a5914fba46ca781&"> 
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Rf9cy2ZbdLbKW9LUQMTaVOSB9MjCi1Uz"> 
 
-### Love Belin
-#### Festmästare 
-**Favoritdrink:** Raffe <br>
-**Gillar:** Tomma skåp (Tottenham supporter) <br>
-**Ogillar:** Att dela mat med dig <br>
-**Specialitet:** Spoona <br>
+### Emelie Söderlund
+#### Barmästare 
+**Favoritdrink:** Strawberry Limoncello <br>
+**Gillar:** Celcius <br>
+**Ogillar:** Missa Sean Banan <br>
+**Specialitet:** Gå på toa i spritis <br>
 **Citat:**
-_Mouth to mouth, ass to ass_
+_Jag fick alkfri Nocco_
 
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793668215033938/yusuf_1.jpeg?ex=65a6bb58&is=65944658&hm=c1552c3729d3145915d1c922e871850fd32879684c757b8e811c1a44c6285768&"> 
+<img align="right" src="https://drive.google.com/uc?export=view&id=12t2u4wXmaF5NPrIy3U9zqN7E47U1a3gM"> 
 
-### Yusuf Mohamed
+### Leo Andersson Guillou
 #### Infomästare  
-**Favoritdrink:** Halmstad crush <br>
-**Gillar:**  Att bonga i folks förråd <br>
-**Ogillar:** Oliver (personen asså) <br> 
-**Specialitet:** Dumma kurrebet <br>
+**Favoritdrink:** grogg i vattenflaska <br>
+**Gillar:**  Alpha Wolf <br>
+**Ogillar:** Bli anklagad för alarm <br> 
+**Specialitet:** Deko maxing <br>
 **Citat:** 
-_...så bara mjölkar du en säl?_  
+_Om ni ska ha sex vill jag va med_  
 
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191788342308773949/Lovisa_1.png?ex=65a6b663&is=65944163&hm=424862a90bdb08cc670f2eb723f361b61c825c42eac307aa0a84dfa997405a45&">  
+<img align="right" src="https://drive.google.com/uc?export=view&id=1SaCDXVViorD_4kw75P_p1_GKK9p2Nzmz">  
 
-### Lovisa Sjöberg
+### Emma Wandel
 #### Infomästare
-**Favoritdrink:** Absinthe i Prag <br>
-**Gillar:**  Öhh <br>
-**Ogillar:** Buss 50 <br>
-**Specialitet:** Kan bara shotta i Prag <br>
+**Favoritdrink:** Girly shot <br>
+**Gillar:**  Sweet treat <br>
+**Ogillar:** Cider på sturep <br>
+**Specialitet:** Kullerbytor <br>
 **Citat:**
-_Fanta get me to fucking jesus_
+_Det är ni som har förstört mig_
 
 <!-- Fel bild -->
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793532399271996/Fabian_1.png?ex=65a6bb38&is=65944638&hm=59200e7d5b45b96f5ec08fe28b03495aa1e3a3d97b69995f5c36263985b388d1&">
+<img align="right" src="https://drive.google.com/uc?export=view&id=1shHVl1IEJLCse319P1Vhpk7ZWc7UBxK3">
 
-### Fabian Öst
-#### VodkaKnatte
-**Favoritdrink:** Ren fkn vodka <br>
-**Gillar:** White girl music <br>
-**Ogillar:** Kopparberg 7% <br>
-**Specialitet:** Göra snöänglar på trägolv <br>
+### Ben Samson
+#### Festmästare
+**Favoritdrink:** Whey sours <br>
+**Gillar:**  Kött <br>
+**Ogillar:** Vegetarisk <br>
+**Specialitet:** Alarm på lördagar <br>
 **Citat:**
-_Koka lite Bacardi bara_
+_Jag var ett knäckebröd på Lucia_
 
 <!-- Fel bild -->
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793580465983528/marcus_1.jpeg?ex=65a6bb44&is=65944644&hm=0182797462a921d6eb593e85d50ecc58ff2c894e8af58537677a0adc361bf188&">  
+<img align="right" src="https://drive.google.com/uc?export=view&id=19q-p_Th_rHvOn3Jdiw3SnoZpSPnATvPU">
 
-### Marcus Bardvall
-#### MåsKnatte
-**Favoritdrink:** [Fill in the Blanc] <br>
-**Gillar:** Odenplan <br>
-**Ogillar:** Måsar <br>
-**Specialitet:** Separera äggvita <br>
+### Neo Carlberg
+#### LVKnatte
+**Favoritdrink:** Drink n' voi <br>
+**Gillar:** MAX-meny 03:00 <br>
+**Ogillar:** Trollhättan <br>
+**Specialitet:** 01:or <br>
 **Citat:**
-_Fuck baka, det är bara 'stirra in i en smet'-simulator_  
+_Brännskador maxing_
 
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793515164868739/elin_1.jpeg?ex=65a6bb34&is=65944634&hm=9c32dd6a1c2f5a7c304a4273226b6d3b750e1212a63956b830d5f1d39708f9f7&"> 
+<!-- Fel bild -->
+<img align="right" src="https://drive.google.com/uc?export=view&id=1WhRsbjDxyeFigzNDx4VBQnhmt8hiC-Go">  
 
-### Elin Johnsson
-#### GrishKnatte
-**Favoritdrink:** Båtminttu <br>
-**Gillar:** Sune (hoppas han e snygg) <br>
-**Ogillar:** BBQ sås i köket <br>
-**Specialitet:** Bli igenkänd av foodora <br>
+### Melker Hultdin
+#### LostKnatte
+**Favoritdrink:** Pajala Sunrise <br>
+**Gillar:** Förfest till frukost <br>
+**Ogillar:** Ryggskador <br>
+**Specialitet:** Åka fel med SL <br>
 **Citat:**
-_Nej nej nej, den ska in i munnen_  
+_Jag hoppas såsen smakar_  
 
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793506482659468/albin_1.jpeg?ex=65a6bb32&is=65944632&hm=babb52533f368115571f6a5862216058682e2bbae33ac8b54d613379dc4651cb&"> 
+<img align="right" src="https://drive.google.com/uc?export=view&id=11ux8AgDu4UadJQUSKW7g2ZcqHUudFMut"> 
 
-### Albin Törnqvist
-#### KnuspKnatte  
-**Favoritdrink:** Saltgurkshot <br>
-**Gillar:** Gammeldansk <br>
-**Ogillar:** Knuspriga vindruvor <br>
-**Specialitet:** Fetsnygga kostymer <br>
+### Mariam Hamad
+#### GossipKnatte
+**Favoritdrink:** RBV (iced cotton candy flavour) <br>
+**Gillar:** TikTok <br>
+**Ogillar:** Smält plast <br>
+**Specialitet:** Från klubben till jobbet <br>
 **Citat:**
-_Jag är för stel, ni måste hjälpa_  
+_Jag kan aldrig separera dom_  
 
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793559666438155/lisa_1.jpeg?ex=65a6bb3f&is=6594463f&hm=52f83b86c7edb22db8ba8bf9c04d24d42a6a1dd034c2b9f709ebdb7f9e11a895&"> 
+<img align="right" src="https://drive.google.com/uc?export=view&id=1z7tLDUcLDIKZExpN7pIAZ7yG8H1Lheqo"> 
 
-### Lisa Engström
-#### AgentKnatte
-**Favoritdrink:** 43 (groggar på en gång) <br>
-**Gillar:** Näbbdjuret Perry <br>
-**Ogillar:** Tacobar utan sprit <br>
-**Specialitet:** Inte hitta i stockholm <br>
+### Josephine Jerselius
+#### UncKnatte  
+**Favoritdrink:** Vodka Ruschian <br>
+**Gillar:** DJ:a <br>
+**Ogillar:** Bli utslängd från Max <br>
+**Specialitet:** Va, är du yngre än mig!? <br>
 **Citat:**
-_Fuck barn_
+_Du kan ingenting om vad jag har gjort_  
 
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793614108499999/Olga_1.jpeg?ex=65a6bb4c&is=6594464c&hm=042a95f7ba9c926f3d29bea551305a144c7914bf6933ee56fa64de14197e62d5&"> 
+<img align="right" src="https://drive.google.com/uc?export=view&id=1GiTDLsFFUIe-6edwKSP4IsTlhWQJbKaR"> 
 
-### Olga Wollbo
-#### ArmbrytarKnatte
-**Favoritdrink:** Piggelin <br>
-**Gillar:** Bryta armar <br>
-**Ogillar:** Kemetyl <br>
-**Specialitet:** Kniv <br>
+### Elias Engström
+#### KinkKnatte
+**Favoritdrink:** Shots (du väljer) <br>
+**Gillar:** Spela fotboll (även om skadad) <br>
+**Ogillar:** Bli bakis <br>
+**Specialitet:** Inte hitta cash <br>
 **Citat:**
-_Jag vill inte leka mer_
+_Vi behöver komma djupt_
 
-<img align="right" src="https://cdn.discordapp.com/attachments/904428196689215549/1191793638108319864/teo_1.jpg?ex=65a6bb51&is=65944651&hm=bd9f9ee140895faa0dcb1cc5985bcffc37cec781e12324be73e7f7a43324551c&"> 
+<img align="right" src="https://drive.google.com/uc?export=view&id=1xpRXDMgoROPR4f5RE60rW8x7MjtGo1a2"> 
 
-### Teodor Denell
-#### BjörnKnatte
-**Favoritdrink:** Lacknafta <br>
-**Gillar:** Fuck bitches <br>
-**Ogillar:** die trying <br>
-**Specialitet:** 50 cent under 00-talet <br>
+### Adam Wahren
+#### KlassiskKnatte
+**Favoritdrink:** Ren Fireball <br>
+**Gillar:** Öl <br>
+**Ogillar:** Kaffe <br>
+**Specialitet:** Rizza ordningsvakter <br>
 **Citat:**
-_Man ska fan inte hålla på å fiffla med glöggen_
+_Det luktade barbapung_
+
+<img align="right" src="https://drive.google.com/uc?export=view&id=1BDLuiKviYugFOq44T13aceeH4CBIfi7u"> 
+
+### Tina Lin
+#### IkeaKnatte
+**Favoritdrink:** Frukt (spikead såklart) <br>
+**Gillar:** Sova 13 timmar per dag <br>
+**Ogillar:** Koriander <br>
+**Specialitet:** sms från konstigt nummer <br>
+**Citat:**
+_Jag sitter bunden med dig_
 
 ## Cliff
 
 Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför de kallas för Cliff? Fråga närmsta Cliff!
 
+### Cliff -25
+* __Love Belin__
+  * Klubbmästare
+  * _Jag har ändå inte på mina sexiga kalsonger_
+* __Marcus Bardvall__
+  * Vice klubbmästare
+  * _Are you a lord or a common?_
+* __Elin Johnsson__
+  * Festmästare
+  * _Jag är inte kvinncel_
+* __Albin Törnqvist__
+  * Festmästare
+  * _Vill någon provköra min korv?_
+* __Olga Wollbo__
+  * Festmästare
+  * _Ge papí ett bloss nu_
+* __Lisa Engström__
+  * Infomästare
+  * _Det är aldrig för sent att ge upp_
+* __Teodor Denell__
+  * Ekonomimästare
+  * _VARFÖR SKA VI STÅ DÄR O MYGLA_
+* __Fabian Öst__
+  * Barmästare
+  * _Då har du 7 timmar att bärsa!_
+
+### Cliff -24
+* __Tom Rhenström__
+  * Klubbmästare
+  * _Det är kvällens kvällar_
+* __Olle Järnström__
+  * Vice klubbmästare
+  * _Jag kan supa utan att ha kul, inga problem_
+* __Tilde Tärnvik__
+  * Ekonomimästare
+  * _Fucking fyllos, hela bunten_
+* __Isabella Allgén Takami__
+  * Barmästare
+  * _Jag rawdoggar life_
+* __William Krull__
+  * Barmästare
+  * _Jävlar vilken suction du har_
+* __Yusuf Mohamed__
+  * Infomästare
+  * _...så bara mjölkar du en säl?_
+* __Lovisa Sjöberg__
+  * Infomästare
+  * _Fanta get me to fucking jesus_
+
+
 ### Cliff -23
+* __Lucas Dow__
+  * Klubbmästare
+  * _???_
 * __Maja Larsson__
   * Vice klubbmästare
   * _Det kom en jättestor finne å jag blev så jävla stressad_
