@@ -118,7 +118,6 @@ _Om ni ska ha sex vill jag va med_
 **Citat:**
 _Det är ni som har förstört mig_
 
-<!-- Fel bild -->
 <img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/ben.jpg?raw=true">
 
 ### Ben Samson
