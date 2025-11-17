@@ -41,7 +41,7 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 
 ## Medlemmar  
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Yhv-kUeX-aGbbtPPGC3og9C32G7pFJKQ">  
+<img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/nedea.jpg?raw=true">  
 
 ### Nedea Haukebö
 #### Klubbmästare  
@@ -52,7 +52,7 @@ För att få mer info om events och annat kan det vara en fördel att kika in oc
 **Citat:**
 _I am the most important person_
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=1ncDw7b8rvuOVVS_SFQqNLwFFmQv_zdbe">  
+<img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/wutt.jpg?raw=true">  
 
 ### William Utterberg 
 #### Vice klubbmästare 
@@ -63,7 +63,7 @@ _I am the most important person_
 **Citat:**
 _Jag är typ kvinncel, det händer inget_
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=1-7KCsVfhWe5e7tu5UTbVEkcaZxkqm334">  
+<img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/julia.jpg?raw=true">  
 
 ### Julia Lohman
 #### Ekonomimästare  
@@ -74,7 +74,7 @@ _Jag är typ kvinncel, det händer inget_
 **Citat:**
 _Den bara ber om att bli tagen_
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=1IMPXe1bLY4_FO6rx6-M4ROHARXM0Q28H"> 
+<img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/algot.jpg?raw=true"> 
 
 ### Algot Levin
 #### Barmästare  
@@ -85,7 +85,7 @@ _Den bara ber om att bli tagen_
 **Citat:**
 _Jag kan inte dansa utan att rizza_  
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Rf9cy2ZbdLbKW9LUQMTaVOSB9MjCi1Uz"> 
+<img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/emelie.jpg?raw=true"> 
 
 ### Emelie Söderlund
 #### Barmästare 
@@ -96,7 +96,7 @@ _Jag kan inte dansa utan att rizza_
 **Citat:**
 _Jag fick alkfri Nocco_
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=12t2u4wXmaF5NPrIy3U9zqN7E47U1a3gM"> 
+<img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/leo.jpg?raw=true"> 
 
 ### Leo Andersson Guillou
 #### Infomästare  
@@ -107,7 +107,7 @@ _Jag fick alkfri Nocco_
 **Citat:** 
 _Om ni ska ha sex vill jag va med_  
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=1SaCDXVViorD_4kw75P_p1_GKK9p2Nzmz">  
+<img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/emma.jpg?raw=true">  
 
 ### Emma Wandel
 #### Infomästare
@@ -118,8 +118,7 @@ _Om ni ska ha sex vill jag va med_
 **Citat:**
 _Det är ni som har förstört mig_
 
-<!-- Fel bild -->
-<img align="right" src="https://drive.google.com/uc?export=view&id=1shHVl1IEJLCse319P1Vhpk7ZWc7UBxK3">
+<img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/ben.jpg?raw=true">
 
 ### Ben Samson
 #### Festmästare
@@ -130,8 +129,7 @@ _Det är ni som har förstört mig_
 **Citat:**
 _Jag var ett knäckebröd på Lucia_
 
-<!-- Fel bild -->
-<img align="right" src="https://drive.google.com/uc?export=view&id=19q-p_Th_rHvOn3Jdiw3SnoZpSPnATvPU">
+<img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/neo.jpg?raw=true">
 
 ### Neo Carlberg
 #### LVKnatte
@@ -142,8 +140,7 @@ _Jag var ett knäckebröd på Lucia_
 **Citat:**
 _Brännskador maxing_
 
-<!-- Fel bild -->
-<img align="right" src="https://drive.google.com/uc?export=view&id=1WhRsbjDxyeFigzNDx4VBQnhmt8hiC-Go">  
+<img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/melker.jpg?raw=true">  
 
 ### Melker Hultdin
 #### LostKnatte
@@ -154,7 +151,7 @@ _Brännskador maxing_
 **Citat:**
 _Jag hoppas såsen smakar_  
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=11ux8AgDu4UadJQUSKW7g2ZcqHUudFMut"> 
+<img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/mariam.jpg?raw=true"> 
 
 ### Mariam Hamad
 #### GossipKnatte
@@ -165,7 +162,7 @@ _Jag hoppas såsen smakar_
 **Citat:**
 _Jag kan aldrig separera dom_  
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=1z7tLDUcLDIKZExpN7pIAZ7yG8H1Lheqo"> 
+<img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/jossan.jpg?raw=true"> 
 
 ### Josephine Jerselius
 #### UncKnatte  
@@ -176,7 +173,7 @@ _Jag kan aldrig separera dom_
 **Citat:**
 _Du kan ingenting om vad jag har gjort_  
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=1GiTDLsFFUIe-6edwKSP4IsTlhWQJbKaR"> 
+<img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/elias.jpg?raw=true"> 
 
 ### Elias Engström
 #### KinkKnatte
@@ -187,7 +184,7 @@ _Du kan ingenting om vad jag har gjort_
 **Citat:**
 _Vi behöver komma djupt_
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=1xpRXDMgoROPR4f5RE60rW8x7MjtGo1a2"> 
+<img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/adam.jpg?raw=true"> 
 
 ### Adam Wahren
 #### KlassiskKnatte
@@ -198,7 +195,7 @@ _Vi behöver komma djupt_
 **Citat:**
 _Det luktade barbapung_
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=1BDLuiKviYugFOq44T13aceeH4CBIfi7u"> 
+<img align="right" src="https://github.com/dkmkth/scandalous-pecs/blob/main/dkm2526/tina.jpg?raw=true"> 
 
 ### Tina Lin
 #### IkeaKnatte
@@ -266,7 +263,7 @@ Cliff kallas de som efter trogen tjänst valt att gå ur DKM. Undrar du varför 
 ### Cliff -23
 * __Lucas Dow__
   * Klubbmästare
-  * _???_
+  * _Hjälp mig skriva din egen undergång_
 * __Maja Larsson__
   * Vice klubbmästare
   * _Det kom en jättestor finne å jag blev så jävla stressad_
