@@ -7,7 +7,7 @@ kontaktfunktionär.
 
 En förteckning över funktionärernas kontaktperson i styrelsen finns [här](https://dsekt.se/kontaktperson).
 
-## Ordförande - Fredrik Blomqvist
+## Ordförande - Carl Blomqvist
 
 Sektionens ordförande leder D-rektoratets arbete. Ordföranden ansvarar
 även för kontakten med THS och andra sektioner.
@@ -21,7 +21,7 @@ om vad som hänt under året.
 
 Ordförande är nåbar på [ordf@datasektionen.se](mailto:ordf@datasektionen.se).
 
-## Vice ordförande - Emma Ericsson
+## Vice ordförande - Elin Andersson Lundell
 
 Vice ordförandens viktigaste roll är att assistera och avlasta
 ordförande för att säkerställa att denna inte överarbetar sig. I detta
@@ -38,7 +38,7 @@ ansvar för sektionens nycklar och accesser.
 
 Vice ordförande är nåbar på [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
 
-## Sekreterare - Jonathan Blomlöf
+## Sekreterare - Felix Murnion
 
 Sekreteraren är ansvarig för styrdokument, handlingar, protokoll och annan
 formalia på sektionen.
@@ -49,7 +49,7 @@ Sekreteraren ansvarar också för att brev delas ut till rätt personer.
 
 Sekreterare är nåbar på [sekreterare@datasektionen.se](mailto:sekreterare@datasektionen.se).
 
-## Kassör - Lukas Malmberg
+## Kassör - Sofie Bälter
 
 Kassören håller helt enkelt reda på sektionens ekonomiska bit. Det
 gäller deklarationer, fakturor och naturligtvis bokföringen. Kassören
@@ -59,7 +59,7 @@ och sektionsordföranden är de som har firmateckningsrätt för sektionen.
 
 Kassör är nåbar på [kassor@datasektionen.se](mailto:kassor@datasektionen.se).
 
-## Vice kassör - Sofie Bälter
+## Vice kassör - Carl Hansson
 
 Vice kassör arbetar tillsammans med kassören med sektionens ekonomi och finns
 som extra stöd i ekonomiska frågor och arbetar naturligtvis även med bokföring.
@@ -68,7 +68,7 @@ som extra stöd i ekonomiska frågor och arbetar naturligtvis även med bokföri
 
 Vice kassör är nåbar på [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se).
 
-## Ledamot för näringsliv och kommunikation - Toshihide Sakao
+## Ledamot för näringsliv och kommunikation - Max Berglund
 
 Arbetar med och för i styrelsen de frågor
 som rör näringsliv och kommunikation, samt är kontaktperson för
@@ -84,7 +84,7 @@ som avser dessa områden. Dessa ansvarsområden inkluderar att:
 
 Ledamot för näringsliv och kommunikation är nåbar på [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se).
 
-## Ledamot för studiesociala frågor - Carl Blomqvist
+## Ledamot för studiesociala frågor - Filip Ramslöv
 
 Har frågor som rör medlemmarnas psykiska
 och fysiska miljö som ansvarsområde. Arbetar med att utveckla
@@ -104,7 +104,7 @@ den psykosociala miljön.
 
 Ledamot för studiesociala frågor är nåbar på [d-ssf@datasektionen.se](mailto:d-ssf@datasektionen.se).
 
-## Ledamot för utbildningsfrågor - Emil Wallgren
+## Ledamot för utbildningsfrågor - Soma Szabó
 
 Det löpande arbetet med utbildningsfrågor sköts av Studienämnden. Deras
 kontaktperson i styrelsen ser till att arbetet inte stannar av. Ibland
@@ -115,7 +115,7 @@ håller.
 
 Ledamot för utbildningsfrågor är nåbar på [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
 
-## Ledamot för studiemiljö och likabehandling - Karmela Eliasson
+## Ledamot för studiemiljö och likabehandling - Albin Haraldsson
 
 Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
