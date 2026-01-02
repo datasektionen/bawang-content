@@ -2,10 +2,27 @@ The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It i
 
 # Nominations to the Honorary Delta
 
-Nominations to the Honorary Delta 2025 are made in this [form](https://dsekt.se/hedersdelta)! You can also make nominations by emailing the [d-Directorate](mailto:drek@datasektionen.se) (the board of the chapter).
+Nominations to the Honorary Delta 2026 are made in this [form](https://dsekt.se/hedersdelta)! You can also make nominations by emailing the [d-Directorate](mailto:drek@datasektionen.se) (the chapter board).
 
-# Possessors of Hedersdeltat
+# Possessors of the Honorary Delta
+
+## Recipients 2025
+
+<dl>
+  <dt></dt>
+  <dd>
+    <a href="#adamsjo">Adam Sjöberg</a>, Tricesimus Septimus
+  </dd>
+  <dd>
+    <a href="#enordlo">Erik Nordlöf</a>, Tricesimus Septimus
+  </dd>
+  <dd>
+    <a href="#dow">Lucas Dow</a>, Duodequadragesimus
+  </dd>
+</dl>
+
 ## Recipients 2024
+
 <dl>
   <dt></dt>
   <dd>
@@ -23,6 +40,7 @@ Nominations to the Honorary Delta 2025 are made in this [form](https://dsekt.se/
 </dl>
 
 ## Recipients 2023
+
 <dl>
   <dt></dt>
   <dd>
