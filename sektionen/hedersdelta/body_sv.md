@@ -818,6 +818,16 @@ läsa längre ner på sidan.
 
 # Motiveringar till utdelandet av förtjänsttecken <a name="motivering"></a>
 
+## Motiveringar till 2025 års mottagare
+
+### Adam Sjöberg <a name="adamsjo"></a>
+
+Adam Sjöberg har under sin tid som sektionsmedlem alltid mött andra med ett varmt leende och en varmare attityd. Han har gång på gång osjälviskt varit en klippa som många förlitat, och har därför blivit en välkänd och omtyckt sektionsmedlem.
+
+Att Adam alltid satt sektionen först är ingenting man kan argumentera mot. Med 10 dFunk-mandat under sitt bälte, många av dem tunga, och ännu fler internfunktionärsposter har han gång på gång gett sektionen allt han haft oavsett vad det kostat. Som D-Dagenansvarig fick han utmaningen att åter starta sektionens arbetsmarknadsmässa efter pandemin, ett jobb han utförde med en bravur som satte tonen i flera år efteråt. Adam såg samtidigt över inköp av en ny sektionsbil som Mulle Schmeck och som ledamot i styrelsen såg han till att starta rutiner och traditioner som lever kvar än i dag, och efter ett och ett halvt år som ledamot axlade han rollen som Ordförande. I denna roll såg han över förändringar i hela sektionen, och arbetade själv hårt bland annat för att byta bank och säkerställa en god ekonomisk framtid för sektionen genom långsiktiga investeringar.
+
+För sitt enorma engagemang, upplyftande attityd, stora uppoffringar och ihärdiga insatser för sektionen tilldelas Adam Sjöberg Hedersdeltat.
+
 ## Motiveringar till 2024 års mottagare
 
 #### David Puustinen <a name="davidpu"></a>
