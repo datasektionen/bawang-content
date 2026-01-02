@@ -5,10 +5,24 @@ läsa längre ner på sidan.
 
 # Hedersdelta-nomineringar
 
-[Här](https://dsekt.se/hedersdelta) kan nomineringar till Hedersdeltat 2025 göras! Självklart
-går det även att maila D-rektoratet.
+[Här](https://dsekt.se/hedersdelta) kan nomineringar till Hedersdeltat 2026 göras! Självklart går det även att maila D-rektoratet.
 
 # Innehavare av Hedersdeltat
+
+## Mottagare 2025
+
+<dl>
+  <dt></dt>
+  <dd>
+    <a href="#adamsjo">Adam Sjöberg</a>, Tricesimus Septimus
+  </dd>
+  <dd>
+    <a href="#enordlo">Erik Nordlöf</a>, Tricesimus Septimus
+  </dd>
+  <dd>
+    <a href="#dow">Lucas Dow</a>, Duodequadragesimus
+  </dd>
+</dl>
 
 ## Mottagare 2024
 
@@ -803,6 +817,32 @@ går det även att maila D-rektoratet.
 </dl>
 
 # Motiveringar till utdelandet av förtjänsttecken <a name="motivering"></a>
+
+## Motiveringar till 2025 års mottagare
+
+### Adam Sjöberg <a name="adamsjo"></a>
+
+Adam Sjöberg har under sin tid som sektionsmedlem alltid mött andra med ett varmt leende och en varmare attityd. Han har gång på gång osjälviskt varit en klippa som många förlitat, och har därför blivit en välkänd och omtyckt sektionsmedlem.
+
+Att Adam alltid satt sektionen först är ingenting man kan argumentera mot. Med 10 dFunk-mandat under sitt bälte, många av dem tunga, och ännu fler internfunktionärsposter har han gång på gång gett sektionen allt han haft oavsett vad det kostat. Som D-Dagenansvarig fick han utmaningen att åter starta sektionens arbetsmarknadsmässa efter pandemin, ett jobb han utförde med en bravur som satte tonen i flera år efteråt. Adam såg samtidigt över inköp av en ny sektionsbil som Mulle Schmeck och som ledamot i styrelsen såg han till att starta rutiner och traditioner som lever kvar än i dag, och efter ett och ett halvt år som ledamot axlade han rollen som Ordförande. I denna roll såg han över förändringar i hela sektionen, och arbetade själv hårt bland annat för att byta bank och säkerställa en god ekonomisk framtid för sektionen genom långsiktiga investeringar.
+
+För sitt enorma engagemang, upplyftande attityd, stora uppoffringar och ihärdiga insatser för sektionen tilldelas Adam Sjöberg Hedersdeltat.
+
+### Erik Nordlöf <a name="enordlo"></a>
+
+Erik Nordlöf har under sin tid inom sektionen varit en drivkraft likt få andra. Han har många gånger gjort sig tillgängliga för att bistå andra med deras projekt liksom ämbeten, samtidigt som han själv arbetat mot sina mål, och gjort så med god energi och motivation.
+
+Erik har alltid värnat om studentkulturen på sektionen och har ständigt strävat efter att förbättra den studiesociala verksamheten för sektionens medlemmar. Tidigt tog han på sig posten som D-Fest för att göra sina medfunktionärers tillvaro roligare, och har sedan dess ständigt arbetat för att förbättra och bevara det roliga med att vara sektionsmedlem. Under pandemin när nästan all verksamhet hejdades arrangerade han digitala event för att hålla igång studentlivet, och som Prylmånglare såg han till att bibehålla samt berika ovve- och märkeskulturen. Efter pandemin möttes Erik av utmaningen att som D-Dagenansvarig hålla den första fysiska arbetsmarknadsmässan, något som han gjorde med bravur. Mot slutet av sin karriär valdes Erik till Ledamot för studiesociala frågor där han drev igenom en organisationsstrukturförändring i mån om att förbättra sektionens arbetssätt, en insats som man kommer kunna se spår av lång tid framöver.
+
+För sina insatser i att fortsätta sektionens studiesociala verksamhet under svåra tider, utveckla organisationen och att meningsfullt främja student- och sångkulturen på sektionen, tilldelas Erik Nordlöf Hedersdeltat.
+
+### Lucas Dow <a name="dow"></a>
+
+Lucas Dow har under sin sektionstid blivit en förebild för många och någon som man alltid är nöjd med efter att ha jobbat med. Han engagerade sig från första början i DKM, och blev sitt andra år vald till Infomästare. Med en detour där han var med och startade den första stora METAcraft-servern avslutade han snart ett exemplarisk jobb som Infomästare och tog på sig det tunga ansvaret som Klubbmästare. Där jobbade Lucas hårt med förbättra kulturen inom och mot DKM samt med att få igång pubkulturen efter pandemin.
+
+Under sitt fjärde år i Mottagningen tjänstgjorde Lucas som Konglig Öfverdrif. Där satte han en hög ribba när han organiserade och skapade Den Svarta Filmen 2, men även genom sitt arbete som mottagningsansvarig där han förbättrade arbetsförhållandena för personalen utan att försämra upplevelsen för de nyantagna. Efter att ha anordnat så många event byggde han till slut en helt egen biljettjänst som han lät sektionen använda kostnadsfritt, vilket underlättade enormt för många delar av sektionen.
+
+För sina insatser för sektionen i helhet och otroliga engagemang i och för sektionens klubbmästeri och mottagning tilldelas Lucas Dow Hedersdeltat.
 
 ## Motiveringar till 2024 års mottagare
 

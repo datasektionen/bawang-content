@@ -7,7 +7,7 @@ the decisions at chapter meetings are executed, coordinate different parts of th
 
 Each board member is the contact person in the board for some of out elected volunteers a list can be found [here](https://dsekt.se/kontaktperson).
 
-## The Chairman - Fredrik Blomqvist
+## The Chairman - Carl Blomqvist
 
 The Chairman is in charge of the D-directorate and the contact with THS and other chapters.
 The Chairman and the Vice Chairman work in close cooperation to create a plan and a vision with the rest of the board.
@@ -18,7 +18,7 @@ In addition to this The Chairman is an authorized signatory for the chapter and 
 
 The Chairman can be reached at [ordf@datasektionen.se](mailto:ordf@datasektionen.se).
 
-## Vice chairman - Emma Ericsson
+## Vice chairman - Elin Andersson Lundell
 
 The Vice chairmans primary role is to assist the Chairman and make sure
 that the every board members workload is reasonable and that they are feeling well.
@@ -31,7 +31,7 @@ The Vice chairman does many tasks that aren't related to any other board member 
 
 The Vice chairman can be reached at [vordf@datasektionen.se](mailto:vordf@datasektionen.se).
 
-## The Secretary - Jonathan Blomlöf
+## The Secretary - Felix Murnion
 
 The Secretary is responsible for documenting D-directorate and chapter meetings
 and to write protocols and archive them.
@@ -40,7 +40,7 @@ and to write protocols and archive them.
 
 The Secretary can be reached at [sekreterare@datasektionen.se](mailto:sekreterare@datasektionen.se).
 
-## The Treasurer - Lukas Malmberg
+## The Treasurer - Sofie Bälter
 
 The Treasurer is responsible for the most things related to economics.
 This includes declarations, bills, payments, and accounting. The Treasurer
@@ -50,7 +50,7 @@ is an authorized signatory for the chapter.
 
 The Treasurer can be reached at [kassor@datasektionen.se](mailto:kassor@datasektionen.se).
 
-## Vice treasurer - Sofie Bälter
+## Vice treasurer - Carl Hansson
 
 The Vice treasurer assists the Treasurer with most things related to economics.
 
@@ -58,7 +58,7 @@ The Vice treasurer assists the Treasurer with most things related to economics.
 
 The Vice treasurer can be reached at [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se).
 
-## Board member of Business Relations - Toshihide Sakao
+## Board member of Business Relations - Max Berglund
 
 Works with business related question and our projects and committees related to this area.
 Is also responsible for internal communications and that important information is available to our members.
@@ -67,7 +67,7 @@ Is also responsible for internal communications and that important information i
 
 The Board member of Business Relations can be reached at [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se).
 
-## Board member of Student Issues - Carl Blomqvist
+## Board member of Student Issues - Filip Ramslöv
 
 Works with question regarding the well being of our members, working environment, and
 social events.
@@ -76,7 +76,7 @@ social events.
 
 The Board member of Student Issues can be reached at [d-ssf@datasektionen.se](mailto:d-ssf@datasektionen.se).
 
-## Board member of Educational Affairs - Emil Wallgren
+## Board member of Educational Affairs - Soma Szabó
 
 This board member works closely with the study council and works as a
 link between them and the board.
@@ -86,7 +86,7 @@ link between them and the board.
 The Board member of Educational Affairs can be reached at [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
 
 
-## Board member of Study environment and Equality - Karmela Eliasson
+## Board member of Study environment and Equality - Albin Haraldsson
 
 Has an overall responsibility for all issues connected to the physical and psychological study environment. Is the person to contact on the board for questions relating to these areas. These responsibilities include
 
