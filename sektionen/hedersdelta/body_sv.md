@@ -836,6 +836,13 @@ Erik har alltid värnat om studentkulturen på sektionen och har ständigt strä
 
 För sina insatser i att fortsätta sektionens studiesociala verksamhet under svåra tider, utveckla organisationen och att meningsfullt främja student- och sångkulturen på sektionen, tilldelas Erik Nordlöf Hedersdeltat.
 
+### Lucas Dow <a name="dow"></a>
+
+Lucas Dow har under sin sektionstid blivit en förebild för många och någon som man alltid är nöjd med efter att ha jobbat med. Han engagerade sig från första början i DKM, och blev sitt andra år vald till Infomästare. Med en detour där han var med och startade den första stora METAcraft-servern avslutade han snart ett exemplarisk jobb som Infomästare och tog på sig det tunga ansvaret som Klubbmästare. Där jobbade Lucas hårt med förbättra kulturen inom och mot DKM samt med att få igång pubkulturen efter pandemin.
+
+Under sitt fjärde år i Mottagningen tjänstgjorde Lucas som Konglig Öfverdrif. Där satte han en hög ribba när han organiserade och skapade Den Svarta Filmen 2, men även genom sitt arbete som mottagningsansvarig där han förbättrade arbetsförhållandena för personalen utan att försämra upplevelsen för de nyantagna. Efter att ha anordnat så många event byggde han till slut en helt egen biljettjänst som han lät sektionen använda kostnadsfritt, vilket underlättade enormt för många delar av sektionen.
+
+För sina insatser för sektionen i helhet och otroliga engagemang i och för sektionens klubbmästeri och mottagning tilldelas Lucas Dow Hedersdeltat.
 
 ## Motiveringar till 2024 års mottagare
 
