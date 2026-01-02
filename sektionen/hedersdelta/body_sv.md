@@ -828,6 +828,15 @@ Att Adam alltid satt sektionen först är ingenting man kan argumentera mot. Med
 
 För sitt enorma engagemang, upplyftande attityd, stora uppoffringar och ihärdiga insatser för sektionen tilldelas Adam Sjöberg Hedersdeltat.
 
+### Erik Nordlöf <a name="enordlo"></a>
+
+Erik Nordlöf har under sin tid inom sektionen varit en drivkraft likt få andra. Han har många gånger gjort sig tillgängliga för att bistå andra med deras projekt liksom ämbeten, samtidigt som han själv arbetat mot sina mål, och gjort så med god energi och motivation.
+
+Erik har alltid värnat om studentkulturen på sektionen och har ständigt strävat efter att förbättra den studiesociala verksamheten för sektionens medlemmar. Tidigt tog han på sig posten som D-Fest för att göra sina medfunktionärers tillvaro roligare, och har sedan dess ständigt arbetat för att förbättra och bevara det roliga med att vara sektionsmedlem. Under pandemin när nästan all verksamhet hejdades arrangerade han digitala event för att hålla igång studentlivet, och som Prylmånglare såg han till att bibehålla samt berika ovve- och märkeskulturen. Efter pandemin möttes Erik av utmaningen att som D-Dagenansvarig hålla den första fysiska arbetsmarknadsmässan, något som han gjorde med bravur. Mot slutet av sin karriär valdes Erik till Ledamot för studiesociala frågor där han drev igenom en organisationsstrukturförändring i mån om att förbättra sektionens arbetssätt, en insats som man kommer kunna se spår av lång tid framöver.
+
+För sina insatser i att fortsätta sektionens studiesociala verksamhet under svåra tider, utveckla organisationen och att meningsfullt främja student- och sångkulturen på sektionen, tilldelas Erik Nordlöf Hedersdeltat.
+
+
 ## Motiveringar till 2024 års mottagare
 
 #### David Puustinen <a name="davidpu"></a>
