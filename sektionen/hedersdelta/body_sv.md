@@ -5,10 +5,24 @@ läsa längre ner på sidan.
 
 # Hedersdelta-nomineringar
 
-[Här](https://dsekt.se/hedersdelta) kan nomineringar till Hedersdeltat 2025 göras! Självklart
-går det även att maila D-rektoratet.
+[Här](https://dsekt.se/hedersdelta) kan nomineringar till Hedersdeltat 2026 göras! Självklart går det även att maila D-rektoratet.
 
 # Innehavare av Hedersdeltat
+
+## Mottagare 2025
+
+<dl>
+  <dt></dt>
+  <dd>
+    <a href="#adamsjo">Adam Sjöberg</a>, Tricesimus Septimus
+  </dd>
+  <dd>
+    <a href="#enordlo">Erik Nordlöf</a>, Tricesimus Septimus
+  </dd>
+  <dd>
+    <a href="#dow">Lucas Dow</a>, Duodequadragesimus
+  </dd>
+</dl>
 
 ## Mottagare 2024
 
