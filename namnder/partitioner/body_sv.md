@@ -36,13 +36,13 @@ Tech-i-takas syfte är att samla intresse för fotboll och stärka sammanhållni
 Love Belin, [lovebel@datasektionen.se](lovebel@datasektionen.se)
 
 ## METAcraft
-METAcrafts syfte är att driva och underhålla sektionens Minecraftserver.
+METAcrafts syfte är att driva och underhålla sektionens Minecraftserver. Besök dem på [metacraft.nu](https://metacraft.nu/).
 
 ### Herobrine
 Alvin Westling, [alvinw@datasektionen.se](alvinw@datasektionen.se)
 
 ## Bakverket
-Bakverket syfte är att främja och samla intresset för bakning inom sektionen.
+Bakverkets syfte är att främja och samla intresset för bakning inom sektionen.
 
 ### Bakis
 Natan Söderström, [natans@datasektionen.se](natans@datasektionen.se)
