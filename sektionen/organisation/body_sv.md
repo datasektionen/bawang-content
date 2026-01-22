@@ -58,7 +58,7 @@ Det går också att genomföra projekt inom sektionen. Ett projekt är som en ti
 
 ### Funktionärer
 
-På [dFunkt](https://dfunkt.datasektionen.se) hittar du information om alla våra funktionärer. Våra funktionärer väljs av sektionsmötet. Varje funktionär är ansvarig för en nämnd eller del av verksamheten på sektionen. Om du själv vill bli funktionär så kontaktar du [Valberedningen](/sektionen/val) för att kandidera till ett förtroendeuppdrag. Information om vad det innebär att vara funktionär finns i vår [introgüide](https://bit.ly/intropholdr2).
+På [dFunkt](https://dfunkt.datasektionen.se) hittar du information om alla våra funktionärer. Våra funktionärer väljs av sektionsmötet. Varje funktionär är ansvarig för en nämnd eller del av verksamheten på sektionen. Om du själv vill bli funktionär så kontaktar du [Valberedningen](/sektionen/val) för att kandidera till ett förtroendeuppdrag. Information om vad det innebär att vara funktionär finns i vår [introgüide](https://dsekt.se/introguide).
 
 ### Revisorer
 
