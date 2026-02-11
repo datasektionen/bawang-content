@@ -4,7 +4,7 @@ Ada är en nämnd vars syfte är att främja kvinnor och ickebinära på Datasek
 
 **Ada 25/26**
 
-- Sara Weister *- Adas Ordförande*
+- Sara Weister *-  Adas Ordförande*
 - Tilde Joseffson
 - Mariam Hamad 
 - Sibell Israelsson
