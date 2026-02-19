@@ -2,6 +2,17 @@
 
 Ada is a club working for the women and non-binary folks in the Computer Science chapter, which are in minority. We want to create spaces for women and non-binary people to meet each other within the chapter. We arrange gasques, pubs and other fun events, primarly aimed towards women and NBs. If you want to know more you can follow us on Facebook and Instagram, or contact us using the information on this page!
 
+**Ada 25/26**
+
+- Sara Weister *- Ada's Chairwoman*
+- Tilde Joseffson
+- Mariam Hamad 
+- Sibell Israelsson
+- Emma Wandel
+- Julia Tsung
+- Silan Cetinkaya
+- Sofia Hulth
+  
 <br />
 **Ada 24/25**
 
