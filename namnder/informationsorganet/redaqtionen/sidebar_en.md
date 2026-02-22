@@ -2,7 +2,7 @@
 
 #### Editor in chief
 
-Emelie Ruixin Cao</br>
+Hannes Hultin</br>
 [chefred@dbu.gg](mailto:chefred@dbu.gg)
 
 ## Letter to the editor

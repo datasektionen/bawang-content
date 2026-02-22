@@ -7,7 +7,7 @@ Jonathan Almgren
 
 **Vice Talman:**
 
-Karl-Isac Åström
+Hanna Zhang
 [vicetalman@datasektionen.se](mailto:vicetalman@datasektionen.se)
 
 **Sekreterare**
