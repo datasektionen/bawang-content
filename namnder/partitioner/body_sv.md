@@ -1,9 +1,9 @@
 # Partitioner
 Partitioner är mindre grupper inom Datasektionen som bedriver verksamhet utifrån ett gemensamt intresseområde.
 
-Om du vill starta en partition för att samla ihop folk som delar just ditt intresse så kan du skriva till [drek@datasektionen.se](mailto:drek@datasektionen.se).
+Om du vill starta en partition för att samla personer som delar just ditt intresse så kan du skriva till [drek@datasektionen.se](mailto:drek@datasektionen.se).
 
-Undrar du något annat om partitioner? Då kan du gärna läsa sektionens [PM för partitioner](https://styrdokument.datasektionen.se/pm/pm_partitioner).
+Har du några frågor om partitioner? Då kan du gärna läsa sektionens [PM för partitioner](https://styrdokument.datasektionen.se/pm/pm_partitioner).
 
 ## Närstridskommittén
 Närstridskommitténs anordnar turneringar och spelkvällar för att väcka och samla intresse för fightingspel.
