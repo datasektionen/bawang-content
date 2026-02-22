@@ -45,4 +45,4 @@ Alvin Westling, [alvinw@datasektionen.se](alvinw@datasektionen.se)
 The pastry aims to gather and promote interest in baking within the chapter.
 
 ### Bakis
-Natan Söderström, [natans@datasektionen.se](natans@datasektionen.se)
+Edvard Messler, [natans@datasektionen.se](emessler@datasektionen.se)
