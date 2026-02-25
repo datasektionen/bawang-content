@@ -1,12 +1,12 @@
 # Current elections
 
-Elections are done through [the chapters election system](https://val.datasektionen.se). Ballot-box voting for Chapter president, vice president, treasurer, and representatives in the Student Union Council are done through [durn.datasektionen.se](https://durn.datasektionen.se).
+Elections are done through [the chapters election system](https://val.datasektionen.se). Ballot-box voting for Chapter Chairman, Vice Chairman, Treasurer, and representatives in the Student Union Council are done through [durn.datasektionen.se](https://durn.datasektionen.se).
 
 If you have any questions, email [valberedare@datasektionen.se](mailto:valberedare@datasektionen.se).
 
 To read more in detail as well as nominate and answer nominations, visit [val.datasektionen.se](https://val.datasektionen.se).
 
-Nominations are made a few weeks in advance of chapter meetings with elections, normally you can nominate sometime in November and April.
+Nominations are made a few weeks in advance of chapter meetings with elections, normally you can nominate sometime in Mars and October.
 
 <div id="elections"></div>
 <script type="text/javascript" src="https://val.datasektionen.se/js/cors/component.js"></script>
