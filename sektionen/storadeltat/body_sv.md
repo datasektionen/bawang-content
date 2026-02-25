@@ -1,4 +1,4 @@
-The Great Delta is a distinction of merit awarded by the Computer Science Chapter to chapter members who have voluntarily accomplished a great feat for the chapter. [Motiveringar](#motivering) för varje mottagare finnas att läsa längre ner på sidan.
+Stora deltat är ett förtjänsttecken på Konglig Datasektionens som delas ut till de sektionsmedlemmar som ideellt begått en stor bragd för sektionen. [Motiveringar](#motivering) för varje mottagare finnas att läsa längre ner på sidan.
 
 # Innehavare av Stora deltat
 
