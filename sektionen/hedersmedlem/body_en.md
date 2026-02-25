@@ -1,19 +1,22 @@
-An honorary member is a person that has especially supported the chapters interests and aspirations. To nominate a honorary member a motion is sent to the [d-Directorate](mailto:drek@datasektionen.se) with a motivation, so that it can be brought up on the next chapter meeting for decision.
+Computer Science Chapter's Honorary members
+------------------------------
+
+An honorary member is a person that has *especially supported the chapters interests and aspirations*. To nominate a honorary member a motion is sent to the [D-directorate](mailto:drek@datasektionen.se) with a motivation, so that it can be brought up on the next chapter meeting for decision.
 
 ## Members
 
 -   Richard Glassey, Examinator INDA 2025,
--   Viggo Kann, Study principle Computer science 2025,
--   Monika Lundell, Vice Program responsible Computer science 2025,
--   Örjan Ekeberg, Programansvarig Datateknik, 2019
--   Helen Lindkvist, Student counselor Media technology, 2015
--   Alicja Lissenko, Student counselor Computer science, 2015
+-   Viggo Kann, Study principle Computer Science 2025,
+-   Monika Lundell, Vice Program responsible Computer Science 2025,
+-   Örjan Ekeberg, Program responsible Datateknik, 2019
+-   Helen Lindkvist, Student counselor Media Technology, 2015
+-   Alicja Lissenko, Student counselor Computer Science, 2015
 -   Kjelle och Heidi, Wardens, 2015
 -   Lena Edvardsson, 2013
 -   Stefan Nilsson, 2013
 -   Henrik Eriksson, 2012
--   Britt Isaksson, Student counselor Computer science, 2008
--   Stefan Arnborg, Program responsible Computer science, 2005
+-   Britt Isaksson, Student counselor Computer Science, 2008
+-   Stefan Arnborg, Program responsible Computer Science, 2005
 -   Inger Larsson, Head of offices, 1997
 -   Yngve Sundblad, former Prodekanus, 1988
 -   Stefan Östlund, Electrical engineering, 1983
@@ -23,122 +26,86 @@ An honorary member is a person that has especially supported the chapters intere
 ### Richard Glassey
 
 {{ if .reception -}}
-*Beskrivning saknas.*
+*Description missing.*
 {{- else -}}
-Ric Glassey har i många år varit examinator och kursansvarig för INDAn som är många av sektionens medlemmars första introduktion till programmering. Genom denna exemplariska kurs har Ric gett många motivationen för att fortsätta i programmet och varit enormt öppen för förbättring från studenter. Ric har genom kursen blivit en enormt uppskattat lärare och dessutom en vän till sektionen. Detta genom att bland annat i flera år samarbetat med mottagningen och dessutom varit med och toastat en av sektionens sittningar. Allt detta innebär att Ric gjort sig välförtjänt av att bli hedersmedlem hos Datasektionen.
+For many years, Ric Glassey has served as examiner and course coordinator for INDA, which is many of the chapter's members' first introduction to programming. Through this exemplary course, Ric has given many the motivation to continue in the programme and has been tremendously open to improvement based on student feedback. Through the course, Ric has become a highly appreciated teacher and, moreover, a friend of the chapter. This is evident, among other things, through his several years of collaboration with the Reception and by having served as toastmaster at one of the chapter's gasques. All of this means that Ric has made himself well deserving of becoming an honorary member of the Computer Science Chapter.
 {{- end }}
 
 ### Viggo Kann
 
-Under sin långa karriär på KTH har Viggo Kann hela tiden försökt underlätta för Datateknikprogrammets studenter. Han har gång på gång arbetat för att datastudenterna ska bli hörsammade och för att vår studieinflytande ska förbättras. I synnerhet har Viggo varit mer än samarbetsvillig med sektionens studienämnd och JML-arbete, där han genom sin roll som examinator för prosam flera gånger låtit sektionen förmedla information till programmets studenter. Viggo har även sett till att det finns schemalagd tid under D-Dagen för att programmets studenter inte ska hindras av andra kurser från att gå på sektionens arbetsmarknadsmässa. Viggo har helt enkelt verkligen visat sig värdig av att vara en hedersmedlem hos sektionen.
+During his long career at KTH, Viggo Kann has consistently sought to make things easier for the students of the Computer Science programme. Time and again, he has worked to ensure that computer science students are heard and that our student influence is strengthened. In particular, Viggo has been more than willing to collaborate with the chapter's Educational Committee and its Equality, Diversity and Inclusion efforts. In his role as examiner for Prosam, he has on several occasions allowed the chapter to communicate information directly to the programme's students. Viggo has also ensured that scheduled time is set aside during D-Dagen so that programme students are not prevented by other courses from attending the chapter's career fair. Quite simply, Viggo has truly proven himself worthy of being an honorary member of the chapter.
 
 ### Monika Lundell
 
-Som Vice Programansvarig för Datateknikprogrammet har Monika alltid stått upp för sektionen liksom programmets studenter. Från kansliets sida är det alltid hon som deltar vid våra SM som representant, där hon ofta stannat kvar ett tag efter sin rapportpunkt, och med gott humör visat ett genuint intresse för sektionen. Vid många tillfällen har Monika dessutom direkt stått upp för sektionens intressen, studierelaterade liksom studiesociala, gentemot EECS och kansliet. Inte minst har Monika jobbat väldigt nära studienämnden för att förbättra utbildningen på flera fronter, vilket även setts då hon själv deltagit vid en av sektionens klagostugor. Genom allt detta engagemang och intresse är Monika solklart förtjänt av att vara hedersmedlem hos sektionen.
+As Vice Programme Director for the Computer Science programme, Monika has always stood up for both the chapter and the programme's students. From the programme office's side, she is consistently the one who attends our Chapter Meetings as its representative, often remaining for some time after her report item and, in good spirits, demonstrating a genuine interest in the chapter. On many occasions, Monika has also directly advocated for the chapter's interests - both academic and social - towards EECS and the programme office. Not least, she has worked very closely with the Educational Committee to improve the education on several fronts, something that was also evident when she personally attended one of the chapter's student feedback forums. Through all this engagement and interest, Monika is clearly deserving of being an honorary member of the chapter.
 
 ### Örjan Ekeberg
 {{ if .reception -}}
-*Beskrivning saknas.*
+*Description missing.*
 {{- else -}}
-Örjan Ekeberg har varit programansvarig i flera år och aktivt arbetat med att förbättra programmet för oss alla. Han har alltid haft studenternas bästa i åtanke och gjort allt han kunnat för att få skolsammanslagningen att bli så bra som möjligt. Han har även ställt upp för Mottagningen i flera år och firat sina bemärkelsedagar med oss. Med detta kan man utan tvekan säga att Örjan förtjänar vara hedersmedlem hos Datasektionen.
+Örjan Ekeberg has served as Programme Director for several years and has actively worked to improve the programme for all of us. He has always had the students' best interests at heart and has done everything he could to ensure that the school merger would turn out as well as possible. He has also supported the Reception for several years and celebrated his milestone birthdays with us. With this in mind, one can without hesitation say that Örjan deserves to be an honorary member of the Data Chapter.
 {{- end }}
 
 ### Helen Lindkvist och Alicja Lissenko
 
-Våra studievägledare gör helt otroligt mycket för att hjälpa sektionsaktiva studenter med att
-få studierna att gå ihop. De förtjänar ett tack.
+Our academic advisors do an incredible amount of work to help chapter-active students balance their studies. They deserve our thanks.
 
 ### Kjelle och Heidi
 
-Vissa är bättre än andra.
+Some are better than others.
 
 ### Lena Edvardsson
 
-*Beskrivning saknas.*
+*Description missing.*
 
 ### Stefan Nilsson
 
-*Beskrivning saknas.*
+*Description missing.*
 
 ### Henrik Eriksson
 
 ✟ 2017-07-27
 
 {{ if .reception -}}
-*Beskrivning saknas.*
+*Description missing.*
 {{- else -}}
-Henrik Eriksson har i många års tid varit en nära vän till sektionen.
-Han har bland annat ställt upp för sektionens Mottagning ett otal
-gånger, hållt sci-fi-föredrag i ESCapen, delat ut böcker samt deltagit i
-många andra aktiviteter vid sektionen. Dock har sektionen framförallt
-Henrik att tacka för hans goda pedagogik och inspirerande engagemang i
-de många kurser han hållt för oss dataloger genom åren. Henrik är alltid
-öppen, glad och trevlig mot oss studenter samt har alltid vårt bästa i
-åtanke. Att han fortsätter göra sitt yttersta för att få undervisa för
-oss trots att rektorn ignorerat våra demonstrationer och sagt upp honom
-på grund av hans ålder säger en hel del. Kort sagt är Henrik en nära vän
-som sedan länge förtjänar att bli hedersmedlem.
+For many years, Henrik Eriksson has been a close friend of the chapter. Among other things, he has supported the chapter's Reception on numerous occasions, held sci-fi lectures in ESCapen, distributed books, and participated in many other chapter activities. Above all, however, the chapter has Henrik to thank for his excellent pedagogy and inspiring dedication in the many courses he has taught for us computer science students over the years. Henrik is always open, cheerful, and kind toward us students and consistently has our best interests at heart. That he continues to do his utmost to teach us despite the rector having ignored our demonstrations and dismissed him due to his age says a great deal. In short, Henrik is a close friend who has long deserved to become an honorary member.
 {{- end }}
 
 ### Britt Isaksson
 
 {{ if .reception -}}
-*Beskrivning saknas.*
+*Description missing.*
 {{- else -}}
-Britt 'Bitte' Isaksson, har under ett antal år varit den man vänder sig
-till när man har problem med sin utbildning. Många ledsna dataloger har
-förtvivlat sökt sig till kansliet, men med glada steg gått därifrån
-efter ett samtal med Bitte. Men inte nog med det, Bitte har även glatt
-ställt upp i mer studentikosa sammanhang, och hjälper gärna till med så
-väl mottagningen som annat. Att hon alltid glad och hjälpsam mot alla
-frustrerade Dataloger gör Bitte mer än väl förtjänt av ett
-hedersmedlemskap.
+Britt "Bitte" Isaksson has for several years been the person to turn to when one encounters problems with one's education. Many distressed computer science students have anxiously sought out the programme office, only to leave with lighter steps after a conversation with Bitte. But not only that, Bitte has also gladly participated in more student-oriented contexts and is always happy to help with the Reception as well as other activities. That she is consistently cheerful and helpful toward all frustrated computer science students makes Bitte more than well deserving of honorary membership.
 {{- end }}
 
 ### Stefan Arnborg
 
 ✟ 2023-10-29
 
-Stefan Arnborg har varit programansvarig för D-programmet i drygt 10 år
-och därigenom starkt engagerad i programmets kvalitet och utveckling. De
-utmärkta möjligheter vi har att påverka vårt program är till stor del
-hans förtjänst. Därför kan man utan tveka hävda att Stefan Arnborg
-synnerligen främjat sektionens intressen.
+Stefan Arnborg served as Programme Director for the D Programme for just over ten years and was therefore deeply engaged in the programme's quality and development. The excellent opportunities we have to influence our programme are to a large extent his doing. Therefore, one can without hesitation assert that Stefan Arnborg has greatly advanced the chapter's interests.
 
 ### Inger Larsson
 
 {{ if .reception -}}
-*Beskrivning saknas.*
+*Description missing.*
 {{- else -}}
-Inger Larsson har i egenskap av världens troligen mest godhjärtade
-människa alltid ställt upp för Konglig Datasektionen. Hon har både i
-sitt arbete som kanslichef och privat ställt upp med tid och pengar för
-sektionens bästa. Inger Larsson har alltid en minut över för den som
-behöver henne.
+Inger Larsson, likely one of the most kind-hearted people in the world, has always supported the Computer Science Chapter. Both in her role as Head of the Programme Office and in her private capacity, she has contributed time and financial support for the good of the chapter. Inger Larsson always has a minute to spare for anyone who needs her.
 
-Inger Larsson skall dessutom premieras för sina enastående
-skådespelarinsatser i "Den svarta filmen" (1995) och i diverse
-mottagningsaktiviteter genom åren.
+Inger Larsson should furthermore be recognized for her outstanding acting performances in "Den svarta filmen" (1995) and in various Reception activities over the years.
 
-Kort sagt är Inger Larsson Datasektionens ständige vän och har sedan
-länge förtjänat åtminstone ett hedersmedlemskap.
+In short, Inger Larsson is the chapter's steadfast friend and has long deserved at least a honorary membership.
 {{- end }}
 
 ### Yngve Sundblad
 
-Yngve Sundblad var en av de drivande krafterna bakom Datatekniklinjens
-tillkomst på KTH. Han har därefter verkat som Linjenämndens ordförande
-samt Prodekanus. Han utnämndes till Hedersmedlem, i samband med Konglig
-Datasektionens 5-års jubiléum, som ett bevis på vår uppskattning av hans
-genuina engagemang för Datatekniklinjen genom åren.
+Yngve Sundblad was one of the driving forces behind the establishment of the Computer Science programme at KTH. He subsequently served as Chair of the Programme Board and as Vice Dean. He was appointed Honorary Member in connection with the Computer Science Chapter's 5th anniversary as a token of our appreciation for his genuine commitment to the programme over the years.
 
 ### Stefan Östlund, Katrin Rosenqvist, Johan Groth
 
 {{ if .reception -}}
-*Beskrivning saknas.*
+*Description missing.*
 {{- else -}}
-Johan Groth, Katrin Rosenqvist och Stefan Östlund var på skilda sätt
-aktiva i samband med Primus mottagning och grundandet av Kongliga
-Datasektionen. De blev Hedersmedlemmar av Konglig Datasektionen på dess
-konstitutionerande SM i oktober 1983.
+Johan Groth, Katrin Rosenqvist, and Stefan Östlund were, in different ways, active in connection with the Primus Reception and the founding of the Computer Science Chapter. They were appointed Honorary Members of the Computer Science Chapter at its constitutional Chapter Meeting in October 1983.
 {{- end }}
