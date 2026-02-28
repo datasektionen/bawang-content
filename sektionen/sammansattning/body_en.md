@@ -1,8 +1,8 @@
 # Members of the Board
 
-The D-directorate is the board of the Computer Science chapter and consists of seven members. They are the Chairman, Vice Chairman, Treasurer, Vice Treasurer, Secretary, and four more board members that are responsible for business relations, student issues, educational issues, and study environment and equality. Together they arrange Chapter Meetings, make sure the decisions at chapter meetings are executed, coordinate different parts of the chapter, and make strategic and long term plans.
+The D-Directorate is the board of the Computer Science Chapter and consists of nine members. The board is responsible for arranging Chapter Meetings (SM) and executing the decisions made during them, coordinating the chapter's work, and working on long-term strategic plans for the chapter's operations.
 
-Each board member is the contact person in the board for some of out elected volunteers a list can be found [here](https://dsekt.se/kontaktperson).
+All chapter officials have a contact on the board. The list of officials and their contacts on the board may be found [here](https://dsekt.se/kontaktperson).
 
 ## The Chairman - Carl Blomqvist
 
