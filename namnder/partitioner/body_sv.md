@@ -29,14 +29,6 @@ Blodgruppens mål är att öka medvetandet om blodgivning och motivera sektionen
 
 Carl Blomqvist, [dracula@datasektionen.se](dracula@datasektionen.se)
 
-## Scala
-
-Scalas syfte är att kultivera studenters musikaliska talang genom att regelbundet anordna körrep. Målet är att låta studenter ha kul tillsammans genom sång och trevligt häng.
-
-### Körmästare
-
-Vakant, skriv till styrelsen om du är intresserad!
-
 ## Tech-i-taka
 
 Tech-i-takas syfte är att samla intresse för fotboll och stärka sammanhållningen i sektionen genom att spöa andra sektioner.

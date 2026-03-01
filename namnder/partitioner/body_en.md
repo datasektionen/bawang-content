@@ -45,11 +45,11 @@ The Pastry aims to promote interest in baking within the chapter.
 
 Edvard Messler, [bakis@datasektionen.se](bakis@datasektionen.se)
 
-## dRådet (d'Council)
+## d'Council (dRådet)
 
 The purpose of d'Council is to create an open and continuous forum where chapter members can discuss chapter-related matters, present proposals for improvement, and exchange ideas regarding the chapter's activities.
 
-### dRådgivaren (d'Advisor)
+### d'Advisor
 
 Douglas Fischer, [dradgivare@datasektionen.se](dradgivare@datasektionen.se)
 
