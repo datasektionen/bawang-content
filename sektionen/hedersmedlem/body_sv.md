@@ -1,10 +1,7 @@
 Datasektionens hedersmedlemmar
 ------------------------------
 
-En hedersmedlem är en sådan person som *synnerligen främjat sektionens
-intressen och strävanden*. För att nominera hedersmedlem skickas motion
-in till D-Rektoratet med en motivering, så att denna sedan ska kunna tas
-upp på nästkommande Sektionsmöte för beslut.
+En hedersmedlem är en sådan person som *synnerligen främjat sektionens intressen och strävanden*. För att nominera hedersmedlem skickas motion in till D-rektoratet med en motivering, så att denna sedan ska kunna tas upp på nästkommande Sektionsmöte för beslut.
 
 ## Medlemmar
 
