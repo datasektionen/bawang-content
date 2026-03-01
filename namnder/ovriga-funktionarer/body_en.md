@@ -48,6 +48,14 @@ If you'd like to book sound- and/or light equipment you can do so in [The Bookin
 The Booking System is only avalible in Swedish, but bookings can be in English also :)
 
 
+## Mulle/Mullerina Schmeck - Casimir Bähr
+Mulle/Mullerina Schmeck works to keep the chapter's cars Cerise and Lusen on the road. The chapter has two cars, Cerise which is a Nissan NV300 wrapped in the chapter's colours, and Lusen which is an electric Citroën.
+
+To use one of the cars you must both contact Mulle/Mullerina Schmeck to receive instructions and book the car in the booking system at [bokning.datasektionen.se](https://bokning.datasektionen.se). Important information about each car and how they are used is available (in Swedish) in the car guides for [Cerise](https://dsekt.se/bilguide) and [Lusen](https://dsekt.se/elbilguide).
+
+After each journey you must fill in the [driving journal](https://dsekt.se/korjournal). Drive safely!
+
+
 ## Program responsible student - Niels Barth
 
 The program responsible student works together with the chairman of the Study Committee to improve the quality of the education. In practice, the work consists of meetings with teachers and those responsible for the program at EECS and meetings centrally at THS.
