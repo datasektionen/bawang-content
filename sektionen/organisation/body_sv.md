@@ -36,7 +36,7 @@ DM är sektionens styrelsemöten. Alla sektionsmedlemmar har närvarorätt och y
 
 ## Verksamhet
 
-<img src="https://dsekt-assets.s3.amazonaws.com/organisation/verksamhetskarta.png" style="width:100%;"  />
+<img src="https://static.datasektionen.se/organisation/organisationskarta-2026-03-05.png" style="width:100%;"  />
 
 Sektionen har en bred verksamhet som våra medlemmar kan ta del av. Verksamheten leds av styrelsen och genomförs av våra förtroendevalda funktionärer och nämnder. Varje funktionär är ansvarig för en specifik del av verksamheten och vi har nämnder för de större verksamhetsområdena.
 
