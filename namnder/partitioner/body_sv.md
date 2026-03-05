@@ -1,9 +1,9 @@
 # Partitioner
 Partitioner är mindre grupper inom Datasektionen som bedriver verksamhet utifrån ett gemensamt intresseområde.
 
-Om du vill starta en partition för att samla ihop folk som delar just ditt intresse så kan du skriva till [drek@datasektionen.se](mailto:drek@datasektionen.se).
+Om du vill starta en partition för att samla personer som delar just ditt intresse så kan du skriva till [drek@datasektionen.se](mailto:drek@datasektionen.se).
 
-Undrar du något annat om partitioner? Då kan du gärna läsa sektionens [PM för partitioner](https://styrdokument.datasektionen.se/pm/pm_partitioner).
+Har du några frågor om partitioner? Då kan du gärna läsa sektionens [PM för partitioner](https://styrdokument.datasektionen.se/pm/pm_partitioner).
 
 ## Närstridskommittén
 
@@ -28,14 +28,6 @@ Blodgruppens mål är att öka medvetandet om blodgivning och motivera sektionen
 ### dRacula
 
 Carl Blomqvist, [dracula@datasektionen.se](dracula@datasektionen.se)
-
-## Scala
-
-Scalas syfte är att kultivera studenters musikaliska talang genom att regelbundet anordna körrep. Målet är att låta studenter ha kul tillsammans genom sång och trevligt häng.
-
-### Körmästare
-
-Vakant, skriv till styrelsen om du är intresserad!
 
 ## Tech-i-taka
 
@@ -68,3 +60,11 @@ dRådets syfte är att skapa ett öppet och kontinuerligt forum där sektionsmed
 ### dRådgivaren
 
 Douglas Fischer, [dradgivare@datasektionen.se](dradgivare@datasektionen.se)
+
+## Inaktiva partitioner
+
+En fullständig förteckning över inaktiva partitioner hittar du i [detta dokument](https://docs.google.com/document/d/1EXV1tr7Y06gjqwc6_LpFL9iX4gh-fRYOdrF1ID6Ivag/edit?tab=t.0#heading=h.jr4ui09yxauz). Några inaktiva partitioner listas nedan.
+
+* Scala: Leds av Körmästare, ämnar att kultivera studenters musikaliska talang genom att regelbundet anordna körrep.
+
+Vill du återuppliva en inaktiv partition? Kontakta styrelsen!

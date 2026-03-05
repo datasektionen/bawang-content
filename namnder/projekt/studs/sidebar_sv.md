@@ -2,5 +2,5 @@
 
 #### Projektledare för Studs
 
-Alice Norrthon</br>
+Jonathan Blomlöf</br>
 [ansvarig@studs.se](mailto:ansvarig@studs.se)

@@ -7,11 +7,11 @@ Roger Chen
 
 **Resterande Valberedare:**
 
-- Felicia Murkes
+- Karl-Isac Åström
+- Hugo Karlsson
+- Kristin Rosen
 - Jenny Backlund Stridh
-- Liam Thorell
 - Olof Bargholtz Melcherson
-- Sean Zisheng Xu Zhang
-- Sofia Wallgren
+- Liam Thorell
 
 [valberedare@datasektionen.se](mailto:valberedare@datasektionen.se)

@@ -2,7 +2,7 @@
 
 #### Chefredaqtör
 
-Emelie Ruixin Cao</br>
+Hannes Hultin</br>
 [chefred@dbu.gg](mailto:chefred@dbu.gg)
 
 ## Insändare

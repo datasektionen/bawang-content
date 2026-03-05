@@ -2,5 +2,5 @@
 
 #### Project leader
 
-Skye Kaijser</br>
+Vacant</br>
 [pride@datasektionen.se](mailto:pride@datasektionen.se)
