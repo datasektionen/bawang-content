@@ -2,7 +2,7 @@
 
 #### D-fest
 
-Samuel Hörnell</br>
+Elliot Elmenbeck</br>
 [fest@datasektionen.se](mailto:fest@datasektionen.se)
 
 ## Mattermost

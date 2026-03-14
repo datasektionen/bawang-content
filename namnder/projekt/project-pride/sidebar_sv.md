@@ -2,5 +2,5 @@
 
 #### Projektledare för Project Pride
 
-Skye Kaijser</br>
+Vakant</br>
 [pride@datasektionen.se](mailto:pride@datasektionen.se)

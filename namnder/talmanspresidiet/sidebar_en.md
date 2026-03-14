@@ -7,10 +7,10 @@ Jonathan Almgren
 
 **Vice Speaker:**
 
-Karl-Isac Åström
+Hanna Zhang
 [vicetalman@datasektionen.se](mailto:vicetalman@datasektionen.se)
 
 **Secretary**
 
-Jonathan Blomlöf
+Felix Murnion
 [sekreterare@datasektionen.se](mailto:sekreterare@datasektionen.se)

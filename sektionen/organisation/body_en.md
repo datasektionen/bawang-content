@@ -39,7 +39,7 @@ The Board of Directors Meeting. All of the chapter members have the right to att
 
 ## Activities
 
-<img src="https://dsekt-assets.s3.amazonaws.com/organisation/verksamhetskarta.png" style="width:100%;" />
+<img src="https://dsekt-assets.s3.eu-west-1.amazonaws.com/organisation/organisationskarta-2026-03-05.png" style="width:100%;" />
 
 The chapter has a wide range of activities that our members can take part of. It is led by the board and carried out by our elected officials and clubs. Every official is responsible 
 

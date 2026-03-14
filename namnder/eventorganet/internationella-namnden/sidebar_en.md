@@ -2,7 +2,7 @@
 
 #### International Student Coordinator
 
-Elias Wetterwik</br>
+Anton Enblom</br>
 [isc@datasektionen.se](mailto:isc@datasektionen.se)
 
 ## WhatsApp

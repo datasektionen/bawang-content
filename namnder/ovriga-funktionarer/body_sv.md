@@ -1,6 +1,6 @@
 # Övriga funktionärer
 
-Den fulla listan av funktionärer, inklusive nämndansvarige, kan finnas på [dfunkt.datasektionen.se](https://dfunkt.datasektionen.se/).
+En lista med alla funktionärer hittar du på [dfunkt.datasektionen.se](https://dfunkt.datasektionen.se/).
 
 
 ## Datas Art Director (DAD) - Emilie Ruixin Cao
@@ -8,7 +8,7 @@ Den fulla listan av funktionärer, inklusive nämndansvarige, kan finnas på [df
 DAD samarbetar med övriga i sektionen vid behov eller önskemål av design och grafisk utveckling, exempelvis logotyper och andra symboler som representerar sektionen. DAD synliggör också sektionens funktionärer i sektionslokalen med dFunktavlan, administrerar och lånar ut sektionens konstnärliga licenser samt administrerar över sektionens video- och fotoutrustning.
 
 
-## Fanbärare - Herman Karlsson & Kevin Wenström (vice)
+## Fanbärare - Emil Wallgren & Jonathan Blomlöf (vice)
 
 Fanbärarna försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Observera att fanan skall hållas högt. Att vara Fanbärare är en mycket hedersfylld post på sektionen. Fanbärarna bär huvudansvaret för att sektionens fana hålls i gott skick.
 
@@ -28,24 +28,32 @@ Maila oss om du undrar över något om Kårfullmäktige, eller om du har försla
 
 ### Kårfullmäktigeledamöter
 
-- Adam Sjöberg
-- Erik Nordlöf
-- Erik Hedlund
-- Fredrik Blomqvist
+- Lukas Malmberg
+- Filip Ramslöv
+- Emma Ericsson
+- Johanna Plant
 
 ### Kårfullmäktigesuppleanter
 
-- Axel Andin Johansson
 - Olof Bargholtz Melcherson
+- Kevin Wenström
 
 [Facebook](https://facebook.com/KF.Data)
 
 
-## Ljud- och ljusansvarig - Abdelrahman Aldaker 
+## Ljud- och ljusansvarig - David Berglund
 
 Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning.
 
 Vill du boka ovannämnd utrustning görs det lättast på [Datasektionens bokningssystem](https://bokning.datasektionen.se/bookings/12).
+
+
+## Mulle/Mullerina Schmeck - Casimir Bähr
+Mulle/Mullerina Schmeck ser till att sektionsbilarna Cerise och Lusen fortsätter att rulla. Sektionen har två bilar, Cerise som är en Nissan NV300 folierad i sektionens färger och elbilen Lusen som är en Citroën.
+
+För att använda en av bilarna behöver du både ta kontakt med Mulle/Mullerina Schmeck för att få instruktioner, samt boka bilen i bokningssystemet på [bokning.datasektionen.se](https://bokning.datasektionen.se). Viktig information om bilarna och hur de används finns i bilguiderna för [Cerise](https://dsekt.se/bilguide) och[Lusen](https://dsekt.se/elbilguide). 
+
+Efter varje resa måste man fylla i [körjournalen](https://dsekt.se/korjournal). Kör försiktigt!
 
 
 ## Programansvarig student - Niels Barth
@@ -55,10 +63,10 @@ Programansvarige arbetar tillsammans med Studienämndens ordförande för att f�
 
 ## Revisorerna
 
+- Fredrik Blomqvist (granskar 2026)
+- Lukas Malmberg (granskar 2026)
 - Adam Sjöberg (granskar 2025)
 - Erik Hedlund (granskar 2025)
-- David Puustinen (granskar 2024)
-- Jakob Carlsson (granskar 2024)
 
 Revisorerna håller koll på styrelsen och tolkar styrdokument. 
 
@@ -67,7 +75,7 @@ Mer information om vad revisorerna håller på med kan ni läsa om i [sektionens
 [Kontakta oss](mailto:revisorer@datasektionen.se) om ni har några frågor kring sektionens styrdokument eller något annat som berör sektionen.
 
 
-## Studiemiljöansvarig (SMA) - Malcolm Mångsén
+## Studiemiljöansvarig (SMA) - Nicklas Peng
 
 Studiemiljöansvarig har till uppgift att övervaka EECS:s lokaler åt sektionen och är ansvarig för sektionslokalens brandsäkerhet. Funktionären skall såväl proaktivt som reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
 
@@ -76,6 +84,6 @@ Studiemiljöansvarig har till uppgift att övervaka EECS:s lokaler åt sektionen
 
 Arrangerar samt leder sektionsmötet. Ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet. Talman är neutral och uttalar inte sin personliga ståndpunkt i sakfrågor.
 
-## Vice Talman - Karl-Isac Åström
+## Vice Talman - Hanna Zhang
 
 Hjälper Talman och är neutral.
