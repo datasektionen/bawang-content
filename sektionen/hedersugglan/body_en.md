@@ -16,7 +16,7 @@ The Owl of Honor is a distinction of merit awarded to chapter members who have r
     <a href="#patrikj8">Patrik Johansson</a>, Duodequadragesimus
   </dd>
   <dd>
-    <a href="#rmfseo">Rafael Mealha Fino Serra E Oliveira</a>, International
+    <a href="#rmfseo">Rafael Mealha Fino Serra e Oliveira</a>, International
   </dd>
 </dl>
 
@@ -50,7 +50,7 @@ Beyond this, Patrik has also served with distinction as Master's representative 
 
 For his hard work and dedication to the quality of education in the Computer Science and Engineering programme, Patrik Johansson is awarded the Owl of Honor.
 
-### Rafael Mealha Fino Serra E Oliveira <a name="rmfseo"></a>
+### Rafael Mealha Fino Serra e Oliveira <a name="rmfseo"></a>
 
 During his time with the study board, Rafael has distinguished himself with his good work ethic and commitment. He has participated with dedication and drive in the chapter’s study board as a master representative for the Cybersecurity Master since his first year at KTH as a student representative for his classmates in the cybsec programme.
 

@@ -16,7 +16,7 @@ Hedersugglan är ett förtjänsttecken som tilldelas de sektionsmedlemmar som sy
     <a href="#patrikj8">Patrik Johansson</a>, Duodequadragesimus
   </dd>
   <dd>
-    <a href="#rmfseo">Rafael Mealha Fino Serra E Oliveira</a>, Internationell
+    <a href="#rmfseo">Rafael Mealha Fino Serra e Oliveira</a>, Internationell
   </dd>
 </dl>
 
@@ -50,7 +50,7 @@ Utöver detta har Patrik också tjänstgjort med bravur som masterrepresentant f
 
 För sitt hårda arbete och sin dedikation till utbildningskvaliteten på Datateknikprogrammet tilldelas Patrik Johansson Hedersugglan.
 
-### Rafael Mealha Fino Serra E Oliveira <a name="rmfseo"></a>
+### Rafael Mealha Fino Serra e Oliveira <a name="rmfseo"></a>
 
 Under sin tid med studiebevakningen har Rafael utmärkt sig med sin goda arbetsmoral och sitt engagemang. Han har med dedikation och driv deltagit i D-sektionens studiebevakning som masterrepresentant för cybersäkerhetsmastern sedan sitt första år på KTH som ensam studentrepresentant för sin årskull i cybsec-programmet.
 
