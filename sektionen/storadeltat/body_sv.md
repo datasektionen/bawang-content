@@ -2,6 +2,21 @@ Stora deltat är ett förtjänsttecken på Konglig Datasektionens som delas ut t
 
 # Innehavare av Stora deltat
 
+## Mottagare 2026
+
+<dl>
+  <dt></dt>
+  <dd>
+    <a href="#asalamon">Adrian Salamon</a>, Duodequadragesimus
+  </dd>
+  <dd>
+    <a href="#gjfff">Gabriel Fetu--Fenneteau</a>, Internationell
+  </dd>
+  <dd>
+    <a href="#jenkoh">Jennifer Köhler</a>, Undequadragesima
+  </dd>
+</dl>
+
 ## Mottagare 2025
 
 <dl>
@@ -22,9 +37,38 @@ Stora deltat är ett förtjänsttecken på Konglig Datasektionens som delas ut t
 
 # Motiveringar till utdelandet av förtjänsttecken <a name="motivering"></a>
 
+## Motiveringar till 2026 års mottagare
+
+### Adrian Salamon <a name="asalamon"></a>
+
+Adrian Salamon har genom utvecklingen av Tiki genomfört en av de mest avgörande infrastrukturella förbättringarna för sektionen på senare år. Där biljettförsäljning tidigare var splittrad och ineffektiv, finns idag ett centraliserat och sektionseget system som samlar allt på ett ställe.
+
+Tiki har på kort tid blivit en självklar del av sektionens verksamhet. Systemet används idag av i princip alla arrangörer och har förenklat planering, administration och ekonomisk uppföljning en hel del. Att plattformen ägs och förvaltas av sektionen själv ger både stabilitet och långsiktig kontroll. Adrian har dessutom löpande vidareutvecklat systemet och snabbt implementerat förbättringar när nya behov uppstått, inte minst för att underlätta bokföring och praktisk hantering kring evenemang.
+
+Genom att i stort sett på egen hand bygga, etablera och förvalta ett system som idag utgör ryggraden i sektionens biljettverksamhet tilldelas Adrian Salamon det Stora Deltat.
+
+### Gabriel Fetu-Fenneteau <a name="gjfff"></a>
+
+Gabriel Jean Francis Fetu-Fenneteau har under det gångna året burit upp Internationella Nämndens verksamhet på ett sätt inte många hade kunnat. Under ett kalenderår genomfördes över 50 arrangemang och Gabriel var den drivande kraften bakom majoriteten av dessa.
+
+Hans insats har inte begränsats till bara planering. Han har varit närvarande i hela processen: från struktur och samordning till genomförande, matlagning, toastning och städning. Under den internationella mottagningen 2025 tog han huvudansvar för hela 14 arrangemang och säkerställde att samtliga internationella studenter fick en välkomnande och välorganiserad start på sin tid på sektionen.
+
+Genom ett närmast outtröttligt ideellt arbete har Gabriel höjt både ambitionsnivån och kapaciteten i nämnden. Resultatet är en internationell verksamhet som inte bara vuxit i omfattning, utan i kvalitet, synlighet och förtroende både internt och externt.
+
+För att genom en exceptionell arbetsinsats ha möjliggjort och drivit Internationella Nämndens mest omfattande verksamhetsår någonsin tilldelas Gabriel Jean Francis Fetu-Fenneteau det Stora Deltat.
+
+### Jennifer Köhler <a name="jenkoh"></a>
+
+Jennifer Köhler har under flera år burit och utvecklat sektionens arbete inom jämlikhet och likabehandling på ett sätt som fått varaktig betydelse. I en roll som ofta är krävande, komplex och sällan synlig har hon konsekvent tagit ansvar för att arbetet inte bara fortgått, utan stärkts och strukturerats.
+
+Hon var drivande i att tydliggöra och omforma organisationen kring JML-arbetet för att skapa bättre förutsättningar för långsiktighet och ansvar. Genom framtagandet av sektionens uppförandepolicy har hon dessutom bidragit till att förankra sektionens värderingar i ett konkret och hållbart ramverk. Hon översåg även att dela upp JMLA och JNO till två separata roller för att säkerställa att rollerna utvecklades i rätt riktning.
+
+I ett av sektionens mest personligt krävande uppdrag har Jennifer visat både integritet och uthållighet, alltid med sektionens bästa i fokus.
+För att ha lagt grunden för ett stabilt och långsiktigt JML-arbete samt burit en av sektionens mest ansvarsfulla roller med stort engagemang, tilldelas Jennifer Köhler det Stora Deltat.
+
 ## Motiveringar till 2025 års mottagare
 
-### Eyna Ason Eklöf <a name="eaeklof"></a>
+### Eynar Ason Eklöf <a name="eaeklof"></a>
 
 Ända sedan Eynar först satte foten i sektionen har han uppvisat enormt engagemang och entusiasm för många av sektionens delar. Hans största entusiasm skulle dock visa sig vid Glögg-SM 2023 då han efter en spektakulär presentation blev vald till ÄrkeDEMON. 
 
