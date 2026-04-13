@@ -37,7 +37,7 @@ The Owl of Honor is a distinction of merit awarded to chapter members who have r
 
 # Motivations for the award <a name="motivering"></a>
 
-## Motivations for recipients 2025
+## Motivations for recipients 2026
 
 ### Emil Wallgren <a name="ewallgre"></a>
 
