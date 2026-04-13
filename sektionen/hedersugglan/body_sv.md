@@ -2,6 +2,21 @@ Hedersugglan är ett förtjänsttecken som tilldelas de sektionsmedlemmar som sy
 
 # Innehavare av Hedersugglan
 
+## Mottagare 2026
+
+<dl>
+  <dt></dt>
+  <dd>
+    <a href="#ewallgre">Emil Wallgren</a>, Undequadragesimus
+  </dd>
+  <dd>
+    <a href="#mrmhm">Muhammed Reza Mehdi</a>, Douquadragesimus
+  </dd>
+  <dd>
+    <a href="#nhg">Nikolina Haggård Grann</a>, Quadragesimus Tertia
+  </dd>
+</dl>
+
 ## Mottagare 2025
 
 <dl>
@@ -21,6 +36,28 @@ Hedersugglan är ett förtjänsttecken som tilldelas de sektionsmedlemmar som sy
 </dl>
 
 # Motiveringar till utdelandet av förtjänsttecken  <a name="motivering"></a>
+
+## Motiveringar till 2026 års mottagare
+
+### Emil Wallgren <a name="ewallgre"></a>
+
+Under sin lång tid inom Studienämnden har Emil varit en ovärderlig kraft som drev nämnden framåt. Sedan årskurs ett har han visat en brinnande passion för sina kamraters välmående både inom studierna men även utanför då utöver att vara Årskursrep axlade han SSO posten redan i årskurs ett. Sedan som SNO la han mycket av grunden som den nuvarande studienämnden bygger på både praktiskt - såsom införandet av nya internfunktionärsposterna SNEA och MASK - men även strategisk genom att komma med många idéer som hans efterträdare har kunnat jobba vidare på. 
+
+Han skapade även den goda jargongen som finns i studienämnden idag vilket har varit essentiellt för att arbetet skulle kännas meningsfullt. Och utöver allt det ansvar som han har tagit på sig har han alltid kommit med råd i sektionens discord server så fort någon hade nån fundering gällande studierna.
+
+För hans långvariga driv och oändlig passion för förbättringen av datalogernas studier vill vi därför uppmärksamma  Emil Wallgren genom att ge honom Hedersugglan.
+
+### Muhammed Reza Mehdi <a name="mrmhm"></a>
+
+Muhammed har genom sitt långa och kontinuerliga engagemang i kursnämnderna visat en stark vilja att förbättra kvaliteten på de kurser han representerar och studenternas studiesituation. Han har under sin tid visat att han är en driven och ansvarstagande studentrepresentant, som gärna tar egna initiativ för att säkerställa att kurser fungerar som de ska, och att studenternas åsikter samlas in och blir hörda. Hans arbete har bidragit till att många kurser har fått bättre studentrepresentation och hållits till en högre standard. 
+
+För hans betydelsefulla insatser och hans starka engagemang för studenternas utbildningskvalitet vill vi därför uppmärksamma Muhammed Reza Mehdi Hamid Muhammed genom att ge honom Hedersugglan. 
+
+### Nikolina Haggård Grann <a name="nhg"></a>
+
+Under sin relativt korta tid i Studienämnden har Nikolina gång på gång visat ett starkt engagemang och en imponerande initiativförmåga i arbetet med att främja studenternas delaktighet och förbättra deras studiesituation. Genom sitt nära samarbete med kursnämnderna (där hon ofta själv är aktiv), har hon initierat kursspecifika klagostugor, vilket har avsevärt förbättrat Studienämndens möjligheter att samla in, lyfta och vidarebefordra studenternas synpunkter samt att arbeta fram konkreta förbättringsförslag. 
+
+För hennes egna initiativ,  stor driv och många värdefulla iéer gällande studiebevakningen vill vi därför uppmärksamma Nikolina Haggård Grann genom att ge henne Hedersugglan.
 
 ## Motiveringar till 2025 års mottagare
 
