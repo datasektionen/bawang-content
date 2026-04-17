@@ -4,7 +4,7 @@ På Datasektionen finns tre ordnar, benämnda “Klubbmästare Emeritus”, “K
 På Datasektionen finns fem ordnar, benämnda “Klubbmästare Emeritus”, “Konglig Öfverdrif Emeritus”, “Storasyskon Emeritus”, “Kassör Emeritus” och “Ordförande Emeritus”.
 {{- end }}
 
-Som bevis på medlemskap i någon av Datasektionens fem ordnar bärs respektive ordens ordenstecken.
+Som bevis på medlemskap i någon av Datasektionens ordnar bärs respektive ordens ordenstecken.
 
 ## Klubbmästare Emeritus
 
@@ -62,6 +62,7 @@ Ordenstecknet för Konglig Öfverdrif Emeritus består av en störtad femuddig s
 
 Valspråk: Ensam är stark. Tillsammans är vi bara många.
 
+    Elin Andersson Lundell, Quadragesima 2025
     Lucas Dow, Duodequadragesimus 2024
     Bror Sebastian Sjövald, Tricesimus Sextus 2023 
     Luciano Zapata, Tricesimus Sextus 2022
@@ -110,6 +111,8 @@ Medlemskap i Storasyskon Emeritus-orden tilldelas de Storasyskon som förtjänst
 
 Ordenstecknet för Storasyskon Emeritus består av en störtad femuddig stjärna i cerise med ett fält i silver bestrött med ett svart delta omgivet av en lagerkrans.
 
+    Tilde Tärnvik, Quadragesimus 2026
+    Christoffer Andersson, Duodequadragesimus 2025
     Carl Hansson, Undequadragesimus 2024
     Ebba Bråtman, Tricesimus Sextus 2023
     George Bassilious, Tricesimus Quintus 2022
@@ -153,6 +156,9 @@ Medlemskap i Kassör Emeritus-orden tilldelas de Kassörer på Datasektionen som
 
 Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
 
+Valspråk: Ca$h is king.
+
+    Lukas Malmberg, Quadragesimus 2025
     Melvin Jakobsson, Duodequadragesimus 2024 
     Felix Murnion, Undequadragesimus 2023
     Matteus Berg, Tricesimus Septimus 2021
@@ -175,6 +181,7 @@ Ordenstecknet för Ordförande Emeritus består av en störtad femuddig stjärna
 
 Valspråk: Det är faktiskt vi som bestämmer.
 
+    Fredrik Blomqvist, Undequadragesimus 2025
     Adam Sjöberg, Tricesimus Septimus 2024
     Douglas Fischer, Tricesimus Quintus 2023
     David Puustinen, Tricesimus Septimus 2022
