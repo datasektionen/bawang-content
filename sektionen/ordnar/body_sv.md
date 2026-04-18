@@ -175,6 +175,7 @@ Ordenstecknet för Ordförande Emeritus består av en störtad femuddig stjärna
 
 Valspråk: Det är faktiskt vi som bestämmer.
 
+    Fredrik Blomqvist, Undequadragesimus 2025
     Adam Sjöberg, Tricesimus Septimus 2024
     Douglas Fischer, Tricesimus Quintus 2023
     David Puustinen, Tricesimus Septimus 2022
