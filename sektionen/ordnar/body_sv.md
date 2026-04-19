@@ -156,7 +156,7 @@ Medlemskap i Kassör Emeritus-orden tilldelas de Kassörer på Datasektionen som
 
 Ordenstecknet för Kassör Emeritus består av en störtad femuddig stjärna i grönt med ett fält i svart bestrött med ett cerise delta omgivet av en gyllene lagerkrans.
 
-Valspråk: Ca$h is king.
+Valspråk: Ca$h is king. Plastic is fantastic. Credit is life.
 
     Lukas Malmberg, Quadragesimus 2025
     Melvin Jakobsson, Duodequadragesimus 2024 

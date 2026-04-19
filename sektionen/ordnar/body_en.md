@@ -156,7 +156,7 @@ Membership of the Kassör Emeritus order is awarded to treasurers at the chapter
 
 The order's medal is a five-pointed green star, with a black field, and a cerise delta in the middle. The star is coated by a golden laurel wreath.
 
-Motto: Ca$h is king.
+Motto: Ca$h is king. Plastic is fantastic. Credit is life.
 
     Lukas Malmberg, Quadragesimus 2025
     Melvin Jakobsson, Duodequadragesimus 2024
