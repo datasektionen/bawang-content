@@ -2,6 +2,21 @@ Hedersdeltat är Konglig Datasektionens finaste förtjänsttecken och delas ut t
 
 # Innehavare av Hedersdeltat
 
+## Mottagare 2026
+
+<dl>
+  <dt></dt>
+  <dd>
+    <a href="#ewallgre">Emil Wallgren</a>, Undequadragesimus
+  </dd>
+  <dd>
+    <a href="#frblo">Fredrik Blomqvist</a>, Undequadragesimus
+  </dd>
+  <dd>
+    <a href="#rmsfeo">Rafael Oliveira</a>, Internationell
+  </dd>
+</dl>
+
 ## Mottagare 2025
 
 <dl>
@@ -620,6 +635,40 @@ Mottagare och motiveringar saknas, kontakta D-rektoratet på [drek@datasektionen
 </dl>
 
 # Motiveringar till utdelandet av förtjänsttecken <a name="motivering"></a>
+
+## Motiveringar till 2026 års mottagare  
+
+### Emil Wallgren <a name="ewallgre"></a>
+
+Emil Wallgren har under sin tid på sektionen varit bland den  mest hängivna, brydda och omtänksamma medlemmen man kan tänka sig. Emil har sedan dag ett varit en av de mest betydelsefulla krafterna bakom utvecklingen av studiebevakningen. Genom roller som årskursrepresentant, SNO och D-UF har han konsekvent arbetat för att stärka studenternas röst och förbättra utbildningskvaliteten.
+
+Mycket av Emils arbete har haft en långsiktig karaktär och burit frukt först flera år senare. Han har lagt en stabil grund för den studiebevakning som sektionen idag bedriver, i synnerhet genom indrivandet av årskursrepresentanter. Genom sitt arbete som studerandeskyddsombud har han tagit studenters arbetsmiljö och välmående på största allvar, där hans största bragd är införandet av en HLR-utbildning för sektionens medlemmar. Med eftertanke, struktur och en tydlig vilja att göra rätt har han drivit förändring på ett sätt som varit både hållbart och inkluderande.
+
+Utöver sitt arbete inom studiebevakningen har Emil under flera år varit instrumental i Spexet, där han bidragit starkt till verksamhetens utveckling och kontinuitet. Speciellt noterbart är hans roll i Spexet 2025, där han återupplivade Körens verksamhet, och i Spexet 2023, där han tog rollen som regisseur till höjder aldrig sedda varken innan eller efter. Oavsett sammanhang har han visat på ansvarstagande, uthållighet och ett genuint engagemang för sektionens bästa.
+
+För sitt långvariga och grundläggande arbete med att utveckla studiebevakningen, sitt engagemang för studenters trygghet och sina betydande insatser inom Spexet, tilldelas Emil Wallgren Hedersdeltat.
+
+### Fredrik Blomqvist <a name="frblo"></a>
+
+Fredrik Blomqvist har under sin tid på Data varit en av de mest engagerade och ansvarstagande personerna i sektionen. Fredrik har gång på gång visat ett engagemang som sträckt sig långt bortom formella uppdrag, där han ständigt arbetat för att utveckla, strukturera och förbättra sektionen.
+
+Tidigt tog Fredrik på sig det tunga ansvaret av Lokalchef, där han kastades in i uppdraget under utmanande förutsättningar. Trots detta lyckades han inte bara upprätthålla verksamheten utan även utveckla den. Som Chefredaqtör återstartade han dbuggen och byggde upp verksamheten från grunden till något som än idag står starkt.
+
+Under sin tid i styrelsen, först som D-SOL och senare som Ordförande, var han drivande i flera större förändringar, bland annat inköpet av en elbil, införandet av partitioner och den omfattande budgetsänkningen. Under hans ledarskap lades ett stort antal propositioner som formade sektionens fortsatta utveckling och skapade en mer hållbar organisation.
+
+Det som särskilt utmärker Fredrik är inte en enskild prestation eller ens den konsekvent höga nivån på ansvar han tagit sig an. Det är att Fredrik alltid lyssnar genuint, tar andras perspektiv på allvar och ställer upp när någon behöver stöd. Många har kunnat luta sig mot honom i både små och stora frågor, och hans omtanke har haft en betydande men ofta osynlig påverkan på sektionens medlemmar.
+
+För sitt långvariga och omfattande engagemang, sitt starka ledarskap och sin förmåga att konsekvent sätta sektionen främst tilldelas Fredrik Blomqvist Hedersdeltat.
+
+### Rafael Oliveira <a name="rmsfeo"></a>
+
+Rafael Oliveira började på Data 2023 och har sedan dess åstadkommit mer än vad många gör på alla fem år. Han har gjort insatser som inte bara kommer få långsiktig påverkan på sektionen, men han har gått långt utanför vad som förväntas av en internationell student.
+
+Som systemsansvarig utvecklade Rafael systemet Hive, vilket idag hanterar nästan alla behörigheter till sektionens system. Detta har inneburit en strukturell förbättring av sektionens tekniska infrastruktur och skapat en stabil grund för framtida arbete. Som medlem i Internationella Nämnden har han under två år arbetat aktivt för att integrera internationella studenter i sektionens verksamhet och bidragit till genomförandet av ett stort antal evenemang varje år. Hans arbete har varit noggrant, effektivt och präglat av ett tydligt långsiktigt perspektiv.
+
+Inom studienämnden har Raf lagt ned betydande tid på utvecklingen av cybersäkerhetsprogrammet genom att föra dialog med både studenter och lärare för att förbättra utbildningen. Samtidigt har han alltid varit tillgänglig för att hjälpa sektionsmedlemmar med tekniska system och frågor.
+
+För sina långsiktiga tekniska bidrag, sitt engagemang för utbildningskvalitet och sitt betydande arbete för att stärka sektionens internationella gemenskap, tilldelas Rafael Mealha Fino Serra E Oliveira Hedersdeltat.
 
 ## Motiveringar till 2025 års mottagare
 

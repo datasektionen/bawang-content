@@ -2,6 +2,21 @@ The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It i
 
 # Possessors of the Honorary Delta
 
+## Recipients 2026
+
+<dl>
+  <dt></dt>
+  <dd>
+    <a href="#ewallgre">Emil Wallgren</a>, Undequadragesimus
+  </dd>
+  <dd>
+    <a href="#frblo">Fredrik Blomqvist</a>, Undequadragesimus
+  </dd>
+  <dd>
+    <a href="#rmsfeo">Rafael Oliveira</a>, International
+  </dd>
+</dl>
+
 ## Recipients 2025
 
 <dl>
@@ -620,6 +635,39 @@ Recipients and motivations lost, contact the D-directorate at [drek@datasektione
 </dl>
 
 # Motivations to the recipients <a name="motivering"></a>
+
+## Motivations for recipients 2026 
+
+### Emil Wallgren <a name="ewallgre"></a>
+
+During his time in the chapter, Emil Wallgren has been among the most devoted, conscientious, and considerate members one could imagine. From day one, Emil has been one of the most significant driving forces behind the development of educational advocacy. Through roles such as Year Representative, President of the Study Board (SNO), and D-UF, he has consistently worked to strengthen the student voice and improve the quality of education.
+
+Much of Emil’s work has had a long-term character, bearing fruit only several years later. He has laid a stable foundation for the educational advocacy work the chapter conducts today, and through his role as Student Safety Representative, he has taken students’ work environment and well-being with the utmost seriousness. With reflection, structure, and a clear determination to do what is right, he has driven change in a manner that has been both sustainable and inclusive.
+
+Beyond his work in educational advocacy, Emil has for several years been instrumental in the Spex, where he has made substantial contributions to the organization’s development and continuity. Particularly noteworthy is his role in the Spex 2025, where he revived the Choir’s operations, and in the Spex 2023, where he brought the role of Head of Actors to heights never seen before or since. Regardless of context, he has demonstrated responsibility, perseverance, and a genuine commitment to the chapter’s best interests.
+
+For his long-standing and foundational work in developing educational advocacy, his commitment to student safety, and his significant contributions to the Spex, Emil Wallgren is awarded the Honorary Delta.
+
+### Fredrik Blomqvist <a name="frblo"></a>
+
+During his time at CS, Fredrik Blomqvist has been one of the most engaged and responsible individuals in the chapter. Time and again, Fredrik has demonstrated a commitment that has extended far beyond his formal assignments - he has consistently worked to develop, structure, and improve the chapter.
+Early on, Fredrik took on the demanding responsibility of Head of Premises, stepping into the role under challenging circumstances. Despite this, he not only maintained operations but further developed them. As Editor-in-Chief, he relaunched dbuggen and rebuilt the organization from the ground up into something that still stands strong today.
+
+During his time on the Board, first as D-SOL and later as Chairman, he was a driving force behind several major changes, including the purchase of an electric vehicle, the introduction of partitions, and the comprehensive budget reduction. Under his leadership, a large number of propositions were presented that shaped the chapter’s continued development and created a more sustainable organization.
+
+What particularly distinguishes Fredrik is not a single achievement, nor even the consistently high level of responsibility he has undertaken. It is that Fredrik always listens genuinely, takes others’ perspectives seriously, and steps up when someone needs support. Many have been able to rely on him in both small and large matters, and his care has had a significant impact on the chapter’s members.
+
+For his long-standing and extensive commitment, his strong leadership, and his consistent ability to place the chapter first, Fredrik Blomqvist is awarded the Honorary Delta.
+
+### Rafael Oliveira <a name="rmsfeo"></a>
+
+Rafael Oliveira started at CS in 2023 and has since accomplished more than many do over the course of all five years. He has made contributions that will not only have a long-term impact on the chapter, but has also gone far beyond what is expected of an international student.
+
+As Head of Systems, Rafael developed the system Hive, which today manages nearly all access permissions to the chapter’s systems. This has constituted a structural improvement of the chapter’s technical infrastructure and created a stable foundation for future work. As a member of the International Committee, he has for two years actively worked to integrate international students into the chapter’s operations and contributed to the execution of a large number of events each year. His work has been meticulous, efficient, and characterized by a clear long-term perspective.
+
+Within the Study Board, Raf has devoted significant time to the development of the Cybersecurity programme by maintaining dialogue with both students and teachers in order to improve the programme. At the same time, he has always been available to assist chapter members with technical systems and related questions.
+
+For his long-term technical contributions, his commitment to educational quality, and his significant efforts to strengthen the chapter’s international community, Rafael Mealha Fino Serra E Oliveira is awarded the Honorary Delta.
 
 ## Motivations for recipients 2025 
 
