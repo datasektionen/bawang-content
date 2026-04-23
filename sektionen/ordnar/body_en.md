@@ -52,6 +52,7 @@ The order's medal is a five-pointed silver star, with a cerise field, and a blac
     Jerker Andersson, Sequndus 1987
     Jesper Lundh, Sequndus 1986
     Kjell Lundesten, Primus 1985
+
 {{ if not .reception -}}
 ## Konglig Öfverdrif Emeritus
 
@@ -61,6 +62,7 @@ The order's medal is a five-pointed overthrown black star, with a cerise field s
 
 Motto: Alone is strong. Together we are just many. 
 
+    Elin Andersson Lundell, Quadragesima 2025
     Lucas Dow, Duodequadragesimus 2024
     Bror Sebastian Sjövald, Tricesimus Sextus 2023 
     Luciano Zapata, Tricesimus Sextus 2022
@@ -109,6 +111,8 @@ Membership of the Storasyskon Emeritus order is awarded to Storasyskon (head of 
 
 The order's medal is a five-pointed cerise star, with a silver field, and a black delta in the middle. The star is coated by a laurel wreath.
 
+    Tilde Tärnvik, Quadragesimus 2026
+    Christoffer Andersson, Duodequadragesimus 2025
     Carl Hansson, Undequadragesimus 2024
     Ebba Bråtman, Tricesimus Sextus 2023
     George Bassilious, Tricesimus Quintus 2022
@@ -145,12 +149,16 @@ The order's medal is a five-pointed cerise star, with a silver field, and a blac
     Björn Rhoads (Gahm), Septimus 1991
     Carl-Johan Graufelds, Sextus 1990
 {{- end }}
+
 ## Kassör Emeritus
 
 Membership of the Kassör Emeritus order is awarded to treasurers at the chapter who have served an entire term.
 
 The order's medal is a five-pointed green star, with a black field, and a cerise delta in the middle. The star is coated by a golden laurel wreath.
 
+Motto: Ca$h is king. Plastic is fantastic. Credit is life.
+
+    Lukas Malmberg, Quadragesimus 2025
     Melvin Jakobsson, Duodequadragesimus 2024
     Felix Murnion, Undequadragesimus 2023
     Matteus Berg, Tricesimus Septimus 2021
@@ -169,7 +177,7 @@ The order's medal is a five-pointed green star, with a black field, and a cerise
 
 Membership of the Ordförande Emeritus order is awarded to chairmans at the chapter who have served an entire term.
 
-The Orden's insignia is a fallen five-pointed golden star, with a black field, and a cerise delta in the middle. The star is coated by a golden laurel wreath.
+The order's medal is a fallen five-pointed golden star, with a black field, and a cerise delta in the middle. The star is coated by a golden laurel wreath.
 
 Motto: We are the ones actually in charge.
 
