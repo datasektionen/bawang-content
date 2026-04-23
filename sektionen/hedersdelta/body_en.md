@@ -640,7 +640,7 @@ Recipients and motivations lost, contact the D-directorate at [drek@datasektione
 
 ### Emil Wallgren <a name="ewallgre"></a>
 
-During his time in the chapter, Emil Wallgren has been among the most devoted, conscientious, and considerate members one could imagine. From day one, Emil has been one of the most significant driving forces behind the development of educational advocacy. Through roles such as Year Representative, Director of Studies (SNO), and D-UF, he has consistently worked to strengthen the student voice and improve the quality of education.
+During his time in the chapter, Emil Wallgren has been among the most devoted, conscientious, and considerate members one could imagine. From day one, Emil has been one of the most significant driving forces behind the development of educational advocacy. Through roles such as Year Representative, President of the Study Board (SNO), and D-UF, he has consistently worked to strengthen the student voice and improve the quality of education.
 
 Much of Emil’s work has had a long-term character, bearing fruit only several years later. He has laid a stable foundation for the educational advocacy work the chapter conducts today, and through his role as Student Safety Representative, he has taken students’ work environment and well-being with the utmost seriousness. With reflection, structure, and a clear determination to do what is right, he has driven change in a manner that has been both sustainable and inclusive.
 
@@ -665,7 +665,7 @@ Rafael Oliveira started at CS in 2023 and has since accomplished more than many 
 
 As Head of Systems, Rafael developed the system Hive, which today manages nearly all access permissions to the chapter’s systems. This has constituted a structural improvement of the chapter’s technical infrastructure and created a stable foundation for future work. As a member of the International Committee, he has for two years actively worked to integrate international students into the chapter’s operations and contributed to the execution of a large number of events each year. His work has been meticulous, efficient, and characterized by a clear long-term perspective.
 
-Within the Educational Committee, Raf has devoted significant time to the development of the Cybersecurity programme by maintaining dialogue with both students and teachers in order to improve the education. At the same time, he has always been available to assist chapter members with technical systems and related questions.
+Within the Study Board, Raf has devoted significant time to the development of the Cybersecurity programme by maintaining dialogue with both students and teachers in order to improve the programme. At the same time, he has always been available to assist chapter members with technical systems and related questions.
 
 For his long-term technical contributions, his commitment to educational quality, and his significant efforts to strengthen the chapter’s international community, Rafael Mealha Fino Serra E Oliveira is awarded the Honorary Delta.
 

@@ -43,15 +43,15 @@ The Great Delta is a distinction of merit that is awarded to chapter members who
 
 Through the development of Tiki, Adrian Salamon has carried out one of the most decisive infrastructural improvements for the chapter in recent years. Where ticket sales were previously fragmented and inefficient, there is today a centralized, chapter-owned system that brings everything together in one place.
 
-In a short time, Tiki has become an integral part of the chapter’s operations. The system is now used by virtually all organizers and has significantly simplified planning, administration, and financial follow-up. That the platform is owned and managed by the chapter itself provides both stability and long-term control. Adrian has also continuously further developed the system and rapidly implemented improvements as new needs have arisen, not least to facilitate bookkeeping and the practical handling of events.
+In a short time, Tiki has become an integral part of the chapter’s operations. The system is now used by virtually all organizers and has significantly simplified planning, administration, and financial follow-up. The fact that the platform is owned and managed by the chapter itself provides both stability and long-term control. Adrian has also continuously further developed the system and rapidly implemented improvements as new needs have arisen, not least to facilitate bookkeeping and the practical handling of events.
 
-By largely single-handedly building, establishing, and maintaining a system that today forms the backbone of the chapter’s ticketing operations, Adrian Salamon is awarded the Great Delta.
+For largely single-handedly building, establishing, and maintaining a system that today forms the backbone of the chapter’s ticketing operations, Adrian Salamon is awarded the Great Delta.
 
 ### Gabriel Fetu-Fenneteau <a name="gjfff"></a>
 
 Over the past year, Gabriel Jean Francis Fetu-Fenneteau has carried the operations of the International Committee in a way few others could have. Within a single calendar year, more than 50 events were carried out, and Gabriel was the driving force behind the majority of them.
 
-His contribution has not been limited to planning alone. He has been present throughout the entire process: from structure and coordination to execution, cooking, toastmaster duties, and cleaning. During the international Reception 2025, he took primary responsibility for as many as 14 events and ensured that all international students received a welcoming and well-organized start to their time in the chapter.
+His contributions have not been limited to planning alone. He has been present throughout the entire process: from structure and coordination to execution, cooking, toastmaster duties, and cleaning. During the International Reception 2025, he took the primary responsibility for as many as 14 events and ensured that all international students received a welcoming and well-organized start to their time in the chapter.
 
 Through nearly tireless voluntary work, Gabriel has raised both the level of ambition and the capacity of the committee. The result is an international operation that has not only grown in scope, but also in quality, visibility, and trust; both internally and externally.
 
@@ -59,7 +59,7 @@ For, through an exceptional work effort, having enabled and driven the most exte
 
 ### Jennifer Köhler <a name="jenkoh"></a>
 
-Over several years, Jennifer Köhler has carried and developed the chapter’s work in equality and equal treatment in a way that has had lasting significance. In a role that is often demanding, complex, and rarely visible, she has consistently taken responsibility to ensure that the work has not merely continued, but been strengthened and structured.
+Over several years, Jennifer Köhler has carried and developed the chapter’s work in equality and equal treatment in a way that has had lasting significance. In a role that is often demanding, complex, and rarely visible, she has consistently taken responsibility to ensure that the work has not merely continued, but also strengthened and structured.
 
 She was instrumental in clarifying and restructuring the organization surrounding the equality and inclusion work in order to create better conditions for long-term sustainability and accountability. Through the development of the chapter’s Code of Conduct, she has also helped anchor the chapter’s values in a concrete and sustainable framework. She further oversaw the division of JMLA and JNO into two separate roles to ensure that the positions developed in the right direction.
 In one of the chapter’s most personally demanding assignments, Jennifer has demonstrated both integrity and perseverance, always with the best interests of the chapter in focus.

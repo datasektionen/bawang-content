@@ -41,9 +41,9 @@ The Owl of Honor is a distinction of merit awarded to chapter members who have r
 
 ### Emil Wallgren <a name="ewallgre"></a>
 
-During his long time within the Educational Committee, Emil has been an invaluable driving force in moving the committee forward. Since his first year, he has demonstrated a strong passion for the well-being of his fellow students - both within their studies and beyond. In addition to serving as Year Representative, he took on the role of Student Safety Representative already in his first year.
+During his long time within the Study Board, Emil has been an invaluable driving force in moving the committee forward. Since his first year, he has demonstrated a strong passion for the well-being of his fellow students - both within their studies and beyond. In addition to serving as Year Representative, he took on the role of Student Safety Representative already in his first year.
 
-Later, as Director of Studies (SNO), he laid much of the foundation upon which the current Educational Committee is built—both practically, through initiatives such as the introduction of the internal roles SNEA and MASK, and strategically, by contributing many ideas that his successors have been able to build upon. He also fostered the positive and constructive culture that exists within the Educational Committee today, which has been essential in making the work feel meaningful.
+Later, as Director of Studies (SNO), he laid much of the foundation upon which the current Study Board is built — both practically, through initiatives such as the introduction of the internal roles SNEA and MASK, and strategically, by contributing many ideas that his successors have been able to build upon. He also fostered the positive and constructive culture that exists within the Educational Committee today, which has been essential in making the work feel meaningful.
 
 Beyond all the responsibility he has taken on, Emil has consistently been available to offer advice on the chapter's Discord server whenever anyone had questions related to their studies.
 
@@ -57,7 +57,7 @@ For his significant contributions and his strong commitment to the quality of st
 
 ### Nikolina Haggård Grann <a name="nhg"></a>
 
-During her relatively short time in the Educational Committee, Nikolina has time and again demonstrated strong engagement and an impressive ability to take initiative in efforts to promote student participation and improve their study situation. Through her close collaboration with course committees - where she is often active herself — she has initiated course-specific feedback sessions, which have significantly improved the Educational Committee's ability to collect, raise, and forward students' opinions, as well as to develop concrete proposals for improvement.
+During her relatively short time in the Study Board, Nikolina has time and again demonstrated strong engagement and an impressive ability to take initiative in efforts to promote student participation and improve their study situation. Through her close collaboration with course committees — where she is often active herself — she has initiated course-specific feedback sessions which have significantly improved the Study Board's ability to collect, raise, and forward students' opinions, as well as to develop concrete proposals for improvement.
 
 For her own initiatives, strong drive, and many valuable ideas regarding educational advocacy, we therefore wish to recognize Nikolina Haggård Grann by awarding her the Owl of Honor.
 
