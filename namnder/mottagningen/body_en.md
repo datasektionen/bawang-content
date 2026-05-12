@@ -45,7 +45,7 @@ Thus, one sunny day, the Royal Daddery was born, with whose help nØllan could a
 
 So how do you recognize a Dadda? They often come in groups of three and are always wearing a sunny smile on their face to go with their cheerful attitude. Secondly the Dadda can be recognized by their cerise coloured overalls and dazzlingly white blankies. The Daddery can create miracles, but they alone cannot get nØllan through their first time at Technis. nØllan themselves must learn to stick together. In order to gain strength, nØllan will move in nØllegroups that all have three FavoriteDaddas to go to. In these groups, nØllan can search for courage in order to jointly defy the dangers that may appear. 
 
-As nØllan will spend a lot of time with their Dadda during their first weeks at Technis, they should opt to use every opportunity to make their Dadda happy. Hug them, give them something nice and play fun games with your Dadda. If you follow this advice, the road to Life at Technis might be bearable, maybe even something nØllan will never forget. The Daddery will do everything in their power to make sure nØllan feels comfortable! Remember the Daddery’s quote:
+As nØllan will spend a lot of time with their Dadda during their first weeks at Technis, they should take every opportunity be kind to their Dadda happy. If you follow this advice, the road to Life at Technis might be bearable, maybe even something nØllan will never forget. The Daddery will do everything in their power to make sure nØllan feels comfortable! Remember the Daddery’s quote:
 
 _“On the surface soft, at core huggable!”_
 
@@ -92,6 +92,16 @@ The Economery makes sure that there is always cash for the Reception to use. Wit
 #### Characteristics 
 
 The economerists may love money most of all, but they also like nØllan. When they don’t dive around in their money bank they love to say hello to nØllan and the rest of the personnel. nØllan can recognise them by their sparkling gold chains that they would never be seen without. Who knows, if nØllan is really nice, maybe they’ll even give you some gold money! 
+
+### The Royal Syssleriet
+The Royal Syssleriet are worker gnomelings that live at campus. Timid, they hide away from nØllan to do crafts and plan. But sometimes they dare to go out for cozy crafts workshops where nØllan can join them. They are also responsible for organising many of the receptions larger and logistically demanding activities. They are also a calm and cozy contact for nØllan when the events become to much.
+
+The day is here! nØllan soon arrives at campus and the ancient society of Sysslingar, with roots in the days before recorded history, must once again prepare the events and craft the cozy vibe. If nØllan ever feels overwhelmed by the receptions exceptional happenings or just wants to be in an alkohol-free environment, Syssleriets doors will always be open!
+
+#### Kännetecken
+Sysslings can be recognised by theur yellow hard hats covered in stickers, so that they dont get hit by planks in their head. They also like to hum the intro from bob the builder, and often walk around with a arts and crafts project. You can also see them dressed in tape and trashbags ranting about logistics 
+
+I some moments with a high mischiefcoefficient Sysslings can lose themselves to their inner Quirks and become a Gnomeling. That can be both fun and weird, something you can either welcome or avoid (depending on how afraid you are of glitter)
 
 ### Contact us 
 
