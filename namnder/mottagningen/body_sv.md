@@ -107,3 +107,14 @@ Med sina säckar fulla med guldpengar och med bättre sinne för pengar än Joak
 ####Kännetecken
 
 Ekonomeristerna må älska pengar högst av allt men de gillar också nØllan. När de inte dyker runt i sin pengabinge hälsar de gärna på nØllan och resten av personalen. nØllan känner igen dem på sina glittrande guldkedjor som de aldrig skulle synas utan. Om nØllan är riktigt snäll kanske de till och med bjuder på lite guldpengar, vem vet!
+
+### Det Kongliga Syssleriet
+_Det Kongliga Syssleriet är små pysslingar som ofta vistas på campus. Skygga vistas de i skymundan från nØllan med att syssla, pyssla och planera. Men ibland vågar de sig fram för att ha lugna och mysiga pysselstugor där nØllan får vara med. De har ansvar att planera många av mottagningens större och logistiskt krävande aktiviteter, samt att vara en lugn och mysig kontakt när eventen ibland blir lite mycket._
+
+Nu är dagen här! nØllan kommer snart till campus och syssleriets anrika skara, med sina antika rötter måste återigen preppa eventen och syssla till den mysiga stämningen. Om nØllan någonsin känner sig överväldigad av mottagningens exceptionella festligheter eller vill vistas i en alkoholfri miljö kommer sysslingarnas pysselstuga att stå öppen för dem.
+
+##### Kännetecken
+Sysslingar går att känna igen på sina gula och klistermärkestäckta skyddshattar, som de har för att inte få plankor i huvudet. De tycker även om att nynna på introt från Byggare Bob och går ofta runt med något pyssel eller hantverk. Du ser dem förmodligen iklädda tejp och sopsäckar, svamlande om logistik.
+
+I vissa stunder med hög buskoefficient kan en syssling tappa sig till  sina inre finurligheter och bli en pyssling. Det kan bli både skoj och knasigt, något man antingen kan välkomna eller undvika (beroende på hur rädd man är för glitter)
+
