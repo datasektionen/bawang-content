@@ -54,7 +54,7 @@ Så en solig dag föddes Det Kongliga Dadderiet, med vars hjälp nØllan skulle 
 
 Hur känner man då igen en Dadda? I första hand på att Daddan är många och har ett alltid lika soligt leende som passar till det goda humöret. I andra hand känns Daddan igen på sina cerisefärgade snickarbyxor samt den alltid så bländvita snuttefilten. Dadderiet kan göra underverk, men de kan inte ensamma klara nØllan genom den första tiden. nØllan måste hjälpa till själva också genom att hålla ihop. För att få styrka kommer därför nØllan att uppträda i nØllegrupper, som alla har två FavoritDaddan att ty sig till. I dessa grupper kan nØllan söka mod för att gemensamt trotsa de faror som kan tänkas dyka upp.
 
-Du kommer att tillbringa mycket tid med dina Daddan den första tiden, så utnyttja alla tillfällen att göra din Dadda glad. Krama honom/henne, bjud på något gott (till exempel öl), och festa med Daddan. Om du följer dessa råd kan vägen in i Livet bli uthärdlig, ja kanske rent av något nØllan aldrig kommer att glömma. Dadderiet kommer att göra allt för att nØllan skall trivas! Kom ihåg Dadderiets devis:
+Du kommer att tillbringa mycket tid med dina Daddan den första tiden, så utnyttja alla tillfällen att vara snäll mot din Dadda. Om du följer detta råd kan vägen in i studentlivet bli uthärdlig, ja kanske rent av något nØllan aldrig kommer att glömma. Dadderiet kommer att göra allt för att nØllan skall trivas! Kom ihåg Dadderiets devis:
 
 “På ytan mjuk, innerst inne kramgo!”
 
@@ -111,7 +111,9 @@ Ekonomeristerna må älska pengar högst av allt men de gillar också nØllan. N
 ### Det Kongliga Syssleriet
 _Det Kongliga Syssleriet är små pysslingar som ofta vistas på campus. Skygga vistas de i skymundan från nØllan med att syssla, pyssla och planera. Men ibland vågar de sig fram för att ha lugna och mysiga pysselstugor där nØllan får vara med. De har ansvar att planera många av mottagningens större och logistiskt krävande aktiviteter, samt att vara en lugn och mysig kontakt när eventen ibland blir lite mycket._
 
-Nu är dagen här! nØllan kommer snart till campus och syssleriets anrika skara, med sina antika rötter måste återigen preppa eventen och syssla till den mysiga stämningen. Om nØllan någonsin känner sig överväldigad av mottagningens exceptionella festligheter eller vill vistas i en alkoholfri miljö kommer sysslingarnas pysselstuga att stå öppen för dem.
+Nu är dagen här! nØllan kommer snart till campus och syssleriets anrika skara, med sina antika rötter måste återigen preppa eventen och syssla till den mysiga stämningen. Om nØllan någonsin känner sig överväldigad av mottagningens exceptionella festligheter eller vill vistas i en alkoholfri miljö kommer sysslingarnas pysselstuga att stå öppen för dem. Man kan alltid lita på att en syssling följer sitt motto:
+
+_"Vi fixar biffen"_
 
 ##### Kännetecken
 Sysslingar går att känna igen på sina gula och klistermärkestäckta skyddshattar, som de har för att inte få plankor i huvudet. De tycker även om att nynna på introt från Byggare Bob och går ofta runt med något pyssel eller hantverk. Du ser dem förmodligen iklädda tejp och sopsäckar, svamlande om logistik.
