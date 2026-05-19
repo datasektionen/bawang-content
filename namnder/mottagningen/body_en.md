@@ -43,7 +43,7 @@ Thus, one sunny day, the Royal Daddery was born, with whose help nØllan could a
 
 #### Characteristics 
 
-So how do you recognize a Dadda? First, they often come in groups of three and are always wearing a sunny smile on their face to go with their cheerful attitude. Second, the Dadda can be recognized by their cerise overalls and dazzlingly white blankies. The Daddery can create miracles, but they alone cannot get nØllan through their first time at Technis. nØllan themselves must learn to stick together. In order to gain strength, nØllan will move in nØllegroups that all have three FavoriteDaddas accompanying them. In these groups, nØllan can search for courage in order to jointly defy the dangers that may appear ahead. 
+So how do you recognize a Dadda? First, they often come in groups of two and are always wearing a sunny smile on their face to go with their cheerful attitude. Second, the Dadda can be recognized by their cerise overalls and dazzlingly white blankies. The Daddery can create miracles, but they alone cannot get nØllan through their first time at Technis. nØllan themselves must learn to stick together. In order to gain strength, nØllan will move in nØllegroups that all have two FavoriteDaddas accompanying them. In these groups, nØllan can search for courage in order to jointly defy the dangers that may appear ahead. 
 
 As nØllan will spend a lot of time with their Dadda during their first weeks at Technis, they should take every opportunity be kind to their Dadda. If you follow this advice, the road to Life at Technis might be bearable, maybe even something nØllan will never forget. The Daddery will do everything in their power to make sure nØllan feels comfortable! Remember the Daddery’s motto:
 
@@ -83,7 +83,7 @@ When it is done, it is usually done well. Since it is the quisines’ highest wi
 
 When the Quisinery is not cooking, shopping, or drinking coffee, they are happy to spend time with nØllan and everyone else in the Reception. A quisine is recognised by their characteristic shorts. If the Quisinery is in the kitchen or any other place with a high risk of spilling, a white apron with Snoopy on is often worn to see who spilled the most. Mention cats or Glocken Gold and every Quisine will jump and be drawn towards you like an iron particle to a magnet. 
 
-In summary, the Quisinery is a friendly group of people that nØllan can consider their friends. The quisines will do everything to answer nØllan’s questions and make everyone happy during every party. Since life is said to be a party, one could say that the Quisinery is always doing everything to make everyone happy. To show how much nØllan wants to befriend the Quisines, nØllan is more than welcome to talk to the Quisinery during dinner parties, lunches, and other occasions during the Reception. Why not say thanks for the mostly good food or talk about the weather? If you have a pun there is not a single Quisine who is not all ears. 
+In summary, the Quisinery is a friendly group of people that nØllan can consider their friends. The quisines will do everything to answer nØllan’s questions and make everyone happy during every party. Since life is said to be a party, one could say that the Quisinery is always doing everything to make everyone happy. To show how much nØllan wants to befriend the Quisines, nØllan is more than welcome to talk to the Quisinery during dinner parties, lunches, and other occasions during the Reception. Why not say thanks for the mostly great food or talk about the weather? If you have a pun there is not a single Quisine who is not all ears. 
 
 ### The Royal Economery 
 
@@ -91,7 +91,7 @@ The Economery makes sure that there is always cash for the Reception to use. Wit
 
 #### Characteristics 
 
-The Economerists may love money most of all, but they also like nØllan. When they don’t dive around in their Money Bin, they love to say hello to nØllan and the rest of the personnel. nØllan can recognise them by their sparkling gold chains that they would never be seen without. Who knows, if nØllan is really nice, maybe they’ll even give you some gold coins! 
+The Economerists may love money most of all, but they also like nØllan. When they don’t dive around in their vault, they love to say hello to nØllan and the rest of the personnel. nØllan can recognise them by their sparkling gold chains that they would never be seen without. Who knows, if nØllan is really nice, maybe they’ll even give you some gold coins! 
 
 ### The Royal Sysslery
 The Royal Sysslery are worker gnomelings that live on Campus. Timid, they hide away from nØllan to do crafts and plan. But sometimes they dare to go out for cozy crafts workshops where nØllan can join them. They are also responsible for organising many of the Reception's larger and logistically demanding activities, and a calm and cozy contact for nØllan when the events become to much.
