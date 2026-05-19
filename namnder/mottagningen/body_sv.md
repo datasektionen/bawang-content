@@ -13,7 +13,7 @@ Under Mottagningen gäller följande schema. Ett tips är att lägga till schema
 ###Det Kongliga Drifveriet
 <img alt="Drifveriet-logga" src="https://dsekt-assets.s3-eu-west-1.amazonaws.com/mottagningen/drifveriet.svg" style="float: right; width: 35%" />
 
-_Det Kongliga Drifveriet är en gammal anrik institution som sedan urminnes tider kämpat för ljuset och sanningen._
+_Det Kongliga Drifveriet är en gammal, anrik institution som sedan urminnes tider kämpat för ljuset och sanningen._
 
 Den dag vi in i det sista hoppades undkomma, har slutligen kommit. Mörka och ondskefulla krafter har beslutat att utsända sitt främsta vapen i ett försök att utplåna den Kungliga Tekniska Högskolan. En hord av frustande teknologaspiranter har skymtats haltandes mot portarna… nØllan nalkas!
 
