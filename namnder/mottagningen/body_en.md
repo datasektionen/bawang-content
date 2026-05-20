@@ -3,7 +3,7 @@
 
 The tabloids report instances of schlimey graduation parties and other disgüüsting events; a sure sign that nØllan is on their way. Soon, Technis will be threatened by the ravaging hordes of nØllan. 
 
-The chapter is preparing its defenses. Whipclad Vests, White Blankies, All-seeing Cameras, Food-stained Aprons and Glittering Gold coins are all mobilized to aid our brave troops.
+The chapter is preparing its defenses. Whipclad Vests, White Blankies, All-seeing Cameras, Hardened Protective Helmets, Food-stained Aprons and Glittering Gold coins are all mobilized to aid our brave troops.
 
 ## The Reception’s Groups
 
