@@ -3,7 +3,7 @@
 
 Via kvällspressen kommer schlemma rapporter om studentskivor och annat whüdrought beteende. Säkra tecken på att nØllan är på marsch. Snart kommer Teknis hotas av nØllans alla härjningar.
 
-Sektionen samlas sig till försvar. Piskbeprydda Västar, Vita Snuttefiltar, Allseende Kameror, Mattäckta Förkläden samt Glittrande Guldpengar plockas fram.
+Sektionen samlas sig till försvar. Piskbeprydda Västar, Vita Snuttefiltar, Allseende Kameror, Mattäckta Förkläden, Härdade Skyddshjälmar samt Glittrande Guldpengar plockas fram.
 
 Under Mottagningen gäller följande schema. Ett tips är att lägga till schemat i din egen kalender, via den <a href="https://calendar.google.com/calendar/ical/318968a98d5f0b5001c3e671dfedd49282735e5cec238c5520262d5443afc67d%40group.calendar.google.com/public/basic.ics" target="_blank">här iCal-länken</a> som fungerar med de flesta kalenderapplikationer. Om du använder Google Calendar kan du trycka på länken nere i kalenderns högra hörn.	
 
@@ -13,9 +13,9 @@ Under Mottagningen gäller följande schema. Ett tips är att lägga till schema
 ###Det Kongliga Drifveriet
 <img alt="Drifveriet-logga" src="https://dsekt-assets.s3-eu-west-1.amazonaws.com/mottagningen/drifveriet.svg" style="float: right; width: 35%" />
 
-_Det Kongliga Drifveriet är en gammal anrik institution som sedan urminnes tider kämpat för ljuset och sanningen._
+_Det Kongliga Drifveriet är en gammal, anrik institution som sedan urminnes tider kämpat för ljuset och sanningen._
 
-Den dag vi in i det sista hoppades undkomma, har slutligen kommit. Mörka och ondskefulla krafter har beslutat att utsända sitt främsta vapen i ett försök att utplåna den Kungliga Tekniska Högskolan. En hord av frustande teknologaspiranter har skymtats haltandes mot portarna… nØllan nalkas!
+Den dag vi in i det sista hoppades undkomma, har slutligen kommit. Mörka och ondskefulla krafter har beslutat att utsända sitt främsta vapen i ett försök att utplåna den Kungliga Tekniska högskolan. En hord av frustande teknologaspiranter har skymtats haltandes mot portarna… nØllan nalkas!
 
 Inom en på tok för snar framtid kommer nØllan, insmord i floskler om lycka och välgång, att storma Teknis för att försöka finna mening i sin erbarmliga tillvaro genom att schlemma ner den stoltaste av sektioner – Konglig Datasektionen.
 
@@ -33,7 +33,7 @@ För att dessa prövningar skall genomföras på ett rättvist och korrekt sätt
 
 Det Kongliga Drifveriet är en sammanslutning svetsad långt före urtidens begynnelse. Deras ärofulla mission: att med hjälp av Det Magnifika Ljuset och Den Eviga Sanningen drifva schlemmet ur de icke renade så att de på domens dag skall visa sig värdiga. Det Kongliga Drifveriet leds ytterst av De Högre Sfärerna, vars vilja kungörs av Gammel-Osquarulda Dräpare.
 
-De Högre Sfärernas jordiske företrädare är Konglig Öfverdrif, allsmäktig ledare för Det Kongliga Drifveriet. Vid sin sida har Konglig Öfverdrif vapendragarna Konglig Direktifdrif och Konglig Indrif. De tre är, liksom resten av sammanslutningen, orubbliga i sin övertygelse att strida för den Det Kongliga Drifveriets urgamla devis som i diamant står inristad i det djupaste av valv, djupt nere i den Kungliga Tekniska Högskolans katakomber:
+De Högre Sfärernas jordiske företrädare är Konglig Öfverdrif, allsmäktig ledare för Det Kongliga Drifveriet. Vid sin sida har Konglig Öfverdrif vapendragarna Konglig Direktifdrif och Konglig Indrif. De tre är, liksom resten av sammanslutningen, orubbliga i sin övertygelse att strida för den Det Kongliga Drifveriets urgamla devis som i diamant står inristad i det djupaste av valv, djupt nere i den Kungliga Tekniska högskolans katakomber:
 
 “På ytan hård, innerst inne brutal”.
 
@@ -42,7 +42,7 @@ De Högre Sfärernas jordiske företrädare är Konglig Öfverdrif, allsmäktig 
 
 _Det Kongliga Dadderiet är nØllans vän i alla väder. Det finns alltid kramgoa daddan att ty sig till när vindarna viner runt knuten._
 
-Det är tydligen så att nØllan blivit stor nog att inse att nØllan inte klarar sig utan livet på Teknis. Men det är inte så lätt att komma in i Livet på denna den förnämsta av tekniska högskolor, ty Livet består till en början av många hårda strapatser, samt i viss mån av en del matematik. Faror lurar på de mest oväntade av platser och tidpunkter från den stund nØllan beträder Teknis anrika mark. [Elaka examinatorer](https://www.imdb.com/title/tt0036914/) och [uråldriga demoner](https://dsekt-assets.s3.amazonaws.com/mottagningen/Cthulhu.gif) lurar överallt. Dessa är i sig förskräckliga och skulle både räcka och bli över, men här finns även något så skrämmande att nØllan inte kan föreställa sig det ens i sina värsta mardrömmar – Det Kongliga Drifveriet.
+Det är tydligen så att nØllan blivit stor nog att inse att nØllan inte klarar sig utan livet på Teknis. Men det är inte så lätt att komma in i Livet på denna den förnämsta av tekniska högskolor, ty ĺivet består till en början av många hårda strapatser, samt i viss mån av en del matematik. Faror lurar på de mest oväntade av platser och tidpunkter från den stund nØllan beträder Teknis anrika mark. [Elaka examinatorer](https://www.imdb.com/title/tt0036914/) och [uråldriga demoner](https://dsekt-assets.s3.amazonaws.com/mottagningen/Cthulhu.gif) lurar överallt. Dessa är i sig förskräckliga och skulle både räcka och bli över, men här finns även något så skrämmande att nØllan inte kan föreställa sig det ens i sina värsta mardrömmar – Det Kongliga Drifveriet.
 
 ####Räddningen
 
@@ -52,9 +52,9 @@ Så en solig dag föddes Det Kongliga Dadderiet, med vars hjälp nØllan skulle 
 
 ####Kännetecken
 
-Hur känner man då igen en Dadda? I första hand på att Daddan är många och har ett alltid lika soligt leende som passar till det goda humöret. I andra hand känns Daddan igen på sina cerisefärgade snickarbyxor samt den alltid så bländvita snuttefilten. Dadderiet kan göra underverk, men de kan inte ensamma klara nØllan genom den första tiden. nØllan måste hjälpa till själva också genom att hålla ihop. För att få styrka kommer därför nØllan att uppträda i nØllegrupper, som alla har två FavoritDaddan att ty sig till. I dessa grupper kan nØllan söka mod för att gemensamt trotsa de faror som kan tänkas dyka upp.
+Hur känner man då igen en Dadda? I första hand på att Daddan är många och alltid har ett lika soligt leende som passar till det goda humöret. I andra hand känns Daddan igen på sina cerisefärgade snickarbyxor samt den alltid så bländvita snuttefilten. Dadderiet kan göra underverk, men de kan inte ensamma klara nØllan genom den första tiden. nØllan måste också hjälpa till själva genom att hålla ihop. För att få styrka kommer därför nØllan att uppträda i nØllegrupper, som alla har två FavoritDaddan att ty sig till. I dessa grupper kan nØllan söka mod för att gemensamt trotsa de faror som kan tänkas dyka upp.
 
-Du kommer att tillbringa mycket tid med dina Daddan den första tiden, så utnyttja alla tillfällen att göra din Dadda glad. Krama honom/henne, bjud på något gott (till exempel öl), och festa med Daddan. Om du följer dessa råd kan vägen in i Livet bli uthärdlig, ja kanske rent av något nØllan aldrig kommer att glömma. Dadderiet kommer att göra allt för att nØllan skall trivas! Kom ihåg Dadderiets devis:
+Du kommer att tillbringa mycket tid med dina Daddan den första tiden, så utnyttja alla tillfällen att vara snäll mot din Dadda. Om du följer detta råd kan vägen in i studentlivet bli uthärdlig, ja kanske rent av något nØllan aldrig kommer att glömma. Dadderiet kommer att göra allt för att nØllan skall trivas! Kom ihåg Dadderiets devis:
 
 “På ytan mjuk, innerst inne kramgo!”
 
@@ -84,7 +84,7 @@ Sammanfattningsvis kan nØllan alltså betrakta Doqumenteriet som nØllans vänn
 
 _Quisineriet ser till att nØllan mår bra och har roligt. Denna eminenta samling människor, de så kallade quisinerna, har huvudansvaret för att planera och genomföra alla stora fester under Mottagningen._
 
-Dessutom tar Quisineriet hand om Mottagningens kära Mottagningsbil och inhandlar alla nödvändigheter, från mat till diskmedel till A4-papper. Självklart är det även Quisineriet som ser till att nØllan håller sig mätt och belåten.
+Dessutom tar Quisineriet hand om Mottagningens kära Mottagningsbil och inhandlar alla nödvändigheter, från mat och diskmedel till A4-papper. Självklart är det även Quisineriet som ser till att nØllan håller sig mätt och belåten.
 
 ####Hur går det här till?
 
@@ -107,3 +107,16 @@ Med sina säckar fulla med guldpengar och med bättre sinne för pengar än Joak
 ####Kännetecken
 
 Ekonomeristerna må älska pengar högst av allt men de gillar också nØllan. När de inte dyker runt i sin pengabinge hälsar de gärna på nØllan och resten av personalen. nØllan känner igen dem på sina glittrande guldkedjor som de aldrig skulle synas utan. Om nØllan är riktigt snäll kanske de till och med bjuder på lite guldpengar, vem vet!
+
+### Det Kongliga Syssleriet
+_Det Kongliga Syssleriet är små pysslingar som ofta vistas på campus. Skygga vistas de i skymundan från nØllan med att syssla, pyssla och planera. Men ibland vågar de sig fram för att ha lugna och mysiga pysselstugor där nØllan får vara med. De har ansvar att planera många av mottagningens större och logistiskt krävande aktiviteter, samt att vara en lugn och mysig kontakt när eventen ibland blir lite mycket._
+
+Nu är dagen här! nØllan kommer snart till campus och syssleriets anrika skara, med sina antika rötter, måste återigen preppa eventen och syssla till den mysiga stämningen. Om nØllan någonsin känner sig överväldigad av mottagningens exceptionella festligheter eller vill vistas i en alkoholfri miljö kommer sysslingarnas pysselstuga att stå öppen för dem. Man kan alltid lita på att en syssling följer sitt motto:
+
+_"Vi fixar biffen"_
+
+##### Kännetecken
+Sysslingar går att känna igen på sina gula och klistermärkestäckta skyddshattar, som de har för att inte få plankor i huvudet. De tycker även om att nynna på introt från _Byggare Bob_ och går ofta runt med något pyssel eller hantverk. Du ser dem förmodligen iklädda tejp och sopsäckar, svamlande om logistik.
+
+I vissa stunder med hög buskoefficient kan en syssling tappa sig till sina inre finurligheter och bli en pyssling. Det kan bli både skoj och knasigt, något man antingen kan välkomna eller undvika (beroende på hur rädd man är för glitter).
+
