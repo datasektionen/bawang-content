@@ -1,8 +1,9 @@
 # dJulkalendern
 
-Klockan 12:15 varje vardag i december fram till julafton släpps en lucka.
+dJulkalendernnämnden ansvarar för att skapa dJulkalendern varje år. dJulkalendern är en kalenderbaserad 
+CTF-tävling som pågår från start av december till julafton. Luckorna släpps varje vardag klockan 12:15.
 
-Varje lucka består av en ny del av storyn och en uppgift på något sätt kopplad till datateknik.
+Varje lucka som släpps består av en ny del av storyn och en uppgift på något sätt kopplad till datateknik.
 
 Luckorna består av kluriga gåtor, hacking, och andra datarelaterade utmaningar som ni ska försöka
 lösa så många av, och så fort, som möjligt. Till dJulkalendern finns även en story som utspelar sig
