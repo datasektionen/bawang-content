@@ -2,5 +2,5 @@
 
 #### Tomtemor/-far
 
-Alvin Hävrén </br>
+Jimmy Tran </br>
 [djul@datasektionen.se](mailto:djul@datasektionen.se)
