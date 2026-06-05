@@ -104,14 +104,13 @@ Organizes and runs the SM/VM's and ensures the democratic process at the chapter
 
 ## Current projects
 
-- dÅre 2025
-- Studs 2025
-- METAspexet 2025
-- Project Pride 2024
-- Vårbalen 2025
-- BAMM
-- Project Dive
-- Groda 2024 - GRön hållbarhet Och DAtasektionen (Green sustainability and Datasektionen)
+- dÅre
+- METAspexet
+- Project Pride
+- Vårbalen
+- D-forum 2026
+- xX_D4nc3m4s7er1983_Xx (the creation of the new chapter dance)
+- Bröllopsjubileum
 - Projekt dAlumn (dAlumni)
 
 Operational plans for all current projects are uploaded to [Google Drive](https://dsekt.se/vp-projekt).

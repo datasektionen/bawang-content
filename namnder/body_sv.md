@@ -106,15 +106,14 @@ Nedan ses alla återkommande projekt på Datasektionen. Återkommande projekt ä
 
 ## Projekt på Datasektionen
 
-- dÅre 2025
-- Studs 2025
-- METAspexet 2025
-- Project Pride 2024
-- Vårbalen 2025
-- BAMM
-- Project Dive
-- Groda 2024 - GRön hållbarhet Och DAtasektionen
-- Projekt dAlumn
+- dÅre
+- METAspexet
+- Project Pride
+- Vårbalen
+- D-forum 2026
+- xX_D4nc3m4s7er1983_Xx (framtagandet av en ny sektionsdans)
+- Bröllopsjubileum
+- Projekt dAlumn (dAlumni)
 
 Verksamhetsplaner för samtliga öppna projekt läggs upp på [Google Drive](https://dsekt.se/vp-projekt).
 
