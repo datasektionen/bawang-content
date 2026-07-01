@@ -2,7 +2,6 @@
 
 Kontakta oss gärna på mail eller via våra sociala medier och ni har en fråga eller fundering!
 
-
 Mail<br/>
 [foretag@datasektionen.se](mailto:foretag@datasektionen.se). <br/>
 

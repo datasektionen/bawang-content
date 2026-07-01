@@ -10,10 +10,10 @@ anledning är du alltid välkommen att kontakta oss!
 E-post: [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 **Näringslivsansvarig**<br />
-Erik Rennel<br />
+Tilde Josefsson<br />
 E-post: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
-**Arbetsmarknadsdagsansvariga (ansvariga för D-Dagen)**<br />
+**Arbetsmarknadsdagsansvarig(a) (ansvariga för D-Dagen)**<br />
 Didzis Urtãns<br />
 E-post: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
@@ -24,7 +24,7 @@ Mer information om Datasektionens näringslivsgrupp hittar du [på näringslivss
 För frågor av allmän karaktär bör du kontakta Datasektionens kommunikatör.
 
 **Kommunikatör**<br />
-Muhammed Reza Mehdi<br />
+Alfred Fall Lindgren<br />
 E-post: [info@datasektionen.se](mailto:info@datasektionen.se)<br />
 
 Vid frågor eller funderingar som rör [datasektionen.se](https://datasektionen.se) eller något av våra andra system kan du vända dig till Systemansvarig via [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se).

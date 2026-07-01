@@ -4,5 +4,5 @@ If you have any questions about the chapter's information channels, announcing e
 
 #### Head of Communications
 
-Muhammed Reza Mehdi<br>
+Alfred Fall Lindgren<br>
 [info@datasektionen.se](mailto:info@datasektionen.se)

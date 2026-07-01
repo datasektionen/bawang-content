@@ -10,10 +10,10 @@ You are always welcome to contact us at:
 E-mail: [foretag@datasektionen.se](mailto:foretag@datasektionen.se)
 
 **Head of business relations**<br />
-Erik Rennel<br />
+Tilde Josefsson<br />
 E-mail: [naringsliv@datasektionen.se](mailto:naringsliv@datasektionen.se)<br />
 
-**Heads of D-Dagen (the chapter's career fair)**<br />
+**Head(s) of D-Dagen (the chapter's career fair)**<br />
 Didzis Urtãns<br />
 E-mail: [ansvarig@ddagen.se](mailto:ansvarig@ddagen.se)<br />
 
@@ -24,7 +24,7 @@ For more information, visit the [industry page](/naringsliv?lang=en).
 For general questions, feel free to contact our head of communications.
 
 **Head of communications**<br />
-Muhammed Reza Mehdi<br />
+Alfred Fall Lindgren<br />
 E-mail: [info@datasektionen.se](mailto:info@datasektionen.se)<br />
 
 For matters regarding [datasektionen.se](https://datasektionen.se) or any of the chapter's other systems, 

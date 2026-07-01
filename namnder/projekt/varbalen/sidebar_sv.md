@@ -2,5 +2,5 @@
 
 #### Vårbalsgeneral
 
-Natalia Winiarska </br>
+Adela Sjödin</br>
 [varbalsgeneral@datasektionen.se](mailto:varbalsgeneral@datasektionen.se)

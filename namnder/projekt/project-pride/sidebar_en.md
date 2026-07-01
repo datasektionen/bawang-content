@@ -2,5 +2,5 @@
 
 #### Project leader
 
-Vacant</br>
+Rasmus Söderhielm</br>
 [pride@datasektionen.se](mailto:pride@datasektionen.se)

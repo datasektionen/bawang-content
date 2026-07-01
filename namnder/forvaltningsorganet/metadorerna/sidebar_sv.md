@@ -1,11 +1,11 @@
 ## Kontakt
 
 #### Konglig Lokalchef (D)
-Hannes Hultin<br>
+Marcus Sörberg<br>
 [lokalchef@datasektionen.se](mailto:lokalchef@datasektionen.se)
 
 #### Sektionslokalsansvarig (Me)
-Vanessa Baatarsukh</br>
+Vakant</br>
 [sektionslokal@medieteknik.com](mailto:sektionslokal@medieteknik.com)
 
 #### METAdorerna

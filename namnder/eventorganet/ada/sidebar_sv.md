@@ -3,7 +3,7 @@
 Om du skulle vilja veta mer om nämnden eller har något förslag så går det jättebra att skicka ett mejl eller hugga tag i oss i META!
 
 ### Adas ordförande
-Sara Weister <br>
+Mariam Hamad <br>
 [ada-ordf@datasektionen.se](mailto:ada-ordf@datasektionen.se). <br/>
 
 ### Hitts oss på sociala medier

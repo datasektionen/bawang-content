@@ -2,7 +2,7 @@
 
 **Valberedningens ordförande:** 
 
-Roger Chen
+Olof Bargholtz Melcherson
 [valberedning-ordf@datasektionen.se](mailto:valberedning-ordf@datasektionen.se)
 
 **Resterande Valberedare:**
@@ -10,8 +10,8 @@ Roger Chen
 - Karl-Isac Åström
 - Hugo Karlsson
 - Kristin Rosen
-- Jenny Backlund Stridh
-- Olof Bargholtz Melcherson
-- Liam Thorell
+- Rima Nimah Odeh
+- Emma Ericsson
+- Oscar Eriksson
 
 [valberedare@datasektionen.se](mailto:valberedare@datasektionen.se)

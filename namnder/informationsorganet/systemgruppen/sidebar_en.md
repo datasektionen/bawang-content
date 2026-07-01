@@ -2,7 +2,8 @@
 
 #### Head of IT
 
-Viktor Ekby </br>
+Oskar Engström (26/27) </br>
+Viktor Ekby (25/26) </br>
 [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
 
 #### Systems Group's Mattermost

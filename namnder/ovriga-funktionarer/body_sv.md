@@ -3,7 +3,7 @@
 En lista med alla funktionärer hittar du på [dfunkt.datasektionen.se](https://dfunkt.datasektionen.se/).
 
 
-## Datas Art Director (DAD) - Emilie Ruixin Cao
+## Datas Art Director (DAD) - Agnes Lindencrona
 
 DAD samarbetar med övriga i sektionen vid behov eller önskemål av design och grafisk utveckling, exempelvis logotyper och andra symboler som representerar sektionen. DAD synliggör också sektionens funktionärer i sektionslokalen med dFunktavlan, administrerar och lånar ut sektionens konstnärliga licenser samt administrerar över sektionens video- och fotoutrustning.
 
@@ -13,7 +13,7 @@ DAD samarbetar med övriga i sektionen vid behov eller önskemål av design och 
 Fanbärarna försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Observera att fanan skall hållas högt. Att vara Fanbärare är en mycket hedersfylld post på sektionen. Fanbärarna bär huvudansvaret för att sektionens fana hålls i gott skick.
 
 
-## Jämlikhets-, Mångfalds- och Likabehandlingsansvarig (JMLA) - Johanna Plant
+## Jämlikhets-, Mångfalds- och Likabehandlingsansvarig (JMLA) - Tina Lin
 
 Jämlikhets-, Mångfalds- och Likabehandlingsansvarig har till uppgift att värna om sektionens psykiska studiemiljö, för samtliga sektionsmedlemmar. Funktionären ska pro- och reaktivt arbeta med att förbättra sektionens arbete inom jämlikhet, mångfald och likabehandling.
 
@@ -28,15 +28,15 @@ Maila oss om du undrar över något om Kårfullmäktige, eller om du har försla
 
 ### Kårfullmäktigeledamöter
 
+- Jonathan Blomlöf
+- Carl Blomqvist
 - Lukas Malmberg
-- Filip Ramslöv
 - Emma Ericsson
-- Johanna Plant
 
 ### Kårfullmäktigesuppleanter
 
-- Olof Bargholtz Melcherson
-- Kevin Wenström
+- Hannes Hultin
+- Roger Chen
 
 [Facebook](https://facebook.com/KF.Data)
 
@@ -56,17 +56,15 @@ För att använda en av bilarna behöver du både ta kontakt med Mulle/Mullerina
 Efter varje resa måste man fylla i [körjournalen](https://dsekt.se/korjournal). Kör försiktigt!
 
 
-## Programansvarig student - Niels Barth
+## Programansvarig student - Nikolina Haggård Grann
 
 Programansvarige arbetar tillsammans med Studienämndens ordförande för att förbättra utbildningens kvalitet. Arbetet går i praktiken ut på att ha möten med lärare och de ansvariga för utbildningen på EECS samt möten centralt på THS.
 
 
 ## Revisorerna
 
-- Fredrik Blomqvist (granskar 2026)
-- Lukas Malmberg (granskar 2026)
-- Adam Sjöberg (granskar 2025)
-- Erik Hedlund (granskar 2025)
+- Fredrik Blomqvist
+- Lukas Malmberg
 
 Revisorerna håller koll på styrelsen och tolkar styrdokument. 
 

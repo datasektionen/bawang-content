@@ -2,5 +2,5 @@
 
 #### Jämlikhetsnämndens ordförande
 
-Albin Haraldsson</br>
+Jakob Carlsson</br>
 [jno@datasektionen.se](mailto:jno@datasektionen.se)

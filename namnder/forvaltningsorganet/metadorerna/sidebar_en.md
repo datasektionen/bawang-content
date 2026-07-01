@@ -1,11 +1,11 @@
 ## Contact
 
 #### Royal Chief of Halls (D)
-Hannes Hultin<br>
+Marcus Sörberg<br>
 [lokalchef@datasektionen.se](mailto:lokalchef@datasektionen.se)
 
 #### Head of Chapter Hall (Me)
-Vanessa Baatarsukh</br>
+Vacant</br>
 [sektionslokal@medieteknik.com](mailto:sektionslokal@medieteknik.com)
 
 #### METAdorerna

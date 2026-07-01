@@ -3,7 +3,7 @@
 The full list of officials, including those under the committees, can be found at [dfunkt.datasektionen.se](https://dfunkt.datasektionen.se/).
 
 
-## Datas Art Director (DAD) - Emilie Ruixin Cao
+## Datas Art Director (DAD) - Agnes Lindencrona
 
 DAD cooperates with the chapter's committees and clubs when there is a need or there are requests for graphics and designs, i.e logos and other chapter representative symbols. DAD also highlights chapter officials via the dFunk board in the chapter hall, administrates and lends out the chapter's graphical licenses as well as administrates the chapter's video and photo equipment.
 
@@ -13,7 +13,7 @@ DAD cooperates with the chapter's committees and clubs when there is a need or t
 Flag bearers defend the honor of the chapter by carrying its flag on various ceremonial occasions. Note that the flag should be held high. Being a flag bearer is a very honorable position in the section. The flag bearers are responsible for keeping the chapter's flag in good condition.
 
 
-## Head of Equality, Diversity and Equal Treatment (JMLA) - Johanna Plant
+## Head of Equality, Diversity and Equal Treatment (JMLA) - Tina Lin
 
 Head of Equality, Diversity and Equal Treatment is responsible for taking care of the psychosocial study environment, for all Chapter members. The officer shall pro- och reactively with continuously improving the Chapter's work within equality, diversity and equal treatment.
 
@@ -28,15 +28,15 @@ Send us an e-mail at [kf@datasektionen.se](mailto:kf@datasektionen.se) if you ha
 
 ### Members
 
+- Jonathan Blomlöf
+- Carl Blomqvist
 - Lukas Malmberg
-- Filip Ramslöv
 - Emma Ericsson
-- Johanna Plant
 
 ### Supplementary members
 
-- Olof Bargholtz Melcherson
-- Kevin Wenström
+- Hannes Hultin
+- Roger Chen
 
 [Facebook](https://facebook.com/KF.Data)
 
@@ -56,17 +56,15 @@ To use one of the cars you must both contact Mulle/Mullerina Schmeck to receive 
 After each journey you must fill in the [driving journal](https://dsekt.se/korjournal). Drive safely!
 
 
-## Program responsible student - Niels Barth
+## Program responsible student - Nikolina Haggård Grann
 
 The program responsible student works together with the chairman of the Study Committee to improve the quality of the education. In practice, the work consists of meetings with teachers and those responsible for the program at EECS and meetings centrally at THS.
 
 
 ## Auditors
 
-- Fredrik Blomqvist (audits 2026)
-- Lukas Malmberg (audits 2026)
-- Adam Sjöberg (audits 2025)
-- Erik Hedlund (audits 2025)
+- Fredrik Blomqvist
+- Lukas Malmberg
 
 The auditors review the board and interpret the Chapter's regulatory documents.
 

@@ -4,7 +4,7 @@ Do you want to contact the Desctop (head of DESC)? Send a mail to [desctop@datas
 
 #### DESCtop
 
-Oscar Eriksson </br>
+Alvin Yang</br>
 [desctop@datasektionen.se](mailto:desctop@datasektionen.se)
 
 ## Join DESC
