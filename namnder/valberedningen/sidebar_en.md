@@ -2,7 +2,7 @@
 
 **Election Committee Chairperson:** 
 
-Roger Chen<br>
+Olof Bargholtz Melcherson<br>
 [valberedning-ordf@datasektionen.se](mailto:valberedning-ordf@datasektionen.se)
 
 **Other Election Committee Members:**
@@ -10,8 +10,8 @@ Roger Chen<br>
 - Karl-Isac Åström
 - Hugo Karlsson
 - Kristin Rosen
-- Jenny Backlund Stridh
-- Olof Bargholtz Melcherson
-- Liam Thorell
+- Rima Nimah Odeh
+- Emma Ericsson
+- Oscar Eriksson
 
 [valberedare@datasektionen.se](mailto:valberedare@datasektionen.se)

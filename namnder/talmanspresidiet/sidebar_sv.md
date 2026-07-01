@@ -12,6 +12,6 @@ Hanna Zhang
 
 **Sekreterare**
 
-Jonathan Blomlöf
+Felix Murnion
 [sekreterare@datasektionen.se](mailto:sekreterare@datasektionen.se)
 

@@ -1,7 +1,6 @@
 ## Contact
 
-Please contact us on mail or our social media if you have any questions! 
-
+Please contact us on mail or our social media if you have any questions!
 
 Mail<br/>
 [foretag@datasektionen.se](mailto:foretag@datasektionen.se) <br/>

@@ -6,14 +6,6 @@ I menyn till vänster kan du läsa mer om alla Datasektionens nämnder och proje
 
 Grupp för att hjälpa kvinnor och ickebinära på Datasektionen att nätverka med varandra.
 
-### [Baknämnden](/namnder/studiesociala-organet/baknamnden)
-
-Bakar till sektionsmöten och andra tillfällen.
-
-### [Datasladden](/namnder/forvaltningsorganet/datasladden)
-
-Tar hand om sektionens bil, Cerise, så att den kan stanna på vägen.
-
 ### [DEMON](/namnder/studiesociala-organet/demon)
 
 Musikentusiasterna i Datasektionen. Vi möts för att jamma tillsammans!
@@ -77,10 +69,6 @@ Arrangerar brädspelskvällar och ibland filmkvällar.
 ### [Redaqtionen - dbuggen](/namnder/informationsorganet/redaqtionen)
 
 dbuggen är sektionens egna tidning. Det släpps inslag när skribenter har tid och vilja. Numera går det att läsa online.
-
-### [Scala](/namnder/studiesociala-organet/scala)
-
-Sektionens kör för alla som gillar att sjunga.
 
 ### [Studienämnden](/namnder/paverkansorganet/studienamnden)
 

@@ -4,5 +4,5 @@ Om du har några historiska frågor så kan du höra av dig till Sektionshistori
 
 #### Sektionshistoriker
 
-Soma Szabo<br>
+Emma Ericsson<br>
 [historiker@datasektionen.se](mailto:historiker@datasektionen.se)

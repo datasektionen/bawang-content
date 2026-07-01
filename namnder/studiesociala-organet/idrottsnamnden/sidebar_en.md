@@ -4,5 +4,5 @@ If you have any sporty questions please get in touch with the Chapter Sports Lea
 
 #### Chapter Sports Leader
 
-Trang Nguyen </br>
+Julius Geiryd</br>
 [idrott@datasektionen.se](mailto:idrott@datasektionen.se)

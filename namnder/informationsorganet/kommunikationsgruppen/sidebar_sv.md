@@ -4,5 +4,5 @@ Om du har några frågor om sektionens informationskanaler, annonsering osv, hö
 
 #### Kommunikatör
 
-Muhammed Reza Mehdi<br>
+Alfred Fall Lindgren<br>
 [info@datasektionen.se](mailto:info@datasektionen.se)

@@ -3,7 +3,7 @@
 Send us an email or follow us on facebook or instagram if you find us interesting or would like to know more!
 
 ### Ada's Chairwoman
-Sara Weister <br>
+Mariam Hamad <br>
 [ada-ordf@datasektionen.se](mailto:ada-ordf@datasektionen.se). <br/>
 
 ### Find us on social media

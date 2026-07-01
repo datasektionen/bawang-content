@@ -10,10 +10,6 @@ Group for helping girls at the CS chapter network with each other.
 
 Improves the chapter communication and creates posts on the chapter's official social media.
 
-### [Datasladden](/namnder/forvaltningsorganet/datasladden?lang=en)
-
-Takes care of the chapter car, Cerise, so it stays on the road.
-
 ### [DEMON - Music group](/namnder/studiesociala-organet/demon?lang=en)
 
 DEMON are the music enthusiasts of the CS chapter. Meet to jam together!
@@ -62,17 +58,9 @@ Film nights, eating candy, and other forms of _qulture_.
 
 dbuggen is the Chapter's own paper. It's released whenever any possible editors have the time or the will. This actually sometimes happens! Nowadays you can also read it online.
 
-### [Scala](/namnder/studiesociala-organet/scala?lang=en)
-
-The chapter choir for everyone who likes to sing.
-
 ### [Study Board - Studienämnden](/namnder/paverkansorganet/studienamnden?lang=en)
 
 Keeping an eye on the studies, the courses and the faculty.
-
-### [The Baking Committee](/namnder/studiesociala-organet/baknamnden?lang=en)
-
-Bakes pastries for chapter meetings and other occasions.
 
 ### [The Business Relations Group](/namnder/naringslivsorganet/naringslivsgruppen?lang=en)
 
