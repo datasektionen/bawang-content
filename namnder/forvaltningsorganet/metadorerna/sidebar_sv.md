@@ -1,19 +1,26 @@
 ## Kontakt
 
+{{ if not .reception -}}
+
 #### Konglig Lokalchef (D)
+
 Marcus Sörberg<br>
 [lokalchef@datasektionen.se](mailto:lokalchef@datasektionen.se)
+{{- end }}
 
 #### Sektionslokalsansvarig (Me)
+
 Vakant</br>
 [sektionslokal@medieteknik.com](mailto:sektionslokal@medieteknik.com)
 
 #### METAdorerna
+
 [metadorerna@datasektionen.se](mailto:metadorerna@datasektionen.se)
 
 ## Länkar
-* [Lokalbokning / Chapter-house booking](https://datasektionen.se/sektionen/lokalbokning)
 
-* [Felanmälning av META](dsekt.se/felanmal)
+- [Lokalbokning / Chapter-house booking](https://datasektionen.se/sektionen/lokalbokning)
 
-* [Förbättringsförslag till META](dsekt.se/forslag)
+- [Felanmälning av META](dsekt.se/felanmal)
+
+- [Förbättringsförslag till META](dsekt.se/forslag)
