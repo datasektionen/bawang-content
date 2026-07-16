@@ -3,30 +3,34 @@
 Ada är en nämnd vars syfte är att främja kvinnor och ickebinära på Datasektionen, som i övrigt är i det närmsta översvämmad av män. Vi vill helt enkelt skapa ett utrymme som gör det lättare för kvinnor och ickebinära att träffa andra kvinnor och ickebinära på sektionen! Vi anordnar sittningar, pubar och andra roliga event som primärt riktar sig till kvinnor och ickebinära. Om du vill veta mer så kan du följa oss på Facebook och Instagram, eller kontakta oss med hjälp av informationen här bredvid!
 
 **Ada 25/26**
+{{ if not .reception -}}
 
-- Sara Weister *-  Adas Ordförande*
+- Sara Weister _- Adas Ordförande_
+  {{- end }}
 - Tilde Joseffson
-- Mariam Hamad 
+- Mariam Hamad
 - Sibell Israelsson
 - Emma Wandel
 - Julia Tsung
 - Silan Cetinkaya
 - Sofia Hulth
-  
+
 <br />
 **Ada 24/25**
 
-- Stella Bobert *- Adas Ordförande*
+- Stella Bobert _- Adas Ordförande_
 - Nedea Haukebö
 - Lovisa Sjöberg
+  {{ if not .reception -}}
 - Sara Weister
+  {{- end }}
 - Tilde Josefsson
 - Adela Sjödin
 
 <br />
 **Ada 23/24**
 
-- Klara Sandström *- Adas Ordförande*
+- Klara Sandström _- Adas Ordförande_
 - Isadora Winter
 - Stella Bobert
 - Maria Tsychkova
@@ -36,7 +40,7 @@ Ada är en nämnd vars syfte är att främja kvinnor och ickebinära på Datasek
 <br />
 **Ada 22/23**
 
-- Klara Sandström *- Adas Ordförande*
+- Klara Sandström _- Adas Ordförande_
 - Ebba Bråtman
 - Isadora Winter
 - Alva Välimäki
@@ -45,7 +49,7 @@ Ada är en nämnd vars syfte är att främja kvinnor och ickebinära på Datasek
 <br />
 **Ada 21/22**
 
-- Amanda Hallstedt *- Adas Ordförande*
+- Amanda Hallstedt _- Adas Ordförande_
 - Amanda Krohn
 - Josefina Häkkinen
 - Julia Wang
