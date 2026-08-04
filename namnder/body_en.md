@@ -6,9 +6,9 @@ In the menu to the left you can read more about the CS chapters clubs/committees
 
 Group for helping girls at the CS chapter network with each other.
 
-### [Communications Group](/namnder/informationsorganet/kommunikationsgruppen)
+### [The Communications Group](/namnder/informationsorganet/kommunikationsgruppen)
 
-Improves the chapter communication and creates posts on the chapter's official social media.
+Helps the chapter communicate.
 
 ### [DEMON - Music group](/namnder/studiesociala-organet/demon?lang=en)
 

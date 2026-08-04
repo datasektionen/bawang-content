@@ -32,7 +32,7 @@ Arrangerar sport-event, kontinuerligt en sport varje vecka!
 
 ### [Kommunikationsgruppen](/namnder/informationsorganet/kommunikationsgruppen)
 
-Förbättrar sektionens kommunikation och gör inlägg på sektionens officiella sociala medier.
+Administrerar och utvecklar sektionens informationskanaler.
 
 ### [Systemgruppen](/namnder/informationsorganet/systemgruppen)
 
