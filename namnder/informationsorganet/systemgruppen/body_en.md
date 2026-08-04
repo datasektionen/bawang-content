@@ -15,7 +15,7 @@ where we program together.)
 Some systems built by previous students that are extensively used by the chapter are listed below.
 
 - [Cashflow](https://cashflow.datasektionen.se) is probably our most used system. Here you can register expenditures you have made on
-behalf of the chapter in order for the Treasurer to repay you as soon as possible. Neat, right?
+behalf of the chapter in order for the Treasurer to reimburse you as soon as possible. Neat, right?
 - [Damm](https://damm.datasektionen.se) is a collection of old patches and other historical stuff.
 - [Aaallt](https://aaallt.datasektionen.se/) may not be our most exciting system, but it allows you to get to almost all the chapter's systems.
 
