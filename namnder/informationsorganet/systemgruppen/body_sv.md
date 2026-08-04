@@ -7,8 +7,8 @@ och lära oss nya saker tillsammans. Här är alla välkomna, oavsett om du är 
 
 ## Sektionens system
 
-Källkoden till sektionens system finns på [Github](https://github.com/datasektionen/). Om du vill ha tillgång
-för att redigera något kan du be om att bli tillagd av Systemansvarig eller komma på en av våra Hackerkvällar.
+Källkoden till sektionens system finns på [GitHub](https://github.com/datasektionen/). Om du vill ha tillgång
+för att redigera något kan du be om att bli tillagd av systemansvarig eller komma på en av våra hackerkvällar.
 
 ### Ett urval av våra system
 
@@ -22,8 +22,10 @@ du klicka dig vidare till nästan alla andra system sektionen har.
 
 ## Engagera dig i nämnden
 
-Vi håller vanligtvis i Hackerkvällar där alla sektionsmedlemmar är välkomna på torsdagar från klockan 17:15 och framåt, 
+Vi håller i hackerkvällar där alla sektionsmedlemmar är välkomna. Dessa äger vanligtvis rum på torsdagar från klockan 17:15 och framåt, 
 någonstans i E-huset. (Oftast datorsal Röd, Orange eller Gul.) Hit kan du komma för att hänga med oss, se vad vi håller på med, 
-eller själv utveckla något för sektionen. Om du är intresserad och vill se om det är Hackerkväll den här veckan, fråga på vår
+eller själv utveckla något för sektionen.
+
+Om du är intresserad och vill se om det är hackerkväll den här veckan, fråga på vår
 [Mattermost](https://dsekt.se/iormost). Hoppas att vi ses där!
 
