@@ -1,6 +1,6 @@
 # Nämnder på Datasektionen
 
-I menyn till vänster kan du läsa mer om alla Datasektionens nämnder och projekt samt nedan få en snabb överblick. Alla funktionärer, nämnder och projekt är samlade i olika organ, vilka leds av organledare.
+I menyn till vänster kan du läsa mer om alla Datasektionens nämnder och projekt samt nedan få en snabb överblick.
 
 ### [Ada](/namnder/studiesociala-organet/ada)
 
@@ -34,9 +34,9 @@ Arrangerar sport-event, kontinuerligt en sport varje vecka!
 
 Förbättrar sektionens kommunikation och gör inlägg på sektionens officiella sociala medier.
 
-### [Systemgruppen](/namnder/informationsorganet/systemgruppen)
+### [Crash & Bränn](/namnder/informationsorganet/systemgruppen)
 
-Utvecklar och underhåller sektionens diverse webbsidor. Även den du kollar på nu!
+Utvecklar och underhåller sektionens system, inklusive hemsidan du tittar på just nu!
 
 ### [Internationella nämnden](/namnder/eventorganet/internationella-namnden)
 
@@ -68,7 +68,7 @@ Arrangerar brädspelskvällar och ibland filmkvällar.
 
 ### [Redaqtionen - dbuggen](/namnder/informationsorganet/redaqtionen)
 
-dbuggen är sektionens egna tidning. Det släpps inslag när skribenter har tid och vilja. Numera går det att läsa online.
+*dbuggen* är sektionens egna tidning. Det släpps inslag när skribenter har tid och vilja. Numera går det att läsa online.
 
 ### [Studienämnden](/namnder/paverkansorganet/studienamnden)
 

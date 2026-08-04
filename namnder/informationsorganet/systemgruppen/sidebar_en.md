@@ -1,6 +1,6 @@
 ## Contact
 
-#### Head of IT
+#### Head of Systems
 
 Oskar Engström (26/27) </br>
 Viktor Ekby (25/26) </br>
@@ -12,6 +12,6 @@ Viktor Ekby (25/26) </br>
 
 #### Github
 
-Our [Github](https://dsekt.se/github-link-website) organisation</br>
+Our [Github](https://dsekt.se/github-link-website) organization</br>
 
-Do you want access? Ask Head of IT or attend a programming evening!
+Do you want access? Ask Head of Systems or attend a programming evening!

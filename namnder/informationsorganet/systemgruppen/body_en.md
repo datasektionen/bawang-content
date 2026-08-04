@@ -1,20 +1,27 @@
-# Systems Group
+# Crash & Burn
 
-We are happy that you found the Systems Group's page! The Systems Group is in charge of developing new systems and maintaining the chapter’s current systems. In short, we are a group of students who enjoy programming and learning together. Everyone is welcome here, regardless of whether you have worked as a developer for a few years or are completely new to programming.
+We are glad that you have found your way to Crash & Burn's page! Crash & Burn is in responsible for developing new systems 
+for the chapter and maintaining its current ones. In short, we are a group of students who enjoy programming and learning together. 
+Everyone is welcome to join us, regardless of whether you have years of experience as a developer or are completely new to programming.
 
-## The Chapter’s systems
+## The chapter’s systems
 
-The chapter’s systems are available on our [Github](https://github.com/datasektionen/), if you want access to see or edit something, you can ask Head of IT or come to one of our programming evenings.
+You can find the repositories for our systems on [GitHub](https://github.com/datasektionen/). If you want to contribute to
+our systems, you may ask the Head of Systems to add you to our organization or attend one of our programming evenings. (As in evening
+where we program together.)
 
-### Selection of systems
+### A selection of our systems
 
-Here is a list of some systems that previous students have built and that the chapter use extensively:
+Some systems built by previous students that are extensively used by the chapter are listed below.
 
-- [Cashflow](https://cashflow.datasektionen.se) is probably our most used system. Here you can register expenses that you have made for the chapter and the Treasurer (or some other responsible person) will pay the money to you as soon as possible. Neat, right?
+- [Cashflow](https://cashflow.datasektionen.se) is probably our most used system. Here you can register expenditures you have made on
+behalf of the chapter in order for the treasurer to repay you as soon as possible. Neat, right?
 - [Damm](https://damm.datasektionen.se) is a collection of old patches and other historical stuff.
-- [aaallt](https://aaallt.datasektionen.se/) may not be our most exciting system, but here you can go to almost every other system the chapter has.
+- [Aaallt](https://aaallt.datasektionen.se/) may not be our most exciting system, but it allows you to get to almost all the chapter's systems.
 
-## Join the club
+## Join the committee
 
-We regularly try to hold programming evenings where everyone is welcome. Usually from 5 pm onwards on Thursdays, usually somewhere in the E-house. You can come here to see what we're doing, develop something for the chapter, hang out or maybe get help with a programming lab. The easiest way to find out when we have events is to ask in our [Mattermost](https://dsekt.se/iormost)! Hope to see you there!
-
+We usually arrange programming evenings every Thursday starting around 5 PM somewhere in the E-Building (commonly in computer lab Red, 
+Orange or Yellow). You are more than welcome to attend one to see what we are working on, develop something for the chapter, 
+hang out or possibly get help with a programming assignment. The easiest way to find out when and where our events occur is to 
+ask on [Mattermost](https://dsekt.se/iormost). Hope to see you there!
