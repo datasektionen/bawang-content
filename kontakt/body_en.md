@@ -21,7 +21,7 @@ For more information, visit the [industry page](/naringsliv?lang=en).
 
 ## General
 
-For general questions, feel free to contact our head of communications.
+For general questions, feel free to contact our Head of Communications.
 
 **Head of communications**<br />
 Alfred Fall Lindgren<br />
