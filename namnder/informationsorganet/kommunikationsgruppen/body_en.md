@@ -1,9 +1,15 @@
-# Communications Group
+# The Communications Group
 
-We exist to always improve the chapter's internal and external communication. The external communication is about making sure all chapter members can easily communicate with each other, get their hand on information about how the chapter works and looks like as well as, without friction, finding out what's happening in the form of events and other stuff happening. The external communication is instead about making sure curious future students get to know what computer science students at KTH does and making sure companies knows who we are.
+As the name suggests, The Communications Group helps the chapter communicate. We make sure 
+that members are able to communicate with each other and easily access information about how 
+the chapter works, events and other happenings. We also assist other committees with their
+communications, e.g. by working on posters and other graphics.
 
-To accomplish this we in the Communications Group work towards making the chapter's communication channels are effective and making the chapter's official social media, like [Instagram](https://www.instagram.com/datasektionen/) and [Facebook](https://www.facebook.com/KongligDatasektionen), active and educational!
+## Thursday Meetings
+An important part of our work is to keep the chapter's pages on [Facebook](https://www.facebook.com/KongligDatasektionen) 
+and [Instagram](https://www.instagram.com/datasektionen/) active and informative, which we do by 
+regularly creating posts on our Thursday meetings! On Thursdays, we usually gather in the E-Building (usually in computer lab
+Red, Orange or Yellow) around 17:15 to work on graphics for posts on social media and other fun stuff.
 
-## How do you join the Communications Group?
-
-We recruit after every fall reception but can also take in people whenever. If you're interested, please contact the Head of Communications at [info@datasektionen.se](mailto:info@datasektionen.se).
+If you are interested in graphics and want to create something, have a fun idea for a post or just want to hang out,
+you are more than welcome to attend our meetings! No past experience with graphics is required.
