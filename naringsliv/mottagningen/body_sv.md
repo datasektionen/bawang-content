@@ -2,7 +2,7 @@
 
 ## Projektet
 
-Datasektionens Mottagning är ett projekt som välkomnar nya studenter på civilingengörsprogrammet i Datateknik till KTH. Projektet pågår i fem veckor, från mitten av augusti till slutet av september. Vi arrangerar roliga evenemang för att göra de nyantagnas start på KTH så enkel och rolig som möjligt, med målet att introducera alla till studierna och det efterföljande ingenjörslivet så gott det bara går. Varje år börjar drygt 200 nya studenter på civilingenjörsprogrammet i datateknik, och de mottas av cirka 60 engagerade studenter från högre årskurser.
+Datasektionens Mottagning är ett projekt som välkomnar nya studenter på civilingengörsprogrammet i Datateknik till KTH. Projektet pågår i fem veckor, från mitten av augusti till slutet av september. Vi arrangerar roliga evenemang för att göra de nyantagnas start på KTH så enkel och rolig som möjligt, med målet att introducera alla till studierna och det efterföljande ingenjörslivet så gott det bara går. Varje år börjar drygt 200 nya studenter på civilingenjörsprogrammet i datateknik, och de mottas av cirka 75 engagerade studenter från högre årskurser.
 
 ## Samarbeta med oss
 
