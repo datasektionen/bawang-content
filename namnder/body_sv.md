@@ -52,7 +52,7 @@ Tar hand om vår gemensamma sektionslokal META.
 
 ### [Mottagningen](/namnder/mottagningen)
 
-Arrangerar den årliga mottagningen för att välkomna nyantagna i programmet.
+Arrangerar mottagningen för att välkomna nyantagna i programmet.
 
 ### [Näringslivsgruppen](/namnder/naringslivsorganet/naringslivsgruppen)
 
