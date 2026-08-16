@@ -1,6 +1,6 @@
 # The Clubs of the CS chapter
 
-In the menu to the left you can read more about the CS chapters clubs/committees and projects, as well as get a quick overview below. All chapter officials, clubs and projects are united under different organs, which are led by organ leaders.
+In the menu to the left you can read more about the CS chapters clubs/committees and projects, as well as get a quick overview below.
 
 ### [Ada](/namnder/eventorganet/ada?lang=en)
 
@@ -9,6 +9,10 @@ Group for helping girls at the CS chapter network with each other.
 ### [The Communications Group](/namnder/informationsorganet/kommunikationsgruppen)
 
 Helps the chapter communicate.
+
+### [Crash & Burn](/namnder/informationsorganet/systemgruppen?lang=en)
+
+We develop and maintain the chapter's systems, including the website you're looking at right now!
 
 ### [DEMON - Music group](/namnder/studiesociala-organet/demon?lang=en)
 
@@ -65,10 +69,6 @@ Keeping an eye on the studies, the courses and the faculty.
 ### [The Business Relations Group](/namnder/naringslivsorganet/naringslivsgruppen?lang=en)
 
 We handle the chapter's professional contacts, organizes job fairs, lunch lectures, study visits, and other kids of sponsoring.
-
-### [Systems Group](/namnder/informationsorganet/systemgruppen?lang=en)
-
-We develop and maintain the chapter's websites. Including the one you're looking at now!
 
 ### [The Reception](/namnder/mottagningen?lang=en)
 

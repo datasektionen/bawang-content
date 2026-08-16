@@ -1,17 +1,17 @@
 ## Contact
 
-#### Head of IT
+#### Head of Systems
 
 Oskar Engström (26/27) </br>
 Viktor Ekby (25/26) </br>
 [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se)
 
-#### Systems Group's Mattermost
+#### Crash & Burn's Mattermost
 
 <https://dsekt.se/iormost>
 
-#### Github
+#### GitHub
 
-Our [Github](https://dsekt.se/github-link-website) organisation</br>
+[Our GitHub organization](https://dsekt.se/github-link-website)</br>
 
-Do you want access? Ask Head of IT or attend a programming evening!
+Do you want access? Ask the Head of Systems or attend a programming evening!

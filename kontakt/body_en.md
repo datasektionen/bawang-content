@@ -28,7 +28,7 @@ Alfred Fall Lindgren<br />
 E-mail: [info@datasektionen.se](mailto:info@datasektionen.se)<br />
 
 For matters regarding [datasektionen.se](https://datasektionen.se) or any of the chapter's other systems, 
-contact the chapter's head of IT via [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se).
+contact the chapter's Head of Systems via [d-sys@datasektionen.se](mailto:d-sys@datasektionen.se).
 
 ## The board
 
