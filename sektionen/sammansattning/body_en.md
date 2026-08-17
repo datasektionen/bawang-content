@@ -1,18 +1,18 @@
 # Members of the Board
 
-The D-directorate is the board of the Computer Science chapter and consists of seven members.
-They are the Chairman, Vice Chairman, Treasurer, secretary, and three more board members that are responsible
-for educational issues, student welfare, and business relations. Together they arrange Chapter Meetings, make sure
-the decisions at chapter meetings are executed, coordinate different parts of the chapter, and make strategic and long term plans.
+The D-directorate consists of nine board members. They work together as the board, while also serving as coordinating contacts for the functionaries and committees of the Computer Science Chapter. The board is also responsible for maintaining and further developing relations with chapters at other universities outside Stockholm in order to promote cultural exchange and networking.
 
-Each board member is the contact person in the board for some of out elected volunteers a list can be found [here](https://dsekt.se/kontaktperson).
+Each functionary has a contact person within the board.
+
+A list of the functionaries' board contact persons can be found [here](https://dsekt.se/kontaktperson).
 
 ## The Chairman - Carl Blomqvist
 
-The Chairman is in charge of the D-directorate and the contact with THS and other chapters.
-The Chairman and the Vice Chairman work in close cooperation to create a plan and a vision with the rest of the board.
+The Chairman of the chapter leads the work of the D-directorate and is a signatory together with the Treasurer.
 
-In addition to this The Chairman is an authorized signatory for the chapter and handles alcohol related questions.
+The Chairman is responsible for contact with THS and other chapters and holds the overall responsibility for the chapter's contract management and serving permits.
+
+The Chairman is also responsible for ensuring that an annual report of operations is produced each year describing what has happened during the year. These can be found at https://dsekt.se/arsrapporter.
 
 **Contact**
 
@@ -20,12 +20,9 @@ The Chairman can be reached at [ordf@datasektionen.se](mailto:ordf@datasektionen
 
 ## Vice chairman - Elin Andersson Lundell
 
-The Vice chairmans primary role is to assist the Chairman and make sure
-that the every board members workload is reasonable and that they are feeling well.
-In the case that the Chairman can't fulfill his obligations the Vice chairman will
-assume the role as acting Chairman.
+The Vice Chairman's most important role is to assist and relieve the Chairman in order to ensure that they do not overwork themselves.
 
-The Vice chairman does many tasks that aren't related to any other board member or function in the chapter.
+This includes, among other things, being prepared to act as Acting Chairman, holding internal meetings, delegating internal division of responsibilities, and being responsible for the chapter's keys and access permissions.
 
 **Contact**
 
@@ -33,8 +30,9 @@ The Vice chairman can be reached at [vordf@datasektionen.se](mailto:vordf@datase
 
 ## The Secretary - Felix Murnion
 
-The Secretary is responsible for documenting D-directorate and chapter meetings
-and to write protocols and archive them.
+The Secretary is responsible for governing documents, official documents, meeting minutes, and other formal matters within the chapter.
+
+The Secretary is responsible for ensuring that meeting minutes are written, adjusted, signed, and archived, as well as assisting in the work of preserving knowledge within the chapter.
 
 **Contact**
 
@@ -42,9 +40,9 @@ The Secretary can be reached at [sekreterare@datasektionen.se](mailto:sekreterar
 
 ## The Treasurer - Sofie Bälter
 
-The Treasurer is responsible for the most things related to economics.
-This includes declarations, bills, payments, and accounting. The Treasurer
-is an authorized signatory for the chapter.
+Has overall responsibility for the chapter's finances and is a signatory together with the Chair.
+
+Responsible for the chapter's budget and works strategically to develop the chapter financially. The Treasurer also acts as support for the chapter's members in financial matters.
 
 **Contact**
 
@@ -52,49 +50,55 @@ The Treasurer can be reached at [kassor@datasektionen.se](mailto:kassor@datasekt
 
 ## Vice treasurer - Carl Hansson
 
-The Vice treasurer assists the Treasurer with most things related to economics.
+Has overall responsibility for the chapter's finances together with the Treasurer.
+
+Responsible for the operational financial work, including ongoing bookkeeping as well as outgoing and incoming payments. The Vice Treasurer also acts as support for the chapter's members in financial matters.
 
 **Contact**
 
 The Vice treasurer can be reached at [vkassor@datasektionen.se](mailto:vkassor@datasektionen.se).
 
 ## Board member of Business Relations - Max Berglund
+### (D-NOK)
 
-Works with business related question and our projects and committees related to this area.
-Is also responsible for internal communications and that important information is available to our members.
+Has overall responsibility for all matters related to corporate relations and communications.
+
+Responsible for strategically working with the development of the chapter's corporate relations activities and the development of the chapter's various communication tools, both internally and externally, as well as working to strengthen the Konglig Datasektionen brand.
 
 **Contact**
 
-The Board member of Business Relations can be reached at [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se).
+D-NOK can be reached at [d-nok@datasektionen.se](mailto:d-nok@datasektionen.se).
 
 ## Board member of Student Issues - Filip Ramslöv
+### (D-SSF)
 
-Works with question regarding the well being of our members, working environment, and
-social events.
+Has overall responsibility for all matters related to the chapter's social activities.
+
+Responsible for strategically developing the student life of the chapter's members, overseeing the chapter's partitions, and handling matters that otherwise fall between the cracks.
 
 **Contact**
 
-The Board member of Student Issues can be reached at [d-ssf@datasektionen.se](mailto:d-ssf@datasektionen.se).
+D-SSF can be reached at [d-ssf@datasektionen.se](mailto:d-ssf@datasektionen.se).
 
 ## Board member of Educational Affairs - Soma Szabó
+### (D-UF)
 
-This board member works closely with the study council and works as a
-link between them and the board.
+Has overall responsibility for all matters related to the chapter's student influence towards EECS and the chapter's educational advocacy.
+
+Responsible for strategically working with the development of the chapter's educational advocacy.
+
+The day-to-day work regarding educational matters is handled by the Educational Committee. D-UF ensures that the work does not stagnate and sometimes represents the chapter at committee meetings held by KTH.
 
 **Contact**
 
-The Board member of Educational Affairs can be reached at [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
-
+D-UF can be reached at [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
 
 ## Board member of Study environment and Equality - Albin Haraldsson
 
-Has an overall responsibility for all issues connected to the physical and psychological study environment. Is the person to contact on the board for questions relating to these areas. These responsibilities include
+Has overall responsibility for all matters related to the physical and psychological study environment.
 
-- working for a good study environment
-- coordinate the chapters communication concerning studies and the study environment towards EECS together with the Board member for Educational affairs
-- handle equality, diversity and equal treatment incidents
-- work with issues concerning equality, diversity and equal treatment in the chapter.
+Responsible for promoting a good study environment, handling JML incidents as part of the safety council, and strategically working with equality and diversity matters within the chapter.
 
 **Contact**
 
-The Board member of Study environment and Equality can be reached at [d-sol@datasektionen.se](mailto:d-sol@datasektionen.se).
+D-SOL can be reached at [d-sol@datasektionen.se](mailto:d-sol@datasektionen.se).
