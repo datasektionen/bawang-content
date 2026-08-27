@@ -8,13 +8,17 @@ META is also a party venue, so in cooperation with our barteams we make sure the
 
 ## Error reporting and improvement proposals
 
-Do you have any comments about the premises, anything that could be improved or should be handled differently? For bug reports and improvements to META, please use the link in the sidebar.
+Do you have any comments about the premises, anything that could be improved or should be handled differently? For bug reports and improvements to META, please use the link in the sidebar. You can also look for a METAdor in META. Look for the METAdor symbol on our shirts!
 
 # Join METAdorerna
 
 Would you like to participate yourself? Don't hesitate to email us or join our [discord](https://dsekt.se/metacord)!
 
 {{ if not .reception -}}
+## Friday Meetings
+
+We hold lunch meetings in the E-building every Friday from 12:00 to 13:00. At these meetings, all internal posts give updates, and other matters and information regarding META and METAdorerna are discussed. It is a great opportunity to get an overview of the work within METAdorerna and to see how each internal post operates on a weekly basis. This is also where people are typically appointed to internal internal posts and become a METAdor. These meetings are announced on our [Discord](https://dsekt.se/metacord).
+
 ## Städskrii - Monday cleaning
 
 We are the ones who hold the Monday cleanings in Meta during the year. We invite newcomers to help clean up and learn where everything is in the chapter hall and how the garbage disposal works. Everyone who helps clean 2 times gets to attend a lavish party at the end of the year. Cleaning takes place on Mondays starting at 5:17pm in the first-year-student groups and takes about an hour after school. If it is not convenient to clean at the allotted time, you can come by on another Monday or at one of the designated extra sessions towards the end of the term.
@@ -30,7 +34,7 @@ Ultimately responsible for the premises for D and Me and also chairman of METAdo
 
 Responsible for the cleaning-mondays and the thank-you party for those who have cleaned.
 
-### Arkadmicke (Arcade-mike)
+#### Arkadmicke (Arcade-mike)
 
 Responsible for taking care of and upgrading the drifarcade in META.
 

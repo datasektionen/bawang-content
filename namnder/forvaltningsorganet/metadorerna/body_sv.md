@@ -4,22 +4,26 @@
 
 Vi i METAdorerna jobbar för att sektionsmedlemmarna ska ha en trevlig lokal att ta sin tillflykt till för studier och gemenskap. Vi samordnar städning, nybyggnation och underhåll.
 
-META är ju även en festlokal så i samarbete med våra klubbmästerier ser vi till att ölkylarna och basförstärkaren funkar. Det går även bra för sektionens nämnder att boka META för fester/aktiviteter.
+META är även en festlokal så i samarbete med våra klubbmästerier ser vi till att ölkylarna och basförstärkaren funkar. Det går även bra för sektionens nämnder att boka META för fester/aktiviteter.
 
-## Felanmälning och Förbättringsförslåg
+## Felanmälning och Förbättringsförslag
 
-Har du några synpunkter på lokalen, något som kunde förbättras eller borde skötas annorlunda? För felanmälningar och förbättringar till META, vänligen använd länken i sidofältet.
+Har du några synpunkter på lokalen, något som kunde förbättras eller borde skötas annorlunda? För felanmälningar och förbättringar till META, använd länken i sidofältet. Det går även att leta upp en METAdor i META. Leta efter METAdor symbolen på våra tröjor!
 
 # Gå med
 
 Skulle du vilja delta själv? Tveka inte att maila oss eller gå med i våran [discord](https://dsekt.se/metacord)!
 
 {{ if not .reception -}}
-## Städskrii - Måndagsstäd
+## Fredagsmöten
+
+Vi har lunchmöten i E-huset varje fredag mellan 12 - 13. På mötena brukar alla interfunktionärer rapportera och även övriga frågor och information gällande META och METAdorerna tas upp. Det är ett jättebra tillfälle att få en överblick över vad det finns att göra i METAdorerna och hur varje internfunktionär arbetar varje vecka. Det är även här man oftast blir antagen till en internfunktionärsroll och blir metador. Dessa möten annonseras i vår [discord](https://dsekt.se/metacord).
+
+## Måndagsstäd
 
 Det är vi som håller i måndagsstäden i Meta under året. Vi bjuder in nyantagna att hjälpa till och städa för att lära sig vart allt ligger i lokalen och hur sopphanteringen fungerar. Alla som hjälper till att städa 2 gånger får vara med på en väl påkostad fest i slutet av året. Städningen sker måndagar med start klockan 17:17 i nØllegrupperna och tar typ en timme efter skolan. Passar det inte att städa på den avsatta tiden kan man komma förbi en annan måndag eller på något av de avsedda extra-städen mot slutet av terminen.
-
 {{- end }}
+
 ## Interna Poster
 
 #### Konglig Lokalchef & Sektionslokalansvarig
@@ -30,7 +34,7 @@ Ytterst ansvarig för lokalen för Data respektive Media och även nämndordför
 
 Har ansvar för måndagsstäden samt att anordna städfesten som tack till de som städat.
 
-### Arkadmicke
+#### Arkadmicke
 
 Ansvarar för förvaltning och utveckling av Drifvarkaden i META.
 
