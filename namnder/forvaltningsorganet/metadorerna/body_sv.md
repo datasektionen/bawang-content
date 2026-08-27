@@ -12,7 +12,7 @@ Har du några synpunkter på lokalen, något som kunde förbättras eller borde 
 
 # Gå med
 
-Skulle du vilja delta själv? Tveka inte att maila oss!
+Skulle du vilja delta själv? Tveka inte att maila oss eller gå med i våran [discord](https://dsekt.se/metacord)!
 
 {{ if not .reception -}}
 ## Städskrii - Måndagsstäd
@@ -22,35 +22,39 @@ Det är vi som håller i måndagsstäden i Meta under året. Vi bjuder in nyanta
 {{- end }}
 ## Interna Poster
 
-#### Lokalchef
+#### Konglig Lokalchef & Sektionslokalansvarig
 
-Ytterst ansvarig för lokalen och även nämndordförande för METAdorerna.
+Ytterst ansvarig för lokalen för Data respektive Media och även nämndordförande för METAdorerna.
 
 #### Städskrii
 
 Har ansvar för måndagsstäden samt att anordna städfesten som tack till de som städat.
 
+### Arkadmicke
+
+Ansvarar för förvaltning och utveckling av Drifvarkaden i META.
+
 #### Flippermicke
 
-Ansvarar för förvaltning och uppgradering av Flipperspel och Arcade-maskiner i META.
+Ansvarar för förvaltning och utveckling av Drifvarflipperspelet i META.
+
+#### HSE
+
+”Hederliga Stures Efterträdare”
+
+Ansvarar för läskkylen och allt som har med den att göra, det vill säga vad som ska säljas och att köpa in det. Tidigare MISS - Master In Soft Sodas.
 
 #### MAESTRO
 
 ”Master At Expressing Stuff To Recievers Online”
 
-Har ansvar för att information om META / METAdorerna kommer ut på internet. Ansvarar över METAs facebook-sida, METAdorernas facebook-sida med mera.
+Ansvarar för att sprida information till resten av sektionen på discord och hemsidor, fotograferar events och grafisk design till diverse event. Ansvarar även för att designa, printa, laminera och sätta upp lappar i META angående regler och instruktioner.
 
 #### MARIO
 
 ”Master At Reparing Inventory Objects”
 
-Har ansvar för att trasiga saker lagas och håller koll på att saker är hela, inklusive mikrovågsugnarna.
-
-#### MISS
-
-”Master In Sweet Stuff”
-
-Ansvarar för läskkylen i META, om en sådan finns där.
+Har ansvar för att trasiga saker lagas och håller koll på att saker är hela.
 
 #### MISTER
 
@@ -64,18 +68,21 @@ Har ansvar för inköp av saker till lokalen.
 
 Har ansvar för kaffe och te i META.
 
-#### MOBA
+#### MKDIR
 
-“Master of Board Admin”
+"Master of Kitchen inventory, DevIces and Resources"
 
-Har ansvar för att anslagstavlan i META hålls snygg och att reglerna angående affischering följs. Ser även till att andra informativa lappar om lokalen finns, till exempel om stängning och intruktioner om våra apparater.
+Ansvarar över köket så att det är i ordning och trevligt att använda och ser till att det finns flergångsservis i linje med klimatpolicyn.
 
 #### MOMS
+
 ”Master of Mötesrummets Stuff”
 
 Har ansvar för mötesrummet i META.
 
 #### MONEY
+
+"Master Of Negotiating Expenses and Yields"
 
 Ekonomiskt ansvarig för METAdorerna.
 
@@ -83,7 +90,13 @@ Ekonomiskt ansvarig för METAdorerna.
 
 ”Master of Parties & Punsch”
 
-Har ansvar för METAdorernas teambuildings (både stora och små) som sker ungefär en gång i månaden.
+Ansvarar för att planera och utföra av METAdorernas teambuildings, sittningar och bastuevent. 
+
+#### MOSSA
+
+"Master Of Surrounding Surface Area"
+
+Ansvarar för att området utanför META ser fint ut och är brukbart och ansvarar även för hallen.
 
 #### MOVIE
 
@@ -99,15 +112,11 @@ Har ansvar för sektionsförråden i META.
 
 #### MUCKA
 
-”Master of Utilization, Catwalk & Krap Annihilation”
+”Master of Utilization, Catwalk and Krap Annihilation”
 
-Har ansvar för att catwalken hålls städad samt för kvarglömda saker.
+Har som huvuduppgift att hålla koll på catwalken, lost and found, anslagstavlan och pant.
 
 #### MUMS
 ”Master of Magnifika Sötsaker”
 
 Har ansvar för att köpa in fika till METAdorerna.
-
-#### BANIME
-
-AKA SMA (StudieMiljöAnsvarig), upprätthåller bannlysningen av Anime i META (enligt samboendeavtalet).

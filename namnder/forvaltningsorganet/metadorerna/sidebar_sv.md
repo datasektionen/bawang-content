@@ -19,8 +19,10 @@ Vakant</br>
 
 ## Länkar
 
-- [Lokalbokning / Chapter-house booking](https://datasektionen.se/sektionen/lokalbokning)
+- [METAs Discord](https://dsekt.se/metacord)
 
-- [Felanmälning av META](dsekt.se/felanmal)
+- [Lokalbokning](https://bokning.datasektionen.se/)
 
-- [Förbättringsförslag till META](dsekt.se/forslag)
+- [Felanmälning av META](https://dsekt.se/felanmal)
+
+- [Förbättringsförslag till META](https://dsekt.se/forslag)
