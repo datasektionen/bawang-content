@@ -1,7 +1,7 @@
 ## Kontakt
 
 #### Anmälan
-Gå med genom att fylla i denna [länk](https://forms.gle/gaT6EWE5QfaRqNGK9)
+Gå med genom att fylla i denna [länk](https://dsekt.se/prylis)
 
 #### Prylmånglaren
 

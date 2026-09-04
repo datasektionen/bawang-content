@@ -1,7 +1,7 @@
 ## Contact
 
 #### Apply
-To join fill in this [form](https://forms.gle/gaT6EWE5QfaRqNGK9)
+To join fill in this [form](https://dsekt.se/prylis)
 
 #### Prylmånglaren
 
