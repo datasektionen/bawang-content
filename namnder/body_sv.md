@@ -14,6 +14,10 @@ Musikentusiasterna i Datasektionen. Vi möts för att jamma tillsammans!
 
 Organiserar spelkvällar och andra event för gamers i sektionen.
 
+### [Dive](/namnder/paverkansorganet/dive)
+
+Arbetar för att fler ska söka Datateknik på KTH, med fokus på en jämnare könsfördelning.
+
 ### [dJulkalendern](/namnder/informationsorganet/djulkalendern)
 
 Datasektionens årliga CTF-tävling. <img style="height: 1em" src="https://djulkalendern.se/images/djuldanke.svg">
@@ -100,7 +104,6 @@ Nedan ses alla återkommande projekt på Datasektionen. Återkommande projekt ä
 - Project Pride 2024
 - Vårbalen 2025
 - BAMM
-- Project Dive
 - Groda 2024 - GRön hållbarhet Och DAtasektionen
 - Projekt dAlumn
 
