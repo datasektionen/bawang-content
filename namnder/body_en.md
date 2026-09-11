@@ -22,6 +22,10 @@ DEMON are the music enthusiasts of the CS chapter. Meet to jam together!
 
 DESC organizes gaming nights and other events for gaming enthusiasts in the chapter.
 
+### [Dive](/namnder/paverkansorganet/dive?lang=en)
+
+Works to get more people to apply to Computer Science at KTH, with a focus on a more even gender balance.
+
 ### [dJulkalendern](/namnder/informationsorganet/djulkalendern?lang=en)
 
 The chapter's yearly CTF competition. <img style="height: 1em" src="https://djulkalendern.se/images/djuldanke.svg">
@@ -98,7 +102,6 @@ Organizes and runs the SM/VM's and ensures the democratic process at the chapter
 - Project Pride 2024
 - Vårbalen 2025
 - BAMM
-- Project Dive
 - Groda 2024 - GRön hållbarhet Och DAtasektionen (Green sustainability and Datasektionen)
 - Projekt dAlumn (dAlumni)
 
