@@ -19,8 +19,10 @@ Vacant</br>
 
 ## Links
 
-- [Chapter Hall booking](en/chapter/lokalbokning)
+- [META's Discord](https://dsekt.se/metacord)
 
-- [Error reports for META](dsekt.se/felanmal)
+- [Room Booking](https://bokning.datasektionen.se/)
 
-- [Improvement proposals for META](dsekt.se/forslag)
+- [Report an Issue with META](https://dsekt.se/felanmal)
+
+- [Suggestions for Improving META](https://dsekt.se/forslag)
