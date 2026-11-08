@@ -41,7 +41,7 @@ METAcraft runs and develops the chapter's Minecraft server. For more information
 
 ### Herobrine
 
-Alvin Westling, [herobrine@datasektionen.se](mailto:herobrine@datasektionen.se)
+Daniel Hu, [herobrine@datasektionen.se](mailto:herobrine@datasektionen.se)
 
 ## The Pastry
 
@@ -59,9 +59,17 @@ The purpose of d'Council is to create an open and continuous forum where chapter
 
 Douglas Fischer, [dradgivare@datasektionen.se](dradgivare@datasektionen.se)
 
+## Game Theory
+
+The purpose of Game Theory is to form an interest for, and encourage game development in the chapter.
+
+### Data's Lazy CEO (DLC)
+
+Simon Kåhre, [dlc@datasektionen.se](dlc@datasektionen.se)
+
 ## Inactive partitions
 
-A complete list of inactive partitions may be found in [this document](https://docs.google.com/document/d/1EXV1tr7Y06gjqwc6_LpFL9iX4gh-fRYOdrF1ID6Ivag/edit?tab=t.0#heading=h.jr4ui09yxauz) (in Swedish). Some inactive partitions are listed below.
+A complete list of inactive partitions may be found in [this document](https://docs.google.com/document/d/1EXV1tr7Y06gjqwc6_LpFL9iX4gh-fRYOdrF1ID6Ivag/edit?usp=sharing) (in Swedish). Some inactive partitions are listed below.
 
 * Scala: Headed by the Choir master, organises regular choir practice sessions where students may cultivate their musical talents.
 
