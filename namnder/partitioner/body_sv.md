@@ -43,7 +43,7 @@ METAcrafts syfte är att driva och underhålla sektionens Minecraftserver. Besö
 
 ### Herobrine
 
-Alvin Westling, [herobrine@datasektionen.se](herobrine@datasektionen.se)
+Daniel Hu, [herobrine@datasektionen.se](herobrine@datasektionen.se)
 
 ## Bakverket
 
@@ -61,9 +61,17 @@ dRådets syfte är att skapa ett öppet och kontinuerligt forum där sektionsmed
 
 Douglas Fischer, [dradgivare@datasektionen.se](dradgivare@datasektionen.se)
 
+## Game Theory
+
+Game Theorys syfte är att samla intresse för spelutveckling samt uppmuntra spelutveckling inom sektionen.
+
+### Datas lata CEO (DLC)
+
+Simon Kåhre, [dlc@datasektionen.se](dlc@datasektionen.se)
+
 ## Inaktiva partitioner
 
-En fullständig förteckning över inaktiva partitioner hittar du i [detta dokument](https://docs.google.com/document/d/1EXV1tr7Y06gjqwc6_LpFL9iX4gh-fRYOdrF1ID6Ivag/edit?tab=t.0#heading=h.jr4ui09yxauz). Några inaktiva partitioner listas nedan.
+En fullständig förteckning över inaktiva partitioner hittar du i [detta dokument](https://docs.google.com/document/d/1EXV1tr7Y06gjqwc6_LpFL9iX4gh-fRYOdrF1ID6Ivag/edit?usp=sharing). Några inaktiva partitioner listas nedan.
 
 * Scala: Leds av Körmästare, ämnar att kultivera studenters musikaliska talang genom att regelbundet anordna körrep.
 
