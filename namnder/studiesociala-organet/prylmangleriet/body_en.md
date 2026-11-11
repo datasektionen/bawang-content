@@ -52,6 +52,14 @@ The best tip Prylmångleriet can give you is that you should sew your patches on
 ### How do you find patches?
 The goal with your Ovve is to of course make it as nice as possible. So our tip is to fill the space with a lot of cool accessories and modifications to make your Ovve unique to you. The most common way of getting patches is by participating in events, going to pubs (and getting the chapters' speciality drink), buying from us outside of META, exchanging with others or buying privately. There are a lot of sites and Facebook-groups where you might exchange or buy/sell patches privately.
 
+{{ if not .reception -}}
+## How do you buy an ovve?
+Well that's easy! Just send an email to [prylis@datasektionen.se](mailto:prylis@datasektionen.se) *(preferebly with the subject "Ovve beställning - (Name)")* where you write your name *(to know who has ordered)* and the size you want. Then we in the Patch Committee will try to make sure they are available during the next sale! ***(So, you can order the year round!)***
+
+***GDPR**
+We will keep your information until we have sold the ovve to you up to 1 month from sending the email. Then it will be deleted. If you have any questions about GDPR and how we use and store it, send a mail to [prylis@datasektionen.se](mailto:prylis@datasektionen.se) or visit [styrdokument](https://styrdokument.datasektionen.se/pm/pm_informationshantering). By sending the order mail to [prylis@datasektionen.se](mailto:prylis@datasektionen.se) or ordering from any other Prylare you agree to the use of the information with purpose of selling an overall to you.* 
+{{- end }}
+
 I hope after all of this you find yourself a bit more wise in the ways of the Ovve and I hope to see you outside META one day!
 
 See you <3,
