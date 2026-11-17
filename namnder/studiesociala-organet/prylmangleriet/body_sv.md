@@ -92,6 +92,14 @@ Bästa tipset Prylis kan ge är att **sy ordentligt**. Under festande och andra 
 
 Målet med din Ovve är (förutom att ha kul) att göra den så snygg som möjligt. Vårt bästa tips för att uppnå det målet är att fylla den med så många olika coola märken som du kan få tag på. Tillsammans med andra modifikationer kommer märkena vara det som gör din Ovve unik. De vanligaste sätten att få tag på märken är att delta på event, gå på pubar, köpa i META, byta med andra personer eller köpa privat.
 
+{{ if not .reception -}}
+## Hur köper man en ovve?
+Det är lätt! Det är bara att skicka en mejl till [prylis@datasektionen.se](mailto:prylis@datasektionen.se) *(gärna med titel typ "Ovve beställning - (Namn)")* där ni skriver vad ni heter *(för att veta vem som har beställt)* samt vilken storlek ni skulle vilja ha. Då kommer vi i Prylmångleriet försöka se till att den kommer och finnas vid nästa försäljning! ***(Alltså, ni kommer kunna beställa året om!)***
+
+***GDPR**
+Vi kommer behålla din information tills vi har sålt er ovven ni beställde up till en månad från att mejlet skickades. Sedan kommer datan raderas. Om ni har några frågor om GDPR eller hur vi kommer använda er information och spara den kan ni skicka ett mejl till [prylis@datasektionen.se](mailto:prylis@datasektionen.se) eller kolla på [styrdokument](https://styrdokument.datasektionen.se/pm/pm_informationshantering). Genom att skicka ett beställningsmejl till [prylis@datasektionen.se](mailto:prylis@datasektionen.se) eller beställer via någon Prylare samtycker ni till att vi får använda er information i syfte av att sälja ovven till er.*
+{{- end }}
+
 Efter all denna läsning hoppas jag att du blivit lite visare, och är redo att bli en riktig Overallare. 
 
 Mvh
