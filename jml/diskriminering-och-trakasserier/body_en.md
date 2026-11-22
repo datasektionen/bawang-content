@@ -3,6 +3,7 @@
 This page is divided into two parts, the first is about discrimination, what it means and a few examples of what it can look like, and the second part is about harassment. If you, or anyone you know, have been subjected to discrimination or harassment, we ask that you report the incident through the form under "Reporting and questions". Remember that reported incidents must include a name (someone responsible for the report) in order to start an investigation, which in turn can result consequences for those involved in the incident. It is also possible to report incidents anonymously, however anonymous reports can only lead to preventative measures in the future and cannot result in any consequences for the person(s) involved.
 
 ## Discrimination
+
 Discrimination is a term that can be difficult to define. The definition also differs in terms of the general definition and the strictly legal one. 
 
 A general way to define discrimination is that a person is treated worse or unfairly in a way that is connected to the grounds of discrimination (see below).
@@ -34,7 +35,6 @@ Hereafter, the general definition will be referred to rather than the legal one,
 
 *Age* is also rather self-explanatory, but an example of such discrimination could be setting age limits for events (both upper and lower ones). It should however be mentioned that a lower age limit of 18 years for alcohol events counts as an exception.
 
-
 ## Harassment
 
 Harassment is behavior that offends a person and is in some way connected to the grounds of discrimination (see above). This behavior is prohibited by law in Sweden. Harassment can include the use of ridicule or degrading generalizations. It can also be a question of ignoring or withholding information that is related to one of the grounds for discrimination.
@@ -42,7 +42,6 @@ Harassment is behavior that offends a person and is in some way connected to the
 What different types of harassment have in common is that they makes a person feel insulted, threatened, offended or mistreated.
 
 An important thing to address regarding harassment and abuse is that it is the person who is subjected who decides what is offensive. It therefore does not matter what the intentions of the person who performed the act were. This means that the person who performed the act may not even be aware that they have done something offensive. Therefore, it is important for those who have been subjected to harassment to speak up and for those who are told off for their behavior to listen.
-
 
 ### Sexual Harassment
 

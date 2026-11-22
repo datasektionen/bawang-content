@@ -93,7 +93,7 @@ The day-to-day work regarding educational matters is handled by the Educational 
 
 D-UF can be reached at [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
 
-## Board member of Study environment and Equality - Albin Haraldsson
+## Board member of Study environment and Equality - Alice Haraldsson
 
 Has overall responsibility for all matters related to the physical and psychological study environment.
 

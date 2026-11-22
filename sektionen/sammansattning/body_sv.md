@@ -91,7 +91,7 @@ Det löpande arbetet med utbildningsfrågor sköts av Studienämnden. D-UF ser t
 
 Ledamot för utbildningsfrågor är nåbar på [d-uf@datasektionen.se](mailto:d-uf@datasektionen.se).
 
-## Ledamot för studiemiljö och likabehandling - Albin Haraldsson
+## Ledamot för studiemiljö och likabehandling - Alice Haraldsson
 ### (D-SOL)
 
 Har övergripande ansvar över alla frågor kopplade till den fysiska och psykiska studiemiljön. 

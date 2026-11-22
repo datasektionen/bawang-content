@@ -13,7 +13,7 @@ The Owl of Honor is a distinction of merit awarded to chapter members who have r
     <a href="#mrmhm">Muhammed Reza Mehdi</a>, Douquadragesimus
   </dd>
   <dd>
-    <a href="#nhg">Nikolina Haggård Grann</a>, Quadragesimus Tertia
+    <a href="#nhg">Nikolina Haggård Grann</a>, Quadragesima Tertia
   </dd>
 </dl>
 
