@@ -1,5 +1,7 @@
 Hedersugglan är ett förtjänsttecken som tilldelas de sektionsmedlemmar som synnerligen förtjänstfullt verkat för datateknikprogrammet på KTH:s studiebevakning. [Motiveringar](#motivering) för varje mottagare finns att läsa längre ner på sidan.
 
+Nomineringar för 2027 är öppna! Nominera här: https://dsekt.se/hedersugglan
+
 # Innehavare av Hedersugglan
 
 ## Mottagare 2026

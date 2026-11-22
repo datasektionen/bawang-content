@@ -1,5 +1,7 @@
 Hedersdeltat är Konglig Datasektionens finaste förtjänsttecken och delas ut till de personer som synnerligen förtjänstfullt verkat ideellt för sektionen. [Motiveringar](#motivering) för varje mottagare finnas att läsa längre ner på sidan.
 
+Nomineringar för 2027 är öppna! Nominera här: https://dsekt.se/hedersdelta
+
 # Innehavare av Hedersdeltat
 
 ## Mottagare 2026

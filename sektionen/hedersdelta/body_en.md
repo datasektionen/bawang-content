@@ -1,5 +1,7 @@
 The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It is awarded to people who's engangement in the chapter has positively impacted many of its members. [Motivations](#motivering) for each recipient can be found lower down on the page. 
 
+Nominations for 2027 are open! Nominate here: https://dsekt.se/hedersdelta
+
 # Possessors of the Honorary Delta
 
 ## Recipients 2026

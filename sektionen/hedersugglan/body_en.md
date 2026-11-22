@@ -1,5 +1,7 @@
 The Owl of Honor is a distinction of merit awarded to chapter members who have rendered exceptionally meritorious service to the Computer Science programme at KTH through educational advocacy. [Motivations](#motivering) for each recipient can be read further down on this page.
 
+Nominations for 2027 are open! Nominate here: https://dsekt.se/hedersugglan
+
 # Possesors of the Owl of Honor
 
 ## Recipients 2026
