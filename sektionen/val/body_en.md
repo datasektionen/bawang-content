@@ -1,6 +1,6 @@
 # Current elections
 
-Voting during ordinary elections is done via [the Chapter's election system](https://val.datasektionen.se). Ballot-box voting for Chapter Chairman, Vice Chairman, Treasurer, Vice Treasurer, and representatives in the Student Union Council is done via [durn.datasektionen.se](https://durn.datasektionen.se).
+Voting during ordinary elections is done via [the Chapter's election system](https://val.datasektionen.se). 
 
 If you have any questions, email [valberedare@datasektionen.se](mailto:valberedare@datasektionen.se).
 

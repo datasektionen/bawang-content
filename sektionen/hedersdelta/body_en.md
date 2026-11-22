@@ -1,5 +1,7 @@
 The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It is awarded to people who's engangement in the chapter has positively impacted many of its members. [Motivations](#motivering) for each recipient can be found lower down on the page. 
 
+Nominations for 2027 are open! Nominate here: https://dsekt.se/hedersdelta
+
 # Possessors of the Honorary Delta
 
 ## Recipients 2026
@@ -40,13 +42,13 @@ The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It i
     <a href="#davidpu">David Puustinen</a>, Tricesimus Septimus
   </dd>
   <dd>
-    <a href="#ebratman">Ebba Bråtman</a>, Tricesimus Sextus
+    <a href="#ebratman">Ebba Bråtman</a>, Tricesima Sexta
   </dd>
   <dd>
     <a href="#nvatn">Niklas Vatn</a>, Tricesimus Sextus
   </dd>
   <dd>
-    <a href="#amaberg">Amanda Berg</a>, Tricesimus Sextus
+    <a href="#amaberg">Amanda Berg</a>, Tricesima Sexta
   </dd>
 </dl>
 
@@ -70,13 +72,13 @@ The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It i
 <dl>
   <dt></dt>
   <dd>
-    <a href="#doufi"> Douglas Fischer </a>, Tricesimus Quintus
+    <a href="#doufi">Douglas Fischer</a>, Tricesimus Quintus
   </dd>
   <dd>
-    <a href="#axeel"> Axel Elmarsson </a>, Tricesimus Quintus
+    <a href="#axeel">Axel Elmarsson</a>, Tricesimus Quintus
   </dd>
   <dd>
-   <a href="#sarvi"> Sara Videfors </a>, Tricesima Quinta
+   <a href="#sarvi">Sara Videfors</a>, Tricesima Quinta
   </dd>
 </dl>
 
@@ -115,10 +117,10 @@ The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It i
 <dl>
   <dt></dt>
   <dd>
-    <a href="#jonadahl"> Jonas Dahl</a>, Untricesimus
+    <a href="#jonadahl">Jonas Dahl</a>, Untricesimus
   </dd>
   <dd>
-    <a href="#viklu"> Alexander Viklund</a>, Duotricesimus
+    <a href="#viklu">Alexander Viklund</a>, Duotricesimus
   </dd>
 </dl>
 
@@ -127,13 +129,13 @@ The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It i
 <dl>
   <dt></dt>
   <dd>
-    <a href="#jbrann"> Jesper Bränn</a>, Tricesimus
+    <a href="#jbrann">Jesper Bränn</a>, Tricesimus
   </dd>
   <dd>
-    <a href="#matdanie"> Mattias Danielsson</a>, Tricesimus
+    <a href="#matdanie">Mattias Danielsson</a>, Tricesimus
   </dd>
   <dd>
-    <a href="#shayane"> Shayan Effati</a>, Tricesimus
+    <a href="#shayane">Shayan Effati</a>, Tricesimus
   </dd>
 </dl>
 
@@ -142,7 +144,7 @@ The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It i
 <dl>
   <dt></dt>
   <dd>
-    <a href="#lrunhem"> Lovisa Runhem</a>, Tricesima
+    <a href="#lrunhem">Lovisa Runhem</a>, Tricesima
   </dd>
   <dd>
     <a href="#anlinn">Andreas Linn</a>, Tricesimus
@@ -154,10 +156,10 @@ The Honorary Delta (Hedersdeltat in Swedish) is the chapter's finest award. It i
 <dl>
   <dt></dt>
   <dd>
-    <a href="#jbratt"> Jesper Bratt</a>, Vicesimus Septus
+    <a href="#jbratt">Jesper Bratt</a>, Vicesimus Septus
   </dd>
   <dd>
-    <a href="#nikbac"> Niklas Bäckström</a>, Vicesimus Septus
+    <a href="#nikbac">Niklas Bäckström</a>, Vicesimus Septus
   </dd>
   <dd>
     <a href="#pbos">Peter Boström</a>, Vicesimus Sextus
@@ -579,7 +581,7 @@ Recipients and motivations lost, contact the D-directorate at [drek@datasektione
     <a href="#robertedin">Robert Edin</a>, Tertius
   </dd>
   <dd>
-    <a href="#anettegunnarsson">Anette Gunnarsson</a>, Tertius
+    <a href="#anettegunnarsson">Anette Gunnarsson</a>, Tertia
   </dd>
   <dd>
     <a href="#vainohassinen">Väinö Hassinen</a>, Quartus

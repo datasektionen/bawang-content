@@ -1,5 +1,7 @@
 The Great Delta is a distinction of merit that is awarded to chapter members who have achieved a great feat for the chapter. [Motivations](#motivering) for each recipient can be read further down on this page.
 
+Nominations for 2027 are open! Nominate here: https://dsekt.se/storadeltat
+
 # Possesors of the Great Delta
 
 ## Recipients 2026

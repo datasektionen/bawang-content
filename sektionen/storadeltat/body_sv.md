@@ -1,5 +1,7 @@
 Stora deltat är ett förtjänsttecken på Konglig Datasektionens som delas ut till de sektionsmedlemmar som ideellt begått en stor bragd för sektionen. [Motiveringar](#motivering) för varje mottagare finnas att läsa längre ner på sidan.
 
+Nomineringar för 2027 är öppna! Nominera här: https://dsekt.se/storadeltat
+
 # Innehavare av Stora deltat
 
 ## Mottagare 2026
