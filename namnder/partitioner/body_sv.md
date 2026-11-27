@@ -5,13 +5,13 @@ Om du vill starta en partition för att samla personer som delar just ditt intre
 
 Har du några frågor om partitioner? Då kan du gärna läsa sektionens [PM för partitioner](https://styrdokument.datasektionen.se/pm/pm_partitioner).
 
-## Närstridskommittén
+## Bakverket
 
-Närstridskommitténs anordnar turneringar och spelkvällar för att väcka och samla intresse för fightingspel.
+Bakverkets syfte är att främja och samla intresset för bakning inom sektionen.
 
-### Professorn
+### Bakis
 
-Malcolm Mångsén, [professorn@datasektionen.se](professorn@datasektionen.se)
+Edvard Messler, [bakis@datasektionen.se](bakis@datasektionen.se)
 
 ## Blodgruppen 
 
@@ -21,13 +21,13 @@ Blodgruppens mål är att öka medvetandet om blodgivning och motivera sektionen
 
 Vakant, [dracula@datasektionen.se](dracula@datasektionen.se)
 
-## Tech-i-taka
+## dRådet
 
-Tech-i-takas syfte är att samla intresse för fotboll och stärka sammanhållningen i sektionen genom att spöa andra sektioner.
+dRådets syfte är att skapa ett öppet och kontinuerligt forum där sektionsmedlemmar kan diskutera sektionsrelaterade frågor, framföra förbättringsförslag och utbyta idéer kring sektionens verksamhet.
 
-### Geten
+### dRådgivaren
 
-David Björklund, [geten@datasektionen.se](geten@datasektionen.se)
+Douglas Fischer, [dradgivare@datasektionen.se](dradgivare@datasektionen.se)
 
 ## METAcraft
 
@@ -37,21 +37,13 @@ METAcrafts syfte är att driva och underhålla sektionens Minecraftserver. Besö
 
 Daniel Hu, [herobrine@datasektionen.se](herobrine@datasektionen.se)
 
-## Bakverket
+## Närstridskommittén
 
-Bakverkets syfte är att främja och samla intresset för bakning inom sektionen.
+Närstridskommitténs anordnar turneringar och spelkvällar för att väcka och samla intresse för fightingspel.
 
-### Bakis
+### Professorn
 
-Edvard Messler, [bakis@datasektionen.se](bakis@datasektionen.se)
-
-## dRådet
-
-dRådets syfte är att skapa ett öppet och kontinuerligt forum där sektionsmedlemmar kan diskutera sektionsrelaterade frågor, framföra förbättringsförslag och utbyta idéer kring sektionens verksamhet.
-
-### dRådgivaren
-
-Douglas Fischer, [dradgivare@datasektionen.se](dradgivare@datasektionen.se)
+Malcolm Mångsén, [professorn@datasektionen.se](professorn@datasektionen.se)
 
 ## Game Theory
 
@@ -60,6 +52,14 @@ Game Theorys syfte är att samla intresse för spelutveckling samt uppmuntra spe
 ### Datas lata CEO (DLC)
 
 Simon Kåhre, [dlc@datasektionen.se](dlc@datasektionen.se)
+
+## Tech-i-taka
+
+Tech-i-takas syfte är att samla intresse för fotboll och stärka sammanhållningen i sektionen genom att spöa andra sektioner.
+
+### Geten
+
+David Björklund, [geten@datasektionen.se](geten@datasektionen.se)
 
 ## Inaktiva partitioner
 

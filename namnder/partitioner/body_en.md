@@ -5,13 +5,6 @@ If you want to start a partition to gather people who share one of your interest
 
 If you have any questions about partitions, you may refer to the [PM for Partitions](https://styrdokument.datasektionen.se/pm/pm_partitioner) (only available in Swedish for now) or contact the board via [drek@datasektionen.se](mailto:drek@datasektionen.se).
 
-## The Close Combat Committee
-The Close Combat Committee arranges tournaments and game nights aimed at students interested in fighting games.
-
-### The Professor
-
-Malcolm Mångsén, [professorn@datasektionen.se](mailto:professorn@datasektionen.se)
-
 ## The Blood Group
 
 The Blood Group aims to raise awareness about blood donation and motivate the chapter's members to donate blood.
@@ -19,29 +12,12 @@ The Blood Group aims to raise awareness about blood donation and motivate the ch
 ### dRacula
 Vacant, [dracula@datasektionen.se](dracula@datasektionen.se)
 
-## Tech-i-taka
+## The Close Combat Committee
+The Close Combat Committee arranges tournaments and game nights aimed at students interested in fighting games.
 
-Tech-i-taka aims to gather students interested in football in order to increase comradery within the chapter by kicking other chapters' asses (in football).
+### The Professor
 
-### The Goat
-
-David Björklund, [geten@datasektionen.se](geten@datasektionen.se)
-
-## METAcraft
-
-METAcraft runs and develops the chapter's Minecraft server. For more information, visit [metacraft.nu](https://metacraft.nu/).
-
-### Herobrine
-
-Daniel Hu, [herobrine@datasektionen.se](mailto:herobrine@datasektionen.se)
-
-## The Pastry
-
-The Pastry aims to promote interest in baking within the chapter.
-
-### Bakis
-
-Edvard Messler, [bakis@datasektionen.se](bakis@datasektionen.se)
+Malcolm Mångsén, [professorn@datasektionen.se](mailto:professorn@datasektionen.se)
 
 ## d'Council (dRådet)
 
@@ -58,6 +34,30 @@ The purpose of Game Theory is to form an interest for, and encourage game develo
 ### Data's Lazy CEO (DLC)
 
 Simon Kåhre, [dlc@datasektionen.se](dlc@datasektionen.se)
+
+## METAcraft
+
+METAcraft runs and develops the chapter's Minecraft server. For more information, visit [metacraft.nu](https://metacraft.nu/).
+
+### Herobrine
+
+Daniel Hu, [herobrine@datasektionen.se](mailto:herobrine@datasektionen.se)
+
+## The Pastry
+
+The Pastry aims to promote interest in baking within the chapter.
+
+### Baked
+
+Edvard Messler, [bakis@datasektionen.se](bakis@datasektionen.se)
+
+## Tech-i-taka
+
+Tech-i-taka aims to gather students interested in football in order to increase comradery within the chapter by kicking other chapters' asses (in football).
+
+### The Goat
+
+David Björklund, [geten@datasektionen.se](geten@datasektionen.se)
 
 ## Inactive partitions
 
