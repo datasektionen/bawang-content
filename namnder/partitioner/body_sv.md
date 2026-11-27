@@ -13,14 +13,6 @@ Närstridskommitténs anordnar turneringar och spelkvällar för att väcka och 
 
 Malcolm Mångsén, [professorn@datasektionen.se](professorn@datasektionen.se)
 
-## Schackklubben 
-
-Schackklubbens syfte är att samla intresse för schackspel samt att förbättra schackförmågan bland sektionens medlemmar.
-
-### Partiledare för Schackklubben
-
-Björn Friman, [schack@datasektionen.se](schack@datasektionen.se)
-
 ## Blodgruppen 
 
 Blodgruppens mål är att öka medvetandet om blodgivning och motivera sektionens medlemmar att ge blod.
@@ -74,5 +66,8 @@ Simon Kåhre, [dlc@datasektionen.se](dlc@datasektionen.se)
 En fullständig förteckning över inaktiva partitioner hittar du i [detta dokument](https://docs.google.com/document/d/1EXV1tr7Y06gjqwc6_LpFL9iX4gh-fRYOdrF1ID6Ivag/edit?usp=sharing). Några inaktiva partitioner listas nedan.
 
 * Scala: Leds av Körmästare, ämnar att kultivera studenters musikaliska talang genom att regelbundet anordna körrep.
+
+* Schackklubben: Ämnar att samla intresse för schackspel samt att förbättra schackförmågan bland sektionens medlemmar.
+
 
 Vill du återuppliva en inaktiv partition? Kontakta styrelsen!

@@ -12,14 +12,6 @@ The Close Combat Committee arranges tournaments and game nights aimed at student
 
 Malcolm Mångsén, [professorn@datasektionen.se](mailto:professorn@datasektionen.se)
 
-## The Chess Club
-
-The Chess Club aims to gather students interested in chess and arranges regular game nights where students can play chess.
-
-### Head of the Chess Club
-
-Björn Friman, [schack@datasektionen.se](mailto:schack@datasektionen.se)
-
 ## The Blood Group
 
 The Blood Group aims to raise awareness about blood donation and motivate the chapter's members to donate blood.
@@ -72,5 +64,7 @@ Simon Kåhre, [dlc@datasektionen.se](dlc@datasektionen.se)
 A complete list of inactive partitions may be found in [this document](https://docs.google.com/document/d/1EXV1tr7Y06gjqwc6_LpFL9iX4gh-fRYOdrF1ID6Ivag/edit?usp=sharing) (in Swedish). Some inactive partitions are listed below.
 
 * Scala: Headed by the Choir master, organises regular choir practice sessions where students may cultivate their musical talents.
+
+* The Chess Club: Gathers students interested in chess and arranges regular game nights where students can play chess.
 
 If you are interested in reviving an inactive partition, contact the board!
