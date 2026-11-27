@@ -5,46 +5,6 @@ Om du vill starta en partition för att samla personer som delar just ditt intre
 
 Har du några frågor om partitioner? Då kan du gärna läsa sektionens [PM för partitioner](https://styrdokument.datasektionen.se/pm/pm_partitioner).
 
-## Närstridskommittén
-
-Närstridskommitténs anordnar turneringar och spelkvällar för att väcka och samla intresse för fightingspel.
-
-### Professorn
-
-Malcolm Mångsén, [professorn@datasektionen.se](professorn@datasektionen.se)
-
-## Schackklubben 
-
-Schackklubbens syfte är att samla intresse för schackspel samt att förbättra schackförmågan bland sektionens medlemmar.
-
-### Partiledare för Schackklubben
-
-Björn Friman, [schack@datasektionen.se](schack@datasektionen.se)
-
-## Blodgruppen 
-
-Blodgruppens mål är att öka medvetandet om blodgivning och motivera sektionens medlemmar att ge blod.
-
-### dRacula
-
-Carl Blomqvist, [dracula@datasektionen.se](dracula@datasektionen.se)
-
-## Tech-i-taka
-
-Tech-i-takas syfte är att samla intresse för fotboll och stärka sammanhållningen i sektionen genom att spöa andra sektioner.
-
-### Geten
-
-Love Belin, [geten@datasektionen.se](geten@datasektionen.se)
-
-## METAcraft
-
-METAcrafts syfte är att driva och underhålla sektionens Minecraftserver. Besök dem på [metacraft.nu](https://metacraft.nu/).
-
-### Herobrine
-
-Daniel Hu, [herobrine@datasektionen.se](herobrine@datasektionen.se)
-
 ## Bakverket
 
 Bakverkets syfte är att främja och samla intresset för bakning inom sektionen.
@@ -52,6 +12,14 @@ Bakverkets syfte är att främja och samla intresset för bakning inom sektionen
 ### Bakis
 
 Edvard Messler, [bakis@datasektionen.se](bakis@datasektionen.se)
+
+## Blodgruppen 
+
+Blodgruppens mål är att öka medvetandet om blodgivning och motivera sektionens medlemmar att ge blod.
+
+### dRacula
+
+Vakant, [dracula@datasektionen.se](dracula@datasektionen.se)
 
 ## dRådet
 
@@ -61,6 +29,22 @@ dRådets syfte är att skapa ett öppet och kontinuerligt forum där sektionsmed
 
 Douglas Fischer, [dradgivare@datasektionen.se](dradgivare@datasektionen.se)
 
+## METAcraft
+
+METAcrafts syfte är att driva och underhålla sektionens Minecraftserver. Besök dem på [metacraft.nu](https://metacraft.nu/).
+
+### Herobrine
+
+Daniel Hu, [herobrine@datasektionen.se](herobrine@datasektionen.se)
+
+## Närstridskommittén
+
+Närstridskommitténs anordnar turneringar och spelkvällar för att väcka och samla intresse för fightingspel.
+
+### Professorn
+
+Malcolm Mångsén, [professorn@datasektionen.se](professorn@datasektionen.se)
+
 ## Game Theory
 
 Game Theorys syfte är att samla intresse för spelutveckling samt uppmuntra spelutveckling inom sektionen.
@@ -69,10 +53,21 @@ Game Theorys syfte är att samla intresse för spelutveckling samt uppmuntra spe
 
 Simon Kåhre, [dlc@datasektionen.se](dlc@datasektionen.se)
 
+## Tech-i-taka
+
+Tech-i-takas syfte är att samla intresse för fotboll och stärka sammanhållningen i sektionen genom att spöa andra sektioner.
+
+### Geten
+
+David Björklund, [geten@datasektionen.se](geten@datasektionen.se)
+
 ## Inaktiva partitioner
 
 En fullständig förteckning över inaktiva partitioner hittar du i [detta dokument](https://docs.google.com/document/d/1EXV1tr7Y06gjqwc6_LpFL9iX4gh-fRYOdrF1ID6Ivag/edit?usp=sharing). Några inaktiva partitioner listas nedan.
 
 * Scala: Leds av Körmästare, ämnar att kultivera studenters musikaliska talang genom att regelbundet anordna körrep.
+
+* Schackklubben: Ämnar att samla intresse för schackspel samt att förbättra schackförmågan bland sektionens medlemmar.
+
 
 Vill du återuppliva en inaktiv partition? Kontakta styrelsen!
