@@ -17,7 +17,7 @@ Malcolm Mångsén, [professorn@datasektionen.se](mailto:professorn@datasektionen
 The Blood Group aims to raise awareness about blood donation and motivate the chapter's members to donate blood.
 
 ### dRacula
-Carl Blomqvist, [dracula@datasektionen.se](dracula@datasektionen.se)
+Vacant, [dracula@datasektionen.se](dracula@datasektionen.se)
 
 ## Tech-i-taka
 
@@ -25,7 +25,7 @@ Tech-i-taka aims to gather students interested in football in order to increase 
 
 ### The Goat
 
-Love Belin, [geten@datasektionen.se](geten@datasektionen.se)
+David Björklund, [geten@datasektionen.se](geten@datasektionen.se)
 
 ## METAcraft
 

@@ -19,7 +19,7 @@ Blodgruppens mål är att öka medvetandet om blodgivning och motivera sektionen
 
 ### dRacula
 
-Carl Blomqvist, [dracula@datasektionen.se](dracula@datasektionen.se)
+Vakant, [dracula@datasektionen.se](dracula@datasektionen.se)
 
 ## Tech-i-taka
 
@@ -27,7 +27,7 @@ Tech-i-takas syfte är att samla intresse för fotboll och stärka sammanhållni
 
 ### Geten
 
-Love Belin, [geten@datasektionen.se](geten@datasektionen.se)
+David Björklund, [geten@datasektionen.se](geten@datasektionen.se)
 
 ## METAcraft
 
